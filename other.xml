@@ -1,0 +1,9 @@
+<application>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="SbtSettings">
+    <option name="jdkHome" value="" />
+    <option name="sbtLauncherVmParameters" value="-Xmx512M -XX:MaxPermSize=512M" />
+  </component>
+</application>
