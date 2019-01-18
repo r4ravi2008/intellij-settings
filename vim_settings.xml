@@ -93,6 +93,12 @@
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_scala/recfun/src/main/scala/recfun/test.sc" timestamp="1547804966604">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="12" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="14" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/DnsDriverTest.scala" timestamp="1539845319645">
         <mark key="[" line="132" column="45" />
         <mark key="]" line="132" column="70" />
@@ -768,7 +774,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>???</text>
+        <text>length</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -777,7 +783,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>???</text>
+        <text>length</text>
       </register>
       <register name="/" type="4">
         <text>getAll</text>
