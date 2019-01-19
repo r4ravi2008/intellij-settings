@@ -93,11 +93,12 @@
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_scala/recfun/src/main/scala/recfun/test.sc" timestamp="1547937464347">
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="22" />
+      <file name="$USER_HOME$/dev/repos/learning_scala/recfun/src/main/scala/recfun/test.sc" timestamp="1547939093700">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="15" column="57" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/DnsDriverTest.scala" timestamp="1539845319645">
         <mark key="[" line="132" column="45" />
@@ -630,6 +631,9 @@
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="26" />
       </file>
+      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/collection/mutable/ListBuffer.scala" timestamp="1547937506991">
+        <mark key="'" line="18" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/coordinator/conf/logback.xml" timestamp="1538458646952">
         <mark key="[" line="34" column="66" />
         <mark key="]" line="34" column="70" />
@@ -671,9 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="11" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.2.0/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/execution/datasources/DataSource.scala" />
-      <jump line="103" column="30" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.2.0/spark-sql_2.11-2.2.0-sources.jar!/org/apache/spark/sql/execution/datasources/DataSource.scala" />
-      <jump line="26" column="0" filename="$USER_HOME$/dev/repos/temp/cdl/coordinator/conf/dev.conf" />
       <jump line="213" column="66" filename="$USER_HOME$/dev/repos/temp/cdl/project/Dependencies.scala" />
       <jump line="48" column="36" filename="$USER_HOME$/dev/repos/temp/cdl/project/Dependencies.scala" />
       <jump line="257" column="0" filename="$USER_HOME$/dev/repos/temp/cdl/project/Dependencies.scala" />
@@ -771,10 +772,13 @@
       <jump line="189" column="53" filename="$USER_HOME$/dev/repos/cdl/manager-server/app/tasks/SolrRetentionEnforcer.scala" />
       <jump line="230" column="0" filename="$USER_HOME$/dev/repos/cdl/manager-server/app/tasks/SolrRetentionEnforcer.scala" />
       <jump line="2" column="33" filename="$USER_HOME$/dev/repos/learning_scala/recfun/src/main/scala/recfun/test.sc" />
+      <jump line="449" column="7" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/collection/mutable/ListBuffer.scala" />
+      <jump line="18" column="16" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/collection/mutable/ListBuffer.scala" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/repos/learning_scala/recfun/src/main/scala/recfun/test.sc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>;</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -783,52 +787,54 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>getAll</text>
+        <text>append</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IFBhcnRpdGlvblJlc29sdXRpb24=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgdmFyIHZhcmlhYmxlQw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="4" type="4">
+        <text>{
+
+  }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKSB7Cg==</text>
+        <text encoding="base64">ICAgIGkgPC0gMCAgdW50aWwgbWF4Um93TGVuZ3RoOwogICAgaiA8LSAwIHVudGlsIG1heENvbHVtbkxlbmd0aAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">aW5vcmVtYXAgamsgPGVzYz4=</text>
       </register>
     </registers>
     <search>
-      <last-search>getAll</last-search>
+      <last-search>append</last-search>
       <last-offset />
-      <last-pattern>getAll</last-pattern>
+      <last-pattern>append</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>api</last-substitute>
       <last-dir>1</last-dir>
@@ -836,7 +842,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fast</entry>
         <entry>storage</entry>
         <entry>format</entry>
         <entry>set</entry>
@@ -856,6 +861,7 @@
         <entry>gelAll</entry>
         <entry>getALl</entry>
         <entry>getAll</entry>
+        <entry>append</entry>
       </history-search>
       <history-cmd>
         <entry>!setrelativenumber</entry>
