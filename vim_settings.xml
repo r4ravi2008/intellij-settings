@@ -93,12 +93,12 @@
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_scala/recfun/src/main/scala/recfun/test.sc" timestamp="1547939093700">
+      <file name="$USER_HOME$/dev/repos/learning_scala/recfun/src/main/scala/recfun/test.sc" timestamp="1547940292007">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="30" />
-        <mark key="^" line="15" column="57" />
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="22" column="31" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/DnsDriverTest.scala" timestamp="1539845319645">
         <mark key="[" line="132" column="45" />
@@ -778,7 +778,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -787,7 +787,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>append</text>
@@ -796,27 +796,27 @@
         <text encoding="base64">IFBhcnRpdGlvblJlc29sdXRpb24=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CgphcnJh</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Ckxpc3QoMSwgMikgOjo6IExpc3QoMywgNCk=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgdmFyIHZhcmlhYmxlQw==</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
 
   }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGkgPC0gMCAgdW50aWwgbWF4Um93TGVuZ3RoOwogICAgaiA8LSAwIHVudGlsIG1heENvbHVtbkxlbmd0aAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGkgPC0gMCAgdW50aWwgbWF4Um93TGVuZ3RoOwogICAgaiA8LSAwIHVudGlsIG1heENvbHVtbkxlbmd0aAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -825,7 +825,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">aW5vcmVtYXAgamsgPGVzYz4=</text>
