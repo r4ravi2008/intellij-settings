@@ -46,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>88</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -593,6 +593,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile 'MannersSpec.scala'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Recompile 'MannersSpec.scala'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Recompile 'Rectangle.rs'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
@@ -926,7 +934,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'MannersSpec'</Description>
-          <Count>3</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'NetflowDataSourceTes...'">

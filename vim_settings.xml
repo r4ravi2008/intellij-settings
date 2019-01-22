@@ -167,11 +167,11 @@
         <mark key="^" line="149" column="71" />
         <mark key="." line="149" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/MannersSpec.scala" timestamp="1548117992867">
-        <mark key="[" line="19" column="64" />
-        <mark key="]" line="19" column="64" />
-        <mark key="." line="19" column="64" />
-        <mark key="^" line="19" column="66" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/MannersSpec.scala" timestamp="1548195629518">
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="20" column="44" />
+        <mark key="^" line="20" column="39" />
+        <mark key="." line="20" column="44" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/models/store/descriptor/FlowStoreDescriptor.scala" timestamp="1540337200498">
         <mark key="[" line="60" column="16" />
@@ -809,7 +809,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>size</text>
+        <text>9999</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -818,7 +818,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>9999</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBOYW1lXD4=</text>
@@ -826,64 +826,35 @@
       <register name="0" type="4">
         <text encoding="base64">IFBhcnRpdGlvblJlc29sdXRpb24=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAKCiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>it(&quot;appends a happy column to a DataFrame&quot;) {
-
-      val sourceDF = Seq(
-        (&quot;jose&quot;),
-        (&quot;li&quot;),
-        (&quot;luisa&quot;)
-      ).toDF(&quot;name&quot;)
-
-      val actualDF = sourceDF.transform(Manners.happyData())
-
-      val expectedData = List(
-        Row(&quot;jose&quot;, &quot;data is fun&quot;),
-        Row(&quot;li&quot;, &quot;data is fun&quot;),
-        Row(&quot;luisa&quot;, &quot;data is fun&quot;)
-      )
-
-      val expectedSchema = List(
-        StructField(&quot;name&quot;, StringType, true),
-        StructField(&quot;happy&quot;, StringType, false)
-      )
-
-      val expectedDF = spark.createDataFrame(
-        spark.sparkContext.parallelize(expectedData),
-        StructType(expectedSchema)
-      )
-
-      actualDF.show()
-
-      assertSmallDataFrameEquality(actualDF, expectedDF)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFsIGRmID0gdmFsdWVzLnRvREYoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>import org.apache.spark.sql.
-import sqlContext.implicits._</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIHNxbENvbnRleHQgPSBuZXcgb3JnLmFwYWNoZS5zcGFyay5zcWwuU1FMQ29udGV4dChzYykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CnZhbCB0YWlsID0gYXJyYXkudGFpbC50cmFuc3Bvc2UucmV2ZXJzZS5mbGF0dGVuCmFycmF5LnRhaWwudHJhbnNwb3NlLmZvcmVhY2goaSA9PiBpLmZvcmVhY2gocHJpbnQpKQpkZWYgc3BpcmFsT3JkZXIobWF0cml4OiBBcnJheVtBcnJheVtJbnRdXSk6IExpc3RbSW50XSA9IHsKICAgIAp9</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3BpcmFsT3JkZXIyKGFycmF5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IGRlZiBkZnMobXg6IEFycmF5W0FycmF5W0ludF1dKTogTGlzdFtJbnRdID0gbXggbWF0Y2ggewogICAgY2FzZSBteCBpZiBteC5pc0VtcHR5ID0+IExpc3QoKQogICAgY2FzZSBteCBpZiBteC5sZW5ndGggPT0gMSA9PiBteC5oZWFkLnRvTGlzdAogICAgY2FzZSBfID0+IHsKICAgICAgcHJpbnRsbgogICAgICBwcmludGxuKCJIZWFkIikKICAgICAgbXguaGVhZC50b0xpc3QuZm9yZWFjaHtwcmludH0KICAgICAgcHJpbnRsbgogICAgICBwcmludGxuKCJUcmFuc3Bvc2VkIHRhaWwiKQogICAgICBteC50YWlsLnRyYW5zcG9zZS5yZXZlcnNlLmZvcmVhY2h7aSA9PiBpLmZvcmVhY2gocHJpbnQpfQogICAgICBteC5oZWFkLnRvTGlzdCA6Ojogc3BpcmFsT3JkZXIyKG14LnRhaWwudHJhbnNwb3NlLnJldmVyc2UpCiAgICB9CiAgfQogIGRmcyhtYXRyaXgp</text>
+        <text encoding="base64">ICAgIHZhbCBFbXBsb3llZXNEYXRhID0gU2VxKCBFbXBsb3llZSgiQW50byIsICAgMjEsICJTb2Z0d2FyZSBFbmdpbmVlciIsIDIwMDAsIDU2Nzk4KSkKICAgIHZhbCBFbXBsb3llZV9EYXRhRnJhbWUgPSBFbXBsb3llZXNEYXRhLnRvREYKICAgIEVtcGxveWVlX0RhdGFGcmFtZS5zaG93KCk=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">aW5vcmVtYXAgamsgPGVzYz4=</text>
