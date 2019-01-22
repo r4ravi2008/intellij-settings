@@ -9,6 +9,12 @@
         <mark key="^" line="96" column="71" />
         <mark key="." line="96" column="71" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Manners.scala" timestamp="1548116717600">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="41" />
+        <mark key="^" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-server/app/tasks/StoresRetentionEnforcer.scala" timestamp="1540677829379">
         <mark key="[" line="38" column="56" />
         <mark key="]" line="38" column="55" />
@@ -87,6 +93,13 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/SparkSessionTestWrapper.scala" timestamp="1548118035778">
+        <mark key="'" line="7" column="43" />
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="41" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-sdk/src/main/scala/com/cloudwick/cdl/etl/sdk/pipeline/input/BatchInput.scala" timestamp="1539801683023">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="11" />
@@ -153,6 +166,12 @@
         <mark key="]" line="149" column="71" />
         <mark key="^" line="149" column="71" />
         <mark key="." line="149" column="71" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/MannersSpec.scala" timestamp="1548117992867">
+        <mark key="[" line="19" column="64" />
+        <mark key="]" line="19" column="64" />
+        <mark key="." line="19" column="64" />
+        <mark key="^" line="19" column="66" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/models/store/descriptor/FlowStoreDescriptor.scala" timestamp="1540337200498">
         <mark key="[" line="60" column="16" />
@@ -284,6 +303,12 @@
         <mark key="." line="274" column="66" />
         <mark key="^" line="274" column="66" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/test.sc" timestamp="1548117803594">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/test/scala/com/cloudwick/cdl/etl/plugins/transformation/DatasetGenerator.scala" timestamp="1541462143554">
         <mark key="[" line="23" column="23" />
         <mark key="]" line="23" column="24" />
@@ -333,6 +358,12 @@
         <mark key="]" line="23" column="33" />
         <mark key="^" line="23" column="33" />
         <mark key="." line="23" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/build.sbt" timestamp="1548117584015">
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-server/app/services/catalog/IndexService.scala" timestamp="1540935467465">
         <mark key="[" line="19" column="0" />
@@ -675,7 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="66" filename="$USER_HOME$/dev/repos/temp/cdl/project/Dependencies.scala" />
       <jump line="48" column="36" filename="$USER_HOME$/dev/repos/temp/cdl/project/Dependencies.scala" />
       <jump line="257" column="0" filename="$USER_HOME$/dev/repos/temp/cdl/project/Dependencies.scala" />
       <jump line="28" column="35" filename="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/input/parquet/ParquetBatchInput.scala" />
@@ -775,10 +805,11 @@
       <jump line="449" column="7" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/collection/mutable/ListBuffer.scala" />
       <jump line="18" column="16" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/collection/mutable/ListBuffer.scala" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/repos/learning_scala/recfun/src/main/scala/recfun/test.sc" />
+      <jump line="7" column="43" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/SparkSessionTestWrapper.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>flatten</text>
+        <text>size</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -787,54 +818,81 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>flatten</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
-        <text>append</text>
+        <text encoding="base64">XDxhcHBOYW1lXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IFBhcnRpdGlvblJlc29sdXRpb24=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CnZhbCB0YWlsID0gYXJyYXkudGFpbC50cmFuc3Bvc2UucmV2ZXJzZS5mbGF0dGVuCmFycmF5LnRhaWwudHJhbnNwb3NlLmZvcmVhY2goaSA9PiBpLmZvcmVhY2gocHJpbnQpKQpkZWYgc3BpcmFsT3JkZXIobWF0cml4OiBBcnJheVtBcnJheVtJbnRdXSk6IExpc3RbSW50XSA9IHsKICAgIAp9</text>
+        <text encoding="base64">CiAgICAKCiAgICB9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c3BpcmFsT3JkZXIyKGFycmF5KQo=</text>
+      <register name="2" type="4">
+        <text>it(&quot;appends a happy column to a DataFrame&quot;) {
+
+      val sourceDF = Seq(
+        (&quot;jose&quot;),
+        (&quot;li&quot;),
+        (&quot;luisa&quot;)
+      ).toDF(&quot;name&quot;)
+
+      val actualDF = sourceDF.transform(Manners.happyData())
+
+      val expectedData = List(
+        Row(&quot;jose&quot;, &quot;data is fun&quot;),
+        Row(&quot;li&quot;, &quot;data is fun&quot;),
+        Row(&quot;luisa&quot;, &quot;data is fun&quot;)
+      )
+
+      val expectedSchema = List(
+        StructField(&quot;name&quot;, StringType, true),
+        StructField(&quot;happy&quot;, StringType, false)
+      )
+
+      val expectedDF = spark.createDataFrame(
+        spark.sparkContext.parallelize(expectedData),
+        StructType(expectedSchema)
+      )
+
+      actualDF.show()
+
+      assertSmallDataFrameEquality(actualDF, expectedDF)</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGRlZiBkZnMobXg6IEFycmF5W0FycmF5W0ludF1dKTogTGlzdFtJbnRdID0gbXggbWF0Y2ggewogICAgY2FzZSBteCBpZiBteC5pc0VtcHR5ID0+IExpc3QoKQogICAgY2FzZSBteCBpZiBteC5sZW5ndGggPT0gMSA9PiBteC5oZWFkLnRvTGlzdAogICAgY2FzZSBfID0+IHsKICAgICAgcHJpbnRsbgogICAgICBwcmludGxuKCJIZWFkIikKICAgICAgbXguaGVhZC50b0xpc3QuZm9yZWFjaHtwcmludH0KICAgICAgcHJpbnRsbgogICAgICBwcmludGxuKCJUcmFuc3Bvc2VkIHRhaWwiKQogICAgICBteC50YWlsLnRyYW5zcG9zZS5yZXZlcnNlLmZvcmVhY2h7aSA9PiBpLmZvcmVhY2gocHJpbnQpfQogICAgICBteC5oZWFkLnRvTGlzdCA6Ojogc3BpcmFsT3JkZXIyKG14LnRhaWwudHJhbnNwb3NlLnJldmVyc2UpCiAgICB9CiAgfQogIGRmcyhtYXRyaXgp</text>
+      <register name="3" type="2">
+        <text encoding="base64">dmFsIGRmID0gdmFsdWVzLnRvREYoKQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CgphcnJh</text>
+        <text>import org.apache.spark.sql.
+import sqlContext.implicits._</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ckxpc3QoMSwgMikgOjo6IExpc3QoMywgNCk=</text>
+      <register name="5" type="2">
+        <text encoding="base64">dmFsIHNxbENvbnRleHQgPSBuZXcgb3JnLmFwYWNoZS5zcGFyay5zcWwuU1FMQ29udGV4dChzYykK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgdmFyIHZhcmlhYmxlQw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">CnZhbCB0YWlsID0gYXJyYXkudGFpbC50cmFuc3Bvc2UucmV2ZXJzZS5mbGF0dGVuCmFycmF5LnRhaWwudHJhbnNwb3NlLmZvcmVhY2goaSA9PiBpLmZvcmVhY2gocHJpbnQpKQpkZWYgc3BpcmFsT3JkZXIobWF0cml4OiBBcnJheVtBcnJheVtJbnRdXSk6IExpc3RbSW50XSA9IHsKICAgIAp9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">c3BpcmFsT3JkZXIyKGFycmF5KQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>{
-
-  }</text>
+        <text encoding="base64">IGRlZiBkZnMobXg6IEFycmF5W0FycmF5W0ludF1dKTogTGlzdFtJbnRdID0gbXggbWF0Y2ggewogICAgY2FzZSBteCBpZiBteC5pc0VtcHR5ID0+IExpc3QoKQogICAgY2FzZSBteCBpZiBteC5sZW5ndGggPT0gMSA9PiBteC5oZWFkLnRvTGlzdAogICAgY2FzZSBfID0+IHsKICAgICAgcHJpbnRsbgogICAgICBwcmludGxuKCJIZWFkIikKICAgICAgbXguaGVhZC50b0xpc3QuZm9yZWFjaHtwcmludH0KICAgICAgcHJpbnRsbgogICAgICBwcmludGxuKCJUcmFuc3Bvc2VkIHRhaWwiKQogICAgICBteC50YWlsLnRyYW5zcG9zZS5yZXZlcnNlLmZvcmVhY2h7aSA9PiBpLmZvcmVhY2gocHJpbnQpfQogICAgICBteC5oZWFkLnRvTGlzdCA6Ojogc3BpcmFsT3JkZXIyKG14LnRhaWwudHJhbnNwb3NlLnJldmVyc2UpCiAgICB9CiAgfQogIGRmcyhtYXRyaXgp</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">aW5vcmVtYXAgamsgPGVzYz4=</text>
       </register>
     </registers>
     <search>
-      <last-search>append</last-search>
+      <last-search encoding="base64">XDxhcHBOYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern>append</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBOYW1lXD4=</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>api</last-substitute>
       <last-dir>1</last-dir>
@@ -842,7 +900,6 @@
     </search>
     <history>
       <history-search>
-        <entry>storage</entry>
         <entry>format</entry>
         <entry>set</entry>
         <entry>update</entry>
@@ -862,6 +919,7 @@
         <entry>getALl</entry>
         <entry>getAll</entry>
         <entry>append</entry>
+        <entry encoding="base64">XDxhcHBOYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>!setrelativenumber</entry>
