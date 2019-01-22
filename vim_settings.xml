@@ -62,6 +62,12 @@
         <mark key="." line="52" column="24" />
         <mark key="^" line="52" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/ArrayTest.sc" timestamp="1548197631800">
+        <mark key="[" line="4" column="65" />
+        <mark key="]" line="4" column="61" />
+        <mark key="^" line="4" column="61" />
+        <mark key="." line="4" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/input/fileSystem/PackedBatchInput.scala" timestamp="1539736523613">
         <mark key="[" line="31" column="71" />
         <mark key="]" line="31" column="72" />
@@ -437,6 +443,12 @@
         <mark key="^" line="23" column="89" />
         <mark key="." line="23" column="89" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/RDDTest.scala" timestamp="1548196899236">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/BricataDriverTest.scala" timestamp="1539845248957">
         <mark key="[" line="208" column="45" />
         <mark key="]" line="208" column="45" />
@@ -809,7 +821,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9999</text>
+        <text>)</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -818,7 +830,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>9999</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBOYW1lXD4=</text>
@@ -827,22 +839,22 @@
         <text encoding="base64">IFBhcnRpdGlvblJlc29sdXRpb24=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRlMiA9IG5ldyBzcWwuRGF0ZSgxMTcsIDAsIDEwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRlMSA9IG5ldyBqYXZhLnNxbC5EYXRlKDExNywgMCwgOSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBmb3JtYXQgPSBuZXcgamF2YS50ZXh0LlNpbXBsZURhdGVGb3JtYXQoInl5eXktZGQtbW0iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBFbXBsb3llZShOYW1lOlN0cmluZywgQWdlOkludCwgRGVzaWduYXRpb246U3RyaW5nLCBTYWxhcnk6SW50LCBaaXBDb2RlOkludCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBJbmNyZW1lbnRhbFRhYmxlKHByb2R1Y3ROYW1lOiBTdHJpbmcsIHByaWNlOiBJbnQsIHN0YXJ0RGF0ZTogc3FsLkRhdGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBCYXNlVGFibGUocHJvZHVjdE5hbWU6IFN0cmluZywgcHJpY2U6IEludCwgc3RhcnREYXRlOiBzcWwuRGF0ZSwgZW5kRGF0ZTogc3FsLkRhdGUpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -853,8 +865,8 @@
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHZhbCBFbXBsb3llZXNEYXRhID0gU2VxKCBFbXBsb3llZSgiQW50byIsICAgMjEsICJTb2Z0d2FyZSBFbmdpbmVlciIsIDIwMDAsIDU2Nzk4KSkKICAgIHZhbCBFbXBsb3llZV9EYXRhRnJhbWUgPSBFbXBsb3llZXNEYXRhLnRvREYKICAgIEVtcGxveWVlX0RhdGFGcmFtZS5zaG93KCk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">aW5vcmVtYXAgamsgPGVzYz4=</text>
