@@ -368,6 +368,12 @@
         <mark key="^" line="23" column="33" />
         <mark key="." line="23" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/GroupTest.scala" timestamp="1549016113919">
+        <mark key="[" line="11" column="57" />
+        <mark key="]" line="11" column="57" />
+        <mark key="^" line="11" column="57" />
+        <mark key="." line="11" column="57" />
+      </file>
       <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/build.sbt" timestamp="1548117584015">
         <mark key="[" line="17" column="59" />
         <mark key="]" line="17" column="22" />
@@ -446,10 +452,11 @@
         <mark key="^" line="23" column="89" />
         <mark key="." line="23" column="89" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/RDDTest.scala" timestamp="1549014911778">
-        <mark key="[" line="36" column="12" />
-        <mark key="]" line="36" column="12" />
-        <mark key="." line="36" column="12" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/RDDTest.scala" timestamp="1549015942796">
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="24" column="38" />
+        <mark key="." line="24" column="38" />
+        <mark key="^" line="37" column="27" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/BricataDriverTest.scala" timestamp="1539845248957">
         <mark key="[" line="208" column="45" />
@@ -715,7 +722,7 @@
         <mark key="." line="121" column="71" />
         <mark key="^" line="121" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1542620808023">
+      <file name="/fragment.java" timestamp="1549016134250">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -823,7 +830,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>groupRDD</text>
+        <text>MaxValue</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -832,7 +839,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>groupRDD</text>
+        <text>MaxValue</text>
       </register>
       <register name="/" type="4">
         <text>def</text>
@@ -871,7 +878,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">aW5vcmVtYXAgamsgPGVzYz4=</text>
+        <text>set nornu</text>
       </register>
     </registers>
     <search>
@@ -907,8 +914,6 @@
         <entry>def</entry>
       </history-search>
       <history-cmd>
-        <entry>!setrelativenumber</entry>
-        <entry>set !relative</entry>
         <entry>w</entry>
         <entry>set relative</entry>
         <entry>set number</entry>
@@ -917,7 +922,6 @@
         <entry>set relativenumber</entry>
         <entry>set nu</entry>
         <entry>set ru</entry>
-        <entry>set nornu</entry>
         <entry>set rnu</entry>
         <entry>help map</entry>
         <entry>au</entry>
@@ -927,6 +931,9 @@
         <entry>NERDTreeToggle</entry>
         <entry encoding="base64">bm5vcmVtYXAgamsgPGVzYz4=</entry>
         <entry encoding="base64">aW5vcmVtYXAgamsgPGVzYz4=</entry>
+        <entry>nornu</entry>
+        <entry>nonu</entry>
+        <entry>set nornu</entry>
       </history-cmd>
       <history-expr />
       <history-input />
