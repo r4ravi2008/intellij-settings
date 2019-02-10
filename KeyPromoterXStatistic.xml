@@ -777,6 +777,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DAGTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'DAGTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'DatasetGenerator'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1094,7 +1102,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'RDDTest'</Description>
-          <Count>10</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run learningrust'">
@@ -1553,6 +1561,14 @@
           <Count>103</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RDDTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'RDDTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ScalaConsumerExample'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1670,7 +1686,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>526</Count>
+          <Count>530</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
