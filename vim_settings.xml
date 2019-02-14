@@ -214,11 +214,10 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/DAGTest.scala" timestamp="1550139502145">
-        <mark key="[" line="39" column="110" />
-        <mark key="]" line="17" column="99" />
-        <mark key="." line="17" column="99" />
-        <mark key="^" line="17" column="99" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/DAGTest.scala" timestamp="1550152240896">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/java/com/cloudwick/cdl/etl/plugins/lib/packet/PcapReader.java" timestamp="1549652876114">
         <mark key="'" line="64" column="41" />
@@ -719,7 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="6" filename="$USER_HOME$/dev/repos/cdl/coordinator/src/main/scala/com/cloudwick/cdl/coordinator/CoordinatorSessionImpl.scala" />
       <jump line="2" column="113" filename="$USER_HOME$/dev/repos/cdl/conf/ManagerAliases.sh" />
       <jump line="6" column="178" filename="$USER_HOME$/dev/repos/cdl/etl-plugins/src/test/resources/raw_flow_store/raw_flows.json" />
       <jump line="145" column="1" filename="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/raw_flows_policy.json" />
@@ -819,6 +817,7 @@
       <jump line="2" column="2" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/RDDTest.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/RDDTest.scala" />
       <jump line="22" column="72" filename="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/input/fileSystem/PackedBatchInput.scala" />
+      <jump line="18" column="24" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/DAGTest.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -831,10 +830,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IHNob3VsZA==</text>
       </register>
       <register name="/" type="4">
-        <text>p</text>
+        <text>parall</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IFBhcnRpdGlvblJlc29sdXRpb24=</text>
@@ -842,22 +841,17 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>case class Customer(customerId: Long, name: String, address: String )
-case class Transaction(amount: Double, zipCode: Long, customerId: Long, productName: String)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci8vICAgIGpvaW5ERi5zaG93KGZhbHNlKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgovLyAgICBwcmludGxuKCJQcmludGluZyBERjEiKQovYQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBzcGFyay5zdG9wKCkK</text>
       </register>
-      <register name="5" type="4">
-        <text>lse)
-    println(&quot;Printing DF2&quot;)
-    groupedDF2.show(false)
-    System.in.read()
-    spark.stop()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBTeXN0ZW0uaW4ucmVhZCgpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -865,31 +859,30 @@ case class Transaction(amount: Double, zipCode: Long, customerId: Long, productN
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ci8vICAgIGpvaW5lZC5mb3JlYWNoKHByaW50bG4p</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBwcmludGxuKCJQcmludGluZyBncm91cGVkIFJERCIp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
       </register>
     </registers>
     <search>
-      <last-search>p</last-search>
+      <last-search>parall</last-search>
       <last-offset />
-      <last-pattern>p</last-pattern>
+      <last-pattern>parall</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>api</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>drawTable</entry>
         <entry>getStore</entry>
         <entry>listPartitions</entry>
         <entry>Index</entry>
@@ -909,6 +902,7 @@ case class Transaction(amount: Double, zipCode: Long, customerId: Long, productN
         <entry>extends</entry>
         <entry>with</entry>
         <entry>p</entry>
+        <entry>parall</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
