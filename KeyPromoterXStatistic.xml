@@ -486,7 +486,7 @@
           <IdeaActionID>EditorIncreaseFontSize</IdeaActionID>
           <ShortCut>'⌘Wheel up'</ShortCut>
           <Description>Increase Font Size</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
