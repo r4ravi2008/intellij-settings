@@ -814,7 +814,16 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'DAGTest.Sample Test ...'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DAGTest.Sample Test Join and Group BY&#10;Sample Test mapside Join and group by'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'DAGTest.Sample Test Join and Group BY
+Sample Test mapside Join and group by'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DataFrameTest'">
@@ -1455,7 +1464,7 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DAGTest.Sample Test Join and Group BY
 Sample Test mapside Join and group by'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DAGTest.Sample Test mapside Join and group by'">
@@ -1463,7 +1472,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DAGTest.Sample Test mapside Join and group by'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DataFrameTest'">
