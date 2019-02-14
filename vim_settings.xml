@@ -214,7 +214,7 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/DAGTest.scala" timestamp="1549790316795">
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/DAGTest.scala" timestamp="1550139502145">
         <mark key="[" line="39" column="110" />
         <mark key="]" line="17" column="99" />
         <mark key="." line="17" column="99" />
@@ -678,11 +678,11 @@
         <mark key="." line="34" column="70" />
         <mark key="^" line="34" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/DataFrameTest.scala" timestamp="1549854944421">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/DataFrameTest.scala" timestamp="1550139021864">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
         <mark key="^" line="8" column="14" />
-        <mark key="." line="34" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/models/store/descriptor/AbstractStoreDescriptor.scala" timestamp="1539282765114">
         <mark key="[" line="16" column="4" />
@@ -821,8 +821,8 @@
       <jump line="22" column="72" filename="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/input/fileSystem/PackedBatchInput.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -839,40 +839,40 @@
       <register name="0" type="4">
         <text encoding="base64">IFBhcnRpdGlvblJlc29sdXRpb24=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>case class Customer(customerId: Long, name: String, address: String )
 case class Transaction(amount: Double, zipCode: Long, customerId: Long, productName: String)</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">Ci8vICAgIGpvaW5ERi5zaG93KGZhbHNlKQ==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CgovLyAgICBwcmludGxuKCJQcmludGluZyBERjEiKQovYQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>lse)
     println(&quot;Printing DF2&quot;)
     groupedDF2.show(false)
     System.in.read()
     spark.stop()</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ci8vICAgIGpvaW5lZC5mb3JlYWNoKHByaW50bG4p</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICBwcmludGxuKCJQcmludGluZyBncm91cGVkIFJERCIp</text>
+        <text encoding="base64">Ci8vICAgIGpvaW5lZC5mb3JlYWNoKHByaW50bG4p</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICBncm91cGVkUkRELm1hcCh2YWx1ZSA9PiAodmFsdWUuXzEsIHZhbHVlLl8yLm1hcCgpKSk=</text>
+        <text encoding="base64">CiAgICBwcmludGxuKCJQcmludGluZyBncm91cGVkIFJERCIp</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
