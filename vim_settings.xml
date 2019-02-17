@@ -71,6 +71,9 @@
         <mark key="^" line="32" column="72" />
         <mark key="." line="32" column="72" />
       </file>
+      <file name="/Dummy.scala" timestamp="1550400905259">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/util/DateUtils.scala" timestamp="1541437809143">
         <mark key="'" line="73" column="7" />
         <mark key="[" line="73" column="7" />
@@ -608,6 +611,12 @@
         <mark key="^" line="8" column="37" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-core/src/main/scala/com/cloudwick/cdl/etl/core/utils/ReflectionUtils.scala" timestamp="1550165014099" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/UniqueCharacters.sc" timestamp="1550401074466">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="34" />
+        <mark key="^" line="20" column="34" />
+        <mark key="." line="20" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/test/scala/com/cloudwick/cdl/etl/plugins/transformation/logcollect/ByteStringToStringParserTest.scala" timestamp="1540493542668">
         <mark key="[" line="41" column="145" />
         <mark key="]" line="26" column="52" />
@@ -723,7 +732,7 @@
         <mark key="." line="121" column="71" />
         <mark key="^" line="121" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1549016134250">
+      <file name="/fragment.java" timestamp="1550401013879">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -831,7 +840,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHMKICAgICAgICAgICAgICkgewoKICAgICAgICB9</text>
+        <text encoding="base64">KGNoZWNrZXIgJiAoMSA8PCB2YWx1ZSk=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -840,7 +849,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text encoding="base64">KGNoZWNrZXIgJiAoMSA8PCB2YWx1ZSk=</text>
       </register>
       <register name="/" type="4">
         <text>parall</text>
@@ -849,34 +858,34 @@
         <text encoding="base64">IFBhcnRpdGlvblJlc29sdXRpb24=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHMKICAgICAgICAgICAgICkgewoKICAgICAgICB9</text>
+        <text encoding="base64">CnZhciBjaGVja2VyID0gMAp2YXIgdmFsdWUgPSAnYycgLSAnYScKY2hlY2tlciAmICgxIDw8IHZhbHVlKQpjaGVja2VyIHw9IDEgPDwgdmFsdWUKdmFsdWUgPSAnYycgLSAnYScKY2hlY2tlciAmICgxIDw8IHZhbHVlKQpjaGVja2VyIHw9IDEgPDwgdmFsdWU=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IHMKICAgICAgICAgICAgICkgewoKICAgICAgICB9</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CmltcG9ydCBzY2FsYS5DaGFyOwppbXBvcnQgc2NhbGEuSW50Ow==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzcGFyay5zdG9wKCkK</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBTeXN0ZW0uaW4ucmVhZCgpCg==</text>
+        <text encoding="base64">ICBzcGFyay5zdG9wKCkK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTeXN0ZW0uaW4ucmVhZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>

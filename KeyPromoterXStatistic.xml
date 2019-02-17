@@ -430,7 +430,7 @@
           <IdeaActionID>Scala.RunWorksheet</IdeaActionID>
           <ShortCut>'⌥⌘W'</ShortCut>
           <Description>Evaluate worksheet (⌥⌘W)</Description>
-          <Count>28</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Statement">
@@ -1303,7 +1303,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'UniqueCharacters'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'UniqueCharacters.main()'">
@@ -1763,6 +1763,14 @@ Sample Test mapside Join and group by'</Description>
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'UniqueCharacters'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'UniqueCharacters'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop...">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1800,7 +1808,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>530</Count>
+          <Count>531</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
