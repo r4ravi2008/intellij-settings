@@ -1298,6 +1298,22 @@ Sample Test mapside Join and group by'</Description>
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'UniqueCharacters'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'UniqueCharacters'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'UniqueCharacters.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'UniqueCharacters.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'VflowToNetflowStoreConvertor'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1472,7 +1488,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DAGTest.Sample Test mapside Join and group by'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DataFrameTest'">

@@ -84,6 +84,12 @@
         <mark key="^" line="53" column="56" />
         <mark key="." line="53" column="56" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/UniqueCharacters.java" timestamp="1550392126021">
+        <mark key="[" line="22" column="43" />
+        <mark key="]" line="22" column="39" />
+        <mark key="." line="22" column="39" />
+        <mark key="^" line="22" column="39" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/kafka_store.json" timestamp="1539980145218">
         <mark key="[" line="148" column="26" />
         <mark key="]" line="153" column="9" />
@@ -824,8 +830,8 @@
       <jump line="18" column="24" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/DAGTest.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHMKICAgICAgICAgICAgICkgewoKICAgICAgICB9</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -834,7 +840,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNob3VsZA==</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>parall</text>
@@ -842,29 +848,29 @@
       <register name="0" type="4">
         <text encoding="base64">IFBhcnRpdGlvblJlc29sdXRpb24=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHMKICAgICAgICAgICAgICkgewoKICAgICAgICB9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmltcG9ydCBzY2FsYS5DaGFyOwppbXBvcnQgc2NhbGEuSW50Ow==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzcGFyay5zdG9wKCkK</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTeXN0ZW0uaW4ucmVhZCgpCg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzcGFyay5zdG9wKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBTeXN0ZW0uaW4ucmVhZCgpCg==</text>
       </register>
       <register name="x" type="4">
         <text />
