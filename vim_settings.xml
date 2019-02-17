@@ -244,6 +244,12 @@
         <mark key="." line="11" column="70" />
         <mark key="^" line="11" column="70" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/CheckPermutation.sc" timestamp="1550408342332">
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+      </file>
       <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/lihaoyi/fastparse_2.11/2.0.4/fastparse_2.11-2.0.4-sources.jar!/fastparse/package.scala" timestamp="1540240790002">
         <mark key="[" line="332" column="8" />
         <mark key="]" line="332" column="7" />
