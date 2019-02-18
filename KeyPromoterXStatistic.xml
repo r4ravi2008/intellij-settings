@@ -1071,7 +1071,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'PalindromePermutation'</Description>
-          <Count>4</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ParquetOutputTest'">
