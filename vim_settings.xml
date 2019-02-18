@@ -250,6 +250,13 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="20" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/PalindromePermutation.scala" timestamp="1550495394392">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+      </file>
       <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/lihaoyi/fastparse_2.11/2.0.4/fastparse_2.11-2.0.4-sources.jar!/fastparse/package.scala" timestamp="1540240790002">
         <mark key="[" line="332" column="8" />
         <mark key="]" line="332" column="7" />
@@ -708,8 +715,10 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/URLify.sc" timestamp="1550418211320">
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/URLify.sc" timestamp="1550495251843">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/models/store/descriptor/AbstractStoreDescriptor.scala" timestamp="1539282765114">
         <mark key="[" line="16" column="4" />
@@ -746,7 +755,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="113" filename="$USER_HOME$/dev/repos/cdl/conf/ManagerAliases.sh" />
       <jump line="6" column="178" filename="$USER_HOME$/dev/repos/cdl/etl-plugins/src/test/resources/raw_flow_store/raw_flows.json" />
       <jump line="145" column="1" filename="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/raw_flows_policy.json" />
       <jump line="54" column="7" filename="$USER_HOME$/dev/repos/cdl/project/Dependencies.scala" />
@@ -846,10 +854,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/RDDTest.scala" />
       <jump line="22" column="72" filename="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/input/fileSystem/PackedBatchInput.scala" />
       <jump line="18" column="24" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/DAGTest.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/PalindromePermutation.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgY2hhcmFjdGVyQXJyYXkuZm9yZWFjaChwcmludGxuKQ==</text>
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -858,37 +867,37 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KGNoZWNrZXIgJiAoMSA8PCB2YWx1ZSk=</text>
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="/" type="4">
-        <text>parall</text>
+        <text>class</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IFBhcnRpdGlvblJlc29sdXRpb24=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgY2hhcmFjdGVyQXJyYXkuZm9yZWFjaChwcmludGxuKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20ucmF2aS5pbnRlcnZpZXcKCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CmRlZiBpc1Blcm11dGF0aW9uMihzMTogU3RyaW5nLCBzMjogU3RyaW5nKTogQm9vbGVhbiA9IHs=</text>
+        <text encoding="base64">CiAgY2hhcmFjdGVyQXJyYXkuZm9yZWFjaChwcmludGxuKQ==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CnZhciBjaGVja2VyID0gMAp2YXIgdmFsdWUgPSAnYycgLSAnYScKY2hlY2tlciAmICgxIDw8IHZhbHVlKQpjaGVja2VyIHw9IDEgPDwgdmFsdWUKdmFsdWUgPSAnYycgLSAnYScKY2hlY2tlciAmICgxIDw8IHZhbHVlKQpjaGVja2VyIHw9IDEgPDwgdmFsdWU=</text>
+        <text encoding="base64">CmRlZiBpc1Blcm11dGF0aW9uMihzMTogU3RyaW5nLCBzMjogU3RyaW5nKTogQm9vbGVhbiA9IHs=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IHMKICAgICAgICAgICAgICkgewoKICAgICAgICB9</text>
+        <text encoding="base64">CnZhciBjaGVja2VyID0gMAp2YXIgdmFsdWUgPSAnYycgLSAnYScKY2hlY2tlciAmICgxIDw8IHZhbHVlKQpjaGVja2VyIHw9IDEgPDwgdmFsdWUKdmFsdWUgPSAnYycgLSAnYScKY2hlY2tlciAmICgxIDw8IHZhbHVlKQpjaGVja2VyIHw9IDEgPDwgdmFsdWU=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IHMKICAgICAgICAgICAgICkgewoKICAgICAgICB9</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">CmltcG9ydCBzY2FsYS5DaGFyOwppbXBvcnQgc2NhbGEuSW50Ow==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
@@ -901,9 +910,9 @@
       </register>
     </registers>
     <search>
-      <last-search>parall</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>parall</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>api</last-substitute>
       <last-dir>1</last-dir>
@@ -911,8 +920,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getStore</entry>
-        <entry>listPartitions</entry>
         <entry>Index</entry>
         <entry>solrj</entry>
         <entry>time</entry>
@@ -931,6 +938,8 @@
         <entry>with</entry>
         <entry>p</entry>
         <entry>parall</entry>
+        <entry>class\</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
