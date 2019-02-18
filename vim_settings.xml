@@ -250,12 +250,12 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/PalindromePermutation.scala" timestamp="1550495394392">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="7" column="38" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/PalindromePermutation.scala" timestamp="1550496466387">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+        <mark key="^" line="14" column="42" />
       </file>
       <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/lihaoyi/fastparse_2.11/2.0.4/fastparse_2.11-2.0.4-sources.jar!/fastparse/package.scala" timestamp="1540240790002">
         <mark key="[" line="332" column="8" />
@@ -755,7 +755,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="178" filename="$USER_HOME$/dev/repos/cdl/etl-plugins/src/test/resources/raw_flow_store/raw_flows.json" />
       <jump line="145" column="1" filename="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/raw_flows_policy.json" />
       <jump line="54" column="7" filename="$USER_HOME$/dev/repos/cdl/project/Dependencies.scala" />
       <jump line="133" column="51" filename="$USER_HOME$/dev/repos/cdl/project/Dependencies.scala" />
@@ -855,10 +854,11 @@
       <jump line="22" column="72" filename="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/input/fileSystem/PackedBatchInput.scala" />
       <jump line="18" column="24" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/DAGTest.scala" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/PalindromePermutation.scala" />
+      <jump line="7" column="13" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/PalindromePermutation.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text>val charCountList =</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -867,7 +867,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text>val charCountList =</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -875,29 +875,29 @@
       <register name="0" type="4">
         <text encoding="base64">IFBhcnRpdGlvblJlc29sdXRpb24=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAvLyB0aGVuIGFsbCBjaGFycyBleGNlcHQgb25lIGNoYXIgc2hvdWxkIGJlIDIKICAgIH0=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjYXNlIGNsYXNzIAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">cGFja2FnZSBjb20ucmF2aS5pbnRlcnZpZXcKCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgY2hhcmFjdGVyQXJyYXkuZm9yZWFjaChwcmludGxuKQ==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CmRlZiBpc1Blcm11dGF0aW9uMihzMTogU3RyaW5nLCBzMjogU3RyaW5nKTogQm9vbGVhbiA9IHs=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CnZhciBjaGVja2VyID0gMAp2YXIgdmFsdWUgPSAnYycgLSAnYScKY2hlY2tlciAmICgxIDw8IHZhbHVlKQpjaGVja2VyIHw9IDEgPDwgdmFsdWUKdmFsdWUgPSAnYycgLSAnYScKY2hlY2tlciAmICgxIDw8IHZhbHVlKQpjaGVja2VyIHw9IDEgPDwgdmFsdWU=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHMKICAgICAgICAgICAgICkgewoKICAgICAgICB9</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CmltcG9ydCBzY2FsYS5DaGFyOwppbXBvcnQgc2NhbGEuSW50Ow==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmluLnJlYWQoKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
