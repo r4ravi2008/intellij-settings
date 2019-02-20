@@ -265,6 +265,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'LinkedList'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'LinkedList'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'NetflowDataSourceTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -641,6 +649,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'LinkedList'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'LinkedList'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SuspiciousConnects'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -976,6 +992,14 @@ Sample Test mapside Join and group by'</Description>
           <ShortCut>'⇧F10' or '⌥⌘R'</ShortCut>
           <Description>Run 'KafkaStreamingSparkExample'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'LinkedList'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'LinkedList'</Description>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ListsSuite'">
@@ -1375,7 +1399,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>97</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AlertHbaseDriverTest'">
@@ -1611,6 +1635,14 @@ Sample Test mapside Join and group by'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'LinkedList'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'LinkedList'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'NetflowDataSourceTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1816,7 +1848,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>531</Count>
+          <Count>540</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
