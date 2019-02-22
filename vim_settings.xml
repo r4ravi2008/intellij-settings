@@ -230,6 +230,11 @@
         <mark key="^" line="223" column="70" />
         <mark key="." line="223" column="70" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/Solution.java" timestamp="1550852311006">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/CorrelationDriverTest.scala" timestamp="1539845291844">
         <mark key="[" line="98" column="45" />
         <mark key="]" line="98" column="70" />
@@ -246,9 +251,6 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/java/com/cloudwick/cdl/etl/plugins/lib/packet/PcapReader.java" timestamp="1549652876114">
-        <mark key="'" line="64" column="41" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-server/app/services/catalog/StorageService.scala" timestamp="1541543192950">
         <mark key="[" line="24" column="75" />
@@ -875,8 +877,8 @@
       <jump line="2" column="22" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/LinkedList.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>List</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -885,7 +887,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>Hash</text>
@@ -894,34 +896,34 @@
         <text encoding="base64">IFBhcnRpdGlvblJlc29sdXRpb24=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgeCA6IExpc3RbSW50XSA9IGhNYXAoaykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBBcnJheSgwLDEsMiwzKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZQoKdmFsIGhhc2hNYXAgPSBtdXRhYmxlLkhhc2hNYXAoMSAtPiAxLCAyIC0+IDIsIDMgLT4gMykKCmhhc2hNYXAoMSkgPSBoYXNoTWFwLmdldCgxKS5tYXAoeCA9PiB4ICsgMikuZ2V0T3JFbHNlKDEpCgpoYXNoTWFw</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFsIG5vZGUgPSBMMTFpbmtlZExpc3QuY3JlYXRlTGlua2VkTGlzdChBcnJheSgxLCAyLCA0LCA2KSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgd2hpbGUodHJ1ZSkgewogICAgICAKICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBPYmplY3QgbmV4dCgpIHsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">bm9kZS5uZXh0IG1hdGNoIHsKICAgICAgICBjYXNlICA9PiAKICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICBkZWYgbWlkZGxlTm9kZShoZWFkOiBMaXN0Tm9kZSk6IExpc3ROb2RlID0gewogIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmNsYXNzaWZpY2F0aW9uLkludGVyZmFjZUF1ZGllbmNlLlB1YmxpYwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBpbnQKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
