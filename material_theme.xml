@@ -1,16 +1,14 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.6.4" />
-    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="c6ff00" />
     <option name="hideFileIcons" value="true" />
-    <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="50" />
     <option name="isCompactStatusBar" value="true" />
     <option name="darkTitleBar" value="true" />
-    <option name="compactDropdowns" value="true" />
     <option name="treeFontSize" value="10" />
     <option name="settingsSelectedTab" value="5" />
     <option name="userId" value="-2013c1d1:165ee8b3866:-8000" />
