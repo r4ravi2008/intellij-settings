@@ -1530,6 +1530,14 @@ Sample Test mapside Join and group by'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'DAGTest.Parquet Test Should Read parquet file as expected'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DAGTest.Parquet Test Should Read parquet file as expected'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'DAGTest.Sample Test Join and Group BY&#10;Sample Test mapside Join and group by'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
