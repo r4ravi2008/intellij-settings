@@ -130,6 +130,12 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/BinaryTree.java" timestamp="1551532566014">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="48" column="27" />
+        <mark key="^" line="48" column="27" />
+        <mark key="." line="48" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-sdk/src/main/scala/com/cloudwick/cdl/etl/sdk/pipeline/input/BatchInput.scala" timestamp="1549561896168">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="11" />
@@ -881,8 +887,8 @@
       <jump line="20" column="0" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/PrintAllPathIn2DArray.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">UHJlb3JkZXIg</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -891,7 +897,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text encoding="base64">UHJlb3JkZXIg</text>
       </register>
       <register name="/" type="4">
         <text>Hash</text>
