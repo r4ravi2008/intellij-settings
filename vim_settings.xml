@@ -130,11 +130,11 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/BinaryTree.java" timestamp="1551567946173">
-        <mark key="[" line="103" column="36" />
-        <mark key="]" line="103" column="39" />
-        <mark key="^" line="103" column="39" />
-        <mark key="." line="103" column="39" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/BinaryTree.java" timestamp="1551600157034">
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="54" column="17" />
+        <mark key="^" line="54" column="17" />
+        <mark key="." line="54" column="17" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-sdk/src/main/scala/com/cloudwick/cdl/etl/sdk/pipeline/input/BatchInput.scala" timestamp="1549561896168">
         <mark key="[" line="22" column="11" />
