@@ -130,12 +130,12 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/BinaryTree.java" timestamp="1551614148809">
-        <mark key="'" line="167" column="0" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="99" column="18" />
-        <mark key="^" line="99" column="18" />
-        <mark key="." line="99" column="18" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/BinaryTree.java" timestamp="1551615573708">
+        <mark key="'" line="195" column="0" />
+        <mark key="[" line="188" column="71" />
+        <mark key="]" line="188" column="68" />
+        <mark key="." line="188" column="68" />
+        <mark key="^" line="188" column="68" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-sdk/src/main/scala/com/cloudwick/cdl/etl/sdk/pipeline/input/BatchInput.scala" timestamp="1549561896168">
         <mark key="[" line="22" column="11" />
@@ -787,7 +787,7 @@
         <mark key="." line="121" column="71" />
         <mark key="^" line="121" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1550401013879">
+      <file name="/fragment.java" timestamp="1551615475408">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -894,8 +894,8 @@
       <jump line="173" column="0" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/BinaryTree.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -904,7 +904,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VHJlZU5vZGUg</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Hash</text>
@@ -916,10 +916,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBwcmludEhlaWdodCgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChub2RlLmtleSArICIgIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -928,13 +928,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBwcmludEhlaWdodCgpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGlmKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBRdWV1ZSBxID0gbmV3IFF1ZXVlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
