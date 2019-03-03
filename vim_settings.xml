@@ -130,11 +130,11 @@
         <mark key="^" line="7" column="38" />
         <mark key="." line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/BinaryTree.java" timestamp="1551608193379">
-        <mark key="[" line="69" column="50" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="69" column="40" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/BinaryTree.java" timestamp="1551609782717">
+        <mark key="[" line="71" column="47" />
+        <mark key="]" line="71" column="47" />
+        <mark key="^" line="71" column="51" />
+        <mark key="." line="71" column="47" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-sdk/src/main/scala/com/cloudwick/cdl/etl/sdk/pipeline/input/BatchInput.scala" timestamp="1549561896168">
         <mark key="[" line="22" column="11" />
@@ -893,8 +893,8 @@
       <jump line="20" column="0" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/PrintAllPathIn2DArray.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>left</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -903,7 +903,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFF1ZXVl</text>
+        <text>left</text>
       </register>
       <register name="/" type="4">
         <text>Hash</text>
@@ -912,34 +912,34 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLnlhcm4ud2ViYXBwLmhhbWxldC5IYW1sZXQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaW5rZWRMaXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpZiAoZ2V0SGVpZ2h0KG5vZGUubGVmdCwgY3VycmVudEhlaWdodCArIDEpID4gZ2V0SGVpZ2h0KG5vZGUucmlnaHQsICApKSAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5RdWV1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaCA9IDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAobm9kZSAhPW51bGwgKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludExldmVsT3JkZXIocm9vdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgIHZvaWQgcHJpbnRMZXZlbE9yZGVyKCkgewo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
