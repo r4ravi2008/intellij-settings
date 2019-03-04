@@ -1482,6 +1482,14 @@ Sample Test mapside Join and group by'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ValidPalindrome'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ValidPalindrome'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ValidParanthesis'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
