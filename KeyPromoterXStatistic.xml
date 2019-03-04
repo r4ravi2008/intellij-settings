@@ -46,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>90</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -1424,6 +1424,14 @@ Sample Test mapside Join and group by'</Description>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'TestKafkaStreaming'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TwoSum'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'TwoSum'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'UniqueCharacters'">
