@@ -803,6 +803,12 @@
         <mark key="^" line="20" column="27" />
         <mark key="." line="20" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/ValidPalindrome.scala" timestamp="1551709062640">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/OniFlowPolicyTest.scala" timestamp="1539845386908">
         <mark key="[" line="121" column="46" />
         <mark key="]" line="121" column="71" />
