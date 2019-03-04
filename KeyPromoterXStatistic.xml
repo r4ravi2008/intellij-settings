@@ -169,6 +169,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'CommonCharacters'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'CommonCharacters'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DAGTest.Parquet Test Should Read parquet file as expected'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1602,6 +1610,14 @@ Sample Test mapside Join and group by'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CommonCharacters'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'CommonCharacters'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CountChangeSuite.countChange: example given in instructions'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2000,7 +2016,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>557</Count>
+          <Count>558</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
