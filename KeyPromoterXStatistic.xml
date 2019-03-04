@@ -433,6 +433,14 @@
           <Count>45</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ValidParanthesis'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'ValidParanthesis'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Decrease Font Size">
         <Item>
           <IdeaActionID>EditorDecreaseFontSize</IdeaActionID>
@@ -1450,6 +1458,14 @@ Sample Test mapside Join and group by'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ValidParanthesis'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ValidParanthesis'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'VflowToNetflowStoreConvertor'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1939,6 +1955,14 @@ Sample Test mapside Join and group by'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ValidParanthesis'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ValidParanthesis'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop...">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1976,7 +2000,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>554</Count>
+          <Count>557</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
