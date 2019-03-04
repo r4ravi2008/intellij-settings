@@ -1330,6 +1330,14 @@ Sample Test mapside Join and group by'</Description>
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SetMatrixZeroes'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'SetMatrixZeroes'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SolrOutputDriverTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>

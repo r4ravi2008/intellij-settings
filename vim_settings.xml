@@ -39,11 +39,11 @@
         <mark key="." line="233" column="94" />
         <mark key="^" line="233" column="94" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/SetMatrixZeroes.scala" timestamp="1551706231536">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="9" />
-        <mark key="^" line="11" column="9" />
-        <mark key="." line="11" column="9" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/SetMatrixZeroes.scala" timestamp="1551708506132">
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="15" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-core/src/main/scala/com/cloudwick/cdl/etl/core/utils/PolicyStatusUtils.scala" timestamp="1540833265042">
         <mark key="[" line="37" column="36" />
@@ -916,8 +916,8 @@
       <jump line="15" column="55" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/ValidParanthesis.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBpMiA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -926,7 +926,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXJyYXkgIA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Hash</text>
