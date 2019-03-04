@@ -39,6 +39,12 @@
         <mark key="." line="233" column="94" />
         <mark key="^" line="233" column="94" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/SetMatrixZeroes.scala" timestamp="1551706231536">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="9" />
+        <mark key="^" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-core/src/main/scala/com/cloudwick/cdl/etl/core/utils/PolicyStatusUtils.scala" timestamp="1540833265042">
         <mark key="[" line="37" column="36" />
         <mark key="]" line="37" column="42" />
@@ -678,6 +684,12 @@
         <mark key="^" line="26" column="52" />
         <mark key="." line="26" column="52" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/scratch.sc" timestamp="1551705353505">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/input/jdbc/JdbcBatchInput.scala" timestamp="1539734858742">
         <mark key="[" line="21" column="69" />
         <mark key="]" line="21" column="67" />
@@ -773,11 +785,11 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="26" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/CommonCharacters.scala" timestamp="1551704694488">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="21" column="5" />
-        <mark key="." line="21" column="5" />
-        <mark key="^" line="21" column="5" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/CommonCharacters.scala" timestamp="1551705691736">
+        <mark key="[" line="24" column="50" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="28" column="25" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/ClusterTestPolicy.json" timestamp="1541447893957">
         <mark key="[" line="36" column="65" />
@@ -905,7 +917,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBmaWx0ZXJlZCA9IGNoYXJNYXAuKF8gIT0gMAo=</text>
+        <text encoding="base64">ICAgIHZhbCBpMiA9IAo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -914,7 +926,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">YXJyYXkgIA==</text>
       </register>
       <register name="/" type="4">
         <text>Hash</text>
@@ -923,34 +935,34 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBmaWx0ZXJlZCA9IGNoYXJNYXAuKF8gIT0gMAo=</text>
+        <text encoding="base64">ICAgIHZhbCBpMiA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbHRlcmVkLm1hcCgpCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">bWFwKAogICAgICAgICAgeHkgPT4KICAgIHZhbCBsaXN0ID0gZm9yIChpIDwtIDAgdG8geHkuXzIpeWllbGR7eHkuXzF9CiAgICBsaXN0CiAgICAp</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uaW1tdXRhYmxlLlN0YWNrCg==</text>
+        <text encoding="base64">ICAgIEFycmF5KCJ3YXRoIikudG9MaXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBmaWx0ZXJlZCA9IGNoYXJNYXAuKF8gIT0gMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgfQo=</text>
+        <text encoding="base64">ICAgIGZpbHRlcmVkLm1hcCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
