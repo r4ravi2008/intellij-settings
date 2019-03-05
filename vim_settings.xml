@@ -88,20 +88,6 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/input/fileSystem/PackedBatchInput.scala" timestamp="1549771095608">
-        <mark key="'" line="22" column="72" />
-        <mark key="[" line="32" column="71" />
-        <mark key="]" line="32" column="72" />
-        <mark key="^" line="32" column="72" />
-        <mark key="." line="32" column="72" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/util/DateUtils.scala" timestamp="1541437809143">
-        <mark key="'" line="73" column="7" />
-        <mark key="[" line="73" column="7" />
-        <mark key="]" line="74" column="44" />
-        <mark key="^" line="74" column="44" />
-        <mark key="." line="74" column="44" />
-      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/output/kafka/KafkaOutput.scala" timestamp="1539835861113">
         <mark key="[" line="53" column="41" />
         <mark key="]" line="53" column="56" />
@@ -126,13 +112,6 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/SparkSessionTestWrapper.scala" timestamp="1548118035778">
-        <mark key="'" line="7" column="43" />
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="7" column="41" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="41" />
-      </file>
       <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/BinaryTree.java" timestamp="1551824401708">
         <mark key="'" line="212" column="0" />
         <mark key="[" line="211" column="0" />
@@ -144,13 +123,6 @@
         <mark key="]" line="22" column="11" />
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="11" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/learning_scala/recfun/src/main/scala/recfun/test.sc" timestamp="1547944189724">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="95" />
-        <mark key="^" line="5" column="95" />
-        <mark key="." line="5" column="95" />
       </file>
       <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/LinkedList.sc" timestamp="1550648570045">
         <mark key="[" line="16" column="19" />
@@ -242,6 +214,11 @@
         <mark key="^" line="97" column="33" />
         <mark key="." line="97" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/MyHashMap.scala" timestamp="1551825743798">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/BricataJsonDriverTest.scala" timestamp="1539845282587">
         <mark key="[" line="223" column="45" />
         <mark key="]" line="223" column="70" />
@@ -288,13 +265,6 @@
         <mark key="]" line="20" column="3" />
         <mark key="^" line="18" column="26" />
         <mark key="." line="20" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/PalindromePermutation.scala" timestamp="1550510435908">
-        <mark key="'" line="9" column="13" />
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="4" />
-        <mark key="^" line="14" column="42" />
       </file>
       <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/lihaoyi/fastparse_2.11/2.0.4/fastparse_2.11-2.0.4-sources.jar!/fastparse/package.scala" timestamp="1540240790002">
         <mark key="[" line="332" column="8" />
@@ -349,13 +319,6 @@
         <mark key="]" line="48" column="23" />
         <mark key="." line="48" column="23" />
         <mark key="^" line="48" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/models/daos/StorageDAOImpl.scala" timestamp="1541542899112">
-        <mark key="'" line="138" column="15" />
-        <mark key="[" line="209" column="50" />
-        <mark key="]" line="210" column="10" />
-        <mark key="^" line="210" column="10" />
-        <mark key="." line="210" column="10" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/models/store/descriptor/KafkaStoreDescriptor.scala" timestamp="1539365762855">
         <mark key="[" line="44" column="42" />
@@ -598,13 +561,6 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cdl/catalog-client/src/main/scala/com/cloudwick/cdl/catalog/util/testsheet.sc" timestamp="1541545301856">
-        <mark key="'" line="14" column="27" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="57" column="22" />
-        <mark key="." line="57" column="22" />
-        <mark key="^" line="57" column="22" />
-      </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-server/app/controllers/catalog/StoresCreateController.scala" timestamp="1538521772178">
         <mark key="[" line="62" column="84" />
         <mark key="]" line="62" column="85" />
@@ -784,11 +740,11 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="26" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/CommonCharacters.scala" timestamp="1551705691736">
-        <mark key="[" line="24" column="50" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="28" column="25" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/CommonCharacters.scala" timestamp="1551824907212">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="4" />
+        <mark key="^" line="22" column="4" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/ClusterTestPolicy.json" timestamp="1541447893957">
         <mark key="[" line="36" column="65" />
@@ -921,7 +877,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -930,7 +886,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>Hash</text>
@@ -939,34 +895,34 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobm9kZSA9PSBudWxsKSB7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAKY2xhc3M=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihub2RlLikK</text>
+        <text encoding="base64">ICBjYXNlIGNsYXNzKGtleTogSW50LCB2OiBJbnQpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgZGVmIGlzUGFsaW5kcm9tZShzOiBTdHJpbmcpOiBCb29sZWFuID0gewogICAgZGVmIGlzQWxwaGFudW1lcmljIChjOiBDaGFyKSA9IHsKICAgICAgKGMgPD0gMTIyICYmIGMgPj0gOTcpIHx8IChjIDw9IDkwICYmIGMgPj0gNjUpIHx8IChjID49IDQ4ICYmIGMgPD01NykKICAgIH0KCiAgICBkZWYgaXNQYWxpbmRyb21lKHM6IFN0cmluZyk6IEJvb2xlYW4gPSB7CgogICAgICB2YWwgYXJyID0gcy50b0NoYXJBcnJheQogICAgICB2YXIgaSA9IDAKICAgICAgdmFyIGogPSBhcnIubGVuZ3RoIC0gMQoKICAgICAgd2hpbGUgKGkgPD0gail7CiAgICAgICAgaWYgKCFpc0FscGhhbnVtZXJpYyhhcnIoaSkpIHx8ICFpc0FscGhhbnVtZXJpYyhhcnIoaikpICl7CgogICAgICAgICAgd2hpbGUgKCBpIDwgYXJyLmxlbmd0aCAmJiAhaXNBbHBoYW51bWVyaWMoYXJyKGkpKSApIHtpICs9IDF9CiAgICAgICAgICB3aGlsZSAoIGogPj0gMCAmJiAgIWlzQWxwaGFudW1lcmljKGFycihqKSkpIHtqIC09IDF9CgogICAgICAgIH0KICAgICAgICBlbHNlewoKICAgICAgICAgIHZhbCB0aGlzRm9yd2FyZCA9IGlmIChhcnIoaSkgPj0gOTcpIGFycihpKSAtIDMyIGVsc2UgYXJyKGkpCiAgICAgICAgICB2YWwgdGhpc0JhY2tXYXJkID0gaWYgKGFycihqKSA+PSA5NykgYXJyKGopIC0gMzIgZWxzZSBhcnIoaikKCiAgICAgICAgICBpZiAodGhpc0ZvcndhcmQgIT0gdGhpc0JhY2tXYXJkKSByZXR1cm4gZmFsc2UKCiAgICAgICAgICBpICs9IDEKICAgICAgICAgIGogLT0gMQogICAgICAgIH0KICAgICAgfQogICAgICB0cnVlCiAgICB9CiAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBpMiA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
