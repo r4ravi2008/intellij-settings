@@ -46,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>92</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -310,7 +310,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'MaxStack'</Description>
-          <Count>1</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'NetflowDataSourceTest'">
@@ -478,7 +478,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>115</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate worksheet (⌥⌘W)">
@@ -526,7 +526,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -742,7 +742,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>449</Count>
+          <Count>486</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1159,7 +1159,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'MaxStack'</Description>
-          <Count>1</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'NetflowDataSourceTes...'">
@@ -1575,7 +1575,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>107</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AlertHbaseDriverTest'">
@@ -1851,6 +1851,14 @@ Sample Test mapside Join and group by'</Description>
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'MaxStack'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'MaxStack'</Description>
+          <Count>22</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'NetflowDataSourceTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2032,7 +2040,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -2064,7 +2072,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>562</Count>
+          <Count>589</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
