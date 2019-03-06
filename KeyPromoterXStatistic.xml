@@ -305,6 +305,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'MaxStack'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'MaxStack'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'NetflowDataSourceTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1144,6 +1152,14 @@ Sample Test mapside Join and group by'</Description>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'MatrixPaths'</Description>
           <Count>29</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MaxStack'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'MaxStack'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'NetflowDataSourceTes...'">
@@ -2048,7 +2064,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>561</Count>
+          <Count>562</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
