@@ -129,11 +129,11 @@
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/LinkedList.sc" timestamp="1551888258365">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-        <mark key="^" line="1" column="4" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/LinkedList.sc" timestamp="1551891469359">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+        <mark key="^" line="3" column="4" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/DnsDriverTest.scala" timestamp="1539845319645">
         <mark key="[" line="132" column="45" />
@@ -164,6 +164,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="325" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/ShortestWordDistance.scala" timestamp="1551892447475">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+        <mark key="^" line="27" column="28" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/input/kafka/KafkaBatchInput.scala" timestamp="1541483533866">
         <mark key="[" line="39" column="23" />
@@ -229,11 +235,6 @@
         <mark key="]" line="223" column="70" />
         <mark key="^" line="223" column="70" />
         <mark key="." line="223" column="70" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/Solution.java" timestamp="1551345011250">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/CorrelationDriverTest.scala" timestamp="1539845291844">
         <mark key="[" line="98" column="45" />
@@ -735,11 +736,6 @@
         <mark key="^" line="8" column="14" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/URLify.sc" timestamp="1550495251843">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/models/store/descriptor/AbstractStoreDescriptor.scala" timestamp="1539282765114">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="16" column="3" />
@@ -887,8 +883,8 @@
       <jump line="26" column="44" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/BinarySearchTree.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDAK</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -897,7 +893,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>words</text>
       </register>
       <register name="/" type="4">
         <text>val</text>
@@ -906,34 +902,34 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZU1heFBvc1ZhbHVlKCkK</text>
+        <text encoding="base64">ICAgIDAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYoaSAhPTApCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVwZGF0ZU1heFBvc1ZhbHVlKCkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZQppbXBvcnQgc2NhbGEuY29sbGVjdGlvbi5tdXRhYmxlLkxpc3RCdWZmZXIKCnZhbCBBID0gQXJyYXkoMTIsMjgsNDYsMzIsNTApCnZhbCBCID0gQXJyYXkoNTAsMTIsMzIsNDYsMjgpCmRlZiBhbmFncmFtTWFwcGluZ3MoQTogQXJyYXlbSW50XSwgQjogQXJyYXlbSW50XSk6IEFycmF5W0ludF0gPSB7CiAgdmFsIGhNYXAgPSBuZXcgbXV0YWJsZS5IYXNoTWFwW0ludCwgc2NhbGEuY29sbGVjdGlvbi5tdXRhYmxlLkxpc3RCdWZmZXJbSW50XV0oKQogIEIuemlwV2l0aEluZGV4LmZvcmVhY2ggewogICAgY2FzZSAoaywgdikgPT4KICAgICAgaE1hcChrKSA9IGhNYXAuZ2V0KGspLm1hcCh4ID0+IHggKz0gdikuZ2V0T3JFbHNlKExpc3RCdWZmZXIodikpCiAgfQogIEEubWFwKHggPT4gaE1hcCh4KSkubWFwKCB4ID0+IHguaGVhZCkKfQoKYW5hZ3JhbU1hcHBpbmdzKEEsIEIpCgp2YWwgc3RyaW5nID0gImFzZGYiLnRvTG93ZXJDYXNl</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgaWYoaSAhPTApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3RhY2tfKGkgKyAxKSA9IHN0YWNrXyhpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCB0b3AzID0gc3RhY2sudG9wKCkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZQppbXBvcnQgc2NhbGEuY29sbGVjdGlvbi5tdXRhYmxlLkxpc3RCdWZmZXIKCnZhbCBBID0gQXJyYXkoMTIsMjgsNDYsMzIsNTApCnZhbCBCID0gQXJyYXkoNTAsMTIsMzIsNDYsMjgpCmRlZiBhbmFncmFtTWFwcGluZ3MoQTogQXJyYXlbSW50XSwgQjogQXJyYXlbSW50XSk6IEFycmF5W0ludF0gPSB7CiAgdmFsIGhNYXAgPSBuZXcgbXV0YWJsZS5IYXNoTWFwW0ludCwgc2NhbGEuY29sbGVjdGlvbi5tdXRhYmxlLkxpc3RCdWZmZXJbSW50XV0oKQogIEIuemlwV2l0aEluZGV4LmZvcmVhY2ggewogICAgY2FzZSAoaywgdikgPT4KICAgICAgaE1hcChrKSA9IGhNYXAuZ2V0KGspLm1hcCh4ID0+IHggKz0gdikuZ2V0T3JFbHNlKExpc3RCdWZmZXIodikpCiAgfQogIEEubWFwKHggPT4gaE1hcCh4KSkubWFwKCB4ID0+IHguaGVhZCkKfQoKYW5hZ3JhbU1hcHBpbmdzKEEsIEIpCgp2YWwgc3RyaW5nID0gImFzZGYiLnRvTG93ZXJDYXNl</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBwb3AgPSBzdGFjay5wb3AoKQo=</text>
+        <text encoding="base64">ICAgICAgc3RhY2tfKGkgKyAxKSA9IHN0YWNrXyhpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YWNrLnB1c2goNSkK</text>
+        <text encoding="base64">ICAgIHZhbCB0b3AzID0gc3RhY2sudG9wKCkK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YWNrLnRvcCgpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBwb3AgPSBzdGFjay5wb3AoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
