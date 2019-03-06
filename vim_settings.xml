@@ -362,6 +362,12 @@
         <mark key="." line="65" column="49" />
         <mark key="^" line="65" column="73" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/MaxStack.scala" timestamp="1551837138780">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/repos/learning_rust/src/Rectangle.rs" timestamp="1542233538420">
         <mark key="[" line="11" column="42" />
         <mark key="]" line="11" column="58" />
@@ -876,8 +882,8 @@
       <jump line="26" column="44" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/BinarySearchTree.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>116</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -886,7 +892,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>116</text>
+        <text encoding="base64">aUxpc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>val</text>
@@ -898,31 +904,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNjYWxhLm1hdGgubQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZS5MaXN0QnVmZmVyCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICBkZWYgcHVzaAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAKY2xhc3M=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzKGtleTogSW50LCB2OiBJbnQpCg==</text>
+        <text encoding="base64">ICAgIHNjYWxhLm1hdGgubQo=</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
