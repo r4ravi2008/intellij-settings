@@ -294,7 +294,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Knapsack'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'LinkedList'">
@@ -721,6 +721,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Knapsack'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Knapsack'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'LinkedList'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -750,7 +758,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>489</Count>
+          <Count>521</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1127,7 +1135,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Knapsack'</Description>
-          <Count>2</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LinkedList'">
@@ -1599,7 +1607,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>134</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AlertHbaseDriverTest'">
@@ -1864,7 +1872,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Knapsack'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LinkedList'">
@@ -2104,7 +2112,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>591</Count>
+          <Count>593</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
