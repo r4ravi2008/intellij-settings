@@ -93,12 +93,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" timestamp="1551977842603">
-        <mark key="'" line="40" column="6" />
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="42" column="46" />
-        <mark key="." line="42" column="46" />
-        <mark key="^" line="42" column="46" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" timestamp="1551986204470">
+        <mark key="'" line="53" column="38" />
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="4" />
+        <mark key="." line="37" column="25" />
+        <mark key="^" line="40" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/output/kafka/KafkaOutput.scala" timestamp="1539835861113">
         <mark key="[" line="53" column="41" />
@@ -788,9 +788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="26" filename="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/logcollect/ByteStringToStringParser.scala" />
-      <jump line="37" column="43" filename="$USER_HOME$/dev/repos/cdl/project/Dependencies.scala" />
-      <jump line="33" column="7" filename="$USER_HOME$/dev/repos/cdl/etl-driver/src/main/scala/com/cloudwick/cdl/etl/driver/StoreIndexingDriver.scala" />
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="52" column="8" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.2.0/spark-streaming-kafka-0-10_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kafka010/KafkaRDD.scala" />
       <jump line="84" column="4" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.2.0/spark-streaming-kafka-0-10_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kafka010/KafkaRDD.scala" />
@@ -888,10 +885,13 @@
       <jump line="24" column="49" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/BinarySearchTree.java" />
       <jump line="26" column="44" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/BinarySearchTree.java" />
       <jump line="37" column="6" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" />
+      <jump line="40" column="26" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" />
+      <jump line="51" column="60" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" />
+      <jump line="53" column="38" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rofits</text>
+        <text>profitHelper</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -900,10 +900,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>rofits</text>
+        <text>profitHelper</text>
       </register>
       <register name="/" type="4">
-        <text>curre</text>
+        <text>profitHelper</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -943,9 +943,9 @@
       </register>
     </registers>
     <search>
-      <last-search>curre</last-search>
+      <last-search>profitHelper</last-search>
       <last-offset />
-      <last-pattern>curre</last-pattern>
+      <last-pattern>profitHelper</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>api</last-substitute>
       <last-dir>1</last-dir>
@@ -953,7 +953,6 @@
     </search>
     <history>
       <history-search>
-        <entry>zone</entry>
         <entry>timeZone</entry>
         <entry>joda</entry>
         <entry>gelAll</entry>
@@ -973,6 +972,7 @@
         <entry>Hash</entry>
         <entry>val</entry>
         <entry>curre</entry>
+        <entry>profitHelper</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
