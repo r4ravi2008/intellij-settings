@@ -93,12 +93,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" timestamp="1552001699200">
-        <mark key="'" line="76" column="38" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="38" column="21" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" timestamp="1552007665863">
+        <mark key="'" line="67" column="13" />
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="14" column="56" />
+        <mark key="." line="14" column="56" />
+        <mark key="^" line="14" column="54" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/output/kafka/KafkaOutput.scala" timestamp="1539835861113">
         <mark key="[" line="53" column="41" />
@@ -788,7 +788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="52" column="8" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.2.0/spark-streaming-kafka-0-10_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kafka010/KafkaRDD.scala" />
       <jump line="84" column="4" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.2.0/spark-streaming-kafka-0-10_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kafka010/KafkaRDD.scala" />
       <jump line="89" column="31" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.2.0/spark-streaming-kafka-0-10_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kafka010/KafkaRDD.scala" />
@@ -888,10 +887,11 @@
       <jump line="40" column="26" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" />
       <jump line="51" column="60" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" />
       <jump line="53" column="38" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" />
+      <jump line="66" column="13" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -900,52 +900,52 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWVtb2l6ZSA=</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>profitHelper</text>
+        <text>Profit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHgKCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZHAoaSkoYykgPSBzY2FsYS5tYXRoLm1heChwcm9maXQxLCBwcm9maXQyKQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TGlzdFtJbnRdKCkuc3VtCg==</text>
+        <text encoding="base64">ICAgIHZhbCBuID0gcHJvZml0cy5sZW5ndGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eC5tYXgK</text>
+        <text encoding="base64">ICAgIHgKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFsIHggPSBMaXN0KDEsYywzLDQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaXRlbXM6IEFycmF5W1N0cmluZ10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
       </register>
     </registers>
     <search>
-      <last-search>profitHelper</last-search>
+      <last-search>Profit</last-search>
       <last-offset />
-      <last-pattern>profitHelper</last-pattern>
+      <last-pattern>Profit</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>api</last-substitute>
       <last-dir>1</last-dir>
@@ -953,7 +953,6 @@
     </search>
     <history>
       <history-search>
-        <entry>timeZone</entry>
         <entry>joda</entry>
         <entry>gelAll</entry>
         <entry>getALl</entry>
@@ -973,6 +972,7 @@
         <entry>val</entry>
         <entry>curre</entry>
         <entry>profitHelper</entry>
+        <entry>Profit</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
