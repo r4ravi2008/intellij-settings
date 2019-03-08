@@ -225,6 +225,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'EqualSumSubset'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'EqualSumSubset'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'FileListerTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -758,7 +766,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>521</Count>
+          <Count>522</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1016,6 +1024,14 @@ Sample Test mapside Join and group by'</Description>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'DriverTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'EqualSumSubset'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'EqualSumSubset'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FileListerTest'">
@@ -1795,6 +1811,14 @@ Sample Test mapside Join and group by'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'EqualSumSubset'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'EqualSumSubset'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'FileListerTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2112,7 +2136,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>593</Count>
+          <Count>595</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
