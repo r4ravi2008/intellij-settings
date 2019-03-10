@@ -136,11 +136,11 @@
         <mark key="." line="22" column="11" />
         <mark key="^" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/LinkedList.sc" timestamp="1552254916507">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="4" column="16" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/LinkedList.sc" timestamp="1552258194824">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="21" column="12" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/DnsDriverTest.scala" timestamp="1539845319645">
         <mark key="[" line="132" column="45" />
@@ -896,8 +896,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>length</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4obnVtcy5mb3JlYWNoKHByaW50KSkK</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -906,7 +906,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>length</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>until</text>
@@ -915,34 +915,34 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NSB0byAwIGJ5IC0xCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4obnVtcy5mb3JlYWNoKHByaW50KSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludGxuKG51bXMoaSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJ6ZXJvIGF0IGluZGV4ICRpIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFuc3dlcjIK</text>
+        <text encoding="base64">NSB0byAwIGJ5IC0xCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBhbnN3ZXIyID0gcGFydGl0aW9uSGVscGVyKG51bXMsIGhhbGZTdW0sIGN1cnJlbnRJbmRleCArIDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYW5zd2VyMSA9IHBhcnRpdGlvbkhlbHBlcihudW1zLCByZW1haW5pbmdTdW0sIGN1cnJlbnRJbmRleCArIDEpCg==</text>
+        <text encoding="base64">ICAgIGFuc3dlcjIK</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
