@@ -707,6 +707,12 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/Subsets.java" timestamp="1552277111778">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/main/scala/com/cloudwick/cdl/etl/driver/stage/BatchInputStage.scala" timestamp="1539801285208">
         <mark key="[" line="27" column="20" />
         <mark key="]" line="27" column="29" />
@@ -897,7 +903,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50TGlzdC5hZGQobnVtc1tjdXJyZW50SW5kZXhdKTsK</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -906,7 +912,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text encoding="base64">IGN1cnJlbnRMaXN0Yg==</text>
       </register>
       <register name="/" type="4">
         <text>until</text>
@@ -915,34 +921,34 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50TGlzdC5hZGQobnVtc1tjdXJyZW50SW5kZXhdKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBub2RlID0gY3JlYXRlTGlua2VkTGlzdChBcnJheSgxLDIsMyw0LDUsNiw3KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBub2RlID0gY3JlYXRlTGlua2VkTGlzdChBcnJheSgxLDIsMyw0LDUsNiw3KSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRvewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBuZXdIZWFkCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBuZXdIZWFkCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
@@ -1056,6 +1062,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
