@@ -93,12 +93,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" timestamp="1552067437209">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="63" column="36" />
-        <mark key="]" line="63" column="31" />
-        <mark key="^" line="63" column="31" />
-        <mark key="." line="63" column="31" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" timestamp="1553751753652">
+        <mark key="'" line="143" column="3" />
+        <mark key="[" line="143" column="3" />
+        <mark key="]" line="143" column="3" />
+        <mark key="^" line="143" column="4" />
+        <mark key="." line="143" column="3" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/output/kafka/KafkaOutput.scala" timestamp="1539835861113">
         <mark key="[" line="53" column="41" />
@@ -707,11 +707,10 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/Subsets.java" timestamp="1552277111778">
-        <mark key="[" line="18" column="31" />
-        <mark key="]" line="16" column="14" />
-        <mark key="^" line="16" column="14" />
-        <mark key="." line="16" column="14" />
+      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/Subsets.java" timestamp="1553751717076">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/main/scala/com/cloudwick/cdl/etl/driver/stage/BatchInputStage.scala" timestamp="1539801285208">
         <mark key="[" line="27" column="20" />
@@ -800,7 +799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="10" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.2.0/spark-streaming-kafka-0-10_2.11-2.2.0-sources.jar!/org/apache/spark/streaming/kafka010/KafkaRDD.scala" />
       <jump line="11" column="7" filename="$USER_HOME$/dev/repos/cdl/project/Dependencies.scala" />
       <jump line="18" column="28" filename="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/syslog/SyslogParserTest.sc" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/repos/cdl/etl-plugins/src/test/scala/com/cloudwick/cdl/etl/plugins/transformation/SampleDataGenerator.sc" />
@@ -900,10 +898,11 @@
       <jump line="44" column="9" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" />
       <jump line="60" column="28" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" />
+      <jump line="143" column="3" filename="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50TGlzdC5hZGQobnVtc1tjdXJyZW50SW5kZXhdKTsK</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -912,7 +911,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGN1cnJlbnRMaXN0Yg==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>until</text>
@@ -921,34 +920,34 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50TGlzdC5hZGQobnVtc1tjdXJyZW50SW5kZXhdKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBub2RlID0gY3JlYXRlTGlua2VkTGlzdChBcnJheSgxLDIsMyw0LDUsNiw3KSkK</text>
+        <text encoding="base64">ICAgIGRlZiBhc2RmKCkgPSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRvewo=</text>
+        <text encoding="base64">ICAgICAgICAgICBlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50TGlzdC5hZGQobnVtc1tjdXJyZW50SW5kZXhdKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuZXdIZWFkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBub2RlID0gY3JlYXRlTGlua2VkTGlzdChBcnJheSgxLDIsMyw0LDUsNiw3KSkK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nornu</text>
