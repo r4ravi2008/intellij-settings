@@ -1,0 +1,590 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/infra/docker/scripts/wait_for_it.sh" timestamp="1560546476255">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/Jenkinsfile" timestamp="1560544066472">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="206" column="46" />
+        <mark key="]" line="206" column="46" />
+        <mark key="." line="206" column="46" />
+        <mark key="^" line="219" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/scala/com/intuit/network/graph/ml/blocking/SimpleMatchingScoringStep.scala" timestamp="1560464661576" />
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/resources/pipelines/config/NetworkGraphPipelineBase_dev.conf" timestamp="1560281767811">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/scala/com/intuit/network/graph/ml/blocking/GemUDFRegistry.scala" timestamp="1560465633110">
+        <mark key="[" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" timestamp="1560223861031">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="47" column="30" />
+        <mark key="]" line="47" column="30" />
+        <mark key="^" line="47" column="31" />
+        <mark key="." line="47" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/test/scala/com/intuit/network/graph/pipeline/PipelineTestSuite.scala" timestamp="1560281705864" />
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/infra/docker/docker-compose.yml" timestamp="1560544092164">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/infra/docker/schema/create_graph_schema.groovy" timestamp="1560487099383">
+        <mark key="'" line="6" column="49" />
+        <mark key="[" line="879" column="110" />
+        <mark key="]" line="879" column="0" />
+        <mark key="^" line="449" column="13" />
+        <mark key="." line="879" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/infra/docker/scripts/bootstrap.sh" timestamp="1560544130369">
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/test/scala/com/intuit/network/graph/ml/lab/MatchingUtilsTest.scala" timestamp="1560465891119">
+        <mark key="[" line="32" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/infra/kubernetes/pod.yml" timestamp="1560544377607">
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="20" />
+        <mark key="^" line="21" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/scala/com/intuit/network/graph/ml/matching/MatchingUtils.scala" timestamp="1560466095303">
+        <mark key="[" line="84" column="6" />
+        <mark key="]" line="84" column="6" />
+        <mark key="." line="84" column="6" />
+      </file>
+      <file name="/GraphloaderTestSuite.scala" timestamp="1560218370714" />
+      <file name="/a.sql" timestamp="1560490930965">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/scala/com/intuit/network/graph/ml/blocking/ExactMatchingStep.scala" timestamp="1560224534433">
+        <mark key="'" line="77" column="43" />
+        <mark key="[" line="118" column="13" />
+        <mark key="]" line="118" column="13" />
+        <mark key="." line="118" column="13" />
+        <mark key="^" line="42" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560546483465">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/resources/pipelines/config/preprocessingQboLoader/PreprocessingQboLoader_dev.conf" timestamp="1560281206927" />
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/resources/pipelines/config/NetworkGraphPipelineBase.conf" timestamp="1560281783222" />
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/test/scala/com/intuit/network/graph/ml/blocking/GEMTests.scala" timestamp="1560469681741">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="1" />
+        <mark key="." line="42" column="1" />
+        <mark key="^" line="42" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/EIISv2/src/test/java/com/intuit/eiam/identity/eiisv2/helper/IdentityPostgresqlContainer.java" timestamp="1560274869619">
+        <mark key="[" line="32" column="70" />
+        <mark key="]" line="32" column="70" />
+        <mark key="." line="32" column="70" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/scala/com/intuit/network/graph/ml/matching/package.scala" timestamp="1560468445620">
+        <mark key="[" line="78" column="3" />
+        <mark key="]" line="77" column="15" />
+        <mark key="." line="77" column="15" />
+        <mark key="^" line="77" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/scala/com/intuit/network/graph/ml/dataprep/package.scala" timestamp="1560469022507" />
+      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/test/scala/com/intuit/network/graph/ml/matching/MatchingTestUtils.scala" timestamp="1560465854190" />
+    </filemarks>
+    <jumps>
+      <jump line="432" column="101" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="433" column="64" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="500" column="5" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="506" column="17" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="507" column="21" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="508" column="25" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="509" column="36" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="510" column="115" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="511" column="26" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="512" column="22" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="513" column="18" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="516" column="6" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="518" column="13" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="527" column="25" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="528" column="29" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="529" column="33" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="530" column="52" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="531" column="51" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="532" column="34" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="533" column="30" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="534" column="26" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="537" column="14" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="12" column="5" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="13" column="9" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="15" column="50" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="16" column="10" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="17" column="6" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="21" column="57" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="210" column="24" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="415" column="84" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="417" column="57" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="418" column="83" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="431" column="86" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="10" column="15" filename="$USER_HOME$/dev/repos/spark-pipeline-framework/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/sbg-graph/pom.xml" />
+      <jump line="25" column="9" filename="$USER_HOME$/dev/repos/sbg-graph/pom.xml" />
+      <jump line="191" column="0" filename="$USER_HOME$/dev/repos/sbg-graph/src/main/scala/com/intuit/network/graph/ml/blocking/ExactMatchingStep.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/repos/sbg-graph/src/main/scala/com/intuit/network/graph/ml/blocking/ExactMatchingStep.scala" />
+      <jump line="5" column="37" filename="$USER_HOME$/dev/repos/sbg-graph/src/main/scala/com/intuit/network/graph/pipeline/SparkPipeline.scala" />
+      <jump line="20" column="6" filename="$USER_HOME$/dev/repos/sbg-graph/src/main/scala/com/intuit/network/graph/ml/dataprep/MatchingPrepStep.scala" />
+      <jump line="45" column="6" filename="$USER_HOME$/dev/repos/sbg-graph/src/main/scala/com/intuit/network/graph/ml/metrics/MatchingScoringStep.scala" />
+      <jump line="124" column="0" filename="$USER_HOME$/dev/repos/spark-pipeline-framework/src/main/scala/com/intuit/network/graph/util/DataFrameUtils.scala" />
+      <jump line="56" column="0" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/scala/com/intuit/network/graph/util/DataframeMatrixOps.scala" />
+      <jump line="274" column="40" filename="$USER_HOME$/dev/repos/sbg-graph/src/main/scala/com/intuit/network/graph/util/DataFrameUtils.scala" />
+      <jump line="17" column="6" filename="$USER_HOME$/dev/repos/spark-pipeline-framework/src/main/scala/com/intuit/network/graph/pipeline/SparkPipeline.scala" />
+      <jump line="51" column="2" filename="$USER_HOME$/dev/repos/spark-pipeline-framework/src/main/scala/com/intuit/network/graph/pipeline/SparkPipeline.scala" />
+      <jump line="63" column="42" filename="$USER_HOME$/dev/repos/spark-pipeline-framework/src/main/scala/com/intuit/network/graph/pipeline/SparkPipeline.scala" />
+      <jump line="58" column="99" filename="$USER_HOME$/dev/repos/spark-pipeline-framework/src/main/scala/com/intuit/network/graph/pipeline/SparkPipeline.scala" />
+      <jump line="59" column="21" filename="$USER_HOME$/dev/repos/spark-pipeline-framework/src/main/scala/com/intuit/network/graph/pipeline/SparkPipeline.scala" />
+      <jump line="31" column="11" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/resources/pipelines/config/entityGenerationCountValidations/entityGenerationCountValidations.conf" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
+      <jump line="5" column="15" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/test/resources/dev/gem/GemFull.conf" />
+      <jump line="82" column="27" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/test/resources/dev/gem/vendors.test.conf" />
+      <jump line="29" column="14" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/test/resources/dev/gem/vendors.test.conf" />
+      <jump line="30" column="13" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/test/resources/dev/gem/vendors.test.conf" />
+      <jump line="127" column="75" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/resources/pipelines/config/entityGenerationQboTransactions/entityGenerationQboTransactions.conf" />
+      <jump line="26" column="5" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/resources/pipelines/config/entityGenerationQboTransactions/entityGenerationQboTransactions.conf" />
+      <jump line="33" column="65" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/resources/pipelines/config/entityGenerationQboTransactions/entityGenerationQboTransactions.conf" />
+      <jump line="109" column="75" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/resources/pipelines/config/entityGenerationQboTransactions/entityGenerationQboTransactions.conf" />
+      <jump line="186" column="101" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/resources/pipelines/config/entityGenerationQboDataGEM/entityGenerationQboDataGEM.conf" />
+      <jump line="25" column="4" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/resources/pipelines/config/entityGenerationQboDataGEM/entityGenerationQboDataGEM.conf" />
+      <jump line="14" column="11" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/resources/pipelines/config/graphLoaderQboGraphMergedEdges/graphLoaderQboGraphMergedEdges.conf" />
+      <jump line="54" column="41" filename="$USER_HOME$/dev/repos/spark-pipeline-framework/src/main/scala/com/intuit/network/graph/util/DataFrameUtils.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/spark-pipeline-framework/src/main/scala/com/intuit/network/graph/util/DataFrameUtils.scala" />
+      <jump line="2" column="17" filename="$USER_HOME$/dev/repos/spark-pipeline-framework/src/main/scala/com/intuit/network/graph/util/DataFrameUtils.scala" />
+      <jump line="25" column="4" filename="$USER_HOME$/dev/repos/sbg-graph/src/main/resources/pipelines/config/entityGenerationQboDataGEM/entityGenerationQboDataGEM.conf" />
+      <jump line="26" column="4" filename="$USER_HOME$/dev/repos/sbg-graph/src/main/resources/pipelines/config/entityGenerationQboDataGEM/entityGenerationQboDataGEM.conf" />
+      <jump line="93" column="12" filename="$USER_HOME$/dev/repos/network-graph-pipeline/Jenkinsfile" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/emr/launch_emr.sh" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/repos/sbg-graph/infra/docker/schema/create_graph_schema.groovy" />
+      <jump line="477" column="0" filename="$USER_HOME$/dev/repos/sbg-graph/infra/docker/schema/create_graph_schema.groovy" />
+      <jump line="437" column="113" filename="$USER_HOME$/dev/repos/sbg-graph/infra/docker/schema/create_graph_schema.groovy" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/repos/sbg-graph/infra/docker/schema/create_graph_schema.groovy" />
+      <jump line="98" column="0" filename="$USER_HOME$/dev/repos/sbg-graph/infra/docker/schema/create_graph_schema.groovy" />
+      <jump line="442" column="0" filename="$USER_HOME$/dev/repos/sbg-graph/infra/docker/schema/create_graph_schema.groovy" />
+      <jump line="15" column="4" filename="$USER_HOME$/dev/repos/sbg-graph/src/main/resources/pipelines/config/entityGenerationDnB/entityGenerationDnB.conf" />
+      <jump line="16" column="4" filename="$USER_HOME$/dev/repos/sbg-graph/src/main/resources/pipelines/config/entityGenerationDnB/entityGenerationDnB.conf" />
+      <jump line="135" column="48" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/emr/emr_controller.sh" />
+      <jump line="188" column="7" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/emr/emr_controller.sh" />
+      <jump line="29" column="0" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/emr/emr_controller.sh" />
+      <jump line="45" column="8" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/emr/emr_controller.sh" />
+      <jump line="192" column="16" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/emr/emr_controller.sh" />
+      <jump line="48" column="8" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/emr/emr_controller.sh" />
+      <jump line="87" column="4" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/emr/emr_controller.sh" />
+      <jump line="89" column="56" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/emr/emr_controller.sh" />
+      <jump line="105" column="4" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/emr/emr_controller.sh" />
+      <jump line="106" column="55" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/emr/emr_controller.sh" />
+      <jump line="132" column="32" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/emr/emr_controller.sh" />
+      <jump line="152" column="36" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/emr/emr_controller.sh" />
+      <jump line="39" column="8" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/emr/emr_controller.sh" />
+      <jump line="166" column="171" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/emr/emr_controller.sh" />
+      <jump line="25" column="6" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/scala/com/intuit/network/graph/ml/blocking/ExactMatchingStep.scala" />
+      <jump line="13" column="3" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/scala/com/intuit/network/graph/ml/blocking/ExactMatchingStep.scala" />
+      <jump line="77" column="43" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/scala/com/intuit/network/graph/ml/blocking/ExactMatchingStep.scala" />
+      <jump line="11" column="34" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/scala/com/intuit/network/graph/ml/metrics/MatchingScoringStep.scala" />
+      <jump line="59" column="4" filename="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/resources/pipelines/config/preprocessingQboLoader/PreprocessingQboLoader.conf" />
+      <jump line="6" column="49" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/docker/schema/create_graph_schema.groovy" />
+      <jump line="24" column="32" filename="$USER_HOME$/dev/repos/network-graph-pipeline/Jenkinsfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/network-graph-pipeline/Jenkinsfile" />
+      <jump line="164" column="0" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/docker/scripts/wait_for_it.sh" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>https://github.com/KillrVideo/killrvideo-dse-config/tree/master/lib/wait-for-it</text>
+      </register>
+      <register name="c" type="4">
+        <text />
+      </register>
+      <register name="i" type="4">
+        <text />
+      </register>
+      <register name="-" type="4">
+        <text>https://github.com/KillrVideo/killrvideo-dse-config/tree/master/lib/wait-for-it</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxRQk9Db21wYW55U3RhdHVzTG9hZGVyU3RlcFw+</text>
+      </register>
+      <register name="0" type="4">
+        <text>QboTestCompaniesTableLoad</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiAnZG9ja2VyLmFydGlmYWN0b3J5LmEuaW50dWl0LmNvbS9kZXYvYnVpbGQvaWJwL2pubHAtc2xhdmUtd2l0aC1kb2NrZXI6My4yNi0xX2plbmtpbnMtMi0xMzgtdXBkYXRlXzMnCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIERTX0xJQ0VOU0U9YWNjZXB0CiAgICAgICMgY29tbWFuZDogWwogICAgICAjICAiLi9jcmVhdGVfZ3JhcGhfc2NoZW1hLnNoIiwKICAgICAgIyAgIiYiCiAgICAgICNdCiAgICB2b2x1bWVzOgogICAgICAtIC4uL3NyYy90ZXN0L3Jlc291cmNlcy9zY2hlbWE6L29wdC9kc2Uvc2NoZW1hCiAgICAgIC0gLi9jb25mczovY29uZmln</text>
+      </register>
+      <register name="6" type="4">
+        <text>def ibpMavenSettingsFileCredential = 'ibp-maven-settings-file'
+def assetId = '1011075708648597131'
+def teamEmail = 'SBSEG-PDGraphPipeline@intuit.com'
+
+pipeline {
+    agent {
+        kubernetes {
+            // Use a dynamic pod name because static labels are known to cause pod creation errors.
+            label &quot;maven-pod-${UUID.randomUUID().toString()}&quot;
+            defaultContainer &quot;jnlp&quot;
+            yamlFile 'infra/kubernetes/pod.yml'
+        }
+    }
+    environment {
+        IBP_MAVEN_SETTINGS_FILE = credentials(&quot;${ibpMavenSettingsFileCredential}&quot;)
+        AUTHOR_EMAIL = sh(script: &quot;git log --format='%ae' HEAD^!&quot;, returnStdout: true).trim()
+
+        S3_BUCKET_ACCESS_ROLE_PPD = 'arn:aws:iam::515192565807:role/ibp2-jenkins-s3-access-role'
+        S3_BUCKET_DEPLOY_PATH_DEV = 's3://idl-artifacts-processing-sbgnet-dev/sbg-graph/'
+        S3_BUCKET_DEPLOY_PATH_QA  = 's3://idl-artifacts-processing-sbgnet-qa/sbg-graph/'
+        S3_BUCKET_DEPLOY_PATH_E2E = 's3://idl-artifacts-processing-sbgnet-e2e/sbg-graph/'
+        S3_BUCKET_ACCESS_ROLE_PRD = 'arn:aws:iam::473156531564:role/ibp2-jenkins-s3-access-role'
+        S3_BUCKET_DEPLOY_PATH_PRF = 's3://idl-artifacts-processing-sbgnet-prf/sbg-graph/'
+        S3_BUCKET_DEPLOY_PATH_PRD = 's3://idl-artifacts-processing-sbgnet-prd/sbg-graph/'
+        SLACK_EMAIL = 'o3a4n0w6t8a9s4i4@intuit-teams.slack.com'
+    }
+    options {
+        timestamps()
+        buildDiscarder(logRotator(daysToKeepStr: '30', numToKeepStr: '50', artifactDaysToKeepStr: '30', artifactNumToKeepStr: '50'))
+    }
+    stages {
+        stage('test-and-package') {
+            steps {
+                container('maven') {
+                    sh '''
+                        export M3_HOME=${MAVEN_HOME}/bin
+                        mvn -B clean
+                        mvn -B scoverage:report -DtagsToExclude=PipelineTests,GraphloaderTests,GemTests
+                        mvn -B scoverage:report -DtagsToInclude=PipelineTests
+                        mvn -B scoverage:report -DtagsToInclude=GemTests
+                        mvn -B scoverage:report -DtagsToInclude=GraphloaderTests
+                        mvn -B scoverage:check-only
+                        mvn -B -DskipTests package
+                    '''
+                }
+                script {
+                    try {
+                        step([
+                                $class    : 'ScoveragePublisher',
+                                reportDir : 'target/site/scoverage',
+                                reportFile: 'index.html'
+                        ])
+                    } catch (e) {
+                        echo &quot;Scoverage report not found...&quot;
+                    }
+                }
+                publishHTML (target: [
+                        allowMissing: true,
+                        alwaysLinkToLastBuild: false,
+                        keepAll: true,
+                        reportDir: 'target/html/scalatest',
+                        reportFiles: 'index.html',
+                        reportName: &quot;Scalatest Report&quot;
+                ])
+            }
+        }
+
+        stage('deploy-develop-to-dev') {
+            environment{
+                DEPLOY_ENV = 'dev'
+            }
+            when {
+                allOf {
+                    branch 'put-your-branch-name-here'
+                }
+            }
+            steps{
+                //Not a pull request
+                deployBuildToS3(env.DEPLOY_ENV, env.S3_BUCKET_ACCESS_ROLE_PPD, env.S3_BUCKET_DEPLOY_PATH_DEV)
+            }
+        }
+
+        stage('deploy-develop-to-qa') {
+            environment{
+                DEPLOY_ENV = 'qa'
+            }
+            when {
+                allOf {
+                    branch 'develop'
+                }
+            }
+            steps{
+                //Not a pull request
+                deployBuildToS3(env.DEPLOY_ENV, env.S3_BUCKET_ACCESS_ROLE_PPD, env.S3_BUCKET_DEPLOY_PATH_QA)
+            }
+        }
+
+        stage('deploy-master-to-e2e') {
+            environment{
+                DEPLOY_ENV = 'e2e'
+            }
+            when {
+                allOf {
+                    branch 'release/*'
+                }
+            }
+            steps{
+                //Not a pull request
+                deployBuildToS3(env.DEPLOY_ENV, env.S3_BUCKET_ACCESS_ROLE_PPD, env.S3_BUCKET_DEPLOY_PATH_E2E)
+            }
+        }
+        stage('deploy-release-to-perf') {
+            environment{
+                DEPLOY_ENV = 'perf'
+            }
+            when {
+                allOf {
+                    branch 'release/*'
+                }
+            }
+            steps{
+                script {
+                    def isDeploy = true
+                    try {
+                        timeout(time:120, unit:'SECONDS') {
+                            input(message: 'Deploy this build to perf?', ok: 'Yes')
+                        }
+                    } catch (e) {
+                        isDeploy = false
+                        echo &quot;Input timed out or aborted, skipping deployment to perf.......&quot;
+                    }
+                    if(isDeploy) {
+                        deployBuildToS3(env.DEPLOY_ENV, env.S3_BUCKET_ACCESS_ROLE_PRD, env.S3_BUCKET_DEPLOY_PATH_PRF)
+                    }
+                }
+            }
+        }
+
+        stage('deploy-to-prod') {
+            environment{
+                DEPLOY_ENV = 'prod'
+            }
+            when {
+                allOf {
+                    branch 'release/*'
+                }
+            }
+            steps{
+                script {
+                    def isDeploy = true
+                    try {
+                        timeout(time:5, unit:'DAYS') {
+                            input(message: 'Deploy this build to PROD?', ok: 'Yes')
+                        }
+                        timeout(time:180, unit:'SECONDS') {
+                            input(message: 'Are you sure you want to deploy to PROD?', ok: 'Yes')
+                        }
+                    } catch (e) {
+                        isDeploy = false
+                        echo &quot;Input timed out or aborted, skipping deployment to prod.......&quot;
+                    }
+                    if(isDeploy) {
+                        deployBuildToS3(env.DEPLOY_ENV, env.S3_BUCKET_ACCESS_ROLE_PRD, env.S3_BUCKET_DEPLOY_PATH_PRD)
+                    }
+                }
+            }
+        }
+    }
+    post {
+        success {
+            echo &quot;Network Pipeline Success&quot;
+            mail to: &quot;${AUTHOR_EMAIL}&quot;,
+                 subject: &quot;Build Success: ${currentBuild.fullDisplayName}&quot;,
+                 body: &quot;Build was Successful : ${env.BUILD_URL}&quot;
+        }
+        failure {
+            echo &quot;Network Pipeline Failure&quot;
+            script {
+                if (env.BRANCH_NAME == 'master' || env.BRANCH_NAME == 'develop' || env.BRANCH_NAME == 'release/*') {
+                    emailext (
+                        to: env.SLACK_EMAIL,
+                        subject: &quot;Build failure for branch ${env.BRANCH_NAME}: Needs atention&quot;,
+                        body: &quot;Build failure for branch ${env.BRANCH_NAME}. URL ${env.BUILD_URL}&quot;,
+                        attachLog: false,
+                        )
+                }
+            }
+            mail to: &quot;${AUTHOR_EMAIL}&quot;,
+                    subject: &quot;Failed pipeline: ${currentBuild.fullDisplayName}&quot;,
+                    body: &quot;Something is wrong in ${env.BUILD_URL}&quot;
+        }
+    }
+}
+
+def deployBuildToS3(String envName, String s3Role, String s3Path) {
+    sh &quot;&quot;&quot;
+        echo &quot;Deploying to ${envName}&quot;
+
+        echo &quot;S3 Bucket Access Role: ${s3Role}&quot;
+        echo &quot;S3 Bucket Deploy Path for Prod : ${s3Path}&quot;
+
+        temp_role=\$(aws sts assume-role --role-arn ${s3Role} --role-session-name AWSCLI-Session)
+
+        export AWS_ACCESS_KEY_ID=\$(echo \$temp_role | jq .Credentials.AccessKeyId | xargs)
+        export AWS_SECRET_ACCESS_KEY=\$(echo \$temp_role | jq .Credentials.SecretAccessKey | xargs)
+        export AWS_SESSION_TOKEN=\$(echo \$temp_role | jq .Credentials.SessionToken | xargs)
+
+        aws s3 rm ${s3Path} --recursive
+        aws s3 cp . ${s3Path} --recursive --exclude '.git/*'
+    &quot;&quot;&quot;
+}</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBTb3VyY2U6IGh0dHBzOi8vZ2l0aHViLmNvbS9LaWxsclZpZGVvL2tpbGxydmlkZW8tZHNlLWNvbmZpZy90cmVlL21hc3Rlci9saWIvd2FpdC1mb3ItaXQK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNkIC9vcHQvZHNlCg==</text>
+      </register>
+      <register name="x" type="4">
+        <text />
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEJMVUUsIFJFRCwgV0hJVEUK</text>
+      </register>
+      <register name="y" type="4">
+        <text>r</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxRQk9Db21wYW55U3RhdHVzTG9hZGVyU3RlcFw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxRQk9Db21wYW55U3RhdHVzTG9hZGVyU3RlcFw+</last-pattern>
+      <last-replace encoding="base64">IA==</last-replace>
+      <last-substitute>api</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>49</entry>
+        <entry encoding="base64">XDxfdHhuX3BheW1lbnRzX291dHB1dF9cPg==</entry>
+        <entry encoding="base64">XDxRYm9UeG5JbnZvaWNlQWdncmVnYXRpb25TdGVwXD4=</entry>
+        <entry encoding="base64">XDxfdHhuX2ludm9pY2VzX291dHB1dF9cPg==</entry>
+        <entry encoding="base64">XDxncmFwaFw+</entry>
+        <entry encoding="base64">XDxRQk9NZXJnZWRFZGdlc1N0ZXBcPg==</entry>
+        <entry>reflect</entry>
+        <entry encoding="base64">XDxHRU1RYm9QcmVwXD4=</entry>
+        <entry encoding="base64">XDxNYXRjaGluZ1w+</entry>
+        <entry>APP</entry>
+        <entry>remote</entry>
+        <entry encoding="base64">XDxTYW5ncmlhRG5iRGF0YUxvYWRlclN0ZXBcPg==</entry>
+        <entry encoding="base64">XDxTYW5ncmlhRG5iQ29udGFjdFNvdXJjZUltcG9ydFN0ZXBcPg==</entry>
+        <entry encoding="base64">XDxMQVVOQ0hfU1RFUFw+</entry>
+        <entry encoding="base64">XDxFTVJfQ0xVU1RFUl9JRFw+</entry>
+        <entry encoding="base64">XDxDUkVBVEVfQ0xVU1RFUlw+</entry>
+        <entry encoding="base64">XDxLRVJCRVJPU19FTkFCTEVEXD4=</entry>
+        <entry encoding="base64">XDxDT1JFSU5TVEFOQ0VUWVBFXD4=</entry>
+        <entry encoding="base64">XDxBUFBEX1BBVEhcPg==</entry>
+        <entry encoding="base64">XDxRQk9Db21wYW55U3RhdHVzTG9hZGVyU3RlcFw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set relative</entry>
+        <entry>set number</entry>
+        <entry>!set number</entry>
+        <entry>!set relativenumber</entry>
+        <entry>set relativenumber</entry>
+        <entry>set nu</entry>
+        <entry>set ru</entry>
+        <entry>set rnu</entry>
+        <entry>help map</entry>
+        <entry>au</entry>
+        <entry encoding="base64">bm5vcmVtYXAgTCAkPGVzYz4=</entry>
+        <entry>vsplit $MYVIMRC</entry>
+        <entry>vsplit</entry>
+        <entry>NERDTreeToggle</entry>
+        <entry encoding="base64">bm5vcmVtYXAgamsgPGVzYz4=</entry>
+        <entry encoding="base64">aW5vcmVtYXAgamsgPGVzYz4=</entry>
+        <entry>q</entry>
+        <entry>wq</entry>
+        <entry>set nornu</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed SPACE</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
