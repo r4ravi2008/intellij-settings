@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>16</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -46,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>96</Count>
+          <Count>166</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -54,7 +54,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>4</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -62,6 +62,14 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'⌥⇧⌘C'</ShortCut>
           <Description>Copy Reference</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Relative Path">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'⌥⇧⌘C'</ShortCut>
+          <Description>Copy Relative Path</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -78,7 +86,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'⌘X' or '⇧⌦'</ShortCut>
           <Description>Cut</Description>
-          <Count>13</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Object...">
@@ -94,6 +102,14 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ApplicationLauncher'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'ApplicationLauncher'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -129,14 +145,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'BinaryTree'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⌃D'</ShortCut>
-          <Description>Debug 'BinaryTree'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'BricataJsonDriverTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -169,20 +177,52 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'CommonCharacters'">
-        <Item>
-          <IdeaActionID>DebugClass</IdeaActionID>
-          <ShortCut>'⌃⇧D'</ShortCut>
-          <Description>Debug 'CommonCharacters'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'DAGTest.Parquet Test Should Read parquet file as expected'">
+      <Statistic Action="Debug 'CompanyProfileLookupApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
-          <Description>Debug 'DAGTest.Parquet Test Should Read parquet file as expected'</Description>
+          <Description>Debug 'CompanyProfileLookupApplication'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DataObfuscationTestS...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'DataObfuscationTestS...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DataObfuscationTestSuite'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'DataObfuscationTestSuite'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DataObfuscationTestSuite.chlorine test'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'DataObfuscationTestSuite.chlorine test'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DataObfuscationTestSuite.hashtest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'DataObfuscationTestSuite.hashtest'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DataUpdateUtilsTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'DataUpdateUtilsTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DatasetGenerator'">
@@ -217,20 +257,44 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'DeleteCompaniesPipel...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'DeleteCompaniesPipel...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DeleteCompaniesPipelineTest (1)'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'DeleteCompaniesPipelineTest (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DeleteCompaniesPipelineTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'DeleteCompaniesPipelineTest'</Description>
+          <Count>45</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DeleteCompaniesPipelineTest.Pipeline run should fail'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'DeleteCompaniesPipelineTest.Pipeline run should fail'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'DelimitedOutputTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9' or '⌃D'</ShortCut>
           <Description>Debug 'DelimitedOutputTest'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'EqualSumSubset'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⌃D'</ShortCut>
-          <Description>Debug 'EqualSumSubset'</Description>
-          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'FileListerTest'">
@@ -257,12 +321,52 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'GEMTests'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'GEMTests'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'GraphLoaderSuite'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'GraphLoaderSuite'</Description>
+          <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'GraphLoaderSuite.Doc...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'GraphLoaderSuite.Doc...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'GraphLoaderSuite.DockerCompose is working as expected'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'GraphLoaderSuite.DockerCompose is working as expected'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'HbaseOutputTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9' or '⌃D'</ShortCut>
           <Description>Debug 'HbaseOutputTest'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'InstrumentationTraitTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'InstrumentationTraitTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'IpfixCirceModel'">
@@ -295,38 +399,6 @@
           <ShortCut>'⇧F9' or '⌃D'</ShortCut>
           <Description>Debug 'KafkaProducer'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'Knapsack'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⌃D'</ShortCut>
-          <Description>Debug 'Knapsack'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'LinkedList'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⌃D'</ShortCut>
-          <Description>Debug 'LinkedList'</Description>
-          <Count>9</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'MatrixPaths'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⌃D'</ShortCut>
-          <Description>Debug 'MatrixPaths'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Debug 'MaxStack'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⌃D'</ShortCut>
-          <Description>Debug 'MaxStack'</Description>
-          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'NetflowDataSourceTest'">
@@ -393,6 +465,78 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'PipelineConfigVariab...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'PipelineConfigVariab...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'PipelineConfigVariableSubstitutionTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'PipelineConfigVariableSubstitutionTest'</Description>
+          <Count>28</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'PipelineConfigVariableSubstitutionTest.Test variable substititon'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'PipelineConfigVariableSubstitutionTest.Test variable substititon'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'PipelineStepTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'PipelineStepTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'PipelineTestSuite'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'PipelineTestSuite'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'PipelineTestSuite.1 QBO Entity Vertices Load'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'PipelineTestSuite.1 QBO Entity Vertices Load'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'PipelineTestSuite.De...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'PipelineTestSuite.De...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'PipelineTestSuite.Delete customers,vendors,employees pipeline'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'PipelineTestSuite.Delete customers,vendors,employees pipeline'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'PipelineTestSuite.Entity Generation - Count Validations (1)'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'PipelineTestSuite.Entity Generation - Count Validations (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'PolicyGeneratorTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -401,11 +545,43 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'PreprocessingQboPipe...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'PreprocessingQboPipe...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'PreprocessingQboPipelineTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'PreprocessingQboPipelineTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ProxyParserBatchInputTest'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9' or '⌃D'</ShortCut>
           <Description>Debug 'ProxyParserBatchInputTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'QBOCompanyPipelineTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'QBOCompanyPipelineTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ReflectUtilsTest.testInstantiate'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'ReflectUtilsTest.testInstantiate'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -423,6 +599,14 @@
           <ShortCut>'⇧F9' or '⌃D'</ShortCut>
           <Description>Debug 'SolrOutputDriverTest'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'SparkPipelineStepTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'SparkPipelineStepTest'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'SqlBuilderTest'">
@@ -457,6 +641,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'SyntheticDataTest'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'SyntheticDataTest'</Description>
+          <Count>40</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'SyntheticDataTest.generate synthetic data'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'SyntheticDataTest.generate synthetic data'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Tbd'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -465,12 +665,28 @@
           <Count>45</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'ValidParanthesis'">
+      <Statistic Action="Debug 'TestGenerationPipeli...'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'TestGenerationPipeli...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'TestGenerationPipelineTest.Data generation'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
-          <Description>Debug 'ValidParanthesis'</Description>
-          <Count>1</Count>
+          <Description>Debug 'TestGenerationPipelineTest.Data generation'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'WordSearch'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'WordSearch'</Description>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Decrease Font Size">
@@ -478,7 +694,15 @@
           <IdeaActionID>EditorDecreaseFontSize</IdeaActionID>
           <ShortCut>'⌘Wheel down'</ShortCut>
           <Description>Decrease Font Size</Description>
-          <Count>4</Count>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Delete</Description>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -486,7 +710,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>85</Count>
+          <Count>301</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -494,7 +718,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>118</Count>
+          <Count>182</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate worksheet (⌥⌘W)">
@@ -502,7 +726,7 @@
           <IdeaActionID>Scala.RunWorksheet</IdeaActionID>
           <ShortCut>'⌥⌘W'</ShortCut>
           <Description>Evaluate worksheet (⌥⌘W)</Description>
-          <Count>45</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute Statement">
@@ -518,7 +742,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -526,7 +750,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'⌃⇧F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -534,7 +758,7 @@
           <IdeaActionID>Generate</IdeaActionID>
           <ShortCut>'⌃N' or '⌃⏎'</ShortCut>
           <Description>Generate...</Description>
-          <Count>8</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -542,7 +766,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>16</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -558,7 +782,7 @@
           <IdeaActionID>EditorIncreaseFontSize</IdeaActionID>
           <ShortCut>'⌘Wheel up'</ShortCut>
           <Description>Increase Font Size</Description>
-          <Count>4</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -566,7 +790,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move to Another Changelist...">
@@ -582,7 +806,7 @@
           <IdeaActionID>Move</IdeaActionID>
           <ShortCut>'F6'</ShortCut>
           <Description>Move...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Module Settings">
@@ -590,7 +814,7 @@
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Open Module Settings</Description>
-          <Count>3</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -598,7 +822,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>28</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
@@ -609,12 +833,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Preferences...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'⌘,'</ShortCut>
+          <Description>Preferences...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>51</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -622,7 +854,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -630,7 +862,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'⇧⌘K'</ShortCut>
           <Description>Push...</Description>
-          <Count>3</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Evaluate Expression">
@@ -657,19 +889,19 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile '...sPipelineTest.scala'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'⇧⌘F9'</ShortCut>
+          <Description>Recompile '...sPipelineTest.scala'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Recompile 'HdfsUtils.scala'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Recompile 'HdfsUtils.scala'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Recompile 'MannersSpec.scala'">
-        <Item>
-          <IdeaActionID>Compile</IdeaActionID>
-          <ShortCut>'⇧⌘F9'</ShortCut>
-          <Description>Recompile 'MannersSpec.scala'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -694,7 +926,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>34</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -713,36 +945,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Rerun 'BinarySearchTree'">
+      <Statistic Action="Rerun 'SudokuSolver'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
-          <Description>Rerun 'BinarySearchTree'</Description>
+          <Description>Rerun 'SudokuSolver'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'BinaryTree'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌘R'</ShortCut>
-          <Description>Rerun 'BinaryTree'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'Knapsack'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌘R'</ShortCut>
-          <Description>Rerun 'Knapsack'</Description>
-          <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Rerun 'LinkedList'">
-        <Item>
-          <IdeaActionID>Rerun</IdeaActionID>
-          <ShortCut>'⌘R'</ShortCut>
-          <Description>Rerun 'LinkedList'</Description>
-          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SuspiciousConnects'">
@@ -751,6 +959,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'SuspiciousConnects'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'WordSearch'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'WordSearch'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -766,7 +982,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>522</Count>
+          <Count>859</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -774,7 +990,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -782,7 +998,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>4</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AlertHbaseDriverTest'">
@@ -791,6 +1007,22 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'AlertHbaseDriverTest'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ApplicationLau....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ApplicationLau....main()'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ApplicationLauncher'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ApplicationLauncher'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BalanceSuite'">
@@ -823,38 +1055,6 @@
           <ShortCut>'⇧F10' or '⌥⌘R'</ShortCut>
           <Description>Run 'BalanceSuite.balance: counting is not enough'</Description>
           <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'BinarySearchTree'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⌃R'</ShortCut>
-          <Description>Run 'BinarySearchTree'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'BinarySearchTree.main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'BinarySearchTree.main()'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'BinaryTree'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⌃R'</ShortCut>
-          <Description>Run 'BinaryTree'</Description>
-          <Count>12</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'BinaryTree.main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'BinaryTree.main()'</Description>
-          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BricataJsonDriverTest'">
@@ -897,12 +1097,52 @@
           <Count>33</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'CommonCharacters'">
+      <Statistic Action="Run 'CompanyProfile....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'CompanyProfile....main()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CompanyProfileLookup...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'CompanyProfileLookup...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CompanyProfileLookupApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
-          <Description>Run 'CommonCharacters'</Description>
-          <Count>8</Count>
+          <Description>Run 'CompanyProfileLookupApplication'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ConfigParserTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ConfigParserTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ConfigParserTest.get...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ConfigParserTest.get...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ContactSourceIDGenTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ContactSourceIDGenTest'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CountChangeSuite'">
@@ -921,77 +1161,84 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'DAGTest'">
+      <Statistic Action="Run 'DataFrameMapUtilsTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'DAGTest'</Description>
-          <Count>25</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'DAGTest.DAG Test Joi...'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'DAGTest.DAG Test Joi...'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'DAGTest.DAG Test map...'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'DAGTest.DAG Test map...'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'DAGTest.DAG Test mapside Join and group by'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⌃R'</ShortCut>
-          <Description>Run 'DAGTest.DAG Test mapside Join and group by'</Description>
+          <Description>Run 'DataFrameMapUtilsTest'</Description>
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'DAGTest.Parquet Test Should Read parquet file as expected'">
+      <Statistic Action="Run 'DataFrameUtilsTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'DataFrameUtilsTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DataFrameUtilsTest.g...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'DataFrameUtilsTest.g...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DataFrameUtilsTest.getColumnNames'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
-          <Description>Run 'DAGTest.Parquet Test Should Read parquet file as expected'</Description>
-          <Count>1</Count>
+          <Description>Run 'DataFrameUtilsTest.getColumnNames'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'DAGTest.Parquet Test...'">
+      <Statistic Action="Run 'DataObfuscationTestS...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'DAGTest.Parquet Test...'</Description>
+          <Description>Run 'DataObfuscationTestS...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'DAGTest.Sample Test ...'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'DAGTest.Sample Test ...'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'DAGTest.Sample Test Join and Group BY&#10;Sample Test mapside Join and group by'">
+      <Statistic Action="Run 'DataObfuscationTestSuite'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
-          <Description>Run 'DAGTest.Sample Test Join and Group BY
-Sample Test mapside Join and group by'</Description>
+          <Description>Run 'DataObfuscationTestSuite'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'DataFrameTest'">
+      <Statistic Action="Run 'DataObfuscationTestSuite.chlorine test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'DataObfuscationTestSuite.chlorine test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DataUpdateUtilsTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'DataFrameTest'</Description>
-          <Count>4</Count>
+          <Description>Run 'DataUpdateUtilsTest'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DataUpdateUtilsTest....'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'DataUpdateUtilsTest....'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DataframeMatrixOpsTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'DataframeMatrixOpsTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DatasetGenerator'">
@@ -1018,20 +1265,52 @@ Sample Test mapside Join and group by'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DeleteCompaniesPipel...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'DeleteCompaniesPipel...'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DeleteCompaniesPipelineTest (1)'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'DeleteCompaniesPipelineTest (1)'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DeleteCompaniesPipelineTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'DeleteCompaniesPipelineTest'</Description>
+          <Count>88</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DeleteCompaniesPipelineTest.If the output have delete prepended on random rows'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'DeleteCompaniesPipelineTest.If the output have delete prepended on random rows'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DeleteCompaniesPipelineTest.Pipeline run should fail'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'DeleteCompaniesPipelineTest.Pipeline run should fail'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'DriverTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'DriverTest'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'EqualSumSubset'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'EqualSumSubset'</Description>
-          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'FileListerTest'">
@@ -1066,11 +1345,83 @@ Sample Test mapside Join and group by'</Description>
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'GroupByTest'">
+      <Statistic Action="Run 'GEMTests'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'GroupByTest'</Description>
+          <Description>Run 'GEMTests'</Description>
+          <Count>33</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'GEMTests.GEMFull'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'GEMTests.GEMFull'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'GEMTests.GEMMatching'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'GEMTests.GEMMatching'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'GeocodeAddressParsin...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'GeocodeAddressParsin...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'GeocodeAddressParsingUtilsTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'GeocodeAddressParsingUtilsTest'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'GraphLoaderSuite'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'GraphLoaderSuite'</Description>
+          <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'GraphLoaderSuite.DockerCompose is working as expected'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'GraphLoaderSuite.DockerCompose is working as expected'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'GraphloaderTestSuite'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'GraphloaderTestSuite'</Description>
+          <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'GraphloaderTestSuite...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'GraphloaderTestSuite...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'GraphloaderTestSuite.Graph Metrics'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'GraphloaderTestSuite.Graph Metrics'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -1080,6 +1431,30 @@ Sample Test mapside Join and group by'</Description>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'IndexingPolicyGenera...'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'InstrumentationTrait...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'InstrumentationTrait...'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'InstrumentationTraitTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'InstrumentationTraitTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'InstrumentationTraitTest.testMeter'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'InstrumentationTraitTest.testMeter'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'IpfixDataSourceTest'">
@@ -1146,22 +1521,6 @@ Sample Test mapside Join and group by'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'Knapsack'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'Knapsack'</Description>
-          <Count>10</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'LinkedList'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'LinkedList'</Description>
-          <Count>32</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'ListsSuite'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1176,30 +1535,6 @@ Sample Test mapside Join and group by'</Description>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Main'</Description>
           <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'MannersSpec'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'MannersSpec'</Description>
-          <Count>22</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'MatrixPaths'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'MatrixPaths'</Description>
-          <Count>29</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'MaxStack'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'MaxStack'</Description>
-          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'NetflowDataSourceTes...'">
@@ -1266,12 +1601,36 @@ Sample Test mapside Join and group by'</Description>
           <Count>8</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'PalindromePermutation'">
+      <Statistic Action="Run 'ParallelPipelineOver...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'PalindromePermutation'</Description>
-          <Count>8</Count>
+          <Description>Run 'ParallelPipelineOver...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ParallelPipelineOverridableTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ParallelPipelineOverridableTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ParallelPipelineStep...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ParallelPipelineStep...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ParallelPipelineStepsTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ParallelPipelineStepsTest'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ParquetOutputTest'">
@@ -1314,6 +1673,278 @@ Sample Test mapside Join and group by'</Description>
           <Count>25</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'PipelineConfigVariableSubstitutionTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PipelineConfigVariableSubstitutionTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineExecutionTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineExecutionTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineOverridableT...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineOverridableT...'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineOverridableTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PipelineOverridableTest'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineOverridableTest.PipelineOverridableFilteredCountsTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PipelineOverridableTest.PipelineOverridableFilteredCountsTest'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineParserExampl...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineParserExampl...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineParserExampleTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PipelineParserExampleTest'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineParserTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineParserTest'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineParserTest.P...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineParserTest.P...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineParserTest.PipelineParser'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PipelineParserTest.PipelineParser'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineStepTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineStepTest'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineStepTest.tes...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineStepTest.tes...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineTestSuite'</Description>
+          <Count>53</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.1 ...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.1 ...'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.1 QBO Entity Vertices Load'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.1 QBO Entity Vertices Load'</Description>
+          <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.2 ...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.2 ...'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.3 ...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.3 ...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.4 ...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.4 ...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.5 ...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.5 ...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.6 ...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.6 ...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.De...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.De...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.Dn...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.Dn...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.Dnb-load'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.Dnb-load'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.En...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.En...'</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.Entity Generation - Count Validations (1)'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.Entity Generation - Count Validations (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.EntityGeneration-QboTransactions'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.EntityGeneration-QboTransactions'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.Gr...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.Gr...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.Pr...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.Pr...'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.Pre-Processing - Filter Test Companies Validations'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.Pre-Processing - Filter Test Companies Validations'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.Tx...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.Tx...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.Txn Execution'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.Txn Execution'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineTestSuite.pr...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineTestSuite.pr...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineUDFRegistryT...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PipelineUDFRegistryT...'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PipelineUDFRegistryTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PipelineUDFRegistryTest'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'PolicyGeneratorTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1338,12 +1969,36 @@ Sample Test mapside Join and group by'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'PrintAllPathIn....main()'">
+      <Statistic Action="Run 'PreprocessingQboPipelineTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'PreprocessingQboPipelineTest'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ProcessorTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'PrintAllPathIn....main()'</Description>
-          <Count>1</Count>
+          <Description>Run 'ProcessorTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ProgrammaticSparkPip...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ProgrammaticSparkPip...'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ProgrammaticSparkPipelineExampleTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ProgrammaticSparkPipelineExampleTest'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ProxyParserBatchInpu...'">
@@ -1362,12 +2017,36 @@ Sample Test mapside Join and group by'</Description>
           <Count>6</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'RDDTest'">
+      <Statistic Action="Run 'QBOCompanyPipelineTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'RDDTest'</Description>
-          <Count>26</Count>
+          <Description>Run 'QBOCompanyPipelineTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'QboCompanyTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'QboCompanyTest'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ReflectUtilsTest.tes...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ReflectUtilsTest.tes...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ReflectUtilsTest.testInstantiate'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ReflectUtilsTest.testInstantiate'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run learningrust'">
@@ -1394,22 +2073,6 @@ Sample Test mapside Join and group by'</Description>
           <Count>6</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'SetMatrixZeroes'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'SetMatrixZeroes'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'ShortestWordDistance'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'ShortestWordDistance'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'SolrOutputDriverTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1434,6 +2097,22 @@ Sample Test mapside Join and group by'</Description>
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SparkPipelineStepTes...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'SparkPipelineStepTes...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SparkPipelineStepTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'SparkPipelineStepTest'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'SparkSolrJson'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1448,6 +2127,14 @@ Sample Test mapside Join and group by'</Description>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'SparkSolrReader'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SparkStandardizersTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'SparkStandardizersTest'</Description>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SqlBuilderTest'">
@@ -1474,12 +2161,12 @@ Sample Test mapside Join and group by'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'Subsets.main()'">
+      <Statistic Action="Run 'SudokuSolver'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'Subsets.main()'</Description>
-          <Count>1</Count>
+          <Description>Run 'SudokuSolver'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SuspiciousConnects'">
@@ -1488,6 +2175,22 @@ Sample Test mapside Join and group by'</Description>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'SuspiciousConnects'</Description>
           <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SyntheticDataTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'SyntheticDataTest'</Description>
+          <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SyntheticDataTest.generate synthetic data'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'SyntheticDataTest.generate synthetic data'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tbd'">
@@ -1522,6 +2225,30 @@ Sample Test mapside Join and group by'</Description>
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'TestCompanyDataCreat...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'TestCompanyDataCreat...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TestCompanyDataCreationPipelineTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'TestCompanyDataCreationPipelineTest'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TestGenerationPipeli...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'TestGenerationPipeli...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'TestKafkaExtractor'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1538,44 +2265,12 @@ Sample Test mapside Join and group by'</Description>
           <Count>7</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'TwoSum'">
+      <Statistic Action="Run 'ValidationStepTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'TwoSum'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'UniqueCharacters'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⌃R'</ShortCut>
-          <Description>Run 'UniqueCharacters'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'UniqueCharacters.main()'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'UniqueCharacters.main()'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'ValidPalindrome'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'ValidPalindrome'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'ValidParanthesis'">
-        <Item>
-          <IdeaActionID>RunClass</IdeaActionID>
-          <ShortCut>'⌃⇧R'</ShortCut>
-          <Description>Run 'ValidParanthesis'</Description>
-          <Count>7</Count>
+          <Description>Run 'ValidationStepTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'VflowToNetflowStoreConvertor'">
@@ -1584,6 +2279,22 @@ Sample Test mapside Join and group by'</Description>
           <ShortCut>'⇧F10' or '⌥⌘R'</ShortCut>
           <Description>Run 'VflowToNetflowStoreConvertor'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'WordSearch'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'WordSearch'</Description>
+          <Count>27</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'test'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'test'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run...">
@@ -1623,7 +2334,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -1631,7 +2342,15 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>142</Count>
+          <Count>136</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop ' mvn scoverage:report -DIncludeTags=InstrumentationTag '">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop ' mvn scoverage:report -DIncludeTags=InstrumentationTag '</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AlertHbaseDriverTest'">
@@ -1640,6 +2359,14 @@ Sample Test mapside Join and group by'</Description>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'AlertHbaseDriverTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ApplicationLauncher'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ApplicationLauncher'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BalanceSuite'">
@@ -1674,14 +2401,6 @@ Sample Test mapside Join and group by'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'BinaryTree'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'BinaryTree'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'BricataJsonDriverTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1714,12 +2433,12 @@ Sample Test mapside Join and group by'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'CommonCharacters'">
+      <Statistic Action="Stop 'CompanyProfileLookupApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'CommonCharacters'</Description>
-          <Count>3</Count>
+          <Description>Stop 'CompanyProfileLookupApplication'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CountChangeSuite.countChange: example given in instructions'">
@@ -1730,60 +2449,35 @@ Sample Test mapside Join and group by'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'DAGTest'">
+      <Statistic Action="Stop 'DataObfuscationTestSuite'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'DAGTest'</Description>
-          <Count>23</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'DAGTest.DAG Test Join and Group BY'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'DAGTest.DAG Test Join and Group BY'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'DAGTest.DAG Test mapside Join and group by'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'DAGTest.DAG Test mapside Join and group by'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'DAGTest.Parquet Test Should Read parquet file as expected'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'DAGTest.Parquet Test Should Read parquet file as expected'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'DAGTest.Sample Test Join and Group BY&#10;Sample Test mapside Join and group by'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'DAGTest.Sample Test Join and Group BY
-Sample Test mapside Join and group by'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'DAGTest.Sample Test mapside Join and group by'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'DAGTest.Sample Test mapside Join and group by'</Description>
+          <Description>Stop 'DataObfuscationTestSuite'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'DataFrameTest'">
+      <Statistic Action="Stop 'DataObfuscationTestSuite.chlorine test'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'DataFrameTest'</Description>
+          <Description>Stop 'DataObfuscationTestSuite.chlorine test'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DataObfuscationTestSuite.hashtest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DataObfuscationTestSuite.hashtest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DataUpdateUtilsTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DataUpdateUtilsTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1811,20 +2505,28 @@ Sample Test mapside Join and group by'</Description>
           <Count>7</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'DeleteCompaniesPipelineTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DeleteCompaniesPipelineTest'</Description>
+          <Count>37</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DeleteCompaniesPipelineTest.Pipeline run should fail'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DeleteCompaniesPipelineTest.Pipeline run should fail'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'DelimitedOutputTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DelimitedOutputTest'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'EqualSumSubset'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'EqualSumSubset'</Description>
-          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FileListerTest'">
@@ -1843,12 +2545,52 @@ Sample Test mapside Join and group by'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'GEMTests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GEMTests'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GraphLoaderSuite'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GraphLoaderSuite'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GraphLoaderSuite.DockerCompose is working as expected'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GraphLoaderSuite.DockerCompose is working as expected'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GraphloaderTestSuite'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GraphloaderTestSuite'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'HbaseOutputTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'HbaseOutputTest'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'InstrumentationTraitTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'InstrumentationTraitTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'IpfixCirceModel'">
@@ -1897,38 +2639,6 @@ Sample Test mapside Join and group by'</Description>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'KafkaStreamingSparkExample'</Description>
           <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'Knapsack'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'Knapsack'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'LinkedList'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'LinkedList'</Description>
-          <Count>13</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'MatrixPaths'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'MatrixPaths'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'MaxStack'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'MaxStack'</Description>
-          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'NetflowDataSourceTest'">
@@ -1987,6 +2697,62 @@ Sample Test mapside Join and group by'</Description>
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'PipelineConfigVariableSubstitutionTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PipelineConfigVariableSubstitutionTest'</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PipelineConfigVariableSubstitutionTest.Test variable substititon'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PipelineConfigVariableSubstitutionTest.Test variable substititon'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PipelineStepTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PipelineStepTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PipelineTestSuite'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PipelineTestSuite'</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PipelineTestSuite.1 QBO Entity Vertices Load'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PipelineTestSuite.1 QBO Entity Vertices Load'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PipelineTestSuite.Delete customers,vendors,employees pipeline'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PipelineTestSuite.Delete customers,vendors,employees pipeline'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'PipelineUDFRegistryTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'PipelineUDFRegistryTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'PolicyGeneratorTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -2003,12 +2769,20 @@ Sample Test mapside Join and group by'</Description>
           <Count>103</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'RDDTest'">
+      <Statistic Action="Stop 'PreprocessingQboPipelineTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'RDDTest'</Description>
+          <Description>Stop 'PreprocessingQboPipelineTest'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ReflectUtilsTest.testInstantiate'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ReflectUtilsTest.testInstantiate'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ScalaConsumerExample'">
@@ -2033,6 +2807,14 @@ Sample Test mapside Join and group by'</Description>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'SolrOutputTest'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SparkPipelineStepTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SparkPipelineStepTest'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SparkSolrReader'">
@@ -2075,12 +2857,28 @@ Sample Test mapside Join and group by'</Description>
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SyntheticDataTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SyntheticDataTest'</Description>
+          <Count>32</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Tbd'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Tbd'</Description>
           <Count>54</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TestGenerationPipelineTest.Data generation'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'TestGenerationPipelineTest.Data generation'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TestKafkaStreaming'">
@@ -2091,19 +2889,27 @@ Sample Test mapside Join and group by'</Description>
           <Count>5</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'UniqueCharacters'">
+      <Statistic Action="Stop 'WordSearch'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'UniqueCharacters'</Description>
-          <Count>2</Count>
+          <Description>Stop 'WordSearch'</Description>
+          <Count>13</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'ValidParanthesis'">
+      <Statistic Action="Stop 'sbg-graph [compile]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'ValidParanthesis'</Description>
+          <Description>Stop 'sbg-graph [compile]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'sbg-graph [test]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'sbg-graph [test]'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -2112,7 +2918,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>20</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -2120,7 +2926,15 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
-          <Count>10</Count>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize">
+        <Item>
+          <IdeaActionID>Synchronize</IdeaActionID>
+          <ShortCut>'⌥⌘Y'</ShortCut>
+          <Description>Synchronize</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -2128,7 +2942,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>TODO</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -2136,7 +2950,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2144,7 +2958,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>602</Count>
+          <Count>756</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
@@ -2152,7 +2966,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
           <ShortCut>'⌃⇧B' or '⇧⌘Button1 Click' or '⇧Button2 Click'</ShortCut>
           <Description>Type Declaration</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -2160,7 +2974,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
@@ -2176,7 +2990,7 @@ Sample Test mapside Join and group by'</Description>
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
