@@ -1,3 +1,5 @@
 <templateSet group="SQL (DBN)">
-  <template name="decl" value="declare&#10;begin&#10;    $END$&#10;end;&#10;/" description="Declare block" toReformat="true" toShortenFQNames="false" deactivated="true" />
+  <template name="decl" value="declare&#10;begin&#10;    $END$&#10;end;&#10;/" description="Declare block" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <context />
+  </template>
 </templateSet>
