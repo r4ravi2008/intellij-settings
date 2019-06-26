@@ -134,6 +134,12 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/src/main/scala/com/cloudwick/cloudjumper/core/policy/PolicyJobDetail.scala" timestamp="1561582477625">
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="12" />
+        <mark key="^" line="29" column="14" />
+        <mark key="." line="32" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/BinaryTree.java" timestamp="1551824401708">
         <mark key="'" line="228" column="0" />
         <mark key="[" line="227" column="0" />
@@ -753,6 +759,12 @@
         <mark key="^" line="21" column="67" />
         <mark key="." line="21" column="67" />
       </file>
+      <file name="/sbtShell" timestamp="1561582490772">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/output/storeoutput/StoreOutput.scala" timestamp="1541447941959">
         <mark key="[" line="93" column="47" />
         <mark key="]" line="119" column="9" />
@@ -793,6 +805,12 @@
         <mark key="]" line="27" column="29" />
         <mark key="^" line="27" column="29" />
         <mark key="." line="27" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/src/main/scala/com/cloudwick/cloudjumper/core/scheduler/CloudjumperScheduler.scala" timestamp="1561582129580">
+        <mark key="[" line="21" column="42" />
+        <mark key="]" line="21" column="43" />
+        <mark key="." line="21" column="43" />
+        <mark key="^" line="21" column="43" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/models/store/descriptor/AbstractKafkaStoreDescriptor.scala" timestamp="1539365670872">
         <mark key="[" line="13" column="6" />
@@ -994,7 +1012,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://github.com/KillrVideo/killrvideo-dse-config/tree/master/lib/wait-for-it</text>
+        <text>.stripMargin</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1003,7 +1021,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>https://github.com/KillrVideo/killrvideo-dse-config/tree/master/lib/wait-for-it</text>
+        <text>.stripMargin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxRQk9Db21wYW55U3RhdHVzTG9hZGVyU3RlcFw+</text>
