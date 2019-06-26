@@ -134,11 +134,11 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/src/main/scala/com/cloudwick/cloudjumper/core/policy/PolicyJobDetail.scala" timestamp="1561582477625">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="12" />
-        <mark key="^" line="29" column="14" />
-        <mark key="." line="32" column="12" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/src/main/scala/com/cloudwick/cloudjumper/core/policy/PolicyJobDetail.scala" timestamp="1561583995253">
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="27" column="36" />
+        <mark key="^" line="27" column="7" />
+        <mark key="." line="27" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/BinaryTree.java" timestamp="1551824401708">
         <mark key="'" line="228" column="0" />
@@ -235,6 +235,9 @@
         <mark key="]" line="60" column="22" />
         <mark key="." line="60" column="22" />
         <mark key="^" line="60" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/src/main/scala/com/cloudwick/cloudjumper/core/db/dao/TableDefinitions.scala" timestamp="1561584139702">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/ListNode.scala" timestamp="1550513084804">
         <mark key="[" line="7" column="8" />
@@ -759,7 +762,7 @@
         <mark key="^" line="21" column="67" />
         <mark key="." line="21" column="67" />
       </file>
-      <file name="/sbtShell" timestamp="1561582490772">
+      <file name="/sbtShell" timestamp="1561582554314">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -909,8 +912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="432" column="101" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
-      <jump line="433" column="64" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="500" column="5" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="506" column="17" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="507" column="21" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
@@ -1009,10 +1010,12 @@
       <jump line="24" column="32" filename="$USER_HOME$/dev/repos/network-graph-pipeline/Jenkinsfile" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/network-graph-pipeline/Jenkinsfile" />
       <jump line="164" column="0" filename="$USER_HOME$/dev/repos/network-graph-pipeline/infra/docker/scripts/wait_for_it.sh" />
+      <jump line="22" column="6" filename="$USER_HOME$/dev/repos/cloudjumper/src/main/scala/com/cloudwick/cloudjumper/core/db/dao/TableDefinitions.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/cloudjumper/src/main/scala/com/cloudwick/cloudjumper/core/db/dao/TableDefinitions.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.stripMargin</text>
+        <text>PolicyJobDetail{name: $name, type: $`type`, properties: $properties}</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1021,7 +1024,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>.stripMargin</text>
+        <text>PolicyJobDetail{name: $name, type: $`type`, properties: $properties}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxRQk9Db21wYW55U3RhdHVzTG9hZGVyU3RlcFw+</text>
