@@ -274,6 +274,12 @@
         <mark key="^" line="223" column="70" />
         <mark key="." line="223" column="70" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/client/src/main/scala/com/cloudwick/cloudjumper/client/cluster/AmbariClient.scala" timestamp="1562008451662">
+        <mark key="[" line="2" column="73" />
+        <mark key="]" line="2" column="75" />
+        <mark key="^" line="2" column="75" />
+        <mark key="." line="2" column="75" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/CorrelationDriverTest.scala" timestamp="1539845291844">
         <mark key="[" line="98" column="45" />
         <mark key="]" line="98" column="70" />
@@ -867,7 +873,6 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="26" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/client/src/main/scala/com/cloudwick/cloudjumper/client/cluster/ClusterManagerClient.scala" timestamp="1561877716880" />
       <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/CommonCharacters.scala" timestamp="1551829877823">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
