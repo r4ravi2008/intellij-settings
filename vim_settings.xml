@@ -672,6 +672,12 @@
         <mark key="]" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/project/Core.scala" timestamp="1562014996993">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-server/app/controllers/catalog/StoresCreateController.scala" timestamp="1538521772178">
         <mark key="[" line="62" column="84" />
         <mark key="]" line="62" column="85" />
@@ -708,6 +714,12 @@
         <mark key="^" line="110" column="70" />
         <mark key="." line="110" column="70" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/project/Client.scala" timestamp="1562015309362">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/output/storeoutput/StoreOutput.sc" timestamp="1539640977136">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="29" />
@@ -743,6 +755,12 @@
         <mark key="]" line="84" column="6" />
         <mark key="." line="84" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/project/plugins.sbt" timestamp="1562013636087">
+        <mark key="[" line="0" column="56" />
+        <mark key="]" line="0" column="56" />
+        <mark key="." line="0" column="56" />
+        <mark key="^" line="0" column="57" />
+      </file>
       <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/TwoSum.scala" timestamp="1551696939225">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -767,7 +785,7 @@
         <mark key="^" line="21" column="67" />
         <mark key="." line="21" column="67" />
       </file>
-      <file name="/sbtShell" timestamp="1561877607294">
+      <file name="/sbtShell" timestamp="1562013648314">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -843,6 +861,12 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/project/Dependencies.scala" timestamp="1562015046016">
+        <mark key="[" line="39" column="60" />
+        <mark key="]" line="39" column="68" />
+        <mark key="^" line="39" column="68" />
+        <mark key="." line="39" column="68" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/SampleKafkaFlow.json" timestamp="1540235540707">
         <mark key="[" line="24" column="25" />
         <mark key="]" line="24" column="26" />
@@ -911,6 +935,12 @@
         <mark key="]" line="121" column="71" />
         <mark key="." line="121" column="71" />
         <mark key="^" line="121" column="71" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/client/src/test/scala/com/cloudwick/cloudjumper/SimpleTest.scala" timestamp="1562015354728">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1551615475408">
         <mark key="[" line="0" column="0" />
@@ -1020,7 +1050,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PolicyJobDetail{name: $name, type: $`type`, properties: $properties}</text>
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1029,7 +1059,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>PolicyJobDetail{name: $name, type: $`type`, properties: $properties}</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxRQk9Db21wYW55U3RhdHVzTG9hZGVyU3RlcFw+</text>
@@ -1038,244 +1068,34 @@
         <text>QboTestCompaniesTableLoad</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiAnZG9ja2VyLmFydGlmYWN0b3J5LmEuaW50dWl0LmNvbS9kZXYvYnVpbGQvaWJwL2pubHAtc2xhdmUtd2l0aC1kb2NrZXI6My4yNi0xX2plbmtpbnMtMi0xMzgtdXBkYXRlXzMnCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgQ29tbW9uLnNjYWxhdGVzdCAlICJ0ZXN0IiwK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuXwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICAtIERTX0xJQ0VOU0U9YWNjZXB0CiAgICAgICMgY29tbWFuZDogWwogICAgICAjICAiLi9jcmVhdGVfZ3JhcGhfc2NoZW1hLnNoIiwKICAgICAgIyAgIiYiCiAgICAgICNdCiAgICB2b2x1bWVzOgogICAgICAtIC4uL3NyYy90ZXN0L3Jlc291cmNlcy9zY2hlbWE6L29wdC9kc2Uvc2NoZW1hCiAgICAgIC0gLi9jb25mczovY29uZmln</text>
+      <register name="5" type="2">
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NvdmVyYWdlIiAlICJzYnQtY292ZXJhZ2UiICUgIjEuNi4wIikK</text>
       </register>
-      <register name="6" type="4">
-        <text>def ibpMavenSettingsFileCredential = 'ibp-maven-settings-file'
-def assetId = '1011075708648597131'
-def teamEmail = 'SBSEG-PDGraphPipeline@intuit.com'
-
-pipeline {
-    agent {
-        kubernetes {
-            // Use a dynamic pod name because static labels are known to cause pod creation errors.
-            label &quot;maven-pod-${UUID.randomUUID().toString()}&quot;
-            defaultContainer &quot;jnlp&quot;
-            yamlFile 'infra/kubernetes/pod.yml'
-        }
-    }
-    environment {
-        IBP_MAVEN_SETTINGS_FILE = credentials(&quot;${ibpMavenSettingsFileCredential}&quot;)
-        AUTHOR_EMAIL = sh(script: &quot;git log --format='%ae' HEAD^!&quot;, returnStdout: true).trim()
-
-        S3_BUCKET_ACCESS_ROLE_PPD = 'arn:aws:iam::515192565807:role/ibp2-jenkins-s3-access-role'
-        S3_BUCKET_DEPLOY_PATH_DEV = 's3://idl-artifacts-processing-sbgnet-dev/sbg-graph/'
-        S3_BUCKET_DEPLOY_PATH_QA  = 's3://idl-artifacts-processing-sbgnet-qa/sbg-graph/'
-        S3_BUCKET_DEPLOY_PATH_E2E = 's3://idl-artifacts-processing-sbgnet-e2e/sbg-graph/'
-        S3_BUCKET_ACCESS_ROLE_PRD = 'arn:aws:iam::473156531564:role/ibp2-jenkins-s3-access-role'
-        S3_BUCKET_DEPLOY_PATH_PRF = 's3://idl-artifacts-processing-sbgnet-prf/sbg-graph/'
-        S3_BUCKET_DEPLOY_PATH_PRD = 's3://idl-artifacts-processing-sbgnet-prd/sbg-graph/'
-        SLACK_EMAIL = 'o3a4n0w6t8a9s4i4@intuit-teams.slack.com'
-    }
-    options {
-        timestamps()
-        buildDiscarder(logRotator(daysToKeepStr: '30', numToKeepStr: '50', artifactDaysToKeepStr: '30', artifactNumToKeepStr: '50'))
-    }
-    stages {
-        stage('test-and-package') {
-            steps {
-                container('maven') {
-                    sh '''
-                        export M3_HOME=${MAVEN_HOME}/bin
-                        mvn -B clean
-                        mvn -B scoverage:report -DtagsToExclude=PipelineTests,GraphloaderTests,GemTests
-                        mvn -B scoverage:report -DtagsToInclude=PipelineTests
-                        mvn -B scoverage:report -DtagsToInclude=GemTests
-                        mvn -B scoverage:report -DtagsToInclude=GraphloaderTests
-                        mvn -B scoverage:check-only
-                        mvn -B -DskipTests package
-                    '''
-                }
-                script {
-                    try {
-                        step([
-                                $class    : 'ScoveragePublisher',
-                                reportDir : 'target/site/scoverage',
-                                reportFile: 'index.html'
-                        ])
-                    } catch (e) {
-                        echo &quot;Scoverage report not found...&quot;
-                    }
-                }
-                publishHTML (target: [
-                        allowMissing: true,
-                        alwaysLinkToLastBuild: false,
-                        keepAll: true,
-                        reportDir: 'target/html/scalatest',
-                        reportFiles: 'index.html',
-                        reportName: &quot;Scalatest Report&quot;
-                ])
-            }
-        }
-
-        stage('deploy-develop-to-dev') {
-            environment{
-                DEPLOY_ENV = 'dev'
-            }
-            when {
-                allOf {
-                    branch 'put-your-branch-name-here'
-                }
-            }
-            steps{
-                //Not a pull request
-                deployBuildToS3(env.DEPLOY_ENV, env.S3_BUCKET_ACCESS_ROLE_PPD, env.S3_BUCKET_DEPLOY_PATH_DEV)
-            }
-        }
-
-        stage('deploy-develop-to-qa') {
-            environment{
-                DEPLOY_ENV = 'qa'
-            }
-            when {
-                allOf {
-                    branch 'develop'
-                }
-            }
-            steps{
-                //Not a pull request
-                deployBuildToS3(env.DEPLOY_ENV, env.S3_BUCKET_ACCESS_ROLE_PPD, env.S3_BUCKET_DEPLOY_PATH_QA)
-            }
-        }
-
-        stage('deploy-master-to-e2e') {
-            environment{
-                DEPLOY_ENV = 'e2e'
-            }
-            when {
-                allOf {
-                    branch 'release/*'
-                }
-            }
-            steps{
-                //Not a pull request
-                deployBuildToS3(env.DEPLOY_ENV, env.S3_BUCKET_ACCESS_ROLE_PPD, env.S3_BUCKET_DEPLOY_PATH_E2E)
-            }
-        }
-        stage('deploy-release-to-perf') {
-            environment{
-                DEPLOY_ENV = 'perf'
-            }
-            when {
-                allOf {
-                    branch 'release/*'
-                }
-            }
-            steps{
-                script {
-                    def isDeploy = true
-                    try {
-                        timeout(time:120, unit:'SECONDS') {
-                            input(message: 'Deploy this build to perf?', ok: 'Yes')
-                        }
-                    } catch (e) {
-                        isDeploy = false
-                        echo &quot;Input timed out or aborted, skipping deployment to perf.......&quot;
-                    }
-                    if(isDeploy) {
-                        deployBuildToS3(env.DEPLOY_ENV, env.S3_BUCKET_ACCESS_ROLE_PRD, env.S3_BUCKET_DEPLOY_PATH_PRF)
-                    }
-                }
-            }
-        }
-
-        stage('deploy-to-prod') {
-            environment{
-                DEPLOY_ENV = 'prod'
-            }
-            when {
-                allOf {
-                    branch 'release/*'
-                }
-            }
-            steps{
-                script {
-                    def isDeploy = true
-                    try {
-                        timeout(time:5, unit:'DAYS') {
-                            input(message: 'Deploy this build to PROD?', ok: 'Yes')
-                        }
-                        timeout(time:180, unit:'SECONDS') {
-                            input(message: 'Are you sure you want to deploy to PROD?', ok: 'Yes')
-                        }
-                    } catch (e) {
-                        isDeploy = false
-                        echo &quot;Input timed out or aborted, skipping deployment to prod.......&quot;
-                    }
-                    if(isDeploy) {
-                        deployBuildToS3(env.DEPLOY_ENV, env.S3_BUCKET_ACCESS_ROLE_PRD, env.S3_BUCKET_DEPLOY_PATH_PRD)
-                    }
-                }
-            }
-        }
-    }
-    post {
-        success {
-            echo &quot;Network Pipeline Success&quot;
-            mail to: &quot;${AUTHOR_EMAIL}&quot;,
-                 subject: &quot;Build Success: ${currentBuild.fullDisplayName}&quot;,
-                 body: &quot;Build was Successful : ${env.BUILD_URL}&quot;
-        }
-        failure {
-            echo &quot;Network Pipeline Failure&quot;
-            script {
-                if (env.BRANCH_NAME == 'master' || env.BRANCH_NAME == 'develop' || env.BRANCH_NAME == 'release/*') {
-                    emailext (
-                        to: env.SLACK_EMAIL,
-                        subject: &quot;Build failure for branch ${env.BRANCH_NAME}: Needs atention&quot;,
-                        body: &quot;Build failure for branch ${env.BRANCH_NAME}. URL ${env.BUILD_URL}&quot;,
-                        attachLog: false,
-                        )
-                }
-            }
-            mail to: &quot;${AUTHOR_EMAIL}&quot;,
-                    subject: &quot;Failed pipeline: ${currentBuild.fullDisplayName}&quot;,
-                    body: &quot;Something is wrong in ${env.BUILD_URL}&quot;
-        }
-    }
-}
-
-def deployBuildToS3(String envName, String s3Role, String s3Path) {
-    sh &quot;&quot;&quot;
-        echo &quot;Deploying to ${envName}&quot;
-
-        echo &quot;S3 Bucket Access Role: ${s3Role}&quot;
-        echo &quot;S3 Bucket Deploy Path for Prod : ${s3Path}&quot;
-
-        temp_role=\$(aws sts assume-role --role-arn ${s3Role} --role-session-name AWSCLI-Session)
-
-        export AWS_ACCESS_KEY_ID=\$(echo \$temp_role | jq .Credentials.AccessKeyId | xargs)
-        export AWS_SECRET_ACCESS_KEY=\$(echo \$temp_role | jq .Credentials.SecretAccessKey | xargs)
-        export AWS_SESSION_TOKEN=\$(echo \$temp_role | jq .Credentials.SessionToken | xargs)
-
-        aws s3 rm ${s3Path} --recursive
-        aws s3 cp . ${s3Path} --recursive --exclude '.git/*'
-    &quot;&quot;&quot;
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGltYWdlOiAnZG9ja2VyLmFydGlmYWN0b3J5LmEuaW50dWl0LmNvbS9kZXYvYnVpbGQvaWJwL2pubHAtc2xhdmUtd2l0aC1kb2NrZXI6My4yNi0xX2plbmtpbnMtMi0xMzgtdXBkYXRlXzMnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBTb3VyY2U6IGh0dHBzOi8vZ2l0aHViLmNvbS9LaWxsclZpZGVvL2tpbGxydmlkZW8tZHNlLWNvbmZpZy90cmVlL21hc3Rlci9saWIvd2FpdC1mb3ItaXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNkIC9vcHQvZHNlCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEJMVUUsIFJFRCwgV0hJVEUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
