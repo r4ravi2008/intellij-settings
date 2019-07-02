@@ -93,9 +93,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/scala/com/intuit/network/graph/ml/blocking/GemUDFRegistry.scala" timestamp="1560465633110">
-        <mark key="[" line="2" column="22" />
-      </file>
       <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/Knapsack.scala" timestamp="1553751753652">
         <mark key="'" line="143" column="3" />
         <mark key="[" line="143" column="3" />
@@ -298,9 +295,6 @@
         <mark key="." line="70" column="18" />
         <mark key="^" line="70" column="18" />
       </file>
-      <file name="/a.sql" timestamp="1560490930965">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-server/app/services/catalog/StorageService.scala" timestamp="1541543192950">
         <mark key="[" line="24" column="75" />
         <mark key="]" line="24" column="75" />
@@ -324,9 +318,6 @@
         <mark key="]" line="20" column="3" />
         <mark key="^" line="18" column="26" />
         <mark key="." line="20" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/test/scala/com/intuit/network/graph/ml/lab/MatchingUtilsTest.scala" timestamp="1560465891119">
-        <mark key="[" line="32" column="3" />
       </file>
       <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/lihaoyi/fastparse_2.11/2.0.4/fastparse_2.11-2.0.4-sources.jar!/fastparse/package.scala" timestamp="1540240790002">
         <mark key="[" line="332" column="8" />
@@ -861,11 +852,11 @@
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/project/Dependencies.scala" timestamp="1562015046016">
-        <mark key="[" line="39" column="60" />
-        <mark key="]" line="39" column="68" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/project/Dependencies.scala" timestamp="1562099244461">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
         <mark key="^" line="39" column="68" />
-        <mark key="." line="39" column="68" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/SampleKafkaFlow.json" timestamp="1540235540707">
         <mark key="[" line="24" column="25" />
@@ -941,9 +932,6 @@
         <mark key="]" line="5" column="25" />
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
-      </file>
-      <file name="/fragment.java" timestamp="1551615475408">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1049,8 +1037,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/cloudjumper/src/main/scala/com/cloudwick/cloudjumper/core/db/dao/TableDefinitions.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1071,25 +1059,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQ29tbW9uLnNjYWxhdGVzdCAlICJ0ZXN0IiwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQ29tbW9uLnNjYWxhdGVzdCAlICJ0ZXN0IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NvdmVyYWdlIiAlICJzYnQtY292ZXJhZ2UiICUgIjEuNi4wIikK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuXwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiAnZG9ja2VyLmFydGlmYWN0b3J5LmEuaW50dWl0LmNvbS9kZXYvYnVpbGQvaWJwL2pubHAtc2xhdmUtd2l0aC1kb2NrZXI6My4yNi0xX2plbmtpbnMtMi0xMzgtdXBkYXRlXzMnCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJvcmcuc2NvdmVyYWdlIiAlICJzYnQtY292ZXJhZ2UiICUgIjEuNi4wIikK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">ICAgIGltYWdlOiAnZG9ja2VyLmFydGlmYWN0b3J5LmEuaW50dWl0LmNvbS9kZXYvYnVpbGQvaWJwL2pubHAtc2xhdmUtd2l0aC1kb2NrZXI6My4yNi0xX2plbmtpbnMtMi0xMzgtdXBkYXRlXzMnCg==</text>
       </register>
       <register name="x" type="4">
         <text />
