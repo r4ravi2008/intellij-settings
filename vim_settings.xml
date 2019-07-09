@@ -45,11 +45,20 @@
         <mark key="^" line="17" column="15" />
         <mark key="." line="17" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/job/InstanceJobStatus.scala" timestamp="1562696377348">
+        <mark key="[" line="14" column="45" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+        <mark key="." line="14" column="45" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-core/src/main/scala/com/cloudwick/cdl/etl/core/utils/PolicyStatusUtils.scala" timestamp="1540833265042">
         <mark key="[" line="37" column="36" />
         <mark key="]" line="37" column="42" />
         <mark key="." line="37" column="42" />
         <mark key="^" line="37" column="42" />
+      </file>
+      <file name="/a.dummy" timestamp="1562696532001">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/kafka_test_policy.json" timestamp="1539649197500">
         <mark key="[" line="19" column="20" />
@@ -57,10 +66,11 @@
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/db/dao/TableDefinitions.scala" timestamp="1562638382279">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/db/dao/TableDefinitions.scala" timestamp="1562695585826">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/temp/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/util/SolrUtil.scala" timestamp="1539218557074">
         <mark key="[" line="175" column="21" />
@@ -85,11 +95,6 @@
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1551843641330">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/QuartzSchedulerProperties.scala" timestamp="1562624276891">
         <mark key="[" line="21" column="0" />
@@ -166,11 +171,6 @@
         <mark key="^" line="86" column="69" />
         <mark key="." line="86" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/repos/EIISv2/src/test/java/com/intuit/eiam/identity/eiisv2/helper/IdentityPostgresqlContainer.java" timestamp="1560274869619">
-        <mark key="[" line="32" column="70" />
-        <mark key="]" line="32" column="70" />
-        <mark key="." line="32" column="70" />
-      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/test/resources/log-collector-samples/log_sample.json" timestamp="1540234589295">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -225,11 +225,6 @@
         <mark key="." line="60" column="22" />
         <mark key="^" line="60" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/error/RemoteException.scala" timestamp="1562623058994">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/ListNode.scala" timestamp="1550513084804">
         <mark key="[" line="7" column="8" />
         <mark key="]" line="4" column="5" />
@@ -247,11 +242,6 @@
         <mark key="]" line="97" column="42" />
         <mark key="^" line="97" column="33" />
         <mark key="." line="97" column="42" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/MyHashMap.scala" timestamp="1551825743798">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/BricataJsonDriverTest.scala" timestamp="1539845282587">
         <mark key="[" line="223" column="45" />
@@ -349,11 +339,11 @@
         <mark key="." line="124" column="27" />
         <mark key="^" line="124" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/policy/JobDataParam.scala" timestamp="1562624162774">
-        <mark key="[" line="39" column="1" />
-        <mark key="]" line="39" column="1" />
-        <mark key="." line="39" column="1" />
-        <mark key="^" line="39" column="0" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/policy/JobDataParam.scala" timestamp="1562696388093">
+        <mark key="[" line="48" column="1" />
+        <mark key="]" line="48" column="1" />
+        <mark key="." line="48" column="1" />
+        <mark key="^" line="48" column="1" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-server/app/modules/ServicesModule.scala" timestamp="1541042295270">
         <mark key="[" line="30" column="28" />
@@ -436,6 +426,12 @@
       <file name="$USER_HOME$/dev/repos/cloudjumper/api/src/main/scala/com/cloudwick/cloudjumper/api/client/request/CreatePolicy.scala" timestamp="1562624141927">
         <mark key="[" line="42" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/utils/ClusterUtil.scala" timestamp="1562696449481">
+        <mark key="[" line="53" column="75" />
+        <mark key="]" line="53" column="73" />
+        <mark key="^" line="53" column="73" />
+        <mark key="." line="53" column="73" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-rpc/src/main/scala/com/cloudwick/cdl/manager/util/DatabaseModule.scala" timestamp="1541040644467">
         <mark key="[" line="23" column="18" />
         <mark key="]" line="23" column="33" />
@@ -484,11 +480,6 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/scalastyle-config.xml" timestamp="1562622960719">
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="20" column="49" />
-        <mark key="." line="20" column="49" />
-      </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/api/src/main/scala/com/cloudwick/cloudjumper/api/entity/cluster/PluginType.scala" timestamp="1562624120165">
         <mark key="[" line="37" column="1" />
       </file>
@@ -516,11 +507,12 @@
         <mark key="^" line="132" column="42" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/project/Settings.scala" timestamp="1562638629769">
-        <mark key="[" line="125" column="3" />
-        <mark key="]" line="42" column="45" />
-        <mark key="." line="42" column="45" />
-        <mark key="^" line="42" column="45" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/project/Settings.scala" timestamp="1562695539898">
+        <mark key="'" line="49" column="38" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="12" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/DateTransformer/DateTimeParser.scala" timestamp="1539983761359">
         <mark key="[" line="140" column="23" />
@@ -558,11 +550,6 @@
         <mark key="." line="101" column="73" />
         <mark key="^" line="101" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/resources/pipelines/config/NetworkGraphPipelineBase_dev.conf" timestamp="1560281767811">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/models/daos/CustomTypeMappings.scala" timestamp="1541196359480">
         <mark key="[" line="81" column="27" />
         <mark key="]" line="81" column="52" />
@@ -581,13 +568,11 @@
         <mark key="^" line="111" column="72" />
         <mark key="." line="111" column="72" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/project/Api.scala" timestamp="1562181262884">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/QuartzJobListener.scala" timestamp="1562624109203">
-        <mark key="[" line="74" column="86" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/QuartzJobListener.scala" timestamp="1562696586013">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="88" column="102" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/catalog-client/src/main/scala/com/cloudwick/cdl/catalog/PartitionIndexState.scala" timestamp="1541542820128">
         <mark key="[" line="23" column="58" />
@@ -739,11 +724,6 @@
         <mark key="^" line="20" column="34" />
         <mark key="." line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/main/scala/com/intuit/network/graph/ml/matching/MatchingUtils.scala" timestamp="1560466095303">
-        <mark key="[" line="84" column="6" />
-        <mark key="]" line="84" column="6" />
-        <mark key="." line="84" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/project/plugins.sbt" timestamp="1562013636087">
         <mark key="[" line="0" column="56" />
         <mark key="]" line="0" column="56" />
@@ -777,7 +757,7 @@
         <mark key="^" line="21" column="67" />
         <mark key="." line="21" column="67" />
       </file>
-      <file name="/sbtShell" timestamp="1562637257509">
+      <file name="/sbtShell" timestamp="1562696326964">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -813,11 +793,6 @@
         <mark key="^" line="19" column="48" />
         <mark key="." line="19" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/java/com/ravi/interview/Subsets.java" timestamp="1561568885306">
-        <mark key="[" line="10" column="52" />
-        <mark key="]" line="10" column="52" />
-        <mark key="." line="10" column="52" />
-      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/main/scala/com/cloudwick/cdl/etl/driver/stage/BatchInputStage.scala" timestamp="1539801285208">
         <mark key="[" line="27" column="20" />
         <mark key="]" line="27" column="29" />
@@ -848,8 +823,8 @@
         <mark key="^" line="148" column="46" />
         <mark key="." line="148" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562638184626">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1562696595358">
+        <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -859,6 +834,7 @@
         <mark key="^" line="39" column="68" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/org.scalastyle/scalastyle-sbt-plugin/jars/scalastyle-sbt-plugin-1.0.0.jar!/org/scalastyle/sbt/ScalastylePlugin.class" timestamp="1562694947740" />
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/SampleKafkaFlow.json" timestamp="1540235540707">
         <mark key="[" line="24" column="25" />
         <mark key="]" line="24" column="26" />
@@ -898,11 +874,6 @@
       <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/QuartzJobDetailBuilder.scala" timestamp="1562624373145">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/CommonCharacters.scala" timestamp="1551829877823">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/ClusterTestPolicy.json" timestamp="1541447893957">
         <mark key="[" line="36" column="65" />
         <mark key="]" line="36" column="66" />
@@ -921,21 +892,11 @@
       <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/db/DatabaseProvider.scala" timestamp="1562624858592">
         <mark key="[" line="20" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/ValidPalindrome.scala" timestamp="1551713340278">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/network-graph-pipeline/src/test/scala/com/intuit/network/graph/ml/blocking/GEMTests.scala" timestamp="1560469681741">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="42" column="1" />
         <mark key="." line="42" column="1" />
         <mark key="^" line="42" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/network-graph-pipeline/infra/docker/docker-compose.yml" timestamp="1560544092164">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/OniFlowPolicyTest.scala" timestamp="1539845386908">
         <mark key="[" line="121" column="46" />
@@ -951,7 +912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="507" column="21" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="508" column="25" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="509" column="36" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="510" column="115" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
@@ -1051,10 +1011,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/cloudjumper/src/main/scala/com/cloudwick/cloudjumper/core/db/dao/TableDefinitions.scala" />
       <jump line="42" column="31" filename="$USER_HOME$/dev/repos/cloudjumper/project/Settings.scala" />
       <jump line="122" column="0" filename="$USER_HOME$/dev/repos/cloudjumper/project/Settings.scala" />
+      <jump line="49" column="38" filename="$USER_HOME$/dev/repos/cloudjumper/project/Settings.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYK</text>
+      <register name="&quot;" type="4">
+        <text>Enable scalastyle across the code base and add some minor nits.</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1063,7 +1024,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>cdl</text>
+        <text>Enable scalastyle across the code base and add some minor nits.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxRQk9Db21wYW55U3RhdHVzTG9hZGVyU3RlcFw+</text>
@@ -1072,34 +1033,37 @@
         <text>QboTestCompaniesTableLoad</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gc2NhbGFzdHlsZTpvZmYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8gc2NhbGFzdHlsZSBzZXR1cApsYXp5IHZhbCBjb21waWxlU2NhbGFzdHlsZSA9IHRhc2tLZXlbVW5pdF0oImNvbXBpbGVTY2FsYXN0eWxlIikKY29tcGlsZVNjYWxhc3R5bGUgOj0gc2NhbGFzdHlsZS5pbihDb21waWxlKS50b1Rhc2soIiIpLnZhbHVlCihjb21waWxlIGluIENvbXBpbGUpIDo9ICgoY29tcGlsZSBpbiBDb21waWxlKSBkZXBlbmRzT24gY29tcGlsZVNjYWxhc3R5bGUpLnZhbHVlCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b2ZmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHNjYWxhc3R5bGU6b24K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>implicit class ScalaStyleConfigurator(project: Project) {
+    def configureScalaStyleTest: Project = project.settings(testScalastyle := scalastyle.in(Test).toTask(&quot;&quot;).value)
+      .settings(test in Test := ((test in Test) dependsOn testScalastyle).value)
+  }</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
