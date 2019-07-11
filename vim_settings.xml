@@ -757,7 +757,7 @@
         <mark key="^" line="21" column="67" />
         <mark key="." line="21" column="67" />
       </file>
-      <file name="/sbtShell" timestamp="1562696326964">
+      <file name="/sbtShell" timestamp="1562859691306">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -834,7 +834,6 @@
         <mark key="^" line="39" column="68" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/org.scalastyle/scalastyle-sbt-plugin/jars/scalastyle-sbt-plugin-1.0.0.jar!/org/scalastyle/sbt/ScalastylePlugin.class" timestamp="1562694947740" />
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/SampleKafkaFlow.json" timestamp="1540235540707">
         <mark key="[" line="24" column="25" />
         <mark key="]" line="24" column="26" />
