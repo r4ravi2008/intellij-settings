@@ -315,6 +315,12 @@
         <mark key="^" line="30" column="79" />
         <mark key="." line="30" column="85" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/InstanceReplication.scala" timestamp="1563218603190">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="13" column="7" />
+        <mark key="^" line="13" column="7" />
+        <mark key="." line="13" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/syslog/Utilities.scala" timestamp="1540276840440">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="17" />
