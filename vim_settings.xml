@@ -27,6 +27,12 @@
         <mark key="^" line="54" column="73" />
         <mark key="." line="54" column="73" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/ReplicationJobDetails.scala" timestamp="1563219821188">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-server/app/tasks/StoresRetentionEnforcer.scala" timestamp="1540677829379">
         <mark key="[" line="38" column="56" />
         <mark key="]" line="38" column="55" />
@@ -315,11 +321,11 @@
         <mark key="^" line="30" column="79" />
         <mark key="." line="30" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/InstanceReplication.scala" timestamp="1563218603190">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="13" column="7" />
-        <mark key="^" line="13" column="7" />
-        <mark key="." line="13" column="7" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/InstanceReplication.scala" timestamp="1563219535157">
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="18" column="46" />
+        <mark key="^" line="18" column="46" />
+        <mark key="." line="18" column="46" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/syslog/Utilities.scala" timestamp="1540276840440">
         <mark key="[" line="13" column="0" />
@@ -1020,7 +1026,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Enable scalastyle across the code base and add some minor nits.</text>
+        <text>{
+
+  
+
+}</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1037,8 +1047,12 @@
       <register name="0" type="4">
         <text>QboTestCompaniesTableLoad</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+
+  
+
+}</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1050,25 +1064,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>implicit class ScalaStyleConfigurator(project: Project) {
-    def configureScalaStyleTest: Project = project.settings(testScalastyle := scalastyle.in(Test).toTask(&quot;&quot;).value)
-      .settings(test in Test := ((test in Test) dependsOn testScalastyle).value)
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
