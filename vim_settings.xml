@@ -334,11 +334,11 @@
         <mark key="^" line="30" column="79" />
         <mark key="." line="30" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/InstanceReplication.scala" timestamp="1563313157368">
-        <mark key="[" line="49" column="3" />
-        <mark key="]" line="47" column="46" />
-        <mark key="^" line="47" column="46" />
-        <mark key="." line="47" column="46" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/InstanceReplication.scala" timestamp="1563314025485">
+        <mark key="[" line="68" column="35" />
+        <mark key="]" line="68" column="34" />
+        <mark key="^" line="68" column="34" />
+        <mark key="." line="68" column="34" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/syslog/Utilities.scala" timestamp="1540276840440">
         <mark key="[" line="13" column="0" />
@@ -1041,7 +1041,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text encoding="base64">Q2x1c3RlciA=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1050,7 +1050,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text encoding="base64">Q2x1c3RlciA=</text>
       </register>
       <register name="/" type="4">
         <text>interrupt</text>
