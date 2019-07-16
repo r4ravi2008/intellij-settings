@@ -201,6 +201,7 @@
         <mark key="." line="25" column="25" />
         <mark key="^" line="99" column="55" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/cluster/src/main/scala/com/cloudwick/cloudjumper/client/cluster/cloudera/ClouderaManagerClient.scala" timestamp="1563301861857" />
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/syslog/TimeStamp.scala" timestamp="1540276830963">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="13" column="0" />
@@ -224,6 +225,12 @@
         <mark key="]" line="22" column="44" />
         <mark key="^" line="22" column="39" />
         <mark key="." line="22" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/job/InstanceExecutionDetails.scala" timestamp="1563303040994">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/models/store/descriptor/FlowStoreDescriptor.scala" timestamp="1540337200498">
         <mark key="[" line="60" column="16" />
@@ -327,11 +334,11 @@
         <mark key="^" line="30" column="79" />
         <mark key="." line="30" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/InstanceReplication.scala" timestamp="1563265863800">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="3" />
-        <mark key="^" line="22" column="3" />
-        <mark key="." line="22" column="3" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/InstanceReplication.scala" timestamp="1563303559413">
+        <mark key="[" line="33" column="3" />
+        <mark key="]" line="32" column="51" />
+        <mark key="^" line="32" column="51" />
+        <mark key="." line="32" column="51" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/syslog/Utilities.scala" timestamp="1540276840440">
         <mark key="[" line="13" column="0" />
@@ -586,12 +593,14 @@
         <mark key="^" line="111" column="72" />
         <mark key="." line="111" column="72" />
       </file>
+      <file name="$USER_HOME$/dev/repos/dlm_engine/common/src/main/java/com/hortonworks/beacon/job/InstanceExecutionDetails.java" timestamp="1563302208989" />
       <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/QuartzJobListener.scala" timestamp="1562696586013">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="^" line="88" column="102" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/dlm_engine/replication/src/main/java/com/hortonworks/beacon/replication/InstanceReplication.java" timestamp="1563303280487" />
       <file name="$USER_HOME$/dev/repos/cdl/catalog-client/src/main/scala/com/cloudwick/cdl/catalog/PartitionIndexState.scala" timestamp="1541542820128">
         <mark key="[" line="23" column="58" />
         <mark key="]" line="24" column="57" />
@@ -841,7 +850,7 @@
         <mark key="^" line="148" column="46" />
         <mark key="." line="148" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562696595358">
+      <file name="/Dummy.txt" timestamp="1563300905334">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -1032,7 +1041,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>000.2.6.5.1002-SNAPSHOT</text>
+        <text>S</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1041,41 +1050,41 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>000.2.6.5.1002-SNAPSHOT</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxRQk9Db21wYW55U3RhdHVzTG9hZGVyU3RlcFw+</text>
+        <text>interrupt</text>
       </register>
       <register name="0" type="4">
         <text>QboTestCompaniesTableLoad</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWwgZGV0YWlsczogUmVwbGljYXRpb25Kb2JEZXRhaWxzCg==</text>
-      </register>
-      <register name="2" type="4">
-        <text>{
-
-  
-
-}</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="4">
+        <text>def initialize(properties: Properties): Unit = ???
+
+  def execute(context: JobContext): Unit = ???
+
+  def interrupt(): Unit = ???</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmZzLkZpbGVTeXN0ZW0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB2YXIgZGV0YWlsczogUmVwbGljYXRpb25Kb2JEZXRhaWxzCg==</text>
       </register>
       <register name="x" type="4">
         <text />
@@ -1091,9 +1100,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxRQk9Db21wYW55U3RhdHVzTG9hZGVyU3RlcFw+</last-search>
+      <last-search>interrupt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxRQk9Db21wYW55U3RhdHVzTG9hZGVyU3RlcFw+</last-pattern>
+      <last-pattern>interrupt</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>api</last-substitute>
       <last-dir>1</last-dir>
@@ -1101,7 +1110,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gelAll</entry>
         <entry>getALl</entry>
         <entry>getAll</entry>
         <entry>append</entry>
@@ -1121,6 +1129,7 @@
         <entry>profitHelper</entry>
         <entry>Profit</entry>
         <entry>until</entry>
+        <entry>interrupt</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
