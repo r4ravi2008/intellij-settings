@@ -702,7 +702,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -942,7 +942,7 @@
           <IdeaActionID>ReplaceInPath</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Replace in Path...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BalanceSuite'">

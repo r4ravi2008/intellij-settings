@@ -63,7 +63,7 @@
         <mark key="." line="37" column="42" />
         <mark key="^" line="37" column="42" />
       </file>
-      <file name="/a.dummy" timestamp="1562696532001">
+      <file name="/a.dummy" timestamp="1563390376013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/kafka_test_policy.json" timestamp="1539649197500">
@@ -101,6 +101,13 @@
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplication.scala" timestamp="1563392982743">
+        <mark key="'" line="25" column="8" />
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="25" column="32" />
+        <mark key="." line="25" column="32" />
+        <mark key="^" line="25" column="32" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/QuartzSchedulerProperties.scala" timestamp="1562624276891">
         <mark key="[" line="21" column="0" />
@@ -291,6 +298,7 @@
         <mark key="." line="70" column="18" />
         <mark key="^" line="70" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/repos/dlm_engine/replication/src/main/java/com/hortonworks/beacon/replication/fs/FSReplication.java" timestamp="1563392253980" />
       <file name="$USER_HOME$/dev/repos/cdl/manager-server/app/services/catalog/StorageService.scala" timestamp="1541543192950">
         <mark key="[" line="24" column="75" />
         <mark key="]" line="24" column="75" />
@@ -315,6 +323,9 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="20" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/repos/dlm_engine/replication/src/main/java/com/hortonworks/beacon/replication/fs/HDFSReplication.java" timestamp="1563393170509">
+        <mark key="'" line="89" column="26" />
+      </file>
       <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/lihaoyi/fastparse_2.11/2.0.4/fastparse_2.11-2.0.4-sources.jar!/fastparse/package.scala" timestamp="1540240790002">
         <mark key="[" line="332" column="8" />
         <mark key="]" line="332" column="7" />
@@ -333,11 +344,11 @@
         <mark key="^" line="30" column="79" />
         <mark key="." line="30" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/InstanceReplication.scala" timestamp="1563378267494">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="72" column="32" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/InstanceReplication.scala" timestamp="1563390972426">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/syslog/Utilities.scala" timestamp="1540276840440">
         <mark key="[" line="13" column="0" />
@@ -411,6 +422,7 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/repos/dlm_engine/entity/src/main/java/com/hortonworks/beacon/entity/FSDRProperties.java" timestamp="1563392552697" />
       <file name="$USER_HOME$/dev/repos/temp/cdl/project/Etl.scala" timestamp="1539219587587">
         <mark key="[" line="27" column="32" />
         <mark key="]" line="23" column="7" />
@@ -597,6 +609,7 @@
         <mark key="^" line="88" column="102" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/dlm_engine/replication/src/main/java/com/hortonworks/beacon/replication/InstanceReplication.java" timestamp="1563390519997" />
       <file name="$USER_HOME$/dev/repos/cdl/catalog-client/src/main/scala/com/cloudwick/cdl/catalog/PartitionIndexState.scala" timestamp="1541542820128">
         <mark key="[" line="23" column="58" />
         <mark key="]" line="24" column="57" />
@@ -666,7 +679,6 @@
       <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/db/dao/BaseDAO.scala" timestamp="1562624407424">
         <mark key="[" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/job/CloudjumperJob.scala" timestamp="1563378544995" />
       <file name="$USER_HOME$/dev/repos/cdl/manager-server/app/controllers/catalog/StoresCreateController.scala" timestamp="1538521772178">
         <mark key="[" line="62" column="84" />
         <mark key="]" line="62" column="85" />
@@ -847,8 +859,8 @@
         <mark key="^" line="148" column="46" />
         <mark key="." line="148" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563300905334">
-        <mark key="[" line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1563390760155">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -933,10 +945,9 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/repos/dlm_engine/common/src/main/java/com/hortonworks/beacon/util/FSUtils.java" timestamp="1563392376179" />
     </filemarks>
     <jumps>
-      <jump line="508" column="25" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
-      <jump line="509" column="36" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="510" column="115" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="511" column="26" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="512" column="22" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
@@ -1035,10 +1046,12 @@
       <jump line="42" column="31" filename="$USER_HOME$/dev/repos/cloudjumper/project/Settings.scala" />
       <jump line="122" column="0" filename="$USER_HOME$/dev/repos/cloudjumper/project/Settings.scala" />
       <jump line="49" column="38" filename="$USER_HOME$/dev/repos/cloudjumper/project/Settings.scala" />
+      <jump line="18" column="8" filename="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplication.scala" />
+      <jump line="89" column="26" filename="$USER_HOME$/dev/repos/dlm_engine/replication/src/main/java/com/hortonworks/beacon/replication/fs/HDFSReplication.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BeacocawnException</text>
+        <text encoding="base64">dG8g</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1047,7 +1060,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>BeacocawnException</text>
+        <text encoding="base64">dG8g</text>
       </register>
       <register name="/" type="4">
         <text>interrupt</text>
@@ -1055,12 +1068,11 @@
       <register name="0" type="4">
         <text>QboTestCompaniesTableLoad</text>
       </register>
-      <register name="1" type="4">
-        <text>//    val source: Cluster = Cluster()
-//    val target: Cluster = Cluster()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQ29tbW9uLnNjYWxhY3RpYywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -1069,26 +1081,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>def initialize(properties: Properties): Unit = ???
-
-  def execute(context: JobContext): Unit = ???
-
-  def interrupt(): Unit = ???</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIENoZWNrIGlmIGVuY3J5cHRpb24vZGVjcnlwdGlvbiBpcyBlbmFibGVkIG9uIHNvdXJjZS90YXJnZXQgY2x1c3RlcnMuCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmZzLkZpbGVTeXN0ZW0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
