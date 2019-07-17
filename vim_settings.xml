@@ -52,10 +52,10 @@
         <mark key="." line="17" column="15" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/job/InstanceJobStatus.scala" timestamp="1562696377348">
-        <mark key="[" line="22" column="45" />
-        <mark key="]" line="22" column="45" />
-        <mark key="^" line="22" column="45" />
-        <mark key="." line="22" column="45" />
+        <mark key="[" line="14" column="45" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+        <mark key="." line="14" column="45" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-core/src/main/scala/com/cloudwick/cdl/etl/core/utils/PolicyStatusUtils.scala" timestamp="1540833265042">
         <mark key="[" line="37" column="36" />
@@ -333,11 +333,11 @@
         <mark key="^" line="30" column="79" />
         <mark key="." line="30" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/InstanceReplication.scala" timestamp="1563315442012">
-        <mark key="[" line="74" column="3" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="73" column="32" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/InstanceReplication.scala" timestamp="1563377867464">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="72" column="32" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/syslog/Utilities.scala" timestamp="1540276840440">
         <mark key="[" line="13" column="0" />
@@ -467,6 +467,12 @@
         <mark key="]" line="11" column="57" />
         <mark key="^" line="11" column="57" />
         <mark key="." line="11" column="57" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/FsReplication.scala" timestamp="1563377938400">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/build.sbt" timestamp="1548117584015">
         <mark key="[" line="17" column="59" />
@@ -1030,8 +1036,9 @@
       <jump line="49" column="38" filename="$USER_HOME$/dev/repos/cloudjumper/project/Settings.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgQ29tbW9uLnNjYWxhY3RpYywK</text>
+      <register name="&quot;" type="4">
+        <text>//    val source: Cluster = Cluster()
+//    val target: Cluster = Cluster()</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1048,33 +1055,34 @@
       <register name="0" type="4">
         <text>QboTestCompaniesTableLoad</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQ29tbW9uLnNjYWxhY3RpYywK</text>
+      <register name="1" type="4">
+        <text>//    val source: Cluster = Cluster()
+//    val target: Cluster = Cluster()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgQ29tbW9uLnNjYWxhY3RpYywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>def initialize(properties: Properties): Unit = ???
 
   def execute(context: JobContext): Unit = ???
 
   def interrupt(): Unit = ???</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmZzLkZpbGVTeXN0ZW0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="x" type="4">
         <text />
