@@ -102,12 +102,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplication.scala" timestamp="1563420719713">
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplication.scala" timestamp="1563424811850">
         <mark key="'" line="25" column="8" />
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="14" />
-        <mark key="." line="36" column="14" />
-        <mark key="^" line="36" column="14" />
+        <mark key="[" line="54" column="30" />
+        <mark key="]" line="53" column="31" />
+        <mark key="." line="53" column="31" />
+        <mark key="^" line="53" column="31" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/QuartzSchedulerProperties.scala" timestamp="1562624276891">
         <mark key="[" line="21" column="0" />
@@ -1065,7 +1065,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGl0ZXIK</text>
+        <text encoding="base64">ICAgIGlmKHByb3BlcnRpZXMuY29udGFpbnNLZXkoIkVOQUJMRV9TTkFQU0hPVEJBU0VEX1JFUExJQ0FUSU9OIikpIHsK</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1080,37 +1080,37 @@
         <text>interrupt</text>
       </register>
       <register name="0" type="4">
-        <text>QboTestCompaniesTableLoad</text>
+        <text>ENABLE_SNAPSHOTBASED_REPLICATION</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGl0ZXIK</text>
+        <text encoding="base64">ICAgIGlmKHByb3BlcnRpZXMuY29udGFpbnNLZXkoIkVOQUJMRV9TTkFQU0hPVEJBU0VEX1JFUExJQ0FUSU9OIikpIHsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGl0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNlY3VyaXR5LmF1dGgubG9naW4uQ29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnNlY3VyaXR5LmF1dGgubG9naW4uQ29uZmlndXJhdGlvbgo=</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
