@@ -102,12 +102,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplication.scala" timestamp="1563430973143">
-        <mark key="'" line="25" column="8" />
-        <mark key="[" line="50" column="29" />
-        <mark key="]" line="50" column="27" />
-        <mark key="." line="50" column="27" />
-        <mark key="^" line="50" column="27" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplication.scala" timestamp="1563557138698">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="21" column="82" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/QuartzSchedulerProperties.scala" timestamp="1562624276891">
         <mark key="[" line="21" column="0" />
@@ -420,6 +420,9 @@
         <mark key="]" line="23" column="24" />
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/dlm_engine/entity/src/main/java/com/hortonworks/beacon/entity/FSDRProperties.java" timestamp="1563556927396">
+        <mark key="'" line="41" column="21" />
       </file>
       <file name="$USER_HOME$/dev/repos/temp/cdl/project/Etl.scala" timestamp="1539219587587">
         <mark key="[" line="27" column="32" />
@@ -963,8 +966,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="510" column="115" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
-      <jump line="511" column="26" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="512" column="22" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="513" column="18" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="516" column="6" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
@@ -1063,10 +1064,12 @@
       <jump line="49" column="38" filename="$USER_HOME$/dev/repos/cloudjumper/project/Settings.scala" />
       <jump line="18" column="8" filename="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplication.scala" />
       <jump line="89" column="26" filename="$USER_HOME$/dev/repos/dlm_engine/replication/src/main/java/com/hortonworks/beacon/replication/fs/HDFSReplication.java" />
+      <jump line="37" column="4" filename="$USER_HOME$/dev/repos/dlm_engine/entity/src/main/java/com/hortonworks/beacon/entity/FSDRProperties.java" />
+      <jump line="41" column="21" filename="$USER_HOME$/dev/repos/dlm_engine/entity/src/main/java/com/hortonworks/beacon/entity/FSDRProperties.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmKHByb3BlcnRpZXMuY29udGFpbnNLZXkoIkVOQUJMRV9TTkFQU0hPVEJBU0VEX1JFUExJQ0FUSU9OIikpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>FSUtils.getStagingUri(properties.getProperty(&quot;SOURCE_URL&quot;), )</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1075,43 +1078,43 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eCA=</text>
+        <text>FSUtils.getStagingUri(properties.getProperty(&quot;SOURCE_URL&quot;), )</text>
       </register>
       <register name="/" type="4">
-        <text>interrupt</text>
+        <text>NN</text>
       </register>
       <register name="0" type="4">
         <text>ENABLE_SNAPSHOTBASED_REPLICATION</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmKHByb3BlcnRpZXMuY29udGFpbnNLZXkoIkVOQUJMRV9TTkFQU0hPVEJBU0VEX1JFUExJQ0FUSU9OIikpIHsK</text>
+        <text encoding="base64">ICAgIHZhbCBzb3VyY2VGcyA9IEZTVXRpbHMuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmKHByb3BlcnRpZXMuY29udGFpbnNLZXkoIkVOQUJMRV9TTkFQU0hPVEJBU0VEX1JFUExJQ0FUSU9OIikpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGl0ZXIK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGl0ZXIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNlY3VyaXR5LmF1dGgubG9naW4uQ29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
@@ -1121,9 +1124,9 @@
       </register>
     </registers>
     <search>
-      <last-search>interrupt</last-search>
+      <last-search>NN</last-search>
       <last-offset />
-      <last-pattern>interrupt</last-pattern>
+      <last-pattern>NN</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>api</last-substitute>
       <last-dir>1</last-dir>
@@ -1131,8 +1134,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getALl</entry>
-        <entry>getAll</entry>
         <entry>append</entry>
         <entry encoding="base64">XDxhcHBOYW1lXD4=</entry>
         <entry>def</entry>
@@ -1151,6 +1152,8 @@
         <entry>Profit</entry>
         <entry>until</entry>
         <entry>interrupt</entry>
+        <entry>nn</entry>
+        <entry>NN</entry>
       </history-search>
       <history-cmd>
         <entry>set relative</entry>
