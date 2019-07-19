@@ -220,6 +220,11 @@
         <mark key="." line="25" column="25" />
         <mark key="^" line="99" column="55" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/cluster/src/main/scala/com/cloudwick/cloudjumper/client/cluster/cloudera/ClouderaManagerClient.scala" timestamp="1563572327435">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/syslog/TimeStamp.scala" timestamp="1540276830963">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="13" column="0" />
@@ -1101,8 +1106,8 @@
       <jump line="41" column="21" filename="$USER_HOME$/dev/repos/dlm_engine/entity/src/main/java/com/hortonworks/beacon/entity/FSDRProperties.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Add DistCpFactory, FileSystemClientFactory, FSUtils, HDFSReplication, HDFSReplicationTest with some stubs.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1123,31 +1128,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXIgZGlzdENwOiBPcHRpb25bRGlzdENwXSA9IF8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRl</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgRlNEUlByb3BlcnRpZXMgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBzb3VyY2VGcyA9IEZTVXRpbHMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmKHByb3BlcnRpZXMuY29udGFpbnNLZXkoIkVOQUJMRV9TTkFQU0hPVEJBU0VEX1JFUExJQ0FUSU9OIikpIHsK</text>
+        <text encoding="base64">ICB2YXIgZGlzdENwOiBPcHRpb25bRGlzdENwXSA9IF8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGl0ZXIK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRl</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
