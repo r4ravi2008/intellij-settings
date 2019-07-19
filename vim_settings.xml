@@ -108,12 +108,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplication.scala" timestamp="1563565660342">
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplication.scala" timestamp="1563568001986">
         <mark key="'" line="27" column="8" />
-        <mark key="[" line="66" column="4" />
-        <mark key="]" line="66" column="7" />
-        <mark key="." line="66" column="7" />
-        <mark key="^" line="66" column="7" />
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/QuartzSchedulerProperties.scala" timestamp="1562624276891">
         <mark key="[" line="21" column="0" />
@@ -151,11 +151,11 @@
       <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/error/CloudjumperException.scala" timestamp="1562623044407">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/project/Replication.scala" timestamp="1563564611156">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="17" column="25" />
-        <mark key="^" line="17" column="25" />
-        <mark key="." line="17" column="25" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/project/Replication.scala" timestamp="1563567638265">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-sdk/src/main/scala/com/cloudwick/cdl/etl/sdk/pipeline/input/BatchInput.scala" timestamp="1549561896168">
         <mark key="[" line="22" column="11" />
@@ -361,8 +361,8 @@
         <mark key="^" line="30" column="79" />
         <mark key="." line="30" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/InstanceReplication.scala" timestamp="1563390972426">
-        <mark key="[" line="0" column="1" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/InstanceReplication.scala" timestamp="1563567453122">
+        <mark key="[" line="85" column="1" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -585,6 +585,12 @@
         <mark key="]" line="23" column="89" />
         <mark key="^" line="23" column="89" />
         <mark key="." line="23" column="89" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/test/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplicationTest.scala" timestamp="1563568047343">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="24" />
+        <mark key="^" line="27" column="24" />
+        <mark key="." line="27" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/BricataDriverTest.scala" timestamp="1539845248957">
         <mark key="[" line="208" column="45" />
@@ -836,7 +842,7 @@
         <mark key="^" line="21" column="67" />
         <mark key="." line="21" column="67" />
       </file>
-      <file name="/sbtShell" timestamp="1563375950435">
+      <file name="/sbtShell" timestamp="1563567367869">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -902,8 +908,8 @@
         <mark key="^" line="148" column="46" />
         <mark key="." line="148" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563420785535">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1563568362710">
+        <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -987,6 +993,9 @@
         <mark key="]" line="5" column="25" />
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
+      </file>
+      <file name="/fragment.java" timestamp="1563567744339">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1092,8 +1101,8 @@
       <jump line="41" column="21" filename="$USER_HOME$/dev/repos/dlm_engine/entity/src/main/java/com/hortonworks/beacon/entity/FSDRProperties.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Add DistCpFactory, FileSystemClientFactory, FSUtils, HDFSReplication, HDFSReplicationTest with some stubs.</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1102,7 +1111,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text>Add DistCpFactory, FileSystemClientFactory, FSUtils, HDFSReplication, HDFSReplicationTest with some stubs.</text>
       </register>
       <register name="/" type="4">
         <text>NN</text>
