@@ -102,6 +102,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/FSProperties.scala" timestamp="1563557931043">
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplication.scala" timestamp="1563557138698">
         <mark key="'" line="28" column="8" />
         <mark key="[" line="21" column="25" />
@@ -1069,7 +1075,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FSUtils.getStagingUri(properties.getProperty(&quot;SOURCE_URL&quot;), )</text>
+        <text encoding="base64">ZW51bSA=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1078,7 +1084,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>FSUtils.getStagingUri(properties.getProperty(&quot;SOURCE_URL&quot;), )</text>
+        <text encoding="base64">ZW51bSA=</text>
       </register>
       <register name="/" type="4">
         <text>NN</text>
