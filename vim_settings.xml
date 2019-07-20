@@ -220,11 +220,6 @@
         <mark key="." line="25" column="25" />
         <mark key="^" line="99" column="55" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/cluster/src/main/scala/com/cloudwick/cloudjumper/client/cluster/cloudera/ClouderaManagerClient.scala" timestamp="1563572327435">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/syslog/TimeStamp.scala" timestamp="1540276830963">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="13" column="0" />
