@@ -220,6 +220,9 @@
         <mark key="." line="25" column="25" />
         <mark key="^" line="99" column="55" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/cluster/src/main/scala/com/cloudwick/cloudjumper/client/cluster/cloudera/ClouderaManagerClient.scala" timestamp="1563770885825">
+        <mark key="'" line="34" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/syslog/TimeStamp.scala" timestamp="1540276830963">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="13" column="0" />
@@ -415,6 +418,12 @@
         <mark key="]" line="48" column="23" />
         <mark key="." line="48" column="23" />
         <mark key="^" line="48" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/cluster/src/main/scala/com/cloudwick/cloudjumper/client/cluster/cloudera/test.scala" timestamp="1563771222414">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+        <mark key="^" line="15" column="38" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/models/store/descriptor/KafkaStoreDescriptor.scala" timestamp="1539365762855">
         <mark key="[" line="44" column="42" />
@@ -1005,7 +1014,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="512" column="22" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="513" column="18" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="516" column="6" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="518" column="13" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
@@ -1105,10 +1113,11 @@
       <jump line="89" column="26" filename="$USER_HOME$/dev/repos/dlm_engine/replication/src/main/java/com/hortonworks/beacon/replication/fs/HDFSReplication.java" />
       <jump line="37" column="4" filename="$USER_HOME$/dev/repos/dlm_engine/entity/src/main/java/com/hortonworks/beacon/entity/FSDRProperties.java" />
       <jump line="41" column="21" filename="$USER_HOME$/dev/repos/dlm_engine/entity/src/main/java/com/hortonworks/beacon/entity/FSDRProperties.java" />
+      <jump line="34" column="18" filename="$USER_HOME$/dev/repos/cloudjumper/cluster/src/main/scala/com/cloudwick/cloudjumper/client/cluster/cloudera/ClouderaManagerClient.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gcloud</text>
+        <text>54.91.47.213</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1117,10 +1126,10 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>gcloud</text>
+        <text>54.91.47.213</text>
       </register>
       <register name="/" type="4">
-        <text>NN</text>
+        <text>version</text>
       </register>
       <register name="0" type="4">
         <text>ENABLE_SNAPSHOTBASED_REPLICATION</text>
@@ -1163,9 +1172,9 @@
       </register>
     </registers>
     <search>
-      <last-search>NN</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>NN</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>api</last-substitute>
       <last-dir>1</last-dir>
@@ -1173,7 +1182,6 @@
     </search>
     <history>
       <history-search>
-        <entry>append</entry>
         <entry encoding="base64">XDxhcHBOYW1lXD4=</entry>
         <entry>def</entry>
         <entry>print</entry>
@@ -1193,6 +1201,7 @@
         <entry>interrupt</entry>
         <entry>nn</entry>
         <entry>NN</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>set relative</entry>
