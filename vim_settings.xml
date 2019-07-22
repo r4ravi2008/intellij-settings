@@ -108,12 +108,11 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplication.scala" timestamp="1563568001986">
-        <mark key="'" line="27" column="8" />
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="22" column="33" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplication.scala" timestamp="1563804317320">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="45" column="33" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/QuartzSchedulerProperties.scala" timestamp="1562624276891">
         <mark key="[" line="21" column="0" />
@@ -152,10 +151,10 @@
         <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/project/Replication.scala" timestamp="1563567638265">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="18" column="29" />
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="20" column="29" />
+        <mark key="^" line="20" column="29" />
+        <mark key="." line="20" column="29" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-sdk/src/main/scala/com/cloudwick/cdl/etl/sdk/pipeline/input/BatchInput.scala" timestamp="1549561896168">
         <mark key="[" line="22" column="11" />
@@ -219,9 +218,6 @@
         <mark key="]" line="25" column="25" />
         <mark key="." line="25" column="25" />
         <mark key="^" line="99" column="55" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/cluster/src/main/scala/com/cloudwick/cloudjumper/client/cluster/cloudera/ClouderaManagerClient.scala" timestamp="1563770885825">
-        <mark key="'" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/syslog/TimeStamp.scala" timestamp="1540276830963">
         <mark key="[" line="12" column="18" />
@@ -1127,8 +1123,8 @@
       <jump line="34" column="18" filename="$USER_HOME$/dev/repos/cloudjumper/cluster/src/main/scala/com/cloudwick/cloudjumper/client/cluster/cloudera/ClouderaManagerClient.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Remove cloudera container from pod</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyA0Lgo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1145,7 +1141,10 @@
       <register name="0" type="4">
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAvLyA0Lgo=</text>
+      </register>
+      <register name="2" type="4">
         <text>&quot;&quot;&quot;
 
 apiVersion: v1
@@ -1163,35 +1162,29 @@ spec:
     tty: true
 &quot;&quot;&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb21wb25lbnQ6IGNpCg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">bGFiZWxzOgo=</text>
+        <text encoding="base64">ICBjb21wb25lbnQ6IGNpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlQWNjb3VudE5hbWU6IGNkLWplbmtpbnMK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">bGFiZWxzOgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb21wb25lbnQ6IGNpCg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBzZXJ2aWNlQWNjb3VudE5hbWU6IGNkLWplbmtpbnMK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">bGFiZWxzOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb21wb25lbnQ6IGNpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzZXJ2aWNlQWNjb3VudE5hbWU6IGNkLWplbmtpbnMK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>- name: clouderamanager
-    image: cloudera/quickstart command:
-    - cat
-    tty: true</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
