@@ -426,6 +426,7 @@
         <mark key="." line="15" column="38" />
         <mark key="^" line="15" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/job/nodes/NodeGenerator.scala" timestamp="1563817666318" />
       <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/models/store/descriptor/KafkaStoreDescriptor.scala" timestamp="1539365762855">
         <mark key="[" line="44" column="42" />
         <mark key="]" line="44" column="52" />
@@ -681,8 +682,10 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/CloudjumperConfig.scala" timestamp="1562622885177">
-        <mark key="[" line="98" column="1" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/CloudjumperConfig.scala" timestamp="1563817826895">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/DistCpFactory.scala" timestamp="1563565386981">
         <mark key="[" line="13" column="0" />
@@ -1124,7 +1127,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyA0Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1142,9 +1145,12 @@
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAvLyA0Lgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>&quot;&quot;&quot;
 
 apiVersion: v1
@@ -1162,29 +1168,26 @@ spec:
     tty: true
 &quot;&quot;&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb21wb25lbnQ6IGNpCg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">bGFiZWxzOgo=</text>
+        <text encoding="base64">ICBjb21wb25lbnQ6IGNpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlQWNjb3VudE5hbWU6IGNkLWplbmtpbnMK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">bGFiZWxzOgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBzZXJ2aWNlQWNjb3VudE5hbWU6IGNkLWplbmtpbnMK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb21wb25lbnQ6IGNpCg==</text>
+        <text encoding="base64">bGFiZWxzOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlQWNjb3VudE5hbWU6IGNkLWplbmtpbnMK</text>
+        <text encoding="base64">ICBjb21wb25lbnQ6IGNpCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzZXJ2aWNlQWNjb3VudE5hbWU6IGNkLWplbmtpbnMK</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
