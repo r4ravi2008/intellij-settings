@@ -319,7 +319,12 @@
         <mark key="." line="70" column="18" />
         <mark key="^" line="70" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/.gitlab-ci.yml" timestamp="1563770566751" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/.gitlab-ci.yml" timestamp="1563773320591">
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="46" />
+        <mark key="^" line="23" column="46" />
+        <mark key="." line="23" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-server/app/services/catalog/StorageService.scala" timestamp="1541543192950">
         <mark key="[" line="24" column="75" />
         <mark key="]" line="24" column="75" />
@@ -365,11 +370,11 @@
         <mark key="^" line="30" column="79" />
         <mark key="." line="30" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/Jenkinsfile" timestamp="1563770599375">
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="23" column="24" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/Jenkinsfile" timestamp="1563774972289">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="34" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="34" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/InstanceReplication.scala" timestamp="1563567453122">
         <mark key="[" line="85" column="1" />
@@ -419,7 +424,7 @@
         <mark key="." line="48" column="23" />
         <mark key="^" line="48" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/cluster/src/main/scala/com/cloudwick/cloudjumper/client/cluster/cloudera/test.scala" timestamp="1563771222414">
+      <file name="$USER_HOME$/dev/repos/cloudjumper/cluster/src/main/scala/com/cloudwick/cloudjumper/client/cluster/cloudera/test.scala" timestamp="1563773153547">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="15" column="38" />
         <mark key="." line="15" column="38" />
@@ -923,7 +928,7 @@
         <mark key="^" line="148" column="46" />
         <mark key="." line="148" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563568362710">
+      <file name="/Dummy.txt" timestamp="1563775069793">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -1011,6 +1016,12 @@
       </file>
       <file name="/fragment.java" timestamp="1563567744339">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/kubernetes/pod.yml" timestamp="1563774987184">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -1117,7 +1128,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>54.91.47.213</text>
+        <text>Remove cloudera container from pod</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1126,43 +1137,61 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>54.91.47.213</text>
+        <text>Remove cloudera container from pod</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
       </register>
       <register name="0" type="4">
-        <text>ENABLE_SNAPSHOTBASED_REPLICATION</text>
+        <text>sbt clean coverage test coverageAggregate</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>&quot;&quot;&quot;
+
+apiVersion: v1
+kind: Pod
+metadata:
+  generateName: cloudjumper-
+spec:
+  # Use service account that can deploy to all namespaces
+  serviceAccountName: cd-jenkins
+  containers:
+  - name: sbt
+    image: hseeberger/scala-sbt:8u212_1.2.8_2.13.0
+    command:
+    - cat
+    tty: true
+&quot;&quot;&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21wb25lbnQ6IGNpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGFiZWxzOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZXJ2aWNlQWNjb3VudE5hbWU6IGNkLWplbmtpbnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGFiZWxzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21wb25lbnQ6IGNpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgZGlzdENwOiBPcHRpb25bRGlzdENwXSA9IF8K</text>
+        <text encoding="base64">ICBzZXJ2aWNlQWNjb3VudE5hbWU6IGNkLWplbmtpbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRl</text>
+        <text>- name: clouderamanager
+    image: cloudera/quickstart command:
+    - cat
+    tty: true</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
@@ -1204,7 +1233,6 @@
         <entry>version</entry>
       </history-search>
       <history-cmd>
-        <entry>set relative</entry>
         <entry>set number</entry>
         <entry>!set number</entry>
         <entry>!set relativenumber</entry>
@@ -1223,6 +1251,7 @@
         <entry>nornu</entry>
         <entry>nonu</entry>
         <entry>set nornu</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
