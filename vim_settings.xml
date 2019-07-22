@@ -316,6 +316,7 @@
         <mark key="." line="70" column="18" />
         <mark key="^" line="70" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/.gitlab-ci.yml" timestamp="1563770566751" />
       <file name="$USER_HOME$/dev/repos/cdl/manager-server/app/services/catalog/StorageService.scala" timestamp="1541543192950">
         <mark key="[" line="24" column="75" />
         <mark key="]" line="24" column="75" />
@@ -360,6 +361,12 @@
         <mark key="]" line="30" column="85" />
         <mark key="^" line="30" column="79" />
         <mark key="." line="30" column="85" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/Jenkinsfile" timestamp="1563770599375">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+        <mark key="^" line="23" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/InstanceReplication.scala" timestamp="1563567453122">
         <mark key="[" line="85" column="1" />
@@ -640,7 +647,6 @@
         <mark key="^" line="88" column="102" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/dlm_engine/replication/src/main/java/com/hortonworks/beacon/replication/InstanceReplication.java" timestamp="1563556113168" />
       <file name="$USER_HOME$/dev/repos/cdl/catalog-client/src/main/scala/com/cloudwick/cdl/catalog/PartitionIndexState.scala" timestamp="1541542820128">
         <mark key="[" line="23" column="58" />
         <mark key="]" line="24" column="57" />
@@ -1101,8 +1107,8 @@
       <jump line="41" column="21" filename="$USER_HOME$/dev/repos/dlm_engine/entity/src/main/java/com/hortonworks/beacon/entity/FSDRProperties.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gcloud</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1111,7 +1117,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Add DistCpFactory, FileSystemClientFactory, FSUtils, HDFSReplication, HDFSReplicationTest with some stubs.</text>
+        <text>gcloud</text>
       </register>
       <register name="/" type="4">
         <text>NN</text>
