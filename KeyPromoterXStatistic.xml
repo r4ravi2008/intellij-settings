@@ -1105,6 +1105,22 @@
           <Count>33</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ClouderaManagerClien...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ClouderaManagerClien...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ClouderaManagerClientTest.testFsHAEnabled'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ClouderaManagerClientTest.testFsHAEnabled'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'CompanyProfile....main()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
