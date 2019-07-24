@@ -86,7 +86,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'⌘X' or '⇧⌦'</ShortCut>
           <Description>Cut</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Object...">
@@ -710,7 +710,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>312</Count>
+          <Count>313</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desugar Scala code...">
@@ -2982,7 +2982,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>758</Count>
+          <Count>759</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
