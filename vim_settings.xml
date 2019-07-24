@@ -219,6 +219,7 @@
         <mark key="." line="25" column="25" />
         <mark key="^" line="99" column="55" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/cluster/src/main/scala/com/cloudwick/cloudjumper/client/cluster/cloudera/ClouderaManagerClient.scala" timestamp="1563993177237" />
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/syslog/TimeStamp.scala" timestamp="1540276830963">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="13" column="0" />
@@ -426,7 +427,6 @@
         <mark key="." line="15" column="38" />
         <mark key="^" line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/job/nodes/NodeGenerator.scala" timestamp="1563818023342" />
       <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/models/store/descriptor/KafkaStoreDescriptor.scala" timestamp="1539365762855">
         <mark key="[" line="44" column="42" />
         <mark key="]" line="44" column="52" />
@@ -451,7 +451,6 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/SchedulerCache.scala" timestamp="1563902621802" />
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/test/scala/com/cloudwick/cdl/etl/plugins/transformation/DatasetGenerator.scala" timestamp="1541462143554">
         <mark key="[" line="23" column="23" />
         <mark key="]" line="23" column="24" />
@@ -928,8 +927,8 @@
         <mark key="^" line="148" column="46" />
         <mark key="." line="148" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563775069793">
-        <mark key="[" line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1563993279174">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -944,9 +943,6 @@
         <mark key="]" line="24" column="26" />
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/QuartzJob.scala" timestamp="1562624640132">
-        <mark key="[" line="27" column="7" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/coordinator/conf/logback.xml" timestamp="1538458646952">
         <mark key="[" line="34" column="66" />
