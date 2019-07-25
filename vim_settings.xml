@@ -626,11 +626,11 @@
         <mark key="^" line="23" column="89" />
         <mark key="." line="23" column="89" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/test/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplicationTest.scala" timestamp="1564063976522">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-        <mark key="^" line="20" column="3" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/test/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplicationTest.scala" timestamp="1564066024385">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="44" column="70" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/BricataDriverTest.scala" timestamp="1539845248957">
         <mark key="[" line="208" column="45" />
@@ -950,10 +950,10 @@
         <mark key="^" line="148" column="46" />
         <mark key="." line="148" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563997438714">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1564066067969">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/project/Dependencies.scala" timestamp="1563564561250">
         <mark key="[" line="56" column="0" />
@@ -1147,7 +1147,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ENABLE_SNAPSHOTBASED_REPLICATION</text>
+        <text encoding="base64">IFdyaXRlIFN0dWIgdGVzdCBjYXNlcyBmb3IgY2xvdWRlcmEgbWFuYWdlciBjbGllbnQu</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1156,7 +1156,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>ENABLE_SNAPSHOTBASED_REPLICATION</text>
+        <text encoding="base64">IFdyaXRlIFN0dWIgdGVzdCBjYXNlcyBmb3IgY2xvdWRlcmEgbWFuYWdlciBjbGllbnQu</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
@@ -1165,7 +1165,7 @@
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1174,25 +1174,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uZi5zZXQoQ29uc3RhbnRzLk1BUFJFRF9RVUVVRV9OQU1FLCBxdWV1ZU5hbWUpCg==</text>
+        <text encoding="base64">ICAgIGpvYlByb3BlcnRpZXMuc2V0UHJvcGVydHkoRlNEUlByb3BlcnRpZXMuUVVFVUVfTkFNRS5uYW1lLCAic2FtcGxlX3F1ZXVlIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcXVldWVOYW1lID0+Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBoZGZzUmVwbGljYXRpb24gPSBuZXcgSERGU1JlcGxpY2F0aW9uKGpvYkRldGFpbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBqb2JQcm9wZXJ0aWVzID0gbmV3IFByb3BlcnRpZXMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmKCAhcXVldWVOYW1lLmlzRW1wdHkpIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbmYuc2V0KENPTkZfTEFCRUxfRklMVEVSU19DTEFTUywpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLnRvb2xzLkRpc3RDcENvbnN0YW50cy5DT05GX0xBQkVMXwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
