@@ -621,11 +621,10 @@
         <mark key="^" line="23" column="89" />
         <mark key="." line="23" column="89" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/test/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplicationTest.scala" timestamp="1564002074078">
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="27" column="24" />
-        <mark key="^" line="27" column="24" />
-        <mark key="." line="27" column="24" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/test/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplicationTest.scala" timestamp="1564047938046">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/BricataDriverTest.scala" timestamp="1539845248957">
         <mark key="[" line="208" column="45" />
@@ -764,7 +763,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/dlm_engine/replication/src/test/java/com/hortonworks/beacon/replication/fs/HDFSReplicationTest.java" timestamp="1564008975744" />
+      <file name="$USER_HOME$/dev/repos/dlm_engine/replication/src/test/java/com/hortonworks/beacon/replication/fs/HDFSReplicationTest.java" timestamp="1564048001172" />
       <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/error/IncompatibilityException.scala" timestamp="1562623009192">
         <mark key="[" line="10" column="0" />
       </file>
@@ -1141,8 +1140,8 @@
       <jump line="34" column="18" filename="$USER_HOME$/dev/repos/cloudjumper/cluster/src/main/scala/com/cloudwick/cloudjumper/client/cluster/cloudera/ClouderaManagerClient.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Add pod.yml file</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBmaW5hbCB2YWwgCg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1160,18 +1159,21 @@
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChjbGllbnQuY2RodmVyc2lvbikK</text>
+        <text encoding="base64">ICBmaW5hbCB2YWwgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGFzc2VydChjbGllbnQuY2RodmVyc2lvbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAvLyA0Lgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>&quot;&quot;&quot;
 
 apiVersion: v1
@@ -1189,20 +1191,17 @@ spec:
     tty: true
 &quot;&quot;&quot;</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBjb21wb25lbnQ6IGNpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">bGFiZWxzOgo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXJ2aWNlQWNjb3VudE5hbWU6IGNkLWplbmtpbnMK</text>
+        <text encoding="base64">bGFiZWxzOgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGFiZWxzOgo=</text>
+        <text encoding="base64">ICBzZXJ2aWNlQWNjb3VudE5hbWU6IGNkLWplbmtpbnMK</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
