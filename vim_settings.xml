@@ -63,7 +63,7 @@
         <mark key="." line="37" column="42" />
         <mark key="^" line="37" column="42" />
       </file>
-      <file name="/a.dummy" timestamp="1563390376013">
+      <file name="/a.dummy" timestamp="1564062708694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/kafka_test_policy.json" timestamp="1539649197500">
@@ -108,8 +108,11 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplication.scala" timestamp="1564060331008">
-        <mark key="[" line="93" column="8" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplication.scala" timestamp="1564063843364">
+        <mark key="[" line="114" column="113" />
+        <mark key="]" line="114" column="107" />
+        <mark key="^" line="114" column="107" />
+        <mark key="." line="114" column="107" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/QuartzSchedulerProperties.scala" timestamp="1562624276891">
         <mark key="[" line="21" column="0" />
@@ -283,11 +286,11 @@
         <mark key="^" line="97" column="33" />
         <mark key="." line="97" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/job/FSDRProperties.scala" timestamp="1564060036690">
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="22" column="29" />
-        <mark key="^" line="22" column="29" />
-        <mark key="." line="22" column="29" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/job/FSDRProperties.scala" timestamp="1564063751542">
+        <mark key="[" line="24" column="159" />
+        <mark key="]" line="24" column="165" />
+        <mark key="^" line="24" column="165" />
+        <mark key="." line="24" column="165" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/BricataJsonDriverTest.scala" timestamp="1539845282587">
         <mark key="[" line="223" column="45" />
@@ -355,7 +358,7 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/repos/dlm_engine/replication/src/main/java/com/hortonworks/beacon/replication/fs/HDFSReplication.java" timestamp="1564058806790">
+      <file name="$USER_HOME$/dev/repos/dlm_engine/replication/src/main/java/com/hortonworks/beacon/replication/fs/HDFSReplication.java" timestamp="1564062439809">
         <mark key="'" line="89" column="26" />
       </file>
       <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/lihaoyi/fastparse_2.11/2.0.4/fastparse_2.11-2.0.4-sources.jar!/fastparse/package.scala" timestamp="1540240790002">
@@ -406,6 +409,7 @@
         <mark key="." line="32" column="37" />
         <mark key="^" line="32" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/repos/dlm_engine/client/src/main/java/com/hortonworks/beacon/config/BeaconConfig.java" timestamp="1564062269831" />
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/SampleMockDataPolicy.json" timestamp="1541490170019">
         <mark key="[" line="35" column="18" />
         <mark key="]" line="35" column="31" />
@@ -622,10 +626,11 @@
         <mark key="^" line="23" column="89" />
         <mark key="." line="23" column="89" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/test/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplicationTest.scala" timestamp="1564047938046">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/test/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplicationTest.scala" timestamp="1564063976522">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/BricataDriverTest.scala" timestamp="1539845248957">
         <mark key="[" line="208" column="45" />
@@ -1141,8 +1146,8 @@
       <jump line="34" column="18" filename="$USER_HOME$/dev/repos/cloudjumper/cluster/src/main/scala/com/cloudwick/cloudjumper/client/cluster/cloudera/ClouderaManagerClient.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLnRvb2xzLkRpc3RDcENvbnN0YW50cy5DT05GX0xBQkVMXwo=</text>
+      <register name="&quot;" type="4">
+        <text>ENABLE_SNAPSHOTBASED_REPLICATION</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1151,7 +1156,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ENABLE_SNAPSHOTBASED_REPLICATION</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
@@ -1160,34 +1165,34 @@
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLnRvb2xzLkRpc3RDcENvbnN0YW50cy5DT05GX0xBQkVMXwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uZi5zZXQoQ29uc3RhbnRzLk1BUFJFRF9RVUVVRV9OQU1FLCBxdWV1ZU5hbWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgcXVldWVOYW1lID0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGlmKCAhcXVldWVOYW1lLmlzRW1wdHkpIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmaW5hbCB2YWwgCg==</text>
+        <text encoding="base64">ICAgIGNvbmYuc2V0KENPTkZfTEFCRUxfRklMVEVSU19DTEFTUywpCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChjbGllbnQuY2RodmVyc2lvbikK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLnRvb2xzLkRpc3RDcENvbnN0YW50cy5DT05GX0xBQkVMXwo=</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
