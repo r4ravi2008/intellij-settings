@@ -66,11 +66,11 @@
         <mark key="." line="37" column="42" />
         <mark key="^" line="37" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotUtil.scala" timestamp="1564124938089">
-        <mark key="[" line="43" column="25" />
-        <mark key="]" line="43" column="35" />
-        <mark key="^" line="43" column="35" />
-        <mark key="." line="43" column="35" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotUtil.scala" timestamp="1564365254015">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="38" column="39" />
+        <mark key="^" line="38" column="39" />
+        <mark key="." line="38" column="39" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/kafka_test_policy.json" timestamp="1539649197500">
         <mark key="[" line="19" column="20" />
@@ -839,7 +839,7 @@
         <mark key="." line="18" column="31" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/FileSystemClientFactory.scala" timestamp="1564085687845">
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/FileSystemClientFactory.scala" timestamp="1564365135264">
         <mark key="[" line="39" column="45" />
         <mark key="]" line="41" column="68" />
         <mark key="^" line="41" column="68" />
@@ -1173,8 +1173,8 @@
       <jump line="1691" column="40" filename="$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-hdfs/srcs/hadoop-hdfs-2.7.3-sources.jar!/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBmaW5hbCB2YWwgZGVmYXVsdENvbmYgPSBuZXcgQ29uZmlndXJhdGlvbgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEZpbGVTeXRlbQ==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1183,7 +1183,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IERpc3RyaWJ1dGVkRmlsZVN5c3RlbQ==</text>
+        <text encoding="base64">IEZpbGVTeXRlbQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
