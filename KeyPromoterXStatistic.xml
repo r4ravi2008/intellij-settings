@@ -46,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>167</Count>
+          <Count>168</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -710,7 +710,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>316</Count>
+          <Count>317</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desugar Scala code...">
@@ -830,7 +830,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>73</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
