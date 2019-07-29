@@ -66,11 +66,11 @@
         <mark key="." line="37" column="42" />
         <mark key="^" line="37" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotUtil.scala" timestamp="1564428213577">
-        <mark key="[" line="56" column="38" />
-        <mark key="]" line="170" column="45" />
-        <mark key="^" line="170" column="45" />
-        <mark key="." line="170" column="45" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotUtil.scala" timestamp="1564434209985">
+        <mark key="[" line="56" column="6" />
+        <mark key="]" line="56" column="6" />
+        <mark key="^" line="56" column="6" />
+        <mark key="." line="56" column="6" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/kafka_test_policy.json" timestamp="1539649197500">
         <mark key="[" line="19" column="20" />
@@ -498,11 +498,6 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/dlm_engine/entity/src/main/java/com/hortonworks/beacon/entity/FSDRProperties.java" timestamp="1564076562523">
-        <mark key="'" line="41" column="21" />
-        <mark key="[" line="66" column="4" />
-        <mark key="]" line="66" column="25" />
-      </file>
       <file name="$USER_HOME$/dev/repos/temp/cdl/project/Etl.scala" timestamp="1539219587587">
         <mark key="[" line="27" column="32" />
         <mark key="]" line="23" column="7" />
@@ -782,6 +777,12 @@
         <mark key="." line="21" column="21" />
         <mark key="^" line="21" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/test/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotUtilTest.scala" timestamp="1564434342106">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-server/app/controllers/catalog/StoresCreateController.scala" timestamp="1538521772178">
         <mark key="[" line="62" column="84" />
         <mark key="]" line="62" column="85" />
@@ -908,7 +909,7 @@
         <mark key="^" line="21" column="67" />
         <mark key="." line="21" column="67" />
       </file>
-      <file name="/sbtShell" timestamp="1563567367869">
+      <file name="/sbtShell" timestamp="1564434220322">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1063,7 +1064,7 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1564378665671">
+      <file name="/fragment.java" timestamp="1564434302668">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/kubernetes/pod.yml" timestamp="1563774987184">
