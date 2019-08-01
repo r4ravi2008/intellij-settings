@@ -66,7 +66,7 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/repos/dlm_engine/entity/src/main/java/com/hortonworks/beacon/entity/util/FSListing.java" timestamp="1564698461779" />
+      <file name="$USER_HOME$/dev/repos/dlm_engine/entity/src/main/java/com/hortonworks/beacon/entity/util/FSListing.java" timestamp="1564700153622" />
       <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/LinkedList.sc" timestamp="1552266822504">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -549,11 +549,11 @@
         <mark key="." line="37" column="42" />
         <mark key="^" line="37" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotUtil.scala" timestamp="1564698827382">
-        <mark key="[" line="44" column="25" />
-        <mark key="]" line="44" column="25" />
-        <mark key="^" line="56" column="6" />
-        <mark key="." line="44" column="25" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotUtil.scala" timestamp="1564699308113">
+        <mark key="[" line="54" column="74" />
+        <mark key="]" line="54" column="79" />
+        <mark key="^" line="54" column="79" />
+        <mark key="." line="54" column="79" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/db/dao/TableDefinitions.scala" timestamp="1562695585826">
         <mark key="[" line="19" column="0" />
@@ -997,11 +997,11 @@
         <mark key="." line="54" column="30" />
         <mark key="^" line="54" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotCache.scala" timestamp="1564698621407">
-        <mark key="[" line="45" column="39" />
-        <mark key="]" line="45" column="38" />
-        <mark key="^" line="45" column="38" />
-        <mark key="." line="45" column="38" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotCache.scala" timestamp="1564700134263">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="47" column="60" />
+        <mark key="." line="47" column="60" />
+        <mark key="^" line="47" column="60" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/input/jdbc/JdbcBatchInput.scala" timestamp="1539734858742">
         <mark key="[" line="21" column="69" />
@@ -1186,7 +1186,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IERpc3RyaWJ1dGVkRmlsZVN5c3RlbQ==</text>
+        <text>g</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1195,7 +1195,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IERpc3RyaWJ1dGVkRmlsZVN5c3RlbQ==</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
@@ -1204,25 +1204,26 @@
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBmcyA9IEZTVXRpbHMuZ2V0RmlsZVN5c3RlbShmc0VuZHBvaW50LCAgKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>val snapshottableDirs: Array[SnapshottableDirectoryStatus] = fs.getSnapshottableDirListing
+    !snapshottableDirs.map(_.getFullPath).isEmpty</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBkZWYgZ2V0RmlsZVN5c3RlbShzdG9yYWdlVXJsOiBTdHJpbmcsIGNvbmY6IENvbmZpZ3VyYXRpb24pOiBGaWxlU3lzdGVtID0gewogICAgY29uZi5zZXQoQ29tbW9uQ29uZmlndXJhdGlvbktleXNQdWJsaWMuRlNfREVGQVVMVF9OQU1FX0tFWSwgc3RvcmFnZVVybCkKICAgIEZpbGVTeXN0ZW1DbGllbnRGYWN0b3J5LmNyZWF0ZUZpbGVTeXN0ZW0oY29uZikKICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBkZWYgZ2V0RmlsZVN5c3RlbShzdG9yYWdlVXJsOiBTdHJpbmcsIGNvbmY6IENvbmZpZ3VyYXRpb24pOiBGaWxlU3lzdGVtID0gewogICAgY29uZi5zZXQoQ29tbW9uQ29uZmlndXJhdGlvbktleXNQdWJsaWMuRlNfREVGQVVMVF9OQU1FX0tFWSwgc3RvcmFnZVVybCkKICAgIEZpbGVTeXN0ZW1DbGllbnRGYWN0b3J5LmNyZWF0ZUZpbGVTeXN0ZW0oY29uZikKICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -1231,7 +1232,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
