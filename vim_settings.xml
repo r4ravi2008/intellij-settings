@@ -36,6 +36,12 @@
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/repos/dlm_engine/replication/src/main/java/com/hortonworks/beacon/replication/fs/SnapshotListing.java" timestamp="1564695286468">
+        <mark key="[" line="72" column="46" />
+        <mark key="]" line="72" column="46" />
+        <mark key="^" line="72" column="46" />
+        <mark key="." line="72" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-sdk/src/main/scala/com/cloudwick/cdl/etl/sdk/pipeline/input/Input.scala" timestamp="1539978184893">
         <mark key="[" line="53" column="19" />
         <mark key="]" line="52" column="24" />
@@ -99,7 +105,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/dlm_engine/entity/src/main/java/com/hortonworks/beacon/entity/util/ClusterDao.java" timestamp="1564435479943" />
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/output/pcap/PcapOutput.scala" timestamp="1539835082136">
         <mark key="[" line="47" column="14" />
         <mark key="]" line="47" column="21" />
@@ -199,7 +204,6 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-hdfs/srcs/hadoop-hdfs-2.7.3-sources.jar!/org/apache/hadoop/hdfs/DFSClient.java" timestamp="1564435066741" />
       <file name="$USER_HOME$/dev/repos/temp/cdl/project/Etl.scala" timestamp="1539219587587">
         <mark key="[" line="27" column="32" />
         <mark key="]" line="23" column="7" />
@@ -544,7 +548,7 @@
         <mark key="." line="37" column="42" />
         <mark key="^" line="37" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotUtil.scala" timestamp="1564436256639">
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotUtil.scala" timestamp="1564695374265">
         <mark key="[" line="56" column="6" />
         <mark key="]" line="56" column="6" />
         <mark key="^" line="56" column="6" />
@@ -991,6 +995,10 @@
         <mark key="." line="54" column="30" />
         <mark key="^" line="54" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotCache.scala" timestamp="1564695930131">
+        <mark key="[" line="12" column="58" />
+        <mark key="^" line="12" column="50" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/input/jdbc/JdbcBatchInput.scala" timestamp="1539734858742">
         <mark key="[" line="21" column="69" />
         <mark key="]" line="21" column="67" />
@@ -1173,8 +1181,8 @@
       <jump line="1691" column="40" filename="$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-hdfs/srcs/hadoop-hdfs-2.7.3-sources.jar!/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>targetClusterNam</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1183,7 +1191,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>targetClusterNam</text>
+        <text encoding="base64">IFN0cmluZw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
@@ -1191,35 +1199,35 @@
       <register name="0" type="4">
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBmcyBtYXRjaCB7CiAgICAgIGNhc2UgRGlzdHJpYnV0ZWRGaWxlU3lzdGVtID0+CiAgICAgIGNhc2UgTG9jYWxGaWxlU3lzdGVtID0+CiAgICB9</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBmaW5hbCB2YWwgZGVmYXVsdENvbmYgPSBuZXcgQ29uZmlndXJhdGlvbgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFNuYXBzaG90VXRpbC5pc1NuYXBzaG90dGFibGUoZikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgc291cmNlRnMgPSAK</text>
-      </register>
-      <register name="5" type="2">
+      <register name="1" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBmcyBtYXRjaCB7CiAgICAgIGNhc2UgRGlzdHJpYnV0ZWRGaWxlU3lzdGVtID0+CiAgICAgIGNhc2UgTG9jYWxGaWxlU3lzdGVtID0+CiAgICB9</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBmaW5hbCB2YWwgZGVmYXVsdENvbmYgPSBuZXcgQ29uZmlndXJhdGlvbgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIFNuYXBzaG90VXRpbC5pc1NuYXBzaG90dGFibGUoZikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB2YWwgc291cmNlRnMgPSAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYoRlNVdGlscy5pc0hDRlMobmV3IFBhdGgoc291cmNlU3RhZ2luZ1VyaSkpICYmIEZTVXRpbHMuaXNIQ0ZTKG5ldyBQYXRoKCkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYoRlNVdGlscy5pc0hDRlMobmV3IFBhdGgoc291cmNlU3RhZ2luZ1VyaSkpICYmIEZTVXRpbHMuaXNIQ0ZTKG5ldyBQYXRoKHRhcmdldFN0YWdpbmdVcmkpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoRlNVdGlscy5pc0hDRlMobmV3IFBhdGgoc291cmNlU3RhZ2luZ1VyaSkpICYmIEZTVXRpbHMuaXNIQ0ZTKG5ldyBQYXRoKCkpCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaWYoRlNVdGlscy5pc0hDRlMobmV3IFBhdGgoc291cmNlU3RhZ2luZ1VyaSkpICYmIEZTVXRpbHMuaXNIQ0ZTKG5ldyBQYXRoKHRhcmdldFN0YWdpbmdVcmkpKSB7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
