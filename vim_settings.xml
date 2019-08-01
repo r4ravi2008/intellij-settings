@@ -997,11 +997,11 @@
         <mark key="." line="54" column="30" />
         <mark key="^" line="54" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotCache.scala" timestamp="1564700134263">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="47" column="60" />
-        <mark key="." line="47" column="60" />
-        <mark key="^" line="47" column="60" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotCache.scala" timestamp="1564702003937">
+        <mark key="[" line="39" column="43" />
+        <mark key="]" line="39" column="42" />
+        <mark key="." line="39" column="42" />
+        <mark key="^" line="39" column="42" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/input/jdbc/JdbcBatchInput.scala" timestamp="1539734858742">
         <mark key="[" line="21" column="69" />
@@ -1185,8 +1185,8 @@
       <jump line="1691" column="40" filename="$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-hdfs/srcs/hadoop-hdfs-2.7.3-sources.jar!/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1195,7 +1195,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">bXdhdGNoIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
@@ -1204,35 +1204,35 @@
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBmcyA9IEZTVXRpbHMuZ2V0RmlsZVN5c3RlbShmc0VuZHBvaW50LCAgKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>val snapshottableDirs: Array[SnapshottableDirectoryStatus] = fs.getSnapshottableDirListing
-    !snapshottableDirs.map(_.getFullPath).isEmpty</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBmYWxzZTogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSB0cnVlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBkZWYgZ2V0RmlsZVN5c3RlbShzdG9yYWdlVXJsOiBTdHJpbmcsIGNvbmY6IENvbmZpZ3VyYXRpb24pOiBGaWxlU3lzdGVtID0gewogICAgY29uZi5zZXQoQ29tbW9uQ29uZmlndXJhdGlvbktleXNQdWJsaWMuRlNfREVGQVVMVF9OQU1FX0tFWSwgc3RvcmFnZVVybCkKICAgIEZpbGVTeXN0ZW1DbGllbnRGYWN0b3J5LmNyZWF0ZUZpbGVTeXN0ZW0oY29uZikKICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIChsaXN0aW5nTWFwLmNvbnRhaW5zKGNsdXN0ZXJOYW1lKSkge2Bgago=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhbCBmcyA9IEZTVXRpbHMuZ2V0RmlsZVN5c3RlbShmc0VuZHBvaW50LCAgKQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>val snapshottableDirs: Array[SnapshottableDirectoryStatus] = fs.getSnapshottableDirListing
+    !snapshottableDirs.map(_.getFullPath).isEmpty</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
