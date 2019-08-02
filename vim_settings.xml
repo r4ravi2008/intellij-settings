@@ -36,7 +36,7 @@
         <mark key="^" line="19" column="33" />
         <mark key="." line="19" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/repos/dlm_engine/replication/src/main/java/com/hortonworks/beacon/replication/fs/SnapshotListing.java" timestamp="1564695286468">
+      <file name="$USER_HOME$/dev/repos/dlm_engine/replication/src/main/java/com/hortonworks/beacon/replication/fs/SnapshotListing.java" timestamp="1564702261018">
         <mark key="[" line="72" column="46" />
         <mark key="]" line="72" column="46" />
         <mark key="^" line="72" column="46" />
@@ -997,11 +997,11 @@
         <mark key="." line="54" column="30" />
         <mark key="^" line="54" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotCache.scala" timestamp="1564702003937">
-        <mark key="[" line="39" column="43" />
-        <mark key="]" line="39" column="42" />
-        <mark key="." line="39" column="42" />
-        <mark key="^" line="39" column="42" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/main/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotCache.scala" timestamp="1564702518117">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="70" column="14" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/input/jdbc/JdbcBatchInput.scala" timestamp="1539734858742">
         <mark key="[" line="21" column="69" />
@@ -1009,7 +1009,7 @@
         <mark key="^" line="21" column="67" />
         <mark key="." line="21" column="67" />
       </file>
-      <file name="/sbtShell" timestamp="1564434220322">
+      <file name="/sbtShell" timestamp="1564702529418">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1195,7 +1195,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bXdhdGNoIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
@@ -1207,32 +1207,31 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBmYWxzZTogCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSB0cnVlOgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChsaXN0aW5nTWFwLmNvbnRhaW5zKGNsdXN0ZXJOYW1lKSkge2Bgago=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBmYWxzZTogCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSB0cnVlOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIChsaXN0aW5nTWFwLmNvbnRhaW5zKGNsdXN0ZXJOYW1lKSkge2Bgago=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBmcyA9IEZTVXRpbHMuZ2V0RmlsZVN5c3RlbShmc0VuZHBvaW50LCAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>val snapshottableDirs: Array[SnapshottableDirectoryStatus] = fs.getSnapshottableDirListing
-    !snapshottableDirs.map(_.getFullPath).isEmpty</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZhbCBmcyA9IEZTVXRpbHMuZ2V0RmlsZVN5c3RlbShmc0VuZHBvaW50LCAgKQo=</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
