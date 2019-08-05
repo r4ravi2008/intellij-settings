@@ -66,7 +66,6 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/repos/dlm_engine/entity/src/main/java/com/hortonworks/beacon/entity/util/FSListing.java" timestamp="1564700153622" />
       <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/main/scala/com/ravi/interview/LinkedList.sc" timestamp="1552266822504">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -606,7 +605,6 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/repos/dlm_engine/entity/src/main/java/com/hortonworks/beacon/entity/util/ClusterHelper.java" timestamp="1564698678895" />
       <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/error/CloudjumperException.scala" timestamp="1562623044407">
         <mark key="[" line="10" column="0" />
       </file>
@@ -1009,7 +1007,7 @@
         <mark key="^" line="21" column="67" />
         <mark key="." line="21" column="67" />
       </file>
-      <file name="/sbtShell" timestamp="1564702529418">
+      <file name="/sbtShell" timestamp="1565030988084">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
