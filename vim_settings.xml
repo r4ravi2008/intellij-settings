@@ -777,11 +777,11 @@
         <mark key="." line="21" column="21" />
         <mark key="^" line="21" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/test/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotUtilTest.scala" timestamp="1564434342106">
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="5" column="2" />
-        <mark key="^" line="5" column="2" />
-        <mark key="." line="5" column="2" />
+      <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/test/scala/com/cloudwick/cloudjumper/replication/fs/SnapshotUtilTest.scala" timestamp="1565286866430">
+        <mark key="[" line="35" column="63" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-server/app/controllers/catalog/StoresCreateController.scala" timestamp="1538521772178">
         <mark key="[" line="62" column="84" />
@@ -1184,7 +1184,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1202,34 +1202,34 @@
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBmYWxzZTogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSB0cnVlOgo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChsaXN0aW5nTWFwLmNvbnRhaW5zKGNsdXN0ZXJOYW1lKSkge2Bgago=</text>
+        <text encoding="base64">ICB0ZXN0KCJ0ZXN0TG9nZ2VyIikgewo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBmcyA9IEZTVXRpbHMuZ2V0RmlsZVN5c3RlbShmc0VuZHBvaW50LCAgKQo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBmYWxzZTogCg==</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
