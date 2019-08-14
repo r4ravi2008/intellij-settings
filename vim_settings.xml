@@ -462,7 +462,7 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565286169147">
+      <file name="/Dummy.txt" timestamp="1565770661981">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -997,11 +997,11 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565768265167">
-        <mark key="[" line="81" column="62" />
-        <mark key="]" line="81" column="70" />
-        <mark key="." line="81" column="70" />
-        <mark key="^" line="81" column="70" />
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565770654511">
+        <mark key="[" line="52" column="98" />
+        <mark key="]" line="52" column="121" />
+        <mark key="." line="52" column="121" />
+        <mark key="^" line="52" column="121" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/json/JsonParser.scala" timestamp="1540500725949">
         <mark key="[" line="35" column="32" />
@@ -1203,8 +1203,8 @@
       <jump line="9" column="12" filename="$USER_HOME$/dev/repos/data-migration-solr/src/test/resources/test.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Append</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNwYXJrQ29uZi5zZXQoInNwYXJrLmV4ZWN1dG9yLmV4dHJhSmF2YU9wdGlvbnMiLCBzIi1EemtDbGllbnRUaW1lb3V0PTYwMDAwIikK</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1213,7 +1213,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Append</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
@@ -1222,35 +1222,34 @@
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNwYXJrQ29uZi5zZXQoInNwYXJrLmV4ZWN1dG9yLmV4dHJhSmF2YU9wdGlvbnMiLCBzIi1EemtDbGllbnRUaW1lb3V0PTYwMDAwIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZWFkT3B0aW9ucy50bykK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBleHBlY3RlZE9wdGlvbnMgCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>val targetLocation = sparkOptions
-        .getOrElse(&quot;targetLocation&quot;, throw new Exception(&quot;targetLocation not specified in spark properties&quot;))</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB0YXJnZXRMb2NhdGlvbiA9IHNwYXJrT3B0aW9ucwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIENhY2hlIGZvciBzcGVlZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIE1hdGVyaWFsaXplIGNhY2hlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG91dHB1dERhdGFGcmFtZS5jYWNoZSgpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRhQ291bnQgPSBvdXRwdXREYXRhRnJhbWUuY291bnQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZWFkT3B0aW9ucy50bykK</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
