@@ -144,13 +144,7 @@
         <mark key="." line="11" column="70" />
         <mark key="^" line="11" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/test/resources/test.conf" timestamp="1565763711005">
-        <mark key="'" line="9" column="12" />
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-      </file>
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/test/resources/test.conf" timestamp="1565765332966" />
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/main/scala/com/cloudwick/cdl/etl/driver/schema/SchemaHelper.scala" timestamp="1539983007225">
         <mark key="[" line="172" column="24" />
         <mark key="]" line="161" column="11" />
@@ -1003,7 +997,7 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565763505824">
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565765234006">
         <mark key="[" line="36" column="70" />
         <mark key="]" line="38" column="39" />
         <mark key="." line="38" column="39" />
@@ -1262,7 +1256,7 @@
         <text>r</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set nornu</text>
       </register>
     </registers>
     <search>
@@ -1298,7 +1292,6 @@
         <entry encoding="base64">XDxpc1NuYXBzaG90XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>set number</entry>
         <entry>!set number</entry>
         <entry>!set relativenumber</entry>
         <entry>set relativenumber</entry>
@@ -1315,9 +1308,10 @@
         <entry encoding="base64">aW5vcmVtYXAgamsgPGVzYz4=</entry>
         <entry>nornu</entry>
         <entry>nonu</entry>
-        <entry>set nornu</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>set nonu</entry>
+        <entry>set nornu</entry>
       </history-cmd>
       <history-expr />
       <history-input />
