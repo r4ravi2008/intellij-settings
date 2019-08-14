@@ -144,11 +144,12 @@
         <mark key="." line="11" column="70" />
         <mark key="^" line="11" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/test/resources/test.conf" timestamp="1565760700667">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/test/resources/test.conf" timestamp="1565763711005">
+        <mark key="'" line="9" column="12" />
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/main/scala/com/cloudwick/cdl/etl/driver/schema/SchemaHelper.scala" timestamp="1539983007225">
         <mark key="[" line="172" column="24" />
@@ -228,11 +229,10 @@
         <mark key="^" line="40" column="2" />
         <mark key="." line="40" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/test/scala/com/cloudwick/data/migration/solr/ExportCollectionTest.scala" timestamp="1565761105287">
-        <mark key="[" line="15" column="57" />
-        <mark key="]" line="15" column="61" />
-        <mark key="^" line="15" column="61" />
-        <mark key="." line="15" column="61" />
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/test/scala/com/cloudwick/data/migration/solr/ExportCollectionTest.scala" timestamp="1565763751338">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/api/src/main/scala/com/cloudwick/cloudjumper/api/client/request/CreatePolicy.scala" timestamp="1562624141927">
         <mark key="[" line="42" column="44" />
@@ -923,7 +923,7 @@
         <mark key="^" line="88" column="102" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/CopyCollectionData.scala" timestamp="1565755582368" />
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/CopyCollectionData.scala" timestamp="1565763260876" />
       <file name="$USER_HOME$/dev/repos/cdl/catalog-client/src/main/scala/com/cloudwick/cdl/catalog/PartitionIndexState.scala" timestamp="1541542820128">
         <mark key="[" line="23" column="58" />
         <mark key="]" line="24" column="57" />
@@ -1003,11 +1003,11 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565762153650">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="88" column="22" />
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565763505824">
+        <mark key="[" line="36" column="70" />
+        <mark key="]" line="38" column="39" />
+        <mark key="." line="38" column="39" />
+        <mark key="^" line="38" column="39" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/json/JsonParser.scala" timestamp="1540500725949">
         <mark key="[" line="35" column="32" />
@@ -1107,7 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="5" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="13" column="9" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="15" column="50" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
       <jump line="16" column="10" filename="$USER_HOME$/dev/repos/network-graph-pipeline/pom.xml" />
@@ -1207,6 +1206,7 @@
       <jump line="368" column="0" filename="$USER_HOME$/dev/repos/dlm_engine/replication/src/main/java/com/hortonworks/beacon/replication/fs/FSSnapshotUtils.java" />
       <jump line="181" column="20" filename="$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-common/srcs/hadoop-common-2.7.3-sources.jar!/org/apache/hadoop/fs/Path.java" />
       <jump line="1691" column="40" filename="$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-hdfs/srcs/hadoop-hdfs-2.7.3-sources.jar!/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
+      <jump line="9" column="12" filename="$USER_HOME$/dev/repos/data-migration-solr/src/test/resources/test.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1219,7 +1219,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>properties</text>
+        <text>testReadConfig</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
@@ -1231,31 +1231,32 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZWFkT3B0aW9ucy50bykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCByZWFkT3B0aW9ucyA9IE1hcCgiY29sbGVjdGlvbiIgLT4gY29sbGVjdGlvbk5hbWUsICJ6a2hvc3QiIC0+IHJlYWRPb3B0aW9ucygiemtIb3N0IikpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBleHBlY3RlZE9wdGlvbnMgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFNvbHJDbG91ZCByZWFkIG9wdGlvbnMK</text>
+      <register name="4" type="4">
+        <text>val targetLocation = sparkOptions
+        .getOrElse(&quot;targetLocation&quot;, throw new Exception(&quot;targetLocation not specified in spark properties&quot;))</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFNvbHJDbG91ZCByZWFkIG9wdGlvbnMK</text>
+        <text encoding="base64">ICAgIHZhbCB0YXJnZXRMb2NhdGlvbiA9IHNwYXJrT3B0aW9ucwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgdmFsIGphYXNQYXRoPSBhcmdzKDMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCB0YXJnZXRMb2NhdGlvbiA9IGFyZ3MoMikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2xsZWN0aW9uTmFtZSA9IGFyZ3MoMSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcGFya1NvbHJDb25maWdQYXRoID0gYXJncy5sYXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
