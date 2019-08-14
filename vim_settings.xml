@@ -222,10 +222,11 @@
         <mark key="^" line="40" column="2" />
         <mark key="." line="40" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/test/scala/com/cloudwick/data/migration/solr/ExportCollectionTest.scala" timestamp="1565763751338">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/test/scala/com/cloudwick/data/migration/solr/ExportCollectionTest.scala" timestamp="1565804428283">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/api/src/main/scala/com/cloudwick/cloudjumper/api/client/request/CreatePolicy.scala" timestamp="1562624141927">
         <mark key="[" line="42" column="44" />
@@ -461,10 +462,10 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565770661981">
+      <file name="/Dummy.txt" timestamp="1565804211436">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/SampleKafkaFlow.json" timestamp="1540235540707">
         <mark key="[" line="24" column="25" />
@@ -514,7 +515,7 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1565757451766">
+      <file name="/fragment.java" timestamp="1565804336713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/ProxyParserBatchInputTest.scala" timestamp="1539845420060">
@@ -841,11 +842,11 @@
         <mark key="^" line="45" column="35" />
         <mark key="." line="45" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ImportCollection.scala" timestamp="1565776130325">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="44" column="3" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ImportCollection.scala" timestamp="1565804157980">
+        <mark key="[" line="75" column="4" />
+        <mark key="]" line="75" column="18" />
+        <mark key="." line="75" column="18" />
+        <mark key="^" line="75" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-rpc/src/main/scala/com/cloudwick/cdl/manager/util/DatabaseModule.scala" timestamp="1541040644467">
         <mark key="[" line="23" column="18" />
@@ -1006,7 +1007,7 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565776045283">
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565804086643">
         <mark key="[" line="40" column="23" />
         <mark key="]" line="40" column="34" />
         <mark key="." line="40" column="34" />
@@ -1212,8 +1213,8 @@
       <jump line="9" column="12" filename="$USER_HOME$/dev/repos/data-migration-solr/src/test/resources/test.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEV4cG9ydENvbGxlY3Rpb24=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1222,7 +1223,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGFyZ2V0TG9jYXRpb24g</text>
+        <text encoding="base64">IEV4cG9ydENvbGxlY3Rpb24=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
@@ -1233,23 +1234,23 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2xsZWN0aW9uTmFtZSA9IGFyZ3MubGFzdAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIC8vIENhY2hlIGRhdGEgZm9yIGZhc3RlciBhY2Nlc3MKICAgIGRhdGEuY2FjaGUoKQoKICAgIC8vIE1hdGVyaWFsaXplIGNhY2hlCiAgICB2YWwgZGF0YUNvdW50ID0gZGF0YS5jb3VudCgp</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCB6a0hvc3RzID0gYXJncygxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb2xsZWN0aW9uTmFtZSA9IGFyZ3MubGFzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB6a0hvc3RzID0gYXJncygxKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNwYXJrQ29uZi5zZXQoInNwYXJrLmV4ZWN1dG9yLmV4dHJhSmF2YU9wdGlvbnMiLCBzIi1EemtDbGllbnRUaW1lb3V0PTYwMDAwIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1258,7 +1259,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNwYXJrQ29uZi5zZXQoInNwYXJrLmV4ZWN1dG9yLmV4dHJhSmF2YU9wdGlvbnMiLCBzIi1EemtDbGllbnRUaW1lb3V0PTYwMDAwIikK</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
