@@ -842,11 +842,11 @@
         <mark key="^" line="45" column="35" />
         <mark key="." line="45" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ImportCollection.scala" timestamp="1565804157980">
-        <mark key="[" line="75" column="4" />
-        <mark key="]" line="75" column="18" />
-        <mark key="." line="75" column="18" />
-        <mark key="^" line="75" column="18" />
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ImportCollection.scala" timestamp="1565818830232">
+        <mark key="[" line="54" column="68" />
+        <mark key="]" line="54" column="71" />
+        <mark key="." line="54" column="71" />
+        <mark key="^" line="54" column="71" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-rpc/src/main/scala/com/cloudwick/cdl/manager/util/DatabaseModule.scala" timestamp="1541040644467">
         <mark key="[" line="23" column="18" />
@@ -1007,7 +1007,7 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565804086643">
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565818752548">
         <mark key="[" line="40" column="23" />
         <mark key="]" line="40" column="34" />
         <mark key="." line="40" column="34" />
@@ -1214,7 +1214,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEV4cG9ydENvbGxlY3Rpb24=</text>
+        <text>collectionName</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1223,7 +1223,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEV4cG9ydENvbGxlY3Rpb24=</text>
+        <text>collectionName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
