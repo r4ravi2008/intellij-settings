@@ -1003,11 +1003,11 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565761688099">
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="32" column="60" />
-        <mark key="^" line="32" column="60" />
-        <mark key="." line="32" column="60" />
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565762153650">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="88" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/json/JsonParser.scala" timestamp="1540500725949">
         <mark key="[" line="35" column="32" />
@@ -1210,7 +1210,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBqYWFzUGF0aD0gYXJncygzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1219,7 +1219,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Strgin</text>
+        <text>properties</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
@@ -1228,34 +1228,34 @@
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBqYWFzUGF0aD0gYXJncygzKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCB0YXJnZXRMb2NhdGlvbiA9IGFyZ3MoMikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2xsZWN0aW9uTmFtZSA9IGFyZ3MoMSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCB6a0hvc3RzID0gYXJncy5oZWFkCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhbCByZWFkT3B0aW9ucyA9IE1hcCgiY29sbGVjdGlvbiIgLT4gY29sbGVjdGlvbk5hbWUsICJ6a2hvc3QiIC0+IHJlYWRPb3B0aW9ucygiemtIb3N0IikpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIFNvbHJDbG91ZCByZWFkIG9wdGlvbnMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIFNvbHJDbG91ZCByZWFkIG9wdGlvbnMK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBrZXkyID0gMgo=</text>
+        <text encoding="base64">ICAgIAogICAgdmFsIGphYXNQYXRoPSBhcmdzKDMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHMiUmVhZGluZyBDb25maWcgZnJvbSBmaWxlICRhYnNGaWxlUGF0aCIpCg==</text>
+        <text encoding="base64">ICAgIHZhbCB0YXJnZXRMb2NhdGlvbiA9IGFyZ3MoMikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHMiUmVhZGluZyBDb25maWcgZnJvbSBmaWxlICRhYnNGaWxlUGF0aCIpCiAgICBzcGFya1NvbHJPcHRpb25zTWFwCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb2xsZWN0aW9uTmFtZSA9IGFyZ3MoMSkK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzcGFya1NvbHJDb25maWdQYXRoID0gYXJncy5sYXN0Cg==</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
