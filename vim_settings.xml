@@ -144,11 +144,11 @@
         <mark key="." line="11" column="70" />
         <mark key="^" line="11" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/test/resources/test.conf" timestamp="1565758863250">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/test/resources/test.conf" timestamp="1565760700667">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/main/scala/com/cloudwick/cdl/etl/driver/schema/SchemaHelper.scala" timestamp="1539983007225">
         <mark key="[" line="172" column="24" />
@@ -228,11 +228,11 @@
         <mark key="^" line="40" column="2" />
         <mark key="." line="40" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/test/scala/com/cloudwick/data/migration/solr/ExportCollectionTest.scala" timestamp="1565758649729">
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-        <mark key="." line="13" column="46" />
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/test/scala/com/cloudwick/data/migration/solr/ExportCollectionTest.scala" timestamp="1565761105287">
+        <mark key="[" line="15" column="57" />
+        <mark key="]" line="15" column="61" />
+        <mark key="^" line="15" column="61" />
+        <mark key="." line="15" column="61" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/api/src/main/scala/com/cloudwick/cloudjumper/api/client/request/CreatePolicy.scala" timestamp="1562624141927">
         <mark key="[" line="42" column="44" />
@@ -1003,11 +1003,11 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565758807866">
-        <mark key="[" line="58" column="45" />
-        <mark key="]" line="58" column="44" />
-        <mark key="." line="58" column="44" />
-        <mark key="^" line="58" column="44" />
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565761688099">
+        <mark key="[" line="32" column="22" />
+        <mark key="]" line="32" column="60" />
+        <mark key="^" line="32" column="60" />
+        <mark key="." line="32" column="60" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/json/JsonParser.scala" timestamp="1540500725949">
         <mark key="[" line="35" column="32" />
@@ -1210,7 +1210,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhbCBqYWFzUGF0aD0gYXJncygzKQo=</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1219,7 +1219,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGVzdCA=</text>
+        <text>Strgin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
@@ -1228,34 +1228,34 @@
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhbCBqYWFzUGF0aD0gYXJncygzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB0YXJnZXRMb2NhdGlvbiA9IGFyZ3MoMikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb2xsZWN0aW9uTmFtZSA9IGFyZ3MoMSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB6a0hvc3RzID0gYXJncy5oZWFkCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBrZXkyID0gMgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHMiUmVhZGluZyBDb25maWcgZnJvbSBmaWxlICRhYnNGaWxlUGF0aCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHMiUmVhZGluZyBDb25maWcgZnJvbSBmaWxlICRhYnNGaWxlUGF0aCIpCiAgICBzcGFya1NvbHJPcHRpb25zTWFwCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0ZXN0KCJ0ZXN0TG9nZ2VyIikgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>r</text>

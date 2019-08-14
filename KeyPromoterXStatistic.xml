@@ -1345,6 +1345,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ExportCollectionTest.testReadConfig'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ExportCollectionTest.testReadConfig'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'FileListerTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
