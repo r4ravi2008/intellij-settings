@@ -841,11 +841,11 @@
         <mark key="^" line="45" column="35" />
         <mark key="." line="45" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ImportCollection.scala" timestamp="1565774538610">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="3" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ImportCollection.scala" timestamp="1565776130325">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="44" column="3" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-rpc/src/main/scala/com/cloudwick/cdl/manager/util/DatabaseModule.scala" timestamp="1541040644467">
         <mark key="[" line="23" column="18" />
@@ -1006,7 +1006,7 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565774749640">
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565776045283">
         <mark key="[" line="40" column="23" />
         <mark key="]" line="40" column="34" />
         <mark key="." line="40" column="34" />
@@ -1212,8 +1212,8 @@
       <jump line="9" column="12" filename="$USER_HOME$/dev/repos/data-migration-solr/src/test/resources/test.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>z</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1222,7 +1222,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>z</text>
+        <text encoding="base64">dGFyZ2V0TG9jYXRpb24g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
@@ -1234,13 +1234,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb2xsZWN0aW9uTmFtZSA9IGFyZ3MubGFzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB6a0hvc3RzID0gYXJncygxKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNwYXJrQ29uZi5zZXQoInNwYXJrLmV4ZWN1dG9yLmV4dHJhSmF2YU9wdGlvbnMiLCBzIi1EemtDbGllbnRUaW1lb3V0PTYwMDAwIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1249,16 +1249,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIENhY2hlIGZvciBzcGVlZAo=</text>
+        <text encoding="base64">ICAgIHNwYXJrQ29uZi5zZXQoInNwYXJrLmV4ZWN1dG9yLmV4dHJhSmF2YU9wdGlvbnMiLCBzIi1EemtDbGllbnRUaW1lb3V0PTYwMDAwIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIE1hdGVyaWFsaXplIGNhY2hlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG91dHB1dERhdGFGcmFtZS5jYWNoZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
