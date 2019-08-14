@@ -795,6 +795,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/solr-perf-test/solr-trace/src/main/scala/com/cloudwick/solr/trace/TraceIndexCall.scala" timestamp="1565753211107" />
       <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/error/IncompatibilityException.scala" timestamp="1562623009192">
         <mark key="[" line="10" column="0" />
       </file>
