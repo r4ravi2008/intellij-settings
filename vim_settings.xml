@@ -144,6 +144,12 @@
         <mark key="." line="11" column="70" />
         <mark key="^" line="11" column="70" />
       </file>
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/test/resources/test.conf" timestamp="1565758863250">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/main/scala/com/cloudwick/cdl/etl/driver/schema/SchemaHelper.scala" timestamp="1539983007225">
         <mark key="[" line="172" column="24" />
         <mark key="]" line="161" column="11" />
@@ -221,6 +227,12 @@
         <mark key="]" line="40" column="2" />
         <mark key="^" line="40" column="2" />
         <mark key="." line="40" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/test/scala/com/cloudwick/data/migration/solr/ExportCollectionTest.scala" timestamp="1565758649729">
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="13" column="46" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/api/src/main/scala/com/cloudwick/cloudjumper/api/client/request/CreatePolicy.scala" timestamp="1562624141927">
         <mark key="[" line="42" column="44" />
@@ -509,7 +521,7 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1564434302668">
+      <file name="/fragment.java" timestamp="1565757451766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/ProxyParserBatchInputTest.scala" timestamp="1539845420060">
@@ -991,11 +1003,11 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565755780240">
-        <mark key="[" line="38" column="73" />
-        <mark key="]" line="38" column="72" />
-        <mark key="." line="38" column="72" />
-        <mark key="^" line="38" column="72" />
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/src/main/scala/com/cloudwick/data/migration/solr/ExportCollection.scala" timestamp="1565758807866">
+        <mark key="[" line="58" column="45" />
+        <mark key="]" line="58" column="44" />
+        <mark key="." line="58" column="44" />
+        <mark key="^" line="58" column="44" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-plugins/src/main/scala/com/cloudwick/cdl/etl/plugins/transformation/json/JsonParser.scala" timestamp="1540500725949">
         <mark key="[" line="35" column="32" />
@@ -1026,6 +1038,12 @@
         <mark key="]" line="13" column="4" />
         <mark key="^" line="13" column="4" />
         <mark key="." line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/data-migration-solr/build.sbt" timestamp="1565757744470">
+        <mark key="[" line="16" column="51" />
+        <mark key="]" line="17" column="58" />
+        <mark key="^" line="17" column="58" />
+        <mark key="." line="17" column="58" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/src/main/scala/com/cloudwick/cloudjumper/core/scheduler/CloudjumperScheduler.scala" timestamp="1561582129580">
         <mark key="[" line="21" column="42" />
@@ -1191,8 +1209,8 @@
       <jump line="1691" column="40" filename="$USER_HOME$/.ivy2/cache/org.apache.hadoop/hadoop-hdfs/srcs/hadoop-hdfs-2.7.3-sources.jar!/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">amFhc1BhdGog</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1201,7 +1219,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">amFhc1BhdGog</text>
+        <text encoding="base64">dGVzdCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
@@ -1210,7 +1228,7 @@
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1219,16 +1237,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0ZXN0KCJ0ZXN0TG9nZ2VyIikgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -1237,7 +1255,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBmYWxzZTogCg==</text>
+        <text encoding="base64">ICB0ZXN0KCJ0ZXN0TG9nZ2VyIikgewo=</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
