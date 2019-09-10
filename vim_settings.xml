@@ -731,11 +731,11 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReader.scala" timestamp="1568155869764">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="19" column="44" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReader.scala" timestamp="1568157700216">
+        <mark key="[" line="22" column="56" />
+        <mark key="]" line="22" column="53" />
+        <mark key="^" line="22" column="53" />
+        <mark key="." line="22" column="53" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/.gitlab-ci.yml" timestamp="1563773320591">
         <mark key="[" line="23" column="6" />
