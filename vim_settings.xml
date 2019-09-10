@@ -731,6 +731,12 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="24" column="56" />
       </file>
+      <file name="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReader.scala" timestamp="1568155869764">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="19" column="44" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/.gitlab-ci.yml" timestamp="1563773320591">
         <mark key="[" line="23" column="6" />
         <mark key="]" line="23" column="46" />
@@ -1043,6 +1049,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/rakuten-es/build.sbt" timestamp="1568154633026">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="84" />
+        <mark key="^" line="10" column="84" />
+        <mark key="." line="10" column="84" />
+      </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/models/store/descriptor/FlowDescriptor.scala" timestamp="1539284660209">
         <mark key="[" line="13" column="6" />
         <mark key="]" line="13" column="4" />
@@ -1219,8 +1231,8 @@
       <jump line="9" column="12" filename="$USER_HOME$/dev/repos/data-migration-solr/src/test/resources/test.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1229,7 +1241,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
@@ -1240,23 +1252,23 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIC8vIENhY2hlIGRhdGEgZm9yIGZhc3RlciBhY2Nlc3MKICAgIGRhdGEuY2FjaGUoKQoKICAgIC8vIE1hdGVyaWFsaXplIGNhY2hlCiAgICB2YWwgZGF0YUNvdW50ID0gZGF0YS5jb3VudCgp</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2xsZWN0aW9uTmFtZSA9IGFyZ3MubGFzdAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIC8vIENhY2hlIGRhdGEgZm9yIGZhc3RlciBhY2Nlc3MKICAgIGRhdGEuY2FjaGUoKQoKICAgIC8vIE1hdGVyaWFsaXplIGNhY2hlCiAgICB2YWwgZGF0YUNvdW50ID0gZGF0YS5jb3VudCgp</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB6a0hvc3RzID0gYXJncygxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb2xsZWN0aW9uTmFtZSA9IGFyZ3MubGFzdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB6a0hvc3RzID0gYXJncygxKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1265,7 +1277,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNwYXJrQ29uZi5zZXQoInNwYXJrLmV4ZWN1dG9yLmV4dHJhSmF2YU9wdGlvbnMiLCBzIi1EemtDbGllbnRUaW1lb3V0PTYwMDAwIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
