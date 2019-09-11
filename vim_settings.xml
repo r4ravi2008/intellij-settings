@@ -515,7 +515,7 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1565804336713">
+      <file name="/fragment.java" timestamp="1568223893059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/scala/com/cloudwick/cdl/etl/driver/test/ProxyParserBatchInputTest.scala" timestamp="1539845420060">
@@ -616,6 +616,12 @@
         <mark key="]" line="5" column="2" />
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/rakuten-es/src/main/scala/com/rakuten/es/CSVReader.scala" timestamp="1568225476783">
+        <mark key="[" line="18" column="62" />
+        <mark key="]" line="18" column="137" />
+        <mark key="." line="18" column="137" />
+        <mark key="^" line="18" column="137" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/error/CloudjumperException.scala" timestamp="1562623044407">
         <mark key="[" line="10" column="0" />
@@ -731,7 +737,7 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReader.scala" timestamp="1568222566280">
+      <file name="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReader.scala" timestamp="1568224031044">
         <mark key="'" line="33" column="106" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -896,6 +902,7 @@
         <mark key="^" line="132" column="42" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/rakuten-es/src/main/scala/com/rakuten/es/ExampleClass.scala" timestamp="1568225183139" />
       <file name="$USER_HOME$/dev/repos/cloudjumper/replication/src/test/scala/com/cloudwick/cloudjumper/replication/fs/HDFSReplicationTest.scala" timestamp="1564076461412">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="55" column="64" />
@@ -1043,17 +1050,17 @@
         <mark key="^" line="21" column="67" />
         <mark key="." line="21" column="67" />
       </file>
-      <file name="/sbtShell" timestamp="1565286154490">
+      <file name="/sbtShell" timestamp="1568223807820">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/rakuten-es/build.sbt" timestamp="1568222630382">
-        <mark key="[" line="13" column="76" />
-        <mark key="]" line="13" column="75" />
-        <mark key="^" line="13" column="75" />
-        <mark key="." line="13" column="75" />
+      <file name="$USER_HOME$/dev/repos/rakuten-es/build.sbt" timestamp="1568225147912">
+        <mark key="[" line="13" column="75" />
+        <mark key="]" line="13" column="79" />
+        <mark key="^" line="13" column="79" />
+        <mark key="." line="13" column="79" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/manager-core/src/main/scala/com/cloudwick/cdl/manager/models/store/descriptor/FlowDescriptor.scala" timestamp="1539284660209">
         <mark key="[" line="13" column="6" />
@@ -1231,8 +1238,8 @@
       <jump line="30" column="106" filename="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReader.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>https://search-rakuten-public-test-l4s6v44tutny3mb2nkyuqpa6sy.us-west-2.es.amazonaws.com</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1241,7 +1248,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE1hcCgiZXMubWFwcGluZy5pZCIgLT4gIkdVSUQiKQ==</text>
+        <text>https://search-rakuten-public-test-l4s6v44tutny3mb2nkyuqpa6sy.us-west-2.es.amazonaws.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
@@ -1250,34 +1257,34 @@
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpYnJhcnlEZXBlbmRlbmNpZXMgKz0gIm9yZy5lbGFzdGljc2VhcmNoIiAlICJlbGFzdGljc2VhcmNoLWhhZG9vcCIgJSAiNS4xLjIiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaWJyYXJ5RGVwZW5kZW5jaWVzICs9ICJvcmcuYXBhY2hlLnNwYXJrIiAlJSAic3BhcmstY29yZSIgJSBzcGFya1ZlcnNpb24sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmVsYXN0aWNzZWFyY2gvZWxhc3RpY3NlYXJjaC1zcGFyay0yMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb25mID0gbmV3IFNwYXJrQ29uZigpLnNldEFwcE5hbWUoIkxvYWQgZGF0YSIpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIC8vIENhY2hlIGRhdGEgZm9yIGZhc3RlciBhY2Nlc3MKICAgIGRhdGEuY2FjaGUoKQoKICAgIC8vIE1hdGVyaWFsaXplIGNhY2hlCiAgICB2YWwgZGF0YUNvdW50ID0gZGF0YS5jb3VudCgp</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2xsZWN0aW9uTmFtZSA9IGFyZ3MubGFzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCB6a0hvc3RzID0gYXJncygxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIC8vIENhY2hlIGRhdGEgZm9yIGZhc3RlciBhY2Nlc3MKICAgIGRhdGEuY2FjaGUoKQoKICAgIC8vIE1hdGVyaWFsaXplIGNhY2hlCiAgICB2YWwgZGF0YUNvdW50ID0gZGF0YS5jb3VudCgp</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
