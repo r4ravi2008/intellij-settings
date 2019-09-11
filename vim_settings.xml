@@ -731,11 +731,11 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReader.scala" timestamp="1568157700216">
-        <mark key="[" line="22" column="56" />
-        <mark key="]" line="22" column="53" />
-        <mark key="^" line="22" column="53" />
-        <mark key="." line="22" column="53" />
+      <file name="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReader.scala" timestamp="1568160141616">
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="16" column="33" />
+        <mark key="." line="16" column="33" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/.gitlab-ci.yml" timestamp="1563773320591">
         <mark key="[" line="23" column="6" />
@@ -1231,8 +1231,8 @@
       <jump line="9" column="12" filename="$USER_HOME$/dev/repos/data-migration-solr/src/test/resources/test.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IE1hcCgiZXMubWFwcGluZy5pZCIgLT4gIkdVSUQiKQ==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1241,7 +1241,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IE1hcCgiZXMubWFwcGluZy5pZCIgLT4gIkdVSUQiKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
