@@ -129,11 +129,11 @@
         <mark key="^" line="98" column="70" />
         <mark key="." line="98" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReaderTest.scala" timestamp="1568234571495">
-        <mark key="[" line="35" column="16" />
-        <mark key="]" line="35" column="19" />
-        <mark key="^" line="35" column="19" />
-        <mark key="." line="35" column="19" />
+      <file name="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReaderTest.scala" timestamp="1568236050945">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="34" column="19" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/DAGTest.scala" timestamp="1551353840676">
         <mark key="[" line="70" column="14" />
@@ -626,11 +626,17 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/repos/rakuten-es/src/main/scala/com/rakuten/es/CSVReader.scala" timestamp="1568227091947">
-        <mark key="[" line="18" column="62" />
-        <mark key="]" line="18" column="137" />
-        <mark key="." line="18" column="137" />
-        <mark key="^" line="18" column="137" />
+      <file name="$USER_HOME$/dev/repos/rakuten-es/src/main/scala/com/rakuten/es/ESWriter.scala" timestamp="1568236710214">
+        <mark key="[" line="19" column="68" />
+        <mark key="]" line="19" column="67" />
+        <mark key="." line="19" column="67" />
+        <mark key="^" line="19" column="67" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/rakuten-es/src/main/scala/com/rakuten/es/CSVReader.scala" timestamp="1568236332980">
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="40" column="4" />
+        <mark key="^" line="40" column="4" />
+        <mark key="." line="40" column="4" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/core/src/main/scala/com/cloudwick/cloudjumper/core/error/CloudjumperException.scala" timestamp="1562623044407">
         <mark key="[" line="10" column="0" />
@@ -1059,7 +1065,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/rakuten-es/build.sbt" timestamp="1568225147912">
+      <file name="$USER_HOME$/dev/repos/rakuten-es/build.sbt" timestamp="1568236608479">
         <mark key="[" line="13" column="75" />
         <mark key="]" line="13" column="79" />
         <mark key="^" line="13" column="79" />
@@ -1239,7 +1245,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHByaW50bG4oIlByaW50aW5nIHJlY29yZHM6IikKICAgIHJkZC5mb3JlYWNoKHByaW50bG4p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1248,7 +1254,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>docs</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
@@ -1256,35 +1262,35 @@
       <register name="0" type="4">
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIHByaW50bG4oIlByaW50aW5nIHJlY29yZHM6IikKICAgIHJkZC5mb3JlYWNoKHByaW50bG4p</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICkKICB9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgRVNXcml0ZXIgewo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHZhbCBpbmRleE5hbWUgPSAidGVzdF9pbmRleCIKICAgIHZhbCBtYXBwaW5nTmFtZSA9ICJ0ZXN0X2luZGV4X3R5cGUi</text>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLnNwYXJrLl8K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLnNwYXJrLnNxbF8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcHJpbnRsbigiUHJpbnRpbmcgcmVjb3JkcyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIER1bW15IERhdGFGcmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZiA9IHNwYXJrLnNwYXJrQ29udGV4dC5wYXJhbGxlbGl6ZSgoMjAwIHRvIDMwMCkubWFwKHggPT4gRXhhbXBsZUNsYXNzKHgsIHMiJHt4fUBnbWFpbC5jb20iKSkpCg==</text>
+        <text encoding="base64">ICBkZWYgYXBwbHk6IEVTV3JpdGVyID0gbmV3IEVTV3JpdGVyKCkK</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
