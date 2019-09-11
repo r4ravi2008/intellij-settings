@@ -129,7 +129,7 @@
         <mark key="^" line="98" column="70" />
         <mark key="." line="98" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReaderTest.scala" timestamp="1568236050945">
+      <file name="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReaderTest.scala" timestamp="1568240598816">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="34" column="19" />
@@ -626,7 +626,7 @@
         <mark key="^" line="5" column="2" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/repos/rakuten-es/src/main/scala/com/rakuten/es/ESWriter.scala" timestamp="1568236710214">
+      <file name="$USER_HOME$/dev/repos/rakuten-es/src/main/scala/com/rakuten/es/ESWriter.scala" timestamp="1568240740714">
         <mark key="[" line="19" column="68" />
         <mark key="]" line="19" column="67" />
         <mark key="." line="19" column="67" />
