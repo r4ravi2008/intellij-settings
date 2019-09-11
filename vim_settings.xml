@@ -27,7 +27,7 @@
         <mark key="^" line="14" column="45" />
         <mark key="." line="14" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1564124851626">
+      <file name="/a.dummy" timestamp="1568233425757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cdl/etl-driver/src/test/resources/policies/kafka_test_policy.json" timestamp="1539649197500">
@@ -128,6 +128,12 @@
         <mark key="]" line="98" column="70" />
         <mark key="^" line="98" column="70" />
         <mark key="." line="98" column="70" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReaderTest.scala" timestamp="1568234571495">
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="35" column="19" />
+        <mark key="^" line="35" column="19" />
+        <mark key="." line="35" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/learning_pyspark/scala-spark/scala-spark-interview/src/test/scala/com/ravi/interview/DAGTest.scala" timestamp="1551353840676">
         <mark key="[" line="70" column="14" />
@@ -740,12 +746,11 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReader.scala" timestamp="1568227427012">
-        <mark key="'" line="33" column="106" />
-        <mark key="[" line="14" column="47" />
-        <mark key="]" line="14" column="48" />
-        <mark key="." line="14" column="48" />
-        <mark key="^" line="14" column="48" />
+      <file name="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReader.scala" timestamp="1568232868261">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="31" column="83" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/cloudjumper/.gitlab-ci.yml" timestamp="1563773320591">
         <mark key="[" line="23" column="6" />
@@ -1048,7 +1053,7 @@
         <mark key="^" line="21" column="67" />
         <mark key="." line="21" column="67" />
       </file>
-      <file name="/sbtShell" timestamp="1568223807820">
+      <file name="/sbtShell" timestamp="1568232999644">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1233,8 +1238,8 @@
       <jump line="30" column="106" filename="$USER_HOME$/dev/repos/rakuten-es/src/test/scala/com/rakuten/es/CSVReader.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIHByaW50bG4oIlByaW50aW5nIHJlY29yZHM6IikKICAgIHJkZC5mb3JlYWNoKHByaW50bG4p</text>
       </register>
       <register name="c" type="4">
         <text />
@@ -1243,7 +1248,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>https://search-rakuten-public-test-l4s6v44tutny3mb2nkyuqpa6sy.us-west-2.es.amazonaws.com</text>
+        <text>docs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1NuYXBzaG90XD4=</text>
@@ -1251,35 +1256,35 @@
       <register name="0" type="4">
         <text>sbt clean coverage test coverageAggregate</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHByaW50bG4oIlByaW50aW5nIHJlY29yZHM6IikKICAgIHJkZC5mb3JlYWNoKHByaW50bG4p</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpYnJhcnlEZXBlbmRlbmNpZXMgKz0gIm9yZy5lbGFzdGljc2VhcmNoIiAlICJlbGFzdGljc2VhcmNoLWhhZG9vcCIgJSAiNS4xLjIiLAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHZhbCBpbmRleE5hbWUgPSAidGVzdF9pbmRleCIKICAgIHZhbCBtYXBwaW5nTmFtZSA9ICJ0ZXN0X2luZGV4X3R5cGUi</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsaWJyYXJ5RGVwZW5kZW5jaWVzICs9ICJvcmcuYXBhY2hlLnNwYXJrIiAlJSAic3BhcmstY29yZSIgJSBzcGFya1ZlcnNpb24sCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLnNwYXJrLl8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmVsYXN0aWNzZWFyY2gvZWxhc3RpY3NlYXJjaC1zcGFyay0yMAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5lbGFzdGljc2VhcmNoLnNwYXJrLnNxbF8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25mID0gbmV3IFNwYXJrQ29uZigpLnNldEFwcE5hbWUoIkxvYWQgZGF0YSIpCg==</text>
+        <text encoding="base64">Ly8gICAgcHJpbnRsbigiUHJpbnRpbmcgcmVjb3JkcyIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIER1bW15IERhdGFGcmFtZQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkZiA9IHNwYXJrLnNwYXJrQ29udGV4dC5wYXJhbGxlbGl6ZSgoMjAwIHRvIDMwMCkubWFwKHggPT4gRXhhbXBsZUNsYXNzKHgsIHMiJHt4fUBnbWFpbC5jb20iKSkpCg==</text>
       </register>
       <register name="y" type="4">
         <text>r</text>
