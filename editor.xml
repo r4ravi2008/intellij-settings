@@ -1,0 +1,7 @@
+<application>
+  <component name="EditorSettings">
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="IS_ANIMATED_SCROLLING" value="false" />
+    <option name="REFRAIN_FROM_SCROLLING" value="true" />
+  </component>
+</application>
