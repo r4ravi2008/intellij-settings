@@ -4,8 +4,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="preparation.template" type="HOCON" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
