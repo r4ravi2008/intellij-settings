@@ -1,0 +1,5 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <option id="scala.apply.update.hint" value="true" />
+  </component>
+</application>
