@@ -193,11 +193,11 @@
       <file name="/Dummy.scala" timestamp="1588887892281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" timestamp="1589302301129">
-        <mark key="[" line="51" column="43" />
-        <mark key="]" line="52" column="4" />
-        <mark key="^" line="52" column="4" />
-        <mark key="." line="52" column="3" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" timestamp="1589303083042">
+        <mark key="[" line="54" column="36" />
+        <mark key="]" line="54" column="29" />
+        <mark key="^" line="54" column="29" />
+        <mark key="." line="54" column="28" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/src/main/scala/com/intuit/pzn/package.scala" timestamp="1588892051349">
         <mark key="[" line="1" column="0" />
