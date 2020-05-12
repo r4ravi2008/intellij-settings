@@ -1,8 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactStatusBar" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="hideFileIcons" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
@@ -12,10 +14,10 @@
     <option name="treeFontSize" value="10" />
     <option name="settingsSelectedTab" value="5" />
     <option name="tabsHeight" value="50" />
-    <option name="accentColor" value="676e95" />
+    <option name="accentColor" value="5a8ec4" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-2013c1d1:165ee8b3866:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
