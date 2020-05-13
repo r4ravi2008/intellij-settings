@@ -124,7 +124,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589303146853">
+      <file name="/Dummy.txt" timestamp="1589387596992">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
@@ -152,12 +152,12 @@
         <mark key="." line="18" column="30" />
         <mark key="^" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" timestamp="1589386382887">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" timestamp="1589386902237">
         <mark key="'" line="24" column="2" />
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="12" column="46" />
-        <mark key="^" line="12" column="46" />
-        <mark key="." line="12" column="45" />
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="21" column="38" />
+        <mark key="^" line="20" column="42" />
+        <mark key="." line="21" column="38" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1588909766592">
         <mark key="'" line="16" column="6" />
@@ -190,12 +190,12 @@
       <file name="/Dummy.scala" timestamp="1589386177353">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" timestamp="1589340434158">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" timestamp="1589387635356">
         <mark key="'" line="30" column="83" />
-        <mark key="[" line="21" column="4" />
-        <mark key="]" line="23" column="4" />
-        <mark key="^" line="50" column="10" />
-        <mark key="." line="73" column="0" />
+        <mark key="[" line="28" column="109" />
+        <mark key="]" line="28" column="110" />
+        <mark key="^" line="28" column="110" />
+        <mark key="." line="28" column="109" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/src/test/scala/com/intuit/pzn/pipeline/CampaignTargetingTest.scala" timestamp="1588910371553">
         <mark key="[" line="9" column="0" />
@@ -326,11 +326,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      <register name="&quot;" type="4">
+        <text>eventBusConfig</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cGFja2FnZSA=</text>
+        <text>eventBusConfig</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -338,35 +338,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihzInN0ZXBOYW1lPSR7c3RlcE5hbWV9IGVudj0kZW52IElucHV0IERhdGFmcmFtZSBkb2VzbnQgZXhpc3QiKSkK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhbAo=</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBzYmctaW52b2ljZXMgPSB7CiAgICAgICAgIG9yZGVyID0gMSwgc3FsID0gewogICAgICAgICAgIHNxbFNvdXJjZSA9IGxvY2FsLCB0YWJsZSA9ICR7dmFyaWFibGVzLl9zYmdfcHltdF9kbV9weW10X2ludm9pY2VzX2lucHV0X3RhYmxlX30sCiAgICAgICAgICAgaW4tcGF0aCA9ICR7dmFyaWFibGVzLnFib1ByZVByb2Nlc3NpbmdJbnB1dHN9LyR7dmFyaWFibGVzLl9zYmdfcHltdF9kbV9weW10X2ludm9pY2VzX2lucHV0X3RhYmxlX30sCiAgICAgICAgIH0sIG1ldGFkYXRhID0ge2lzLWlucHV0ID0gdHJ1ZSwgaXMtb3V0cHV0ID0gZmFsc2UsIGlzLXNhdmUgPSBmYWxzZX0KICAgICAgfQogICAgICB0eG4taGVhZGVycz0gewogICAgICAgICAgb3JkZXIgPSAxLCBzcWwgPSB7CiAgICAgICAgICAgIHNxbFNvdXJjZSA9IGxvY2FsLCB0YWJsZSA9ICR7dmFyaWFibGVzLl90eGhlYWRlcnNfaW5wdXRfdGFibGVffSwKICAgICAgICAgICAgaW4tcGF0aCA9ICR7cGlwZWxpbmUtdmFyaWFibGVzLkVudGl0eUdlbmVyYXRpb24tUWJvVHJhbnNhY3Rpb25zLl90eG5faGVhZGVyc19pbnB1dF99LAogICAgICAgICAgfSwgbWV0YWRhdGEgPSB7aXMtaW5wdXQgPSB0cnVlLCBpcy1vdXRwdXQgPSBmYWxzZSwgaXMtc2F2ZSA9IGZhbHNlfQogICAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCBpbnB1dERhdGFMb2NhdGlvbiA9IHBhdGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3BlcnRpZXMgPSB7Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjZmcgPSBDb25maWdGYWN0b3J5LnBhcnNlU3RyaW5nKGNvbmZpZ1N0cmluZykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgIHZhbCBjb25maWdTdHJpbmcgPSBzY2FsYS5pby5Tb3VyY2UuZnJvbUlucHV0U3RyZWFtKGlucHV0U3RyZWFtKS5ta1N0cmluZwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>input.state.inputDfs.getOrElse(inputDfHolder,
-      throw new IllegalArgumentException(s&quot;stepName=${stepName} env=$env Input Dataframe doesnt exist&quot;))
-      .df.getOrElse(throw new IllegalArgumentException(s&quot;stepName=${stepName} env=$env Input Dataframe doesnt exist&quot;))
-    )</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhbCBpbnB1dFN0cmVhbSA9IHRoaXMuZ2V0Q2xhc3MuZ2V0UmVzb3VyY2VBc1N0cmVhbShzIi8kZXZlbnRidXNDb25maWdQYXRoIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
