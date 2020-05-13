@@ -166,7 +166,7 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="21" />
       </file>
-      <file name="/" timestamp="1589315457514">
+      <file name="/" timestamp="1589338996408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/src/test/scala/com/intuit/pzn/pipeline/DataframeToJsonDatasetTest.scala" timestamp="1588910478878">
@@ -187,15 +187,15 @@
       <file name="/Groovy Trait.txt.ft" timestamp="1588908861179">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1589315218674">
+      <file name="/Dummy.scala" timestamp="1589339024938">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" timestamp="1589315316709">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" timestamp="1589339211646">
         <mark key="'" line="30" column="83" />
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="8" column="34" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="34" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="50" column="10" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/src/main/scala/com/intuit/pzn/package.scala" timestamp="1588892051349">
         <mark key="[" line="1" column="0" />
@@ -326,8 +326,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -339,28 +339,28 @@
         <text encoding="base64">KHggLT4gcm93LmdldEFzW0xvbmdUeXBlXSh4KSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2x1bW5zTmFtZSA9IGRmV2l0aEFwcGVuZGVkQ29scy5jb2x1bW5zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBhcHBlbmRVZGYgPSB1ZGZ7ICAod29yZDogU3RyaW5nKSA9PiBzIiIiXCJhdHRyaWJ1dGVzXCIgOiAke3dvcmR9IiIiIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBjb2x1bW5zTmFtZSA9IGRmV2l0aEFwcGVuZGVkQ29scy5jb2x1bW5zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBhcHBlbmRVZGYgPSB1ZGZ7ICAod29yZDogU3RyaW5nKSA9PiBzIiIiXCJhdHRyaWJ1dGVzXCIgOiAke3dvcmR9IiIiIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHRyYW5zZm9ybWVkREYgPSBkZldpdGhBcHBlbmRlZENvbHMud2l0aENvbHVtbigiYXR0cmlidXRlcyIsIG1hcChjb2x1bW5zTmFtZS5mbGF0TWFwKHggPT4gQXJyYXkobGl0KHgpLCBjb2woeCkuY2FzdCgiU3RyaW5nIikpKTogXyopKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIHRyYW5zZm9ybWVkREYgPSBkZldpdGhBcHBlbmRlZENvbHMud2l0aENvbHVtbigiYXR0cmlidXRlcyIsIG1hcChjb2x1bW5zTmFtZS5mbGF0TWFwKHggPT4gQXJyYXkobGl0KHgpLCBjb2woeCkuY2FzdCgiU3RyaW5nIikpKTogXyopKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
