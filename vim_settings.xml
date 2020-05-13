@@ -152,6 +152,12 @@
         <mark key="." line="18" column="30" />
         <mark key="^" line="18" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" timestamp="1589384950193">
+        <mark key="[" line="8" column="55" />
+        <mark key="]" line="8" column="55" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="55" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1588909766592">
         <mark key="'" line="16" column="6" />
         <mark key="[" line="61" column="0" />
@@ -190,21 +196,14 @@
         <mark key="^" line="50" column="10" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/src/main/scala/com/intuit/pzn/package.scala" timestamp="1588892051349">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/src/test/scala/com/intuit/pzn/pipeline/CampaignTargetingTest.scala" timestamp="1588910371553">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="6" />
         <mark key="." line="10" column="6" />
         <mark key="^" line="10" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/core/PznSparkLoaderStep.scala" timestamp="1589384925533" />
       <file name="/HTML File.txt.ft" timestamp="1589315104302">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Groovy DSL Script.txt.ft" timestamp="1588908856848">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1589315199430">
@@ -327,10 +326,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>transformedDF</text>
+        <text encoding="base64">cGFja2FnZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>transformedDF</text>
+        <text encoding="base64">cGFja2FnZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
@@ -338,35 +337,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihzInN0ZXBOYW1lPSR7c3RlcE5hbWV9IGVudj0kZW52IElucHV0IERhdGFmcmFtZSBkb2VzbnQgZXhpc3QiKSkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
+      <register name="2" type="4">
         <text>input.state.inputDfs.getOrElse(inputDfHolder,
       throw new IllegalArgumentException(s&quot;stepName=${stepName} env=$env Input Dataframe doesnt exist&quot;))
       .df.getOrElse(throw new IllegalArgumentException(s&quot;stepName=${stepName} env=$env Input Dataframe doesnt exist&quot;))
     )</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIH0gCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2x1bW5zTmFtZSA9IGRmV2l0aEFwcGVuZGVkQ29scy5jb2x1bW5zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBhcHBlbmRVZGYgPSB1ZGZ7ICAod29yZDogU3RyaW5nKSA9PiBzIiIiXCJhdHRyaWJ1dGVzXCIgOiAke3dvcmR9IiIiIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBjb2x1bW5zTmFtZSA9IGRmV2l0aEFwcGVuZGVkQ29scy5jb2x1bW5zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBhcHBlbmRVZGYgPSB1ZGZ7ICAod29yZDogU3RyaW5nKSA9PiBzIiIiXCJhdHRyaWJ1dGVzXCIgOiAke3dvcmR9IiIiIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHRyYW5zZm9ybWVkREYgPSBkZldpdGhBcHBlbmRlZENvbHMud2l0aENvbHVtbigiYXR0cmlidXRlcyIsIG1hcChjb2x1bW5zTmFtZS5mbGF0TWFwKHggPT4gQXJyYXkobGl0KHgpLCBjb2woeCkuY2FzdCgiU3RyaW5nIikpKTogXyopKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIHRyYW5zZm9ybWVkREYgPSBkZldpdGhBcHBlbmRlZENvbHMud2l0aENvbHVtbigiYXR0cmlidXRlcyIsIG1hcChjb2x1bW5zTmFtZS5mbGF0TWFwKHggPT4gQXJyYXkobGl0KHgpLCBjb2woeCkuY2FzdCgiU3RyaW5nIikpKTogXyopKQo=</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
