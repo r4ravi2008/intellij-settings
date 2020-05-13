@@ -127,12 +127,10 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus.conf" timestamp="1589390426858">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/ChurnPropensity.conf" timestamp="1589390522287">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="23" column="1" />
-        <mark key="]" line="87" column="1" />
-        <mark key="^" line="87" column="1" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/ChurnPropensity.conf" timestamp="1589408742342">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/src/test/scala/com/intuit/pzn/pipeline/DataframeToJsonDatasetTest.scala" timestamp="1588910478878">
         <mark key="[" line="23" column="28" />
@@ -199,35 +197,34 @@
         <mark key="." line="18" column="30" />
         <mark key="^" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" timestamp="1589389516601">
-        <mark key="'" line="34" column="19" />
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="45" column="23" />
-        <mark key="^" line="45" column="23" />
-        <mark key="." line="45" column="22" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" timestamp="1589409561223">
+        <mark key="'" line="66" column="15" />
+        <mark key="[" line="96" column="20" />
+        <mark key="]" line="97" column="33" />
+        <mark key="^" line="97" column="33" />
+        <mark key="." line="97" column="32" />
       </file>
       <file name="/" timestamp="1589338996408">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" timestamp="1589389054290">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" timestamp="1589409758987">
         <mark key="'" line="30" column="83" />
-        <mark key="[" line="57" column="64" />
-        <mark key="]" line="58" column="17" />
-        <mark key="^" line="58" column="17" />
-        <mark key="." line="58" column="16" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="4" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1589315199430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/EventBusStep.scala" timestamp="1589390539898">
-        <mark key="[" line="20" column="5" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/EventBusStep.scala" timestamp="1589409616894">
+        <mark key="[" line="27" column="57" />
+        <mark key="]" line="27" column="62" />
+        <mark key="^" line="27" column="62" />
+        <mark key="." line="27" column="61" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="25" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/entityResolution/entityResolutionSteps.conf" />
-      <jump line="142" column="28" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/entityResolution/entityResolutionSteps.conf" />
-      <jump line="65" column="49" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/entityResolution/entityResolutionSteps.conf" />
-      <jump line="109" column="4" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/preprocessingQboLoader/PreprocessingQboLoader.conf" />
       <jump line="156" column="50" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/entityResolution/entityResolutionSteps.conf" />
       <jump line="167" column="52" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/entityResolution/entityResolutionSteps.conf" />
       <jump line="213" column="6" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/entityResolution/entityResolutionSteps.conf" />
@@ -324,6 +321,10 @@
       <jump line="78" column="1" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_e2e.conf" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_e2e.conf" />
       <jump line="87" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/ChurnPropensity.conf" />
+      <jump line="67" column="13" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/ChurnPropensity.conf" />
+      <jump line="58" column="13" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/ChurnPropensity.conf" />
+      <jump line="33" column="19" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" />
+      <jump line="66" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,40 +333,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CampaignTargetingStep</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihzInN0ZXBOYW1lPSR7c3RlcE5hbWV9IGVudj0kZW52IElucHV0IERhdGFmcmFtZSBkb2VzbnQgZXhpc3QiKSkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKAogICAgICAgIHMiSW4gc3RlcE5hbWU9JHN0ZXBOYW1lIHVuYWJsZSB0byBmaW5kIGBlbnZgIHZhbHVlLCB3aGljaCBpcyByZXF1aXJlZCIpCiAgICAp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudEJ1c0NvbmZpZyA9ICJldmVudGJ1cy5jb25mIgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">VHJ5IHsKICAgICAgaW5wdXQuc3RhdGUuaW5wdXREZnMuZ2V0KGlucHV0RGZOYW1lKS5nZXQuZGYuZ2V0CiAgICB9IG1hdGNoIHsKICAgICAgY2FzZSBTdWNjZXNzKGRmKSA9PiBkZgogICAgICBjYXNlIEZhaWx1cmUoZXhjZXB0aW9uKSA9PgogICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24ocyJzdGVwTmFtZT0ke3N0ZXBOYW1lfSBlbnY9JGVudiBJbnB1dCBkYXRhIGZyYW1lIGRvZXNudCBleGlzdCIpCiAgICB9</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHZhbCBpbnB1dFN0cmVhbSA9IHRoaXMuZ2V0Q2xhc3MuZ2V0UmVzb3VyY2VBc1N0cmVhbShzIi8kZXZlbnRidXNDb25maWdQYXRoIikKICAgIHZhbCBjb25maWdTdHJpbmcgPSBzY2FsYS5pby5Tb3VyY2UuZnJvbUlucHV0U3RyZWFtKGlucHV0U3RyZWFtKS5ta1N0cmluZwog</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXZlbnRCdXNDb25maWcgPSAiZXZlbnRidXMuY29uZiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYW1wYWlnblRhcmdldGluZ1BhdGggPSAke3ZhcmlhYmxlcy5kYXRhSW5wdXRQYXRofQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIC8vIHJlbGF0aXZlIHJlc291cmNlIHBhdGggb2YgZXZlbmJ1cyBjb25maWcgZmlsZQogICAgdmFsIGV2ZW50YnVzQ29uZmlnUGF0aCA9IGlucHV0Lm1ldGFkYXRhLnByb3BlcnRpZXMuZ2V0KCJldmVudEJ1c0NvbmZpZyIpIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKHgpID0+IHgKICAgICAgY2FzZSBOb25lID0+IHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24ocyJzdGVwTmFtZT0ke3N0ZXBOYW1lfSBlbnY9JGVudiBTcGVjaWZ5IHRoZSBldmVudCBidXMgcGF0aCIpCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50eXBlc2FmZS5jb25maWcue0NvbmZpZywgQ29uZmlnRmFjdG9yeX0K</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnR1aXQucHpuLmV2ZW50YnVzLntEYXRhZnJhbWVXcmFwcGVyLCBTcGFya0V2ZW50QnVzV3JpdGVyfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
