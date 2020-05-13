@@ -210,18 +210,18 @@
       <file name="/fragment.java" timestamp="1589315199430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/EventBusStep.scala" timestamp="1589382927275">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="23" />
-        <mark key="^" line="27" column="23" />
-        <mark key="." line="27" column="22" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/EventBusStep.scala" timestamp="1589383928012">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="49" column="16" />
+        <mark key="]" line="49" column="21" />
+        <mark key="." line="49" column="20" />
+        <mark key="^" line="49" column="21" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1589315104632">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="590" column="8" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/incremental/incrementalPipelineSteps.conf" />
       <jump line="607" column="9" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/incremental/incrementalPipelineSteps.conf" />
       <jump line="620" column="7" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/incremental/incrementalPipelineSteps.conf" />
       <jump line="633" column="10" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/incremental/incrementalPipelineSteps.conf" />
@@ -321,45 +321,49 @@
       <jump line="59" column="71" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" />
       <jump line="69" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" />
       <jump line="30" column="83" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/EventBusStep.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKAogICAgICAgIHMiSW4gc3RlcE5hbWU9JHN0ZXBOYW1lIHVuYWJsZSB0byBmaW5kIGBlbnZgIHZhbHVlLCB3aGljaCBpcyByZXF1aXJlZCIpCiAgICAp</text>
+        <text>transformedDF</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>transformedDF</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx7XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKAogICAgICAgIHMiSW4gc3RlcE5hbWU9JHN0ZXBOYW1lIHVuYWJsZSB0byBmaW5kIGBlbnZgIHZhbHVlLCB3aGljaCBpcyByZXF1aXJlZCIpCiAgICAp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihzInN0ZXBOYW1lPSR7c3RlcE5hbWV9IGVudj0kZW52IElucHV0IERhdGFmcmFtZSBkb2VzbnQgZXhpc3QiKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>input.state.inputDfs.getOrElse(inputDfHolder,
+      throw new IllegalArgumentException(s&quot;stepName=${stepName} env=$env Input Dataframe doesnt exist&quot;))
+      .df.getOrElse(throw new IllegalArgumentException(s&quot;stepName=${stepName} env=$env Input Dataframe doesnt exist&quot;))
+    )</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2x1bW5zTmFtZSA9IGRmV2l0aEFwcGVuZGVkQ29scy5jb2x1bW5zCg==</text>
+        <text encoding="base64">ICAgIH0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBhcHBlbmRVZGYgPSB1ZGZ7ICAod29yZDogU3RyaW5nKSA9PiBzIiIiXCJhdHRyaWJ1dGVzXCIgOiAke3dvcmR9IiIiIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjb2x1bW5zTmFtZSA9IGRmV2l0aEFwcGVuZGVkQ29scy5jb2x1bW5zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBhcHBlbmRVZGYgPSB1ZGZ7ICAod29yZDogU3RyaW5nKSA9PiBzIiIiXCJhdHRyaWJ1dGVzXCIgOiAke3dvcmR9IiIiIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHRyYW5zZm9ybWVkREYgPSBkZldpdGhBcHBlbmRlZENvbHMud2l0aENvbHVtbigiYXR0cmlidXRlcyIsIG1hcChjb2x1bW5zTmFtZS5mbGF0TWFwKHggPT4gQXJyYXkobGl0KHgpLCBjb2woeCkuY2FzdCgiU3RyaW5nIikpKTogXyopKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZQo=</text>
+        <text encoding="base64">Ly8gICAgdmFsIHRyYW5zZm9ybWVkREYgPSBkZldpdGhBcHBlbmRlZENvbHMud2l0aENvbHVtbigiYXR0cmlidXRlcyIsIG1hcChjb2x1bW5zTmFtZS5mbGF0TWFwKHggPT4gQXJyYXkobGl0KHgpLCBjb2woeCkuY2FzdCgiU3RyaW5nIikpKTogXyopKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
