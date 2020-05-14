@@ -151,11 +151,11 @@
         <mark key="^" line="12" column="51" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" timestamp="1589430515497">
-        <mark key="[" line="25" column="37" />
-        <mark key="]" line="25" column="37" />
-        <mark key="." line="25" column="37" />
-        <mark key="^" line="24" column="40" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" timestamp="1589432204583">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="20" column="40" />
+        <mark key="." line="20" column="39" />
+        <mark key="^" line="20" column="40" />
       </file>
       <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/pom.xml" timestamp="1589427798926">
         <mark key="'" line="161" column="19" />
@@ -163,6 +163,13 @@
         <mark key="]" line="206" column="32" />
         <mark key="^" line="206" column="32" />
         <mark key="." line="206" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1589432011910">
+        <mark key="'" line="9" column="39" />
+        <mark key="[" line="43" column="37" />
+        <mark key="]" line="43" column="37" />
+        <mark key="." line="43" column="36" />
+        <mark key="^" line="43" column="37" />
       </file>
       <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/PipelineForHiveOperationsTest.scala" timestamp="1589425676534">
         <mark key="[" line="3" column="0" />
@@ -195,17 +202,11 @@
         <mark key="." line="30" column="15" />
         <mark key="^" line="30" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589428223845">
+      <file name="/Dummy.txt" timestamp="1589432054677">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/processors/SparkProcessorsTest.scala" timestamp="1589424878493">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/SparkPipelineStepTest.scala" timestamp="1589425242169">
         <mark key="[" line="89" column="0" />
@@ -221,11 +222,7 @@
         <mark key="^" line="51" column="118" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" timestamp="1589428359965">
-        <mark key="'" line="61" column="23" />
-        <mark key="[" line="23" column="40" />
-        <mark key="]" line="23" column="29" />
-        <mark key="^" line="23" column="29" />
-        <mark key="." line="23" column="28" />
+        <mark key="'" line="55" column="23" />
       </file>
       <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/Jenkinsfile" timestamp="1589426139513">
         <mark key="'" line="10" column="34" />
@@ -337,10 +334,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>SparkException</text>
+        <text>Exception</text>
       </register>
       <register name="-" type="4">
-        <text>SparkException</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
@@ -349,31 +346,31 @@
         <text encoding="base64">ICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLndpdGhQaXBlbGluZUNvbmZpZygicGlwZWxpbmVzL2NvbmZpZy9DYW1wYWlnblRhcmdldGluZy5jb25mIikK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldyBQaXBlbGluZVRlc3RCdWlsZGVyKCkK</text>
+        <text encoding="base64">ICAgIHNweVBpcGVsaW5lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGVzdFBpcGVsaW5lCg==</text>
+        <text encoding="base64">ICAgIHdoZW4oc3B5UGlwZWxpbmUud2lsbE5vdEZhaWwpLnRoZW5SZXR1cm4oc2NhbGF0ZXN0LkFzc2VydGlvbnMuc3VjY2VlZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNweVBpcGVsaW5lCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzcHlQaXBlbGluZSA9IHNweVtQaXBlbGluZVRlc3RCdWlsZGVyXSh0ZXN0UGlwZWxpbmUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcHlQaXBlbGluZSA9IHNweVtQaXBlbGluZVRlc3RCdWlsZGVyXSh0ZXN0UGlwZWxpbmUpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcHlQaXBlbGluZSA9IHNweVtQaXBlbGluZVRlc3RCdWlsZGVyXSh0ZXN0UGlwZWxpbmUpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG9TdWdhci5fCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnR1aXQuaWRwcy5zZXJ2aWNlLklkcHNSdW50aW1lRXhjZXB0aW9uCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNweVBpcGVsaW5lCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSBfID0+IHRocm93IG5ldyBFeGNlcHRpb24oXykKICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
