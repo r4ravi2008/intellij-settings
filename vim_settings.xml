@@ -143,12 +143,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="13" column="118" />
       </file>
-      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/processors/standardizers/SparkHashedUserIdStandardizerTest.scala" timestamp="1589424829627">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="16" />
-        <mark key="." line="11" column="15" />
-        <mark key="^" line="11" column="16" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/intuit/idps/idps-sdk/3.65.6/idps-sdk-3.65.6-sources.jar!/com/intuit/idps/utils/cloud/CloudInstanceIdentityFactory.java" timestamp="1589430386876" />
       <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/SparkPipelineTest.scala" timestamp="1589427964592">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="12" column="55" />
@@ -156,11 +151,11 @@
         <mark key="^" line="12" column="51" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" timestamp="1589428958709">
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="33" />
-        <mark key="." line="20" column="32" />
-        <mark key="^" line="20" column="33" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" timestamp="1589430515497">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="37" />
+        <mark key="." line="25" column="37" />
+        <mark key="^" line="24" column="40" />
       </file>
       <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/pom.xml" timestamp="1589427798926">
         <mark key="'" line="161" column="19" />
@@ -341,11 +336,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5ldyBQaXBlbGluZVRlc3RCdWlsZGVyKCkK</text>
+      <register name="&quot;" type="4">
+        <text>SparkException</text>
       </register>
       <register name="-" type="4">
-        <text>testPipeline</text>
+        <text>SparkException</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
@@ -354,31 +349,31 @@
         <text encoding="base64">ICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldyBQaXBlbGluZVRlc3RCdWlsZGVyKCkK</text>
+        <text encoding="base64">ICAgICAgLndpdGhQaXBlbGluZUNvbmZpZygicGlwZWxpbmVzL2NvbmZpZy9DYW1wYWlnblRhcmdldGluZy5jb25mIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGVzdFBpcGVsaW5lCg==</text>
+        <text encoding="base64">ICAgIG5ldyBQaXBlbGluZVRlc3RCdWlsZGVyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNweVBpcGVsaW5lCg==</text>
+        <text encoding="base64">ICAgICAgdGVzdFBpcGVsaW5lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcHlQaXBlbGluZSA9IHNweVtQaXBlbGluZVRlc3RCdWlsZGVyXSh0ZXN0UGlwZWxpbmUpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcHlQaXBlbGluZSA9IHNweVtQaXBlbGluZVRlc3RCdWlsZGVyXSh0ZXN0UGlwZWxpbmUpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG9TdWdhci5fCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHNweVBpcGVsaW5lCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCBzcHlQaXBlbGluZSA9IHNweVtQaXBlbGluZVRlc3RCdWlsZGVyXSh0ZXN0UGlwZWxpbmUpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCBzcHlQaXBlbGluZSA9IHNweVtQaXBlbGluZVRlc3RCdWlsZGVyXSh0ZXN0UGlwZWxpbmUpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG9TdWdhci5fCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgcGF0aCA9IG5ldyBQaXBlbGluZVRlc3RCdWlsZGVyKCkuZ2V0UmVzb3VyY2VQYXRoCg==</text>
+        <text encoding="base64">ICAgIHNweVBpcGVsaW5lCg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
