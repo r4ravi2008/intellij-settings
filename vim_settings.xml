@@ -202,12 +202,12 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" timestamp="1589428359965">
         <mark key="'" line="55" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" timestamp="1589471836328">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" timestamp="1589472503151">
         <mark key="'" line="30" column="83" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="4" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="44" column="93" />
+        <mark key="]" line="44" column="88" />
+        <mark key="^" line="44" column="88" />
+        <mark key="." line="44" column="87" />
       </file>
     </filemarks>
     <jumps>
@@ -316,10 +316,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cGFja2FnZSBjb20uaW50dWl0LnB6bi5ldmVudGJ1cwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwue0RhdGFGcmFtZSwgRGF0YXNldCwgU3BhcmtTZXNzaW9ufQoKLy8gRW5jb2RlciBuZWVkcyBhIHByb2R1Y3QgdHlwZSAtIGhlbmNlIHdlIG5lZWQgdGhpcy4KY2FzZSBjbGFzcyBUZW1wKHZhbHVlOiBTdHJpbmcpCgovKioKICogQSB1dGlsaXR5IHRvIGNvbnZlcnQgYSBkYXRhZnJhbWUgaW50byBkYXRhc2V0W1N0cmluZ10gd2hlcmUgZWFjaCByb3cKICogaXMgYSBqc29uIHN0cmluZy4KICogQGF1dGhvciBya29tbWluZW5pCiAqLwpvYmplY3QgRGF0YWZyYW1lV3JhcHBlciB7CiAgLyoqCiAgICogRnVuY3Rpb24gdGhhdCB0YWtlcyBhIERhdGFmcmFtZSAtPiBEYXRhc2V0W1N0cmluZ10gYW5kIGVhY2ggcm93IGlzIGEganNvbi4KICAgKiBAcGFyYW0gZGYgaW5wdXQgRGF0YWZyYW1lCiAgICogQHBhcmFtIHNwYXJrIHNwYXJrc2Vzc2lvbgogICAqIEByZXR1cm4gRGF0YXNldFtTdHJpbmddCiAgICovCiAgZGVmIGNvbnZlcnREZihkZjogRGF0YUZyYW1lLCBzcGFyazogU3BhcmtTZXNzaW9uKTogRGF0YXNldFtTdHJpbmddID0gewogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCiAgICBpbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuZnVuY3Rpb25zLl8KICAgIHZhbCBjb252ZXJ0ZWREZiA9IGRmLnNlbGVjdCh0b19qc29uKHN0cnVjdChjb2woIioiKSkpLmFsaWFzKCJ2YWx1ZSIpKQogICAgaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLkVuY29kZXJzCiAgICBFbmNvZGVycy5wcm9kdWN0W1RlbXBdCgogICAgdmFsIGRzOiBEYXRhc2V0W1RlbXBdID0gY29udmVydGVkRGYuYXNbVGVtcF0KICAgIGRzLm1hcCh4PT54LnZhbHVlKQogIH0KfQ==</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
