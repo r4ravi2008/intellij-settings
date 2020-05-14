@@ -132,17 +132,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/intuit/data/process/eventbus-core/1.2.0/eventbus-core-1.2.0-sources.jar!/com/intuit/eventbus/SerializingMessageFormater.java" timestamp="1589420975030" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/src/test/scala/com/intuit/pzn/pipeline/DataframeToJsonDatasetTest.scala" timestamp="1588910478878">
         <mark key="[" line="23" column="28" />
         <mark key="]" line="23" column="34" />
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/src/main/resources/eventbus.conf" timestamp="1588910250252">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="61" column="0" />
       </file>
       <file name="/Dummy.scala" timestamp="1589389545800">
         <mark key="[" line="0" column="0" />
