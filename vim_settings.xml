@@ -7,14 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY29tcGFueWluZm9fdGFibGVfXD4=</entry>
-        <entry encoding="base64">XDxfY29tcGFueWluZm9faW5wdXRfdGFibGVfXD4=</entry>
-        <entry encoding="base64">XDxxYm9fY29tcGFueV9zdGF0dXNcPg==</entry>
-        <entry encoding="base64">XDxlbnRpdHlSZXNvbHV0aW9uRW50aXR5R2VuZXJhdGlvblw+</entry>
-        <entry>6000</entry>
-        <entry encoding="base64">XDx0b3BpY05hbWVcPg==</entry>
-        <entry>role</entry>
-        <entry>scala.version</entry>
         <entry>shade</entry>
         <entry>pattern</entry>
         <entry>withNew</entry>
@@ -27,6 +19,14 @@
         <entry>select[</entry>
         <entry>apply</entry>
         <entry encoding="base64">XDx7XD4=</entry>
+        <entry>testThat</entry>
+        <entry>testThatPipeline</entry>
+        <entry>test</entry>
+        <entry>spy[</entry>
+        <entry encoding="base64">XDxzcHlcPg==</entry>
+        <entry>plugin</entry>
+        <entry>jar-plugin</entry>
+        <entry>mock</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\((.*?)\)/\s/gc</entry>
@@ -124,126 +124,119 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus.conf" timestamp="1589390426858">
-        <mark key="'" line="16" column="0" />
+      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/testingframework/PipelineTestBuilder.scala" timestamp="1589427958400">
+        <mark key="'" line="59" column="42" />
+        <mark key="[" line="71" column="45" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/ChurnPropensity.conf" timestamp="1589408742342">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/PipelineParserTest.scala" timestamp="1589425370278">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="46" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="30" column="118" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/intuit/data/process/eventbus-core/1.2.0/eventbus-core-1.2.0-sources.jar!/com/intuit/eventbus/SerializingMessageFormater.java" timestamp="1589420975030" />
-      <file name="/Dummy.scala" timestamp="1589389545800">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/PipelineParserExampleTest.scala" timestamp="1589425468247">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="13" column="118" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/core/PznSparkLoaderStep.scala" timestamp="1589384925533" />
-      <file name="/HTML File.txt.ft" timestamp="1589315104302">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/processors/standardizers/SparkHashedUserIdStandardizerTest.scala" timestamp="1589424829627">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="15" />
+        <mark key="^" line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" timestamp="1589422322903">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="17" column="4" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/SparkPipelineTest.scala" timestamp="1589427964592">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="12" column="55" />
+        <mark key="]" line="12" column="51" />
+        <mark key="^" line="12" column="51" />
+        <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/EventBusStep.scala" timestamp="1589389092426">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="49" column="21" />
-        <mark key="." line="49" column="20" />
-        <mark key="^" line="49" column="21" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" timestamp="1589428958709">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="32" />
+        <mark key="^" line="20" column="33" />
       </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1589315104632">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/pom.xml" timestamp="1589427798926">
+        <mark key="'" line="161" column="19" />
+        <mark key="[" line="200" column="32" />
+        <mark key="]" line="206" column="32" />
+        <mark key="^" line="206" column="32" />
+        <mark key="." line="206" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589418417753">
+      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/PipelineForHiveOperationsTest.scala" timestamp="1589425676534">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="65" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/SparkSqlParseHelperTest.scala" timestamp="1589425086995">
+        <mark key="[" line="87" column="4" />
+        <mark key="]" line="87" column="16" />
+        <mark key="." line="87" column="15" />
+        <mark key="^" line="87" column="16" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/intuit/spark/pipeline-framework/1.0.0-SNAPSHOT/pipeline-framework-1.0.0-SNAPSHOT-test-sources.jar!/com/intuit/spark/pipeline/SparkPipelineTest.scala" timestamp="1589427928775">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="54" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-scala_2.11/1.14.1/mockito-scala_2.11-1.14.1-sources.jar!/org/mockito/MockitoAPI.scala" timestamp="1589426699015">
+        <mark key="'" line="611" column="111" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/PipelineOverridableTest.scala" timestamp="1589425570408">
+        <mark key="[" line="45" column="4" />
+        <mark key="]" line="45" column="16" />
+        <mark key="." line="45" column="15" />
+        <mark key="^" line="45" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/ParallelPipelineStepsTest.scala" timestamp="1589425697904">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="16" />
+        <mark key="." line="30" column="15" />
+        <mark key="^" line="30" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589428223845">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_e2e.conf" timestamp="1589390515188">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/processors/SparkProcessorsTest.scala" timestamp="1589424878493">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" timestamp="1588970818655">
-        <mark key="'" line="59" column="71" />
-        <mark key="[" line="52" column="122" />
-        <mark key="]" line="52" column="123" />
-        <mark key="^" line="52" column="123" />
-        <mark key="." line="52" column="123" />
+      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/SparkPipelineStepTest.scala" timestamp="1589425242169">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="88" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/src/main/scala/com/intuit/pzn/eventbus/DataframeWrapper.scala" timestamp="1588969910427">
-        <mark key="[" line="18" column="31" />
-        <mark key="]" line="18" column="30" />
-        <mark key="." line="18" column="30" />
-        <mark key="^" line="18" column="30" />
+      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/ValidationTest.scala" timestamp="1589425411852">
+        <mark key="'" line="26" column="59" />
+        <mark key="[" line="51" column="117" />
+        <mark key="]" line="51" column="118" />
+        <mark key="." line="51" column="117" />
+        <mark key="^" line="51" column="118" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" timestamp="1589409561223">
-        <mark key="'" line="66" column="15" />
-        <mark key="[" line="96" column="20" />
-        <mark key="]" line="97" column="33" />
-        <mark key="^" line="97" column="33" />
-        <mark key="." line="97" column="32" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" timestamp="1589428359965">
+        <mark key="'" line="61" column="23" />
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="23" column="28" />
       </file>
-      <file name="/" timestamp="1589338996408">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1589419080042">
-        <mark key="'" line="9" column="39" />
-        <mark key="[" line="71" column="6" />
-        <mark key="]" line="71" column="18" />
-        <mark key="." line="71" column="17" />
-        <mark key="^" line="71" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" timestamp="1589422018998">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="24" column="54" />
-        <mark key="^" line="24" column="54" />
-        <mark key="." line="24" column="53" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" timestamp="1589409758987">
-        <mark key="'" line="30" column="83" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="4" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1589315199430">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/EventBusStep.scala" timestamp="1589409616894">
-        <mark key="[" line="27" column="57" />
-        <mark key="]" line="27" column="62" />
-        <mark key="^" line="27" column="62" />
-        <mark key="." line="27" column="61" />
+      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/Jenkinsfile" timestamp="1589426139513">
+        <mark key="'" line="10" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="49" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/preprocessingQboLoader/PreprocessingQboLoader.conf" />
-      <jump line="174" column="10" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/entityResolution/entityResolutionSteps.conf" />
-      <jump line="164" column="19" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/entityResolution/entityResolutionSteps.conf" />
-      <jump line="166" column="31" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/entityResolution/entityResolutionSteps.conf" />
-      <jump line="165" column="21" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/entityResolution/entityResolutionSteps.conf" />
-      <jump line="172" column="21" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/entityResolution/entityResolutionSteps.conf" />
-      <jump line="52" column="78" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/entityResolution/entityResolutionSteps.conf" />
-      <jump line="63" column="78" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/entityResolution/entityResolutionSteps.conf" />
-      <jump line="157" column="18" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/entityResolution/entityResolutionSteps.conf" />
-      <jump line="58" column="61" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/test/scala/com/intuit/network/graph/pipeline/EntityResolutionTestSuite.scala" />
-      <jump line="20" column="16" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/entityResolution/entityResolutionSteps.conf" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/network-parent/network-graph-pipeline/src/main/resources/pipelines/config/incremental/incrementalPreprocessingQboLoader.conf" />
-      <jump line="16" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/eventbus.conf" />
-      <jump line="52" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/eventbus.conf" />
-      <jump line="0" column="6" filename="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/eventbus.conf" />
-      <jump line="53" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/eventbus.conf" />
-      <jump line="37" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/eventbus.conf" />
-      <jump line="54" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/eventbus.conf" />
-      <jump line="35" column="10" filename="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/eventbus.conf" />
-      <jump line="25" column="32" filename="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/eventbus.conf" />
-      <jump line="63" column="22" filename="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/eventbus.conf" />
-      <jump line="1" column="622" filename="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/eventbus.conf" />
       <jump line="56" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/sdk-site/docs/sdk-tms/tms_examples/src/main/java/tms_examples/configuration/driven/offline/ticket/pzn/CreatePZNInputSchemaAsync.java" />
       <jump line="123" column="25" filename="$USER_HOME$/dev/repos/pzn-parent/sdk-site/docs/sdk-tms/tms_examples/src/main/java/tms_examples/configuration/driven/offline/ticket/pzn/CreatePZNInputSchemaAsync.java" />
       <jump line="141" column="61" filename="$USER_HOME$/dev/repos/pzn-parent/sdk-site/docs/sdk-tms/tms_examples/src/main/java/tms_examples/configuration/driven/offline/ticket/pzn/CreatePZNInputSchemaAsync.java" />
@@ -320,50 +313,72 @@
       <jump line="75" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" />
       <jump line="83" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" />
       <jump line="9" column="39" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" />
-      <jump line="16" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" />
+      <jump line="38" column="28" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" />
+      <jump line="69" column="0" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/testingframework/PipelineTestBuilder.scala" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/testingframework/PipelineTestBuilder.scala" />
+      <jump line="59" column="42" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/testingframework/PipelineTestBuilder.scala" />
+      <jump line="75" column="0" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/processors/standardizers/SparkStandardizersTest.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/processors/standardizers/SparkStandardizersTest.scala" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/ValidationTest.scala" />
+      <jump line="26" column="59" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/ValidationTest.scala" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/SparkPipelineTest.scala" />
+      <jump line="64" column="0" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/SparkPipelineTest.scala" />
+      <jump line="10" column="34" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/Jenkinsfile" />
+      <jump line="16" column="22" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" />
+      <jump line="17" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" />
+      <jump line="26" column="13" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" />
+      <jump line="668" column="33" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-scala_2.11/1.14.1/mockito-scala_2.11-1.14.1-sources.jar!/org/mockito/MockitoAPI.scala" />
+      <jump line="554" column="6" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-scala_2.11/1.14.1/mockito-scala_2.11-1.14.1-sources.jar!/org/mockito/MockitoAPI.scala" />
+      <jump line="611" column="111" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-scala_2.11/1.14.1/mockito-scala_2.11-1.14.1-sources.jar!/org/mockito/MockitoAPI.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/pom.xml" />
+      <jump line="19" column="51" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/pom.xml" />
+      <jump line="20" column="63" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/pom.xml" />
+      <jump line="210" column="30" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/pom.xml" />
+      <jump line="161" column="19" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/pom.xml" />
+      <jump line="61" column="23" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnR1aXQuc3BhcmsudGVzdGluZ2ZyYW1ld29yay5QaXBlbGluZVRlc3RCdWlsZGVyCg==</text>
+        <text encoding="base64">ICAgIG5ldyBQaXBlbGluZVRlc3RCdWlsZGVyKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>println</text>
+        <text>testPipeline</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx7XD4=</text>
+        <text>mock</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKAogICAgICAgIHMiSW4gc3RlcE5hbWU9JHN0ZXBOYW1lIHVuYWJsZSB0byBmaW5kIGBlbnZgIHZhbHVlLCB3aGljaCBpcyByZXF1aXJlZCIpCiAgICAp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnR1aXQuc3BhcmsudGVzdGluZ2ZyYW1ld29yay5QaXBlbGluZVRlc3RCdWlsZGVyCg==</text>
+        <text encoding="base64">ICAgIG5ldyBQaXBlbGluZVRlc3RCdWlsZGVyKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG8K</text>
+        <text encoding="base64">ICAgICAgdGVzdFBpcGVsaW5lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCB0ZXN0U3B5ID0gTW9ja2l0by5zcHkoUGlwZWxpbmVUZXN0QnVpbGRlcikK</text>
+        <text encoding="base64">ICAgIHNweVBpcGVsaW5lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzcHlQaXBlbGluZSA9IHNweVtQaXBlbGluZVRlc3RCdWlsZGVyXSh0ZXN0UGlwZWxpbmUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBrYWZrYVNzbFRydXN0c3RvcmVQYXNzd29yZCA9IGthZmthQ29uZmlnLmdldFN0cmluZygic3NsLnRydXN0c3RvcmUucGFzc3dvcmQiKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBzcHlQaXBlbGluZSA9IHNweVtQaXBlbGluZVRlc3RCdWlsZGVyXSh0ZXN0UGlwZWxpbmUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG9TdWdhci5fCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBrYWZrYUJvb3RzdHJhcFNlcnZlcnMgPSBrYWZrYUNvbmZpZy5nZXRTdHJpbmcoImJvb3RzdHJhcC5zZXJ2ZXJzIikKICBwcml2YXRlIHZhbCBrYWZrYVNlY3VyaXR5UHJvdG9jb2wgPSBrYWZrYUNvbmZpZy5nZXRTdHJpbmcoInNlY3VyaXR5LnByb3RvY29sIikKICBwcml2YXRlIHZhbCBrYWZrYVNzbEVuYWJsZWRQcm90b2NvbHMgPSBrYWZrYUNvbmZpZy5nZXRTdHJpbmcoInNzbC5lbmFibGVkLnByb3RvY29scyIpCiAgcHJpdmF0ZSB2YWwga2Fma2FCYXRjaFNpemUgPSBrYWZrYUNvbmZpZy5nZXRTdHJpbmcoImJhdGNoLnNpemUiKQogIHByaXZhdGUgdmFsIGthZmthTGluZ2VyID0ga2Fma2FDb25maWcuZ2V0U3RyaW5nKCJsaW5nZXIubXMiKQogIHByaXZhdGUgdmFsIGthZmthTWVtb3J5ID0ga2Fma2FDb25maWcuZ2V0U3RyaW5nKCJidWZmZXIubWVtb3J5IikKICBwcml2YXRlIHZhbCBrYWZrYVJldHJpZXMgPSBrYWZrYUNvbmZpZy5nZXRTdHJpbmcoInJldHJpZXMiKQogIHByaXZhdGUgdmFsIGthZmthUmV0cnlCYWNrb2ZmID0ga2Fma2FDb25maWcuZ2V0U3RyaW5nKCJyZXRyeS5iYWNrb2ZmLm1zIikKICBwcml2YXRlIHZhbCBrYWZrYVJlY29ubmVjdEJhY2tvZmYgPSBrYWZrYUNvbmZpZy5nZXRTdHJpbmcoInJlY29ubmVjdC5iYWNrb2ZmLm1zIikKICBwcml2YXRlIHZhbCBrYWZrYVNzbFRydXN0c3RvcmVMb2NhdGlvbiA9IGthZmthQ29uZmlnLmdldFN0cmluZygic3NsLnRydXN0c3RvcmUubG9jYXRpb24iKQ==</text>
+        <text encoding="base64">ICAgIHNweVBpcGVsaW5lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgcGF0aCA9IG5ldyBQaXBlbGluZVRlc3RCdWlsZGVyKCkuZ2V0UmVzb3VyY2VQYXRoCg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
@@ -375,12 +390,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx7XD4=</last-search>
+      <last-search>mock</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx7XD4=</last-pattern>
+      <last-pattern>mock</last-pattern>
       <last-replace>f64</last-replace>
       <last-substitute>f32</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
