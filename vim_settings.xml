@@ -151,11 +151,11 @@
         <mark key="^" line="12" column="51" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" timestamp="1589432204583">
-        <mark key="[" line="19" column="20" />
-        <mark key="]" line="20" column="40" />
-        <mark key="." line="20" column="39" />
-        <mark key="^" line="20" column="40" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" timestamp="1589469221452">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="4" />
       </file>
       <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/pom.xml" timestamp="1589427798926">
         <mark key="'" line="161" column="19" />
@@ -164,12 +164,11 @@
         <mark key="^" line="206" column="32" />
         <mark key="." line="206" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1589432011910">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1589469098068">
         <mark key="'" line="9" column="39" />
-        <mark key="[" line="43" column="37" />
-        <mark key="]" line="43" column="37" />
-        <mark key="." line="43" column="36" />
-        <mark key="^" line="43" column="37" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/PipelineForHiveOperationsTest.scala" timestamp="1589425676534">
         <mark key="[" line="3" column="0" />
@@ -333,11 +332,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Exception</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnR1aXQuaWRwcy5zZXJ2aWNlLklkcHNSdW50aW1lRXhjZXB0aW9uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
@@ -346,31 +345,31 @@
         <text encoding="base64">ICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHNweVBpcGVsaW5lCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoZW4oc3B5UGlwZWxpbmUud2lsbE5vdEZhaWwpLnRoZW5SZXR1cm4oc2NhbGF0ZXN0LkFzc2VydGlvbnMuc3VjY2VlZCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcHlQaXBlbGluZSA9IHNweVtQaXBlbGluZVRlc3RCdWlsZGVyXSh0ZXN0UGlwZWxpbmUpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG9TdWdhci5fCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5pbnR1aXQuaWRwcy5zZXJ2aWNlLklkcHNSdW50aW1lRXhjZXB0aW9uCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnR1aXQuc3BhcmsucGlwZWxpbmUuUGlwZWxpbmVDb21tb25zLlNwYXJrUGlwZWxpbmVFeGNlcHRpb24K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Y2FzZSBfOiBFeGNlcHRpb24gPT4KICAgICAgICBsb2dnZXIuZXJyb3IocyJJZHBzIGZvcm1hdHRlciBleGNlcHRpb24hICR7Xy5nZXRMb2NhbGl6ZWRNZXNzYWdlfSIpCiAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbih4KQ==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNweVBpcGVsaW5lCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoZW4oc3B5UGlwZWxpbmUud2lsbE5vdEZhaWwpLnRoZW5SZXR1cm4oc2NhbGF0ZXN0LkFzc2VydGlvbnMuc3VjY2VlZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZhbCBzcHlQaXBlbGluZSA9IHNweVtQaXBlbGluZVRlc3RCdWlsZGVyXSh0ZXN0UGlwZWxpbmUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBfID0+IHRocm93IG5ldyBFeGNlcHRpb24oXykKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG9TdWdhci5fCg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
