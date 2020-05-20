@@ -134,6 +134,11 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_e2e.conf" timestamp="1590010656599">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/testingframework/PipelineTestBuilder.scala" timestamp="1589427958400">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="75" column="0" />
@@ -146,12 +151,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" timestamp="1590007712752">
-        <mark key="'" line="91" column="7" />
-        <mark key="[" line="89" column="37" />
-        <mark key="]" line="89" column="64" />
-        <mark key="^" line="89" column="64" />
-        <mark key="." line="89" column="63" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" timestamp="1590010753758">
+        <mark key="'" line="21" column="7" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-scala_2.11/1.14.1/mockito-scala_2.11-1.14.1-sources.jar!/org/mockito/MockitoAPI.scala" timestamp="1589426699015">
         <mark key="'" line="611" column="111" />
@@ -174,20 +179,18 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/PipelineForHiveOperationsTest.scala" timestamp="1589425676534">
-        <mark key="^" line="2" column="65" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" timestamp="1589428359965">
         <mark key="'" line="55" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.4.4/spark-catalyst_2.11-2.4.4-sources.jar!/org/apache/spark/sql/catalyst/expressions/jsonExpressions.scala" timestamp="1589474944256">
         <mark key="'" line="652" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1590008050942">
-        <mark key="[" line="59" column="49" />
-        <mark key="]" line="59" column="51" />
-        <mark key="^" line="59" column="51" />
-        <mark key="." line="59" column="50" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1590009978563">
+        <mark key="'" line="55" column="9" />
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="40" />
+        <mark key="." line="9" column="40" />
+        <mark key="^" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/SparkPipelineTest.scala" timestamp="1589427964592">
         <mark key="'" line="65" column="0" />
@@ -223,9 +226,14 @@
         <mark key="." line="29" column="51" />
         <mark key="^" line="29" column="52" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1590010587726">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="31" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0-sources.jar!/org/apache/spark/sql/Dataset.scala" />
       <jump line="254" column="21" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0-sources.jar!/org/apache/spark/sql/Dataset.scala" />
       <jump line="63" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0-sources.jar!/org/apache/spark/sql/Column.scala" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/eventbus.conf" />
@@ -325,15 +333,16 @@
       <jump line="101" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" />
       <jump line="56" column="38" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" />
       <jump line="91" column="7" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" />
+      <jump line="55" column="9" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>CampaignTargetingStep</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcHRpb25zXD4=</text>
@@ -342,31 +351,40 @@
         <text encoding="base64">cGFja2FnZSBjb20uaW50dWl0LnB6bi5ldmVudGJ1cwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwue0RhdGFGcmFtZSwgRGF0YXNldCwgU3BhcmtTZXNzaW9ufQoKLy8gRW5jb2RlciBuZWVkcyBhIHByb2R1Y3QgdHlwZSAtIGhlbmNlIHdlIG5lZWQgdGhpcy4KY2FzZSBjbGFzcyBUZW1wKHZhbHVlOiBTdHJpbmcpCgovKioKICogQSB1dGlsaXR5IHRvIGNvbnZlcnQgYSBkYXRhZnJhbWUgaW50byBkYXRhc2V0W1N0cmluZ10gd2hlcmUgZWFjaCByb3cKICogaXMgYSBqc29uIHN0cmluZy4KICogQGF1dGhvciBya29tbWluZW5pCiAqLwpvYmplY3QgRGF0YWZyYW1lV3JhcHBlciB7CiAgLyoqCiAgICogRnVuY3Rpb24gdGhhdCB0YWtlcyBhIERhdGFmcmFtZSAtPiBEYXRhc2V0W1N0cmluZ10gYW5kIGVhY2ggcm93IGlzIGEganNvbi4KICAgKiBAcGFyYW0gZGYgaW5wdXQgRGF0YWZyYW1lCiAgICogQHBhcmFtIHNwYXJrIHNwYXJrc2Vzc2lvbgogICAqIEByZXR1cm4gRGF0YXNldFtTdHJpbmddCiAgICovCiAgZGVmIGNvbnZlcnREZihkZjogRGF0YUZyYW1lLCBzcGFyazogU3BhcmtTZXNzaW9uKTogRGF0YXNldFtTdHJpbmddID0gewogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCiAgICBpbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuZnVuY3Rpb25zLl8KICAgIHZhbCBjb252ZXJ0ZWREZiA9IGRmLnNlbGVjdCh0b19qc29uKHN0cnVjdChjb2woIioiKSkpLmFsaWFzKCJ2YWx1ZSIpKQogICAgaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLkVuY29kZXJzCiAgICBFbmNvZGVycy5wcm9kdWN0W1RlbXBdCgogICAgdmFsIGRzOiBEYXRhc2V0W1RlbXBdID0gY29udmVydGVkRGYuYXNbVGVtcF0KICAgIGRzLm1hcCh4PT54LnZhbHVlKQogIH0KfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNyZWF0ZSBpZCBjb2x1bW4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogdHJhbnNmb3IK</text>
+      <register name="2" type="4">
+        <text>inputs = {
+      dataload = {
+        order = 1, sql = {
+          sqlSource = local, table = input_tmp,
+          in-path = ${variables.dataInputPath},
+        },
+        metadata = {is-input = true}
+      }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmZ1bmN0aW9ucy57Y29sLCBjdXJyZW50X3RpbWVzdGFtcCwgZGF0ZWRpZmYsIGxpdH0KaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLnR5cGVzLlN0cmluZ1R5cGUK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAiZXZlbnRidXNDb25maWciID0geyBpbmNsdWRlICJldmVudGJ1c18ke2Vudn0uY29uZiIgfQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ImV2ZW50YnVzIiA9IHsKICAgICAgICAgICAgICAgICBidXN3cml0ZXIgewogICAgICAgICAgICAgICAgICAgICB0b3BpYz0icHpuX2V2ZW50X3RvcGljX3Rlc3RfMiIKICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgIGthZmthIHsKICAgICAgICAgICAgICAgICAgYm9vdHN0cmFwLnNlcnZlcnM9ICJldmVudGJ1cy1rYWZrYS5wbC1kYXRhLWxha2UtZTJlLmEuaW50dWl0LmNvbToxOTcwMSxldmVudGJ1cy1rYWZrYS5wbC1kYXRhLWxha2UtZTJlLmEuaW50dWl0LmNvbToxOTgwMSxldmVudGJ1cy1rYWZrYS5wbC1kYXRhLWxha2UtZTJlLmEuaW50dWl0LmNvbToxOTkwMSxldmVudGJ1cy1rYWZrYS5wbC1kYXRhLWxha2UtZTJlLmEuaW50dWl0LmNvbToxOTcwMixldmVudGJ1cy1rYWZrYS5wbC1kYXRhLWxha2UtZTJlLmEuaW50dWl0LmNvbToxOTgwMixldmVudGJ1cy1rYWZrYS5wbC1kYXRhLWxha2UtZTJlLmEuaW50dWl0LmNvbToxOTkwMixldmVudGJ1cy1rYWZrYS5wbC1kYXRhLWxha2UtZTJlLmEuaW50dWl0LmNvbToxOTcwMyxldmVudGJ1cy1rYWZrYS5wbC1kYXRhLWxha2UtZTJlLmEuaW50dWl0LmNvbToxOTgwMyxldmVudGJ1cy1rYWZrYS5wbC1kYXRhLWxha2UtZTJlLmEuaW50dWl0LmNvbToxOTkwMyxldmVudGJ1cy1rYWZrYS5wbC1kYXRhLWxha2UtZTJlLmEuaW50dWl0LmNvbToxOTcwNCxldmVudGJ1cy1rYWZrYS5wbC1kYXRhLWxha2UtZTJlLmEuaW50dWl0LmNvbToxOTgwNCxldmVudGJ1cy1rYWZrYS5wbC1kYXRhLWxha2UtZTJlLmEuaW50dWl0LmNvbToxOTkwNCIKICAgICAgICAgICAgICAgICAgICAgc2VjdXJpdHkucHJvdG9jb2wgPSAiU1NMIgogICAgICAgICAgICAgICAgICAgICBzc2wgewogICAgICAgICAgICAgICAgICAgICAgIGVuYWJsZWQucHJvdG9jb2xzID0gIlRMU3YxLjIiCiAgICAgICAgICAgICAgICAgICAgICAgdHJ1c3RzdG9yZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAjIHB1YmxpYyBjZXJ0IC0gaHR0cHM6Ly9naXRodWIuaW50dWl0LmNvbS9wYWdlcy9kYXRhLWV2ZW50YnVzL3Nkay1zaXRlL2V2ZW50YnVzL2Vudmlyb25tZW50cy8jZXZlbnQtYnVzLWNlcnRzLWFuZC10cnVzdHN0b3JlCiAgICAgICAgICAgICAgICAgICAgICAgICBsb2NhdGlvbiA9ICJrZXlzdG9yZSIKICAgICAgICAgICAgICAgICAgICAgICAgICMgdGhlIHBhc3N3b3JkIHlvdSBwcm92aWRlZCB3aGVuIHlvdSBjcmVhdGVkIHRoZSB0cnVzdHN0b3JlCiAgICAgICAgICAgICAgICAgICAgICAgICBwYXNzd29yZCA9ICJ5b3VyLXBhc3N3b3JkIgogICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICBncm91cC5pZCA9ICJlMmUtZXhhbXBsZS1jb25zdW1lci1ncm91cCIKICAgICAgICAgICAgICAgICAgICAgIyBUaGUgdG90YWwgYnl0ZXMgb2YgbWVtb3J5IHRoZSBwcm9kdWNlciBjYW4gdXNlIHRvIGJ1ZmZlciByZWNvcmRzIHdhaXRpbmcgdG8gYmUgc2VudCB0byB0aGUgc2VydmVyCiAgICAgICAgICAgICAgICAgICAgIGJ1ZmZlci5tZW1vcnkgPSAiNTI0Mjg4MDAwIgogICAgICAgICAgICAgICAgICAgICAjIFRoZSBudW1iZXIgb2YgYWNrbm93bGVkZ21lbnRzIHRoZSBwcm9kdWNlciByZXF1aXJlcyB0aGUgbGVhZGVyIHRvIGhhdmUgcmVjZWl2ZWQgYmVmb3JlIGNvbnNpZGVyaW5nIGEgcmVxdWVzdCBjb21wbGV0ZQogICAgICAgICAgICAgICAgICAgICBhY2tzID0gIjEiCiAgICAgICAgICAgICAgICAgICAgICMgbnVtYmVyIG9mIHJldHJpZXMgaWYgcmVxdWVzdCBmYWlscyB0byBzZW5kCiAgICAgICAgICAgICAgICAgICAgIHJldHJpZXMgPSAiNSIKICAgICAgICAgICAgICAgICAgICAgIyBUaGUgcGVyaW9kIG9mIHRpbWUgaW4gbWlsbGlzZWNvbmRzIGFmdGVyIHdoaWNoIHdlIGZvcmNlIGEgcmVmcmVzaCBvZiBtZXRhZGF0YSBldmVuIGlmIHdlIGhhdmVuJ3Qgc2VlbiBhbnkgcGFydGl0aW9uIGxlYWRlcnNoaXAgY2hhbmdlcwogICAgICAgICAgICAgICAgICAgICAjIHRvIHByb2FjdGl2ZWx5IGRpc2NvdmVyIGFueSBuZXcgYnJva2VycyBvciBwYXJ0aXRpb25zCiAgICAgICAgICAgICAgICAgICAgIG1ldGFkYXRhLm1heC5hZ2UubXM9ICIxMDAwMCIKICAgICAgICAgICAgICAgICAgICAgIyBUaGUgY29uZmlndXJhdGlvbiBjb250cm9scyB0aGUgbWF4aW11bSBhbW91bnQgb2YgdGltZSB0aGUgY2xpZW50IHdpbGwgd2FpdCBmb3IgdGhlIHJlc3BvbnNlIG9mIGEgcmVxdWVzdC4KICAgICAgICAgICAgICAgICAgICAgIyBJZiB0aGUgcmVzcG9uc2UgaXMgbm90IHJlY2VpdmVkIGJlZm9yZSB0aGUgdGltZW91dCBlbGFwc2VzIHRoZSBjbGllbnQgd2lsbCByZXNlbmQgdGhlIHJlcXVlc3QgaWYgbmVjZXNzYXJ5IG9yIGZhaWwgdGhlIHJlcXVlc3QgaWYgcmV0cmllcyBhcmUgZXhoYXVzdGVkCiAgICAgICAgICAgICAgICAgICAgIHJlcXVlc3QudGltZW91dC5tcyA9ICI2MDAwMDAwMCIKICAgICAgICAgICAgICAgICAgICAgIyBUaGUgYmFzZSBhbW91bnQgb2YgdGltZSB0byB3YWl0IGJlZm9yZSBhdHRlbXB0aW5nIHRvIHJlY29ubmVjdCB0byBhIGdpdmVuIGhvc3QKICAgICAgICAgICAgICAgICAgICAgcmVjb25uZWN0LmJhY2tvZmYubXMgPSAiNTAwMCIKICAgICAgICAgICAgICAgICAgICAgIyBUaGUgYW1vdW50IG9mIHRpbWUgdG8gd2FpdCBiZWZvcmUgYXR0ZW1wdGluZyB0byByZXRyeSBhIGZhaWxlZCByZXF1ZXN0IHRvIGEgZ2l2ZW4gdG9waWMgcGFydGl0aW9uCiAgICAgICAgICAgICAgICAgICAgIHJldHJ5LmJhY2tvZmYubXMgPSAiNTAwMCIKICAgICAgICAgICAgICAgICAgICAgIyBiYXRjaCBzaXplIHBlciBwYXJ0aXRpb24KICAgICAgICAgICAgICAgICAgICAgYmF0Y2guc2l6ZSA9ICIxMDAwMDAiCiAgICAgICAgICAgICAgICAgICAgICMgb25jZSB3ZSBnZXQgYmF0Y2guc2l6ZSB3b3J0aCBvZiByZWNvcmRzIGZvciBhIHBhcnRpdGlvbiBpdCB3aWxsIGJlIHNlbnQgaW1tZWRpYXRlbHkgcmVnYXJkbGVzcyBvZiB0aGlzIHNldHRpbmcsCiAgICAgICAgICAgICAgICAgICAgICMgaG93ZXZlciBpZiB3ZSBoYXZlIGZld2VyIHRoYW4gdGhpcyBtYW55IGJ5dGVzIGFjY3VtdWxhdGVkIGZvciB0aGlzIHBhcnRpdGlvbiB3ZSB3aWxsICdsaW5nZXInIGZvciB0aGUgc3BlY2lmaWVkIHRpbWUKICAgICAgICAgICAgICAgICAgICAgIyB3YWl0aW5nIGZvciBtb3JlIHJlY29yZHMgdG8gc2hvdyB1cC4KICAgICAgICAgICAgICAgICAgICAgbGluZ2VyLm1zID0gIjEwMDAiCiAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICBmb3JtYXR0ZXIgewogICAgICAgICAgICAgICAgICAgc2VyaWFsaXplci5uYW1lID0gImNvbS5pbnR1aXQuZXZlbnRidXMuc2VyaWFsaXphdGlvbi5TdHJpbmdTZXJpYWxpemVyIgogICAgICAgICAgICAgICAgICAgZm9ybWF0dGVyIHsKICAgICAgICAgICAgICAgICAgICAgcHJvcGVydGllcyB7CiAgICAgICAgICAgICAgICAgICAgICAgIyB0aGUgaWRwcyBlbmRwb2ludC4KICAgICAgICAgICAgICAgICAgICAgICBlbmRwb2ludCA9ICJrYWZrYWluZnJhLXByZS1wcm9kdWN0aW9uLWwxMG1hZi5wZC5pZHBzLmEuaW50dWl0LmNvbSIKICAgICAgICAgICAgICAgICAgICAgICAjIHRoZSBuYW1lIG9mIHlvdXIgcG9saWN5LgogICAgICAgICAgICAgICAgICAgICAgIHBvbGljeV9pZCA9ICJwLTAxYTVnYmZkYmU2cCIKICAgICAgICAgICAgICAgICAgICAgICAjIyMjIyMjIyMjIyMjIyMjIyMjIyMgRk9SIENPTk5FQ1RJTkcgVE8gU0FOREJPWCAjIyMjIyMjIyMjIyMjIyMjIyMjIwogICAgICAgICAgICAgICAgICAgICAgICMgUkVBRCAtPiBodHRwczovL2dpdGh1Yi5pbnR1aXQuY29tL3BhZ2VzL2RhdGEtZXZlbnRidXMvc2RrLXNpdGUvc2RrL2RldmVsb3Blci10ZXN0aW5nLXNhbmRib3gvCiAgICAgICAgICAgICAgICAgICAgICAgIyBuYW1lPUtleWVkSURQUwogICAgICAgICAgICAgICAgICAgICAgICMgZW5kcG9pbnQ9a2Fma2FpbmZyYS1wcmUtcHJvZHVjdGlvbi1sMTBtYWYucGQuaWRwcy5hLmludHVpdC5jb20KICAgICAgICAgICAgICAgICAgICAgICAjYXBpX3NlY3JldF9rZXk9ImtleV92Mi1lM2IzNzNiZDIyODRlLnBlbSIKICAgICAgICAgICAgICAgICAgICAgICAjYXBpX2tleV9pZD12Mi1lM2IzNzNiZDIyODRlCiAgICAgICAgICAgICAgICAgICAgICAgIyMjIyMjIyMjIyMjIyMjIyMjIyMjIEZPUiBDT05ORUNUSU5HIFRPIFNBTkRCT1ggIyMjIyMjIyMjIyMjIyMjIyMjIyMKICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAjIGVudmlyb25tZW50IFtwcmQsZTJlLGxvY2FsXSwgbG9jYWwgd2lsbCBydW4gd2l0aG91dCBlbmNyeXB0aW5nL2RlY3J5cHRpbmcgZGF0YQogICAgICAgICAgICAgICAgICAgICBlbnZpcm9ubWVudD1lMmUKICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="7" type="4">
+        <text>jvm-properties {
+  &quot;hive.metastore.warehouse.dir&quot;=${?PWD}&quot;/target/warehouse&quot;
+}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICB2YWwgZGZXaXRoQXBwZW5kZWRDb2xzID0gZGYKICAgICAgICAud2l0aENvbHVtbigicWJvX3NpZ251cF9kYXRlX3N0ciIsCiAgICAgICAgICBjb2woInFib19zaWdudXBfZGF0ZSIpLmNhc3QoU3RyaW5nVHlwZSkpLmRyb3AoInFib19zaWdudXBfZGF0ZSIpCiAgICAgICAgLndpdGhDb2x1bW5SZW5hbWVkKCJxYm9fc2lnbnVwX2RhdGVfc3RyIiwgInFib19zaWdudXBfZGF0ZSIpCiAgICAgICAgLndpdGhDb2x1bW4oImN1c3RvbWVyX2FnZSIsCiAgICAgICAgICBkYXRlZGlmZihjdXJyZW50X3RpbWVzdGFtcCwgY29sKCJxYm9fc2lnbnVwX2RhdGUiKSkuY2FzdChTdHJpbmdUeXBlKSkKICAgICAgICAud2l0aENvbHVtbigiZW1haWwiLCBsaXQoImFiY0B4eXouY29tIikpCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
