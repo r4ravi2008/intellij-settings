@@ -146,12 +146,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" timestamp="1589841394154">
-        <mark key="'" line="66" column="15" />
-        <mark key="[" line="110" column="1" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="4" column="2" />
-        <mark key="." line="4" column="1" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" timestamp="1590007712752">
+        <mark key="'" line="91" column="7" />
+        <mark key="[" line="89" column="37" />
+        <mark key="]" line="89" column="64" />
+        <mark key="^" line="89" column="64" />
+        <mark key="." line="89" column="63" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-scala_2.11/1.14.1/mockito-scala_2.11-1.14.1-sources.jar!/org/mockito/MockitoAPI.scala" timestamp="1589426699015">
         <mark key="'" line="611" column="111" />
@@ -183,6 +183,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.4.4/spark-catalyst_2.11-2.4.4-sources.jar!/org/apache/spark/sql/catalyst/expressions/jsonExpressions.scala" timestamp="1589474944256">
         <mark key="'" line="652" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1590008050942">
+        <mark key="[" line="59" column="49" />
+        <mark key="]" line="59" column="51" />
+        <mark key="^" line="59" column="51" />
+        <mark key="." line="59" column="50" />
+      </file>
       <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/pipeline/SparkPipelineTest.scala" timestamp="1589427964592">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="12" column="55" />
@@ -190,12 +196,12 @@
         <mark key="^" line="12" column="51" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" timestamp="1590001803584">
-        <mark key="'" line="30" column="83" />
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="35" />
-        <mark key="^" line="44" column="35" />
-        <mark key="." line="44" column="34" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" timestamp="1590001948770">
+        <mark key="'" line="28" column="83" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="42" column="35" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" timestamp="1590000778902">
         <mark key="[" line="21" column="0" />
@@ -219,9 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="66" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/batch-offline/pom.xml" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0-sources.jar!/org/apache/spark/sql/Dataset.scala" />
-      <jump line="90" column="64" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0-sources.jar!/org/apache/spark/sql/Dataset.scala" />
       <jump line="125" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0-sources.jar!/org/apache/spark/sql/Dataset.scala" />
       <jump line="254" column="21" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0-sources.jar!/org/apache/spark/sql/Dataset.scala" />
       <jump line="63" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0-sources.jar!/org/apache/spark/sql/Column.scala" />
@@ -319,15 +322,18 @@
       <jump line="36" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" />
       <jump line="53" column="17" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" />
       <jump line="46" column="28" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" />
+      <jump line="101" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" />
+      <jump line="56" column="38" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" />
+      <jump line="91" column="7" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGRmV2l0aEFwcGVuZGVkQ29scw==</text>
+        <text>CampaignTargetingStep</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcHRpb25zXD4=</text>
@@ -336,31 +342,31 @@
         <text encoding="base64">cGFja2FnZSBjb20uaW50dWl0LnB6bi5ldmVudGJ1cwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwue0RhdGFGcmFtZSwgRGF0YXNldCwgU3BhcmtTZXNzaW9ufQoKLy8gRW5jb2RlciBuZWVkcyBhIHByb2R1Y3QgdHlwZSAtIGhlbmNlIHdlIG5lZWQgdGhpcy4KY2FzZSBjbGFzcyBUZW1wKHZhbHVlOiBTdHJpbmcpCgovKioKICogQSB1dGlsaXR5IHRvIGNvbnZlcnQgYSBkYXRhZnJhbWUgaW50byBkYXRhc2V0W1N0cmluZ10gd2hlcmUgZWFjaCByb3cKICogaXMgYSBqc29uIHN0cmluZy4KICogQGF1dGhvciBya29tbWluZW5pCiAqLwpvYmplY3QgRGF0YWZyYW1lV3JhcHBlciB7CiAgLyoqCiAgICogRnVuY3Rpb24gdGhhdCB0YWtlcyBhIERhdGFmcmFtZSAtPiBEYXRhc2V0W1N0cmluZ10gYW5kIGVhY2ggcm93IGlzIGEganNvbi4KICAgKiBAcGFyYW0gZGYgaW5wdXQgRGF0YWZyYW1lCiAgICogQHBhcmFtIHNwYXJrIHNwYXJrc2Vzc2lvbgogICAqIEByZXR1cm4gRGF0YXNldFtTdHJpbmddCiAgICovCiAgZGVmIGNvbnZlcnREZihkZjogRGF0YUZyYW1lLCBzcGFyazogU3BhcmtTZXNzaW9uKTogRGF0YXNldFtTdHJpbmddID0gewogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCiAgICBpbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuZnVuY3Rpb25zLl8KICAgIHZhbCBjb252ZXJ0ZWREZiA9IGRmLnNlbGVjdCh0b19qc29uKHN0cnVjdChjb2woIioiKSkpLmFsaWFzKCJ2YWx1ZSIpKQogICAgaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLkVuY29kZXJzCiAgICBFbmNvZGVycy5wcm9kdWN0W1RlbXBdCgogICAgdmFsIGRzOiBEYXRhc2V0W1RlbXBdID0gY29udmVydGVkRGYuYXNbVGVtcF0KICAgIGRzLm1hcCh4PT54LnZhbHVlKQogIH0KfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICB2YWwgZGZXaXRoQXBwZW5kZWRDb2xzID0gZGYKICAgICAgICAud2l0aENvbHVtbigicWJvX3NpZ251cF9kYXRlX3N0ciIsCiAgICAgICAgICBjb2woInFib19zaWdudXBfZGF0ZSIpLmNhc3QoU3RyaW5nVHlwZSkpLmRyb3AoInFib19zaWdudXBfZGF0ZSIpCiAgICAgICAgLndpdGhDb2x1bW5SZW5hbWVkKCJxYm9fc2lnbnVwX2RhdGVfc3RyIiwgInFib19zaWdudXBfZGF0ZSIpCiAgICAgICAgLndpdGhDb2x1bW4oImN1c3RvbWVyX2FnZSIsCiAgICAgICAgICBkYXRlZGlmZihjdXJyZW50X3RpbWVzdGFtcCwgY29sKCJxYm9fc2lnbnVwX2RhdGUiKSkuY2FzdChTdHJpbmdUeXBlKSkKICAgICAgICAud2l0aENvbHVtbigiZW1haWwiLCBsaXQoImFiY0B4eXouY29tIikpCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGNyZWF0ZSBpZCBjb2x1bW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogdHJhbnNmb3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0ZXN0KCJDaHVyblByb3BlbnNpdHlUZXN0IiwgUHpuVGVzdFRhZykgewogICAgdGVzdFRoYXRQaXBlbGluZQogICAgICAud2l0aFBpcGVsaW5lQ29uZmlnKCJwaXBlbGluZXMvY29uZmlnL0NodXJuUHJvcGVuc2l0eS5jb25mIikKICAgICAgLndpbGxGYWlsV2l0aFtFeGNlcHRpb25dCiAgfQ==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmZ1bmN0aW9ucy57Y29sLCBjdXJyZW50X3RpbWVzdGFtcCwgZGF0ZWRpZmYsIGxpdH0KaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLnR5cGVzLlN0cmluZ1R5cGUK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICB2YWwgZGZXaXRoQXBwZW5kZWRDb2xzID0gZGYKICAgICAgICAud2l0aENvbHVtbigicWJvX3NpZ251cF9kYXRlX3N0ciIsCiAgICAgICAgICBjb2woInFib19zaWdudXBfZGF0ZSIpLmNhc3QoU3RyaW5nVHlwZSkpLmRyb3AoInFib19zaWdudXBfZGF0ZSIpCiAgICAgICAgLndpdGhDb2x1bW5SZW5hbWVkKCJxYm9fc2lnbnVwX2RhdGVfc3RyIiwgInFib19zaWdudXBfZGF0ZSIpCiAgICAgICAgLndpdGhDb2x1bW4oImN1c3RvbWVyX2FnZSIsCiAgICAgICAgICBkYXRlZGlmZihjdXJyZW50X3RpbWVzdGFtcCwgY29sKCJxYm9fc2lnbnVwX2RhdGUiKSkuY2FzdChTdHJpbmdUeXBlKSkKICAgICAgICAud2l0aENvbHVtbigiZW1haWwiLCBsaXQoImFiY0B4eXouY29tIikpCg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
