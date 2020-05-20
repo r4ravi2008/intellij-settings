@@ -136,18 +136,18 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1590015340570">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1590017343050">
         <mark key="'" line="25" column="25" />
-        <mark key="[" line="27" column="77" />
-        <mark key="]" line="27" column="73" />
-        <mark key="^" line="27" column="73" />
-        <mark key="." line="27" column="72" />
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="75" />
+        <mark key="^" line="20" column="75" />
+        <mark key="." line="20" column="74" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" timestamp="1590013663168">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="12" column="64" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" timestamp="1590017397133">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="10" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.4.4/spark-catalyst_2.11-2.4.4-sources.jar!/org/apache/spark/sql/catalyst/expressions/jsonExpressions.scala" timestamp="1589474944256">
         <mark key="'" line="652" column="47" />
@@ -175,7 +175,7 @@
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590013998560">
+      <file name="/Dummy.txt" timestamp="1590016190167">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -357,34 +357,45 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">c3RlcHMgewogIERhdGFMb2FkU3RlcCA9IHsKICAgIGNsYXNzLW5hbWUgPSBjb20uaW50dWl0LnB6bi5jb3JlLlB6blNwYXJrTG9hZGVyU3RlcAogICAgaW5wdXRzID0gewogICAgICBkYXRhbG9hZCA9IHsKICAgICAgICBvcmRlciA9IDEsIHNxbCA9IHsKICAgICAgICAgIHNxbFNvdXJjZSA9IGxvY2FsLCB0YWJsZSA9IGlucHV0X3RtcCwKICAgICAgICAgIGluLXBhdGggPSAke3ZhcmlhYmxlcy5kYXRhSW5wdXRQYXRofSwKICAgICAgICB9LAogICAgICAgIG1ldGFkYXRhID0ge2lzLWlucHV0ID0gdHJ1ZX0KICAgICAgfQogICAgICBpbnB1dC0yID0gewogICAgICAgIG9yZGVyID0gMiwgc3FsID0gewogICAgICAgICAgc3FsLXR5cGUgPSBsb2NhbCwgdGFibGUgPSBpbnB1dCwKICAgICAgICAgIHNxbCA9ICIiInNlbGVjdCAqIGZyb20gaW5wdXRfdG1wIiIiCiAgICAgICAgfSwgbWV0YWRhdGEgPSB7aXMtaW5wdXQgPSB0cnVlfQogICAgICAgfQogICAgfQogIH0KfQo=</text>
+      <register name="2" type="2">
+        <text>//steps {
+  //DataLoadStep = {
+    //class-name = com.intuit.pzn.core.PznSparkLoaderStep
+    //dataload = {
+        //order = 1, sql = {
+        //sqlSource = local, table = ${variables.campaignTargetingTableName},
+        //in-path = ${variables.dataInputPath},
+      //}, metadata = {is-input = true}
+    //}
+    //input-1 = {
+        //order = 2, sql = {
+        //sql-type = local, table = input,
+        //sql = &quot;&quot;&quot;select * from &quot;&quot;&quot;&quot;${variables.campaignTargetingTableName}&quot;&quot;&quot;&quot;
+      //}, metadata = {is-input = true}
+    //}
+  //}
+//}</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjYW1wYWlnblRhcmdldGluZ1RhYmxlTmFtZT0iaW5wdXRUYXJnZXQiCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">c3RlcHMgewogIERhdGFMb2FkU3RlcCA9IHsKICAgIGNsYXNzLW5hbWUgPSBjb20uaW50dWl0LnB6bi5jb3JlLlB6blNwYXJrTG9hZGVyU3RlcAogICAgaW5wdXRzID0gewogICAgICBkYXRhbG9hZCA9IHsKICAgICAgICBvcmRlciA9IDEsIHNxbCA9IHsKICAgICAgICAgIHNxbFNvdXJjZSA9IGxvY2FsLCB0YWJsZSA9IGlucHV0X3RtcCwKICAgICAgICAgIGluLXBhdGggPSAke3ZhcmlhYmxlcy5kYXRhSW5wdXRQYXRofSwKICAgICAgICB9LAogICAgICAgIG1ldGFkYXRhID0ge2lzLWlucHV0ID0gdHJ1ZX0KICAgICAgfQogICAgICBpbnB1dC0yID0gewogICAgICAgIG9yZGVyID0gMiwgc3FsID0gewogICAgICAgICAgc3FsLXR5cGUgPSBsb2NhbCwgdGFibGUgPSBpbnB1dCwKICAgICAgICAgIHNxbCA9ICIiInNlbGVjdCAqIGZyb20gaW5wdXRfdG1wIiIiCiAgICAgICAgfSwgbWV0YWRhdGEgPSB7aXMtaW5wdXQgPSB0cnVlfQogICAgICAgfQogICAgfQogIH0KfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjYW1wYWlnblRhcmdldGluZ1RhYmxlTmFtZT0iaW5wdXRUYXJnZXQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBjYW1wYWlnblRhcmdldGluZ1RhYmxlTmFtZT0iaW5wdXRUYXJnZXQiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkYXRhTG9hZFRhYmxlTmFtZT0iVEJEIgo=</text>
+        <text encoding="base64">ICBjYW1wYWlnblRhcmdldGluZ1RhYmxlTmFtZT0iaW5wdXRUYXJnZXQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>dataload = {
-        order = 1, sql = {
-        sqlSource = local, table = input_tmp,
-        in-path = ${variables.dataInputPath},
-      }, metadata = {is-input = true}
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBkYXRhTG9hZFRhYmxlTmFtZT0iVEJEIgo=</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
