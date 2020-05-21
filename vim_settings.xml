@@ -228,8 +228,8 @@
         <mark key="." line="22" column="78" />
         <mark key="^" line="22" column="79" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_resize.sh" timestamp="1590086229821">
-        <mark key="'" line="161" column="0" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_resize.sh" timestamp="1590087722351">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="198" column="0" />
         <mark key="]" line="198" column="0" />
         <mark key="^" line="197" column="3" />
@@ -237,8 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/DataframeWrapper.scala" />
       <jump line="640" column="4" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.4.4/spark-catalyst_2.11-2.4.4-sources.jar!/org/apache/spark/sql/catalyst/expressions/jsonExpressions.scala" />
       <jump line="646" column="67" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.4.4/spark-catalyst_2.11-2.4.4-sources.jar!/org/apache/spark/sql/catalyst/expressions/jsonExpressions.scala" />
       <jump line="650" column="30" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.4.4/spark-catalyst_2.11-2.4.4-sources.jar!/org/apache/spark/sql/catalyst/expressions/jsonExpressions.scala" />
@@ -337,6 +335,8 @@
       <jump line="36" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_dev.conf" />
       <jump line="261" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_resize.sh" />
       <jump line="161" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_resize.sh" />
+      <jump line="250" column="3" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_resize.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_resize.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
