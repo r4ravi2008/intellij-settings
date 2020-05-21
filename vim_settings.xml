@@ -124,7 +124,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590030855928">
+      <file name="/Dummy.txt" timestamp="1590082209473">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -218,13 +218,6 @@
         <mark key="]" line="219" column="0" />
         <mark key="." line="219" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/Jenkinsfile" timestamp="1589816613128">
-        <mark key="'" line="37" column="18" />
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="52" />
-        <mark key="." line="29" column="51" />
-        <mark key="^" line="29" column="52" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1590079945887">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="85" />
@@ -235,9 +228,11 @@
         <mark key="." line="22" column="78" />
         <mark key="^" line="22" column="79" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_resize.sh" timestamp="1590082582864">
+        <mark key="'" line="261" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="23" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" />
       <jump line="18" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/DataframeWrapper.scala" />
@@ -337,6 +332,7 @@
       <jump line="61" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_dev.conf" />
       <jump line="27" column="1" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_dev.conf" />
       <jump line="36" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_dev.conf" />
+      <jump line="261" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_resize.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -348,7 +344,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxLRVlQQUlSXD4=</text>
+        <text encoding="base64">XDxyZXNpemVfZW1yX2NsdXN0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAiZXZlbnRidXNDb25maWciID0geyBpbmNsdWRlIHJlcXVpcmVkKGNsYXNzcGF0aCgiZXZlbnRidXMvZXZlbnRidXNfJHtlbnZ9LmNvbmYiKSkgfQo=</text>
@@ -406,12 +402,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxLRVlQQUlSXD4=</last-search>
+      <last-search encoding="base64">XDxyZXNpemVfZW1yX2NsdXN0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxLRVlQQUlSXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNpemVfZW1yX2NsdXN0ZXJcPg==</last-pattern>
       <last-replace>f64</last-replace>
       <last-substitute>f32</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
