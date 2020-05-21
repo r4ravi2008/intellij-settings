@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwem5fZXZlbnRfdG9waWNfdGVzdFw+</entry>
         <entry>event</entry>
         <entry>repositories</entry>
         <entry>kafka</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxDT1JFSU5TVEFOQ0VUWVBFXD4=</entry>
         <entry>m5</entry>
         <entry encoding="base64">XDxLRVlQQUlSXD4=</entry>
+        <entry encoding="base64">XDxyZXNpemVfZW1yX2NsdXN0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\((.*?)\)/\s/gc</entry>
