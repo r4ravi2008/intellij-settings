@@ -148,9 +148,6 @@
         <mark key="^" line="7" column="85" />
         <mark key="." line="7" column="84" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.4.4/spark-catalyst_2.11-2.4.4-sources.jar!/org/apache/spark/sql/catalyst/expressions/jsonExpressions.scala" timestamp="1589474944256">
-        <mark key="'" line="652" column="47" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1590014325589">
         <mark key="'" line="55" column="9" />
         <mark key="[" line="9" column="40" />
@@ -191,6 +188,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/launch_emr.sh" timestamp="1590026292487">
+        <mark key="[" line="91" column="4" />
+        <mark key="]" line="91" column="2" />
+        <mark key="^" line="91" column="2" />
+        <mark key="." line="91" column="1" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ChurnPropensityTargetingStep.scala" timestamp="1590001405661">
         <mark key="[" line="16" column="7" />
