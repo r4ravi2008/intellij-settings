@@ -137,11 +137,11 @@
         <mark key="^" line="6" column="61" />
         <mark key="." line="6" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/eventbus/eventbus_dev.conf" timestamp="1590020520375">
-        <mark key="[" line="58" column="16" />
-        <mark key="]" line="58" column="18" />
-        <mark key="." line="58" column="17" />
-        <mark key="^" line="58" column="18" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/eventbus/eventbus_dev.conf" timestamp="1590023356813">
+        <mark key="[" line="53" column="22" />
+        <mark key="]" line="53" column="37" />
+        <mark key="." line="53" column="36" />
+        <mark key="^" line="53" column="37" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" timestamp="1590017397133">
         <mark key="[" line="10" column="17" />
@@ -162,13 +162,13 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/target/test-classes/pipelines/config/PznPipelineBase_dev.conf" timestamp="1590013926904">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" timestamp="1590013853347">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="18" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" timestamp="1590023032070">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
         <mark key="^" line="19" column="18" />
-        <mark key="." line="19" column="17" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590019453453">
+      <file name="/Dummy.txt" timestamp="1590023250740">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -180,6 +180,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="77" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/tidal_run_pipeline.sh" timestamp="1590022991482">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="41" column="52" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/CampaignTargeting.conf" timestamp="1590015648402">
         <mark key="'" line="10" column="7" />
@@ -200,15 +207,6 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1589469098068">
-        <mark key="'" line="9" column="39" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" timestamp="1589428359965">
-        <mark key="'" line="55" column="23" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/CampaignTargetingStep.scala" timestamp="1590001948770">
         <mark key="'" line="28" column="83" />
         <mark key="[" line="5" column="0" />
@@ -216,6 +214,7 @@
         <mark key="^" line="42" column="35" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/eventbus/eventbus_e2e.conf" timestamp="1590022776576" />
       <file name="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/Jenkinsfile" timestamp="1589816613128">
         <mark key="'" line="37" column="18" />
         <mark key="[" line="29" column="23" />
@@ -237,9 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="39" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" />
-      <jump line="38" column="28" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" />
       <jump line="69" column="0" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/testingframework/PipelineTestBuilder.scala" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/testingframework/PipelineTestBuilder.scala" />
       <jump line="59" column="42" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/src/test/scala/com/intuit/spark/testingframework/PipelineTestBuilder.scala" />
@@ -337,15 +333,18 @@
       <jump line="24" column="14" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
       <jump line="28" column="6" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
       <jump line="25" column="25" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/tidal_run_pipeline.sh" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/tidal_run_pipeline.sh" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/tidal_run_pipeline.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>e2e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>e2e</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcHRpb25zXD4=</text>
@@ -354,47 +353,36 @@
         <text encoding="base64">cGFja2FnZSBjb20uaW50dWl0LnB6bi5ldmVudGJ1cwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwue0RhdGFGcmFtZSwgRGF0YXNldCwgU3BhcmtTZXNzaW9ufQoKLy8gRW5jb2RlciBuZWVkcyBhIHByb2R1Y3QgdHlwZSAtIGhlbmNlIHdlIG5lZWQgdGhpcy4KY2FzZSBjbGFzcyBUZW1wKHZhbHVlOiBTdHJpbmcpCgovKioKICogQSB1dGlsaXR5IHRvIGNvbnZlcnQgYSBkYXRhZnJhbWUgaW50byBkYXRhc2V0W1N0cmluZ10gd2hlcmUgZWFjaCByb3cKICogaXMgYSBqc29uIHN0cmluZy4KICogQGF1dGhvciBya29tbWluZW5pCiAqLwpvYmplY3QgRGF0YWZyYW1lV3JhcHBlciB7CiAgLyoqCiAgICogRnVuY3Rpb24gdGhhdCB0YWtlcyBhIERhdGFmcmFtZSAtPiBEYXRhc2V0W1N0cmluZ10gYW5kIGVhY2ggcm93IGlzIGEganNvbi4KICAgKiBAcGFyYW0gZGYgaW5wdXQgRGF0YWZyYW1lCiAgICogQHBhcmFtIHNwYXJrIHNwYXJrc2Vzc2lvbgogICAqIEByZXR1cm4gRGF0YXNldFtTdHJpbmddCiAgICovCiAgZGVmIGNvbnZlcnREZihkZjogRGF0YUZyYW1lLCBzcGFyazogU3BhcmtTZXNzaW9uKTogRGF0YXNldFtTdHJpbmddID0gewogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCiAgICBpbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuZnVuY3Rpb25zLl8KICAgIHZhbCBjb252ZXJ0ZWREZiA9IGRmLnNlbGVjdCh0b19qc29uKHN0cnVjdChjb2woIioiKSkpLmFsaWFzKCJ2YWx1ZSIpKQogICAgaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLkVuY29kZXJzCiAgICBFbmNvZGVycy5wcm9kdWN0W1RlbXBdCgogICAgdmFsIGRzOiBEYXRhc2V0W1RlbXBdID0gY29udmVydGVkRGYuYXNbVGVtcF0KICAgIGRzLm1hcCh4PT54LnZhbHVlKQogIH0KfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="2" type="2">
-        <text>//steps {
-  //DataLoadStep = {
-    //class-name = com.intuit.pzn.core.PznSparkLoaderStep
-    //dataload = {
-        //order = 1, sql = {
-        //sqlSource = local, table = ${variables.campaignTargetingTableName},
-        //in-path = ${variables.dataInputPath},
-      //}, metadata = {is-input = true}
-    //}
-    //input-1 = {
-        //order = 2, sql = {
-        //sql-type = local, table = input,
-        //sql = &quot;&quot;&quot;select * from &quot;&quot;&quot;&quot;${variables.campaignTargetingTableName}&quot;&quot;&quot;&quot;
-      //}, metadata = {is-input = true}
-    //}
-  //}
-//}</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICB0ZXN0KCJDaHVyblByb3BlbnNpdHlUZXN0IiwgUHpuVGVzdFRhZykgewogICAgdGVzdFRoYXRQaXBlbGluZQogICAgICAud2l0aFBpcGVsaW5lQ29uZmlnKCJwaXBlbGluZXMvY29uZmlnL0NodXJuUHJvcGVuc2l0eS5jb25mIikKICAgICAgLndpbGxGYWlsV2l0aFtFeGNlcHRpb25dCiAgfQ==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">c3RlcHMgewogIERhdGFMb2FkU3RlcCA9IHsKICAgIGNsYXNzLW5hbWUgPSBjb20uaW50dWl0LnB6bi5jb3JlLlB6blNwYXJrTG9hZGVyU3RlcAogICAgaW5wdXRzID0gewogICAgICBkYXRhbG9hZCA9IHsKICAgICAgICBvcmRlciA9IDEsIHNxbCA9IHsKICAgICAgICAgIHNxbFNvdXJjZSA9IGxvY2FsLCB0YWJsZSA9IGlucHV0X3RtcCwKICAgICAgICAgIGluLXBhdGggPSAke3ZhcmlhYmxlcy5kYXRhSW5wdXRQYXRofSwKICAgICAgICB9LAogICAgICAgIG1ldGFkYXRhID0ge2lzLWlucHV0ID0gdHJ1ZX0KICAgICAgfQogICAgICBpbnB1dC0yID0gewogICAgICAgIG9yZGVyID0gMiwgc3FsID0gewogICAgICAgICAgc3FsLXR5cGUgPSBsb2NhbCwgdGFibGUgPSBpbnB1dCwKICAgICAgICAgIHNxbCA9ICIiInNlbGVjdCAqIGZyb20gaW5wdXRfdG1wIiIiCiAgICAgICAgfSwgbWV0YWRhdGEgPSB7aXMtaW5wdXQgPSB0cnVlfQogICAgICAgfQogICAgfQogIH0KfQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjYW1wYWlnblRhcmdldGluZ1RhYmxlTmFtZT0iaW5wdXRUYXJnZXQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYW1wYWlnblRhcmdldGluZ1RhYmxlTmFtZT0iaW5wdXRUYXJnZXQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text>if [ &quot;${ENVIRONMENT}&quot; = &quot;qa&quot; -o &quot;${ENVIRONMENT}&quot; = &quot;e2e&quot; ]; then
+  aws s3 cp ${S3BUCKET}/truststore_ppd ./truststore
+  aws s3 cp ${S3BUCKET}/keystore_ppd ./keystore
+else
+  aws s3 cp ${S3BUCKET}/keystore .
+fi</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkYXRhTG9hZFRhYmxlTmFtZT0iVEJEIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
