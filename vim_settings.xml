@@ -136,12 +136,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1590017343050">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1590019553177">
         <mark key="'" line="25" column="25" />
-        <mark key="[" line="20" column="39" />
-        <mark key="]" line="20" column="75" />
-        <mark key="^" line="20" column="75" />
-        <mark key="." line="20" column="74" />
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="6" column="61" />
+        <mark key="^" line="6" column="61" />
+        <mark key="." line="6" column="60" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" timestamp="1590017397133">
         <mark key="[" line="10" column="17" />
@@ -175,7 +175,7 @@
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590016190167">
+      <file name="/Dummy.txt" timestamp="1590019453453">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -343,10 +343,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcHRpb25zXD4=</text>
