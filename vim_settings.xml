@@ -171,7 +171,7 @@
         <mark key="^" line="197" column="3" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590088392506">
+      <file name="/Dummy.txt" timestamp="1590530690045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -183,11 +183,11 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/kafka/EventbusConsumer.java" timestamp="1590519484603">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/kafka/EventbusConsumer.java" timestamp="1590530719482">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/tidal_run_pipeline.sh" timestamp="1590088357624">
         <mark key="'" line="27" column="0" />
@@ -333,7 +333,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBNREMucHV0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>eventbus</text>
@@ -345,32 +345,32 @@
         <text encoding="base64">ICAiZXZlbnRidXNDb25maWciID0geyBpbmNsdWRlIHJlcXVpcmVkKGNsYXNzcGF0aCgiZXZlbnRidXMvZXZlbnRidXNfJHtlbnZ9LmNvbmYiKSkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBNREMucHV0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXdzIHMzIGNwICR7UzNCVUNLRVR9L3B6bi1vZmZsaW5lL2luZnJhL2V2ZW50YnVzIGV2ZW50YnVzLyAtLXJlY3Vyc2l2ZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">YXdzIHMzIGNwICR7UzNCVUNLRVR9L3B6bi1vZmZsaW5lL2luZnJhL2V2ZW50YnVzIGV2ZW50YnVzLyAtLXJlY3Vyc2l2ZQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>if [[ $? -ne 0 ]]
   then
     timestamp_echo &quot;Failed to resize EMR cluster with ID: $EMR_CLUSTER_ID&quot;
     exit 1
   fi</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">bXYgcmVzb3VyY2VzL2tleXN0b3JlIC4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBLRVlQQUlSPWVtci1waXBlbGluZQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBLRVlQQUlSPWVtci1waXBlbGluZS1kZXYK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBLRVlQQUlSPWVtci1waXBlbGluZS1kZXYK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
