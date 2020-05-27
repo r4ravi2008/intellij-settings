@@ -127,17 +127,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590530690045">
+      <file name="/Dummy.txt" timestamp="1590542000274">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_e2e.conf" timestamp="1590088294628">
-        <mark key="[" line="4" column="46" />
-        <mark key="]" line="4" column="46" />
-        <mark key="." line="4" column="46" />
-        <mark key="^" line="4" column="46" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_e2e.conf" timestamp="1590541962723">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/kafka/EventbusConsumer.java" timestamp="1590537583600">
         <mark key="'" line="46" column="0" />
@@ -162,10 +161,11 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/util/MdcFilter.java" timestamp="1590519516647">
         <mark key="'" line="43" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1590030848635">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1590542057610">
+        <mark key="[" line="6" column="97" />
+        <mark key="]" line="6" column="97" />
+        <mark key="." line="6" column="97" />
+        <mark key="^" line="6" column="65" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/launch_emr.sh" timestamp="1590027952331">
         <mark key="'" line="39" column="18" />
@@ -225,9 +225,11 @@
         <mark key="^" line="197" column="3" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1590088287505">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1590541957865">
         <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="85" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -335,11 +337,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNREMucHV0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>eventbus</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrYWZrYVw+</text>
@@ -348,35 +350,31 @@
         <text encoding="base64">ICAiZXZlbnRidXNDb25maWciID0geyBpbmNsdWRlIHJlcXVpcmVkKGNsYXNzcGF0aCgiZXZlbnRidXMvZXZlbnRidXNfJHtlbnZ9LmNvbmYiKSkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNREMucHV0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAiZXZlbnRidXNDb25maWciID0geyBpbmNsdWRlIHJlcXVpcmVkKGZpbGUoImV2ZW50YnVzXyR7ZW52fS5jb25mIikpIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXdzIHMzIGNwICR7UzNCVUNLRVR9L3B6bi1vZmZsaW5lL2luZnJhL2V2ZW50YnVzIGV2ZW50YnVzLyAtLXJlY3Vyc2l2ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAiZXZlbnRidXNDb25maWciID1kZGQgeyBpbmNsdWRlIHJlcXVpcmVkKGZpbGUoImV2ZW50YnVzL2V2ZW50YnVzXyR7ZW52fS5jb25mIikpIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>if [[ $? -ne 0 ]]
-  then
-    timestamp_echo &quot;Failed to resize EMR cluster with ID: $EMR_CLUSTER_ID&quot;
-    exit 1
-  fi</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bXYgcmVzb3VyY2VzL2tleXN0b3JlIC4K</text>
+        <text encoding="base64">ICAgICAgICBNREMucHV0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBLRVlQQUlSPWVtci1waXBlbGluZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBLRVlQQUlSPWVtci1waXBlbGluZS1kZXYK</text>
+        <text encoding="base64">YXdzIHMzIGNwICR7UzNCVUNLRVR9L3B6bi1vZmZsaW5lL2luZnJhL2V2ZW50YnVzIGV2ZW50YnVzLyAtLXJlY3Vyc2l2ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
