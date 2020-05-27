@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>select[</entry>
-        <entry>apply</entry>
         <entry encoding="base64">XDx7XD4=</entry>
         <entry>testThat</entry>
         <entry>testThatPipeline</entry>
@@ -27,6 +25,8 @@
         <entry>MDC</entry>
         <entry>setup</entry>
         <entry>setUp</entry>
+        <entry>kafka</entry>
+        <entry encoding="base64">XDxrYWZrYVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\((.*?)\)/\s/gc</entry>
@@ -127,50 +127,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1590030848635">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_dev.conf" timestamp="1590091477405">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="53" column="36" />
-        <mark key="]" line="53" column="49" />
-        <mark key="." line="53" column="48" />
-        <mark key="^" line="53" column="49" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/eventbus/eventbus_dev.conf" timestamp="1590030151027">
-        <mark key="'" line="11" column="34" />
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="35" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" timestamp="1590030761682">
-        <mark key="'" line="6" column="83" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="65" />
-        <mark key="^" line="0" column="65" />
-        <mark key="." line="0" column="64" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" timestamp="1590023032070">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_controller.sh" timestamp="1590027994225">
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="." line="219" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_resize.sh" timestamp="1590087722351">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="^" line="197" column="3" />
-        <mark key="." line="198" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1590530690045">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -183,7 +139,7 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/kafka/EventbusConsumer.java" timestamp="1590530719482">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/kafka/EventbusConsumer.java" timestamp="1590537583600">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -206,12 +162,19 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/util/MdcFilter.java" timestamp="1590519516647">
         <mark key="'" line="43" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/logback-spring.xml" timestamp="1590518839255" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1590030848635">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/launch_emr.sh" timestamp="1590027952331">
         <mark key="'" line="39" column="18" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" timestamp="1590537597007">
+        <mark key="'" line="48" column="52" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/key_v2-e3b373bd2284e.pem" timestamp="1590020526173">
         <mark key="[" line="0" column="0" />
@@ -219,8 +182,48 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="27" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_dev.conf" timestamp="1590091477405">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="53" column="36" />
+        <mark key="]" line="53" column="49" />
+        <mark key="." line="53" column="48" />
+        <mark key="^" line="53" column="49" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/eventbus/eventbus_dev.conf" timestamp="1590030151027">
+        <mark key="'" line="11" column="34" />
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" timestamp="1590030761682">
+        <mark key="'" line="6" column="83" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="65" />
+        <mark key="^" line="0" column="65" />
+        <mark key="." line="0" column="64" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/util/MDCPropagatingHystrixCommandExecutionHook.java" timestamp="1590519055759">
         <mark key="'" line="121" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/settings.xml" timestamp="1590537505727" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" timestamp="1590023032070">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_controller.sh" timestamp="1590027994225">
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="." line="219" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_resize.sh" timestamp="1590087722351">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="^" line="197" column="3" />
+        <mark key="." line="198" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1590088287505">
         <mark key="[" line="9" column="0" />
@@ -228,8 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="10" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" />
-      <jump line="82" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" />
       <jump line="5" column="9" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" />
       <jump line="80" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" />
       <jump line="81" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" />
@@ -328,6 +329,8 @@
       <jump line="6" column="17" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/util/MdcFilter.java" />
       <jump line="32" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/util/MdcFilter.java" />
       <jump line="43" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/util/MdcFilter.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="48" column="52" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,7 +342,7 @@
         <text>eventbus</text>
       </register>
       <register name="/" type="4">
-        <text>setUp</text>
+        <text encoding="base64">XDxrYWZrYVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAiZXZlbnRidXNDb25maWciID0geyBpbmNsdWRlIHJlcXVpcmVkKGNsYXNzcGF0aCgiZXZlbnRidXMvZXZlbnRidXNfJHtlbnZ9LmNvbmYiKSkgfQo=</text>
@@ -385,9 +388,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>setUp</last-search>
+      <last-search encoding="base64">XDxrYWZrYVw+</last-search>
       <last-offset />
-      <last-pattern>setUp</last-pattern>
+      <last-pattern encoding="base64">XDxrYWZrYVw+</last-pattern>
       <last-replace>f64</last-replace>
       <last-substitute>f32</last-substitute>
       <last-dir>1</last-dir>
