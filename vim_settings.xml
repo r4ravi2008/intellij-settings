@@ -127,6 +127,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/console" timestamp="1590604426826">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1590542057610">
         <mark key="[" line="6" column="97" />
         <mark key="]" line="6" column="97" />
@@ -140,12 +143,8 @@
         <mark key="." line="53" column="48" />
         <mark key="^" line="53" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" timestamp="1590030761682">
-        <mark key="'" line="6" column="83" />
+      <file name="/a.sql" timestamp="1590604478285">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="65" />
-        <mark key="^" line="0" column="65" />
-        <mark key="." line="0" column="64" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/db/setup_local.sql" timestamp="1590599201285" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/resources/logback-spring.xml" timestamp="1590594970609">
@@ -162,14 +161,7 @@
         <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/resources/application-local.properties" timestamp="1590595904834" />
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_resize.sh" timestamp="1590087722351">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="^" line="197" column="3" />
-        <mark key="." line="198" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590594876377">
+      <file name="/Dummy.txt" timestamp="1590604478293">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
