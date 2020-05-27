@@ -144,6 +144,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-local.properties" timestamp="1590542861195" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/tidal_run_pipeline.sh" timestamp="1590088357624">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="26" column="0" />
@@ -175,12 +176,6 @@
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" timestamp="1590537597007">
         <mark key="'" line="48" column="52" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/key_v2-e3b373bd2284e.pem" timestamp="1590020526173">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="25" />
-        <mark key="^" line="27" column="25" />
-        <mark key="." line="27" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_dev.conf" timestamp="1590091477405">
         <mark key="'" line="36" column="0" />
