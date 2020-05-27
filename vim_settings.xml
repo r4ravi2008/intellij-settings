@@ -140,13 +140,6 @@
         <mark key="." line="53" column="48" />
         <mark key="^" line="53" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/eventbus/eventbus_dev.conf" timestamp="1590030151027">
-        <mark key="'" line="11" column="34" />
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="35" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" timestamp="1590030761682">
         <mark key="'" line="6" column="83" />
         <mark key="[" line="0" column="0" />
@@ -168,6 +161,7 @@
         <mark key="^" line="118" column="8" />
         <mark key="." line="129" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/resources/application-local.properties" timestamp="1590595904834" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_resize.sh" timestamp="1590087722351">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="198" column="0" />
