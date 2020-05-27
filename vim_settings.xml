@@ -127,7 +127,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1590604426826">
+      <file name="/console" timestamp="1590604610524">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1590542057610">
@@ -136,24 +136,30 @@
         <mark key="." line="6" column="97" />
         <mark key="^" line="6" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_dev.conf" timestamp="1590091477405">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="53" column="36" />
-        <mark key="]" line="53" column="49" />
-        <mark key="." line="53" column="48" />
-        <mark key="^" line="53" column="49" />
-      </file>
-      <file name="/a.sql" timestamp="1590604478285">
+      <file name="/pzn.pzn_dev.workflow_revisions" timestamp="1590604753444">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/db/setup_local.sql" timestamp="1590599201285" />
+      <file name="/a.sql" timestamp="1590604692039">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/pzn.pzn_dev.workflow" timestamp="1590604758475">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/db/setup_local.sql" timestamp="1590604513037">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="32" />
+        <mark key="^" line="18" column="32" />
+        <mark key="." line="18" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/resources/logback-spring.xml" timestamp="1590594970609">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="18" />
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/settings.xml" timestamp="1590537505727" />
+      <file name="/pzn.pzn_dev.flyway_schema_history" timestamp="1590604730471">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/workflowconfig/AwsS3FileReaderService.java" timestamp="1590597311730">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
@@ -161,33 +167,21 @@
         <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/resources/application-local.properties" timestamp="1590595904834" />
-      <file name="/Dummy.txt" timestamp="1590604478293">
+      <file name="/flyway_schema_history [pzn@localhost]" timestamp="1590604730458">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/workflow [pzn@localhost]" timestamp="1590604758463">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590604692048">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_e2e.conf" timestamp="1590541962723">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/kafka/EventbusConsumer.java" timestamp="1590537583600">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-local.properties" timestamp="1590544472502" />
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/tidal_run_pipeline.sh" timestamp="1590088357624">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="28" column="13" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/util/MdcFilter.java" timestamp="1590519516647">
-        <mark key="'" line="43" column="12" />
+      <file name="/workflow_revisions [pzn@localhost]" timestamp="1590604753431">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/logback-spring.xml" timestamp="1590545017427">
         <mark key="[" line="12" column="14" />
@@ -195,20 +189,17 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" timestamp="1590537597007">
-        <mark key="'" line="48" column="52" />
+      <file name="/pzn.pzn_dev.workflow_step_configuration" timestamp="1590604745580">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/util/MDCPropagatingHystrixCommandExecutionHook.java" timestamp="1590519055759">
-        <mark key="'" line="121" column="8" />
+      <file name="/workflow_step_configuration [pzn@localhost]" timestamp="1590604745568">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1590604758488">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1590594876368">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1590541957865">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="8" column="2" />
       </file>
     </filemarks>
     <jumps>
