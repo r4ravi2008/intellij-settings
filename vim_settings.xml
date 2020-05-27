@@ -130,11 +130,11 @@
       <file name="/console" timestamp="1590604610524">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1590542057610">
-        <mark key="[" line="6" column="97" />
-        <mark key="]" line="6" column="97" />
-        <mark key="." line="6" column="97" />
-        <mark key="^" line="6" column="65" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1590612087257">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="74" />
+        <mark key="^" line="6" column="74" />
+        <mark key="." line="6" column="73" />
       </file>
       <file name="/pzn.pzn_dev.workflow_revisions" timestamp="1590604753444">
         <mark key="[" line="0" column="0" />
@@ -173,21 +173,19 @@
       <file name="/workflow [pzn@localhost]" timestamp="1590604758463">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590604692048">
+      <file name="/Dummy.txt" timestamp="1590612706442">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-local.properties" timestamp="1590544472502" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_e2e.conf" timestamp="1590612739424">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/workflow_revisions [pzn@localhost]" timestamp="1590604753431">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/logback-spring.xml" timestamp="1590545017427">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="14" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="12" column="14" />
       </file>
       <file name="/pzn.pzn_dev.workflow_step_configuration" timestamp="1590604745580">
         <mark key="[" line="0" column="0" />
@@ -200,6 +198,12 @@
       </file>
       <file name="/fragment.java" timestamp="1590594876368">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1590612723836">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -308,10 +312,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiZXZlbnRidXNDb25maWciID0geyBpbmNsdWRlIHJlcXVpcmVkKGZpbGUoImV2ZW50YnVzXyR7ZW52fS5jb25mIikpIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrYWZrYVw+</text>
@@ -320,7 +324,7 @@
         <text encoding="base64">ICAiZXZlbnRidXNDb25maWciID0geyBpbmNsdWRlIHJlcXVpcmVkKGNsYXNzcGF0aCgiZXZlbnRidXMvZXZlbnRidXNfJHtlbnZ9LmNvbmYiKSkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiZXZlbnRidXNDb25maWciID0geyBpbmNsdWRlIHJlcXVpcmVkKGZpbGUoImV2ZW50YnVzXyR7ZW52fS5jb25mIikpIH0K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -329,19 +333,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiZXZlbnRidXNDb25maWciID0geyBpbmNsdWRlIHJlcXVpcmVkKGNsYXNzcGF0aCgiZXZlbnRidXMvZXZlbnRidXNfJHtlbnZ9LmNvbmYiKSl9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiZXZlbnRidXNDb25maWciID0geyBpbmNsdWRlIHJlcXVpcmVkKGZpbGUoImV2ZW50YnVzXyR7ZW52fS5jb25mIikpIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiZXZlbnRidXNDb25maWciID0geyBpbmNsdWRlIHJlcXVpcmVkKGZpbGUoImV2ZW50YnVzXyR7ZW52fS5jb25mIikpIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
