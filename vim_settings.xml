@@ -187,6 +187,12 @@
       <file name="/workflow_revisions [pzn@localhost]" timestamp="1590604753431">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1590612880228">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="16" column="31" />
+      </file>
       <file name="/pzn.pzn_dev.workflow_step_configuration" timestamp="1590604745580">
         <mark key="[" line="0" column="0" />
       </file>
@@ -194,9 +200,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1590604758488">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1590594876368">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1590612723836">
@@ -311,11 +314,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAiZXZlbnRidXNDb25maWciID0geyBpbmNsdWRlIHJlcXVpcmVkKGZpbGUoImV2ZW50YnVzXyR7ZW52fS5jb25mIikpIH0K</text>
+      <register name="&quot;" type="4">
+        <text>example</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>example</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrYWZrYVw+</text>
