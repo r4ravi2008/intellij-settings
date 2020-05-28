@@ -160,12 +160,6 @@
       <file name="/pzn.pzn_dev.flyway_schema_history" timestamp="1590604730471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/workflowconfig/AwsS3FileReaderService.java" timestamp="1590597311730">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="^" line="118" column="8" />
-        <mark key="." line="129" column="0" />
-      </file>
       <file name="/flyway_schema_history [pzn@localhost]" timestamp="1590604730458">
         <mark key="[" line="0" column="0" />
       </file>
@@ -207,6 +201,7 @@
       <file name="/foo.bar" timestamp="1590604758488">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" timestamp="1590625075285" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1590622604282">
         <mark key="'" line="47" column="2" />
         <mark key="[" line="6" column="76" />
