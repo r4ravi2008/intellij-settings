@@ -142,13 +142,14 @@
       <file name="/pzn.pzn_dev.workflow" timestamp="1590604758475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1590701168072">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-      </file>
-      <file name="/pzn.pzn_dev.flyway_schema_history" timestamp="1590604730471">
+      <file name="/Dummy.scala" timestamp="1590702397278">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1590703712632">
+        <mark key="[" line="101" column="18" />
+        <mark key="]" line="101" column="19" />
+        <mark key="^" line="101" column="19" />
+        <mark key="." line="101" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/analytics/ClickstreamDataLoaderStep.scala" timestamp="1590701031700">
         <mark key="[" line="3" column="0" />
@@ -182,11 +183,11 @@
       <file name="/pzn.pzn_dev.workflow_step_configuration" timestamp="1590604745580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/CampaignTargeting.conf" timestamp="1590651183156">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="20" column="31" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/CampaignTargeting.conf" timestamp="1590703794713">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="22" />
       </file>
       <file name="/workflow_step_configuration [pzn@localhost]" timestamp="1590604745568">
         <mark key="[" line="0" column="0" />
@@ -305,7 +306,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3V0cHV0VGFibGUg</text>
+        <text>idDf</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrYWZrYVw+</text>
@@ -317,28 +318,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS50ZW1wb3JhbC5DaHJvbm9Vbml0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlucHV0Lm1ldGFkYXRhLnByb3BlcnRpZXMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogICAgIC4uLi4uLi4uLgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vdWRmIHRoYXQgY3JlYXRlcyBldmVudERhdGFDb2x1bW4KLy8gICAgdmFsIGV2ZW50RGF0YUNvbHVtbiA9IHVkZiB7Ci8vCi8vICAgIH0KCi8vICAgIHZhbCBldmVudERhdGFEZiA9IGlkRGYud2l0aENvbHVtbigiZXZlbkRhdGEiLCApCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAuc2VsZWN0KCIiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLkRhdGFGcmFtZQo=</text>
+        <text encoding="base64">ICAgIGlkRGYucHJpbnRTY2hlbWEoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlRpbWVzdGFtcAo=</text>
+        <text encoding="base64">ICAgIHZhbCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWRUeXBlID0gcmVhbG1JZCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
