@@ -133,16 +133,11 @@
         <mark key="^" line="6" column="74" />
         <mark key="." line="6" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ClickstreamDataLoaderStep.scala" timestamp="1590697004559" />
       <file name="/pzn.pzn_dev.workflow_revisions" timestamp="1590604753444">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" timestamp="1590682758977">
-        <mark key="'" line="6" column="83" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
         <mark key="^" line="0" column="65" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="/pzn.pzn_dev.workflow" timestamp="1590604758475">
         <mark key="[" line="0" column="0" />
@@ -156,9 +151,7 @@
       <file name="/pzn.pzn_dev.flyway_schema_history" timestamp="1590604730471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/flyway_schema_history [pzn@localhost]" timestamp="1590604730458">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/analytics/ClickstreamDataLoaderStep.scala" timestamp="1590698091513" />
       <file name="/workflow [pzn@localhost]" timestamp="1590604758463">
         <mark key="[" line="0" column="0" />
       </file>
@@ -200,7 +193,6 @@
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" timestamp="1590625467316" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1590622604282">
-        <mark key="'" line="47" column="2" />
         <mark key="[" line="6" column="76" />
         <mark key="]" line="6" column="61" />
         <mark key="." line="6" column="60" />
