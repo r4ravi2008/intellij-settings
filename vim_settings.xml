@@ -127,9 +127,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1590604610524">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1590612087257">
         <mark key="[" line="6" column="46" />
         <mark key="]" line="6" column="74" />
@@ -139,6 +136,13 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ClickstreamDataLoaderStep.scala" timestamp="1590652583011" />
       <file name="/pzn.pzn_dev.workflow_revisions" timestamp="1590604753444">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" timestamp="1590682758977">
+        <mark key="'" line="6" column="83" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="0" column="65" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/a.sql" timestamp="1590604692039">
         <mark key="[" line="0" column="0" />
@@ -312,7 +316,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">b3V0cHV0VGFibGUg</text>
@@ -324,31 +328,31 @@
         <text>pzn_event_topic_test_2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLkRhdGFGcmFtZQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlRpbWVzdGFtcAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLkRhdGFGcmFtZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWRUeXBlID0gcmVhbG1JZCwK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlRpbWVzdGFtcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIG91dHB1dFRhYmxlID0gJHt2YXJpYWJsZXMuZXZlbnRCdXNTdGVwSW5wdXRUYWJsZX0K</text>
+        <text encoding="base64">ICAgICAgaWRUeXBlID0gcmVhbG1JZCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIGlucHV0VGFibGUgPSAke3ZhcmlhYmxlcy50YXJnZXRpbmdTdGVwSW5wdXRUYWJsZX0K</text>
+        <text encoding="base64">ICAgICAgIG91dHB1dFRhYmxlID0gJHt2YXJpYWJsZXMuZXZlbnRCdXNTdGVwSW5wdXRUYWJsZX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3BlcnRpZXMgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgIGlucHV0VGFibGUgPSAke3ZhcmlhYmxlcy50YXJnZXRpbmdTdGVwSW5wdXRUYWJsZX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNsYXNzLW5hbWUgPSBjb20uaW50dWl0LnB6bi5zdGVwLlRhcmdldGluZ1RyYW5zZm9ybWF0aW9uU3RlcCwK</text>
+        <text encoding="base64">ICAgIHByb3BlcnRpZXMgPSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF0dHJpYnV0ZXNXaXRoSWREZi5wcmludFNjaGVtYSgpCg==</text>
+        <text encoding="base64">ICAgIGNsYXNzLW5hbWUgPSBjb20uaW50dWl0LnB6bi5zdGVwLlRhcmdldGluZ1RyYW5zZm9ybWF0aW9uU3RlcCwK</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
