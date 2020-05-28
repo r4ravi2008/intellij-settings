@@ -136,6 +136,7 @@
         <mark key="^" line="6" column="74" />
         <mark key="." line="6" column="73" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ClickstreamDataLoaderStep.scala" timestamp="1590652583011" />
       <file name="/pzn.pzn_dev.workflow_revisions" timestamp="1590604753444">
         <mark key="[" line="0" column="0" />
       </file>
@@ -150,12 +151,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="51" column="79" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/db/setup_local.sql" timestamp="1590604513037">
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="18" column="32" />
-        <mark key="^" line="18" column="32" />
-        <mark key="." line="18" column="31" />
       </file>
       <file name="/pzn.pzn_dev.flyway_schema_history" timestamp="1590604730471">
         <mark key="[" line="0" column="0" />
