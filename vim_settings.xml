@@ -133,7 +133,7 @@
         <mark key="^" line="6" column="74" />
         <mark key="." line="6" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ClickstreamDataLoaderStep.scala" timestamp="1590652583011" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ClickstreamDataLoaderStep.scala" timestamp="1590697004559" />
       <file name="/pzn.pzn_dev.workflow_revisions" timestamp="1590604753444">
         <mark key="[" line="0" column="0" />
       </file>
@@ -144,17 +144,14 @@
         <mark key="^" line="0" column="65" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1590604692039">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/pzn.pzn_dev.workflow" timestamp="1590604758475">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1590688005501">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="29" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="29" />
       </file>
       <file name="/pzn.pzn_dev.flyway_schema_history" timestamp="1590604730471">
         <mark key="[" line="0" column="0" />
@@ -165,7 +162,7 @@
       <file name="/workflow [pzn@localhost]" timestamp="1590604758463">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590651298655">
+      <file name="/Dummy.txt" timestamp="1590696717516">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
