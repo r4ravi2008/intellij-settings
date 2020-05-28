@@ -159,7 +159,7 @@
       <file name="/workflow [pzn@localhost]" timestamp="1590604758463">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590696717516">
+      <file name="/Dummy.txt" timestamp="1590707768427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -189,13 +189,17 @@
         <mark key="." line="18" column="21" />
         <mark key="^" line="18" column="22" />
       </file>
-      <file name="/workflow_step_configuration [pzn@localhost]" timestamp="1590604745568">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/foo.bar" timestamp="1590604758488">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/PaymentsOffline.conf" timestamp="1590708032576">
+        <mark key="[" line="4" column="62" />
+        <mark key="]" line="4" column="77" />
+        <mark key="^" line="4" column="77" />
+        <mark key="." line="4" column="76" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" timestamp="1590625467316" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1590707997704" />
     </filemarks>
     <jumps>
       <jump line="81" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" />
@@ -302,11 +306,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>qboIndia</text>
       </register>
       <register name="-" type="4">
-        <text>idDf</text>
+        <text>qboIndia</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrYWZrYVw+</text>
