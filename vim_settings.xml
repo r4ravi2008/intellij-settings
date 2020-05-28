@@ -145,10 +145,10 @@
       <file name="/pzn.pzn_dev.workflow" timestamp="1590604758475">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1590622899957">
-        <mark key="[" line="51" column="79" />
-        <mark key="]" line="51" column="79" />
-        <mark key="." line="51" column="78" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1590629151489">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
         <mark key="^" line="51" column="79" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/db/setup_local.sql" timestamp="1590604513037">
@@ -166,7 +166,7 @@
       <file name="/workflow [pzn@localhost]" timestamp="1590604758463">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590624302245">
+      <file name="/Dummy.txt" timestamp="1590651298655">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -180,19 +180,20 @@
       <file name="/workflow_revisions [pzn@localhost]" timestamp="1590604753431">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1590612880228">
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="31" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1590628885273">
+        <mark key="'" line="6" column="28" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="32" />
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="31" />
       </file>
       <file name="/pzn.pzn_dev.workflow_step_configuration" timestamp="1590604745580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/CampaignTargeting.conf" timestamp="1590622910258">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/CampaignTargeting.conf" timestamp="1590651183156">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
         <mark key="^" line="20" column="31" />
       </file>
       <file name="/workflow_step_configuration [pzn@localhost]" timestamp="1590604745568">
@@ -201,7 +202,7 @@
       <file name="/foo.bar" timestamp="1590604758488">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" timestamp="1590625075285" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" timestamp="1590625467316" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1590622604282">
         <mark key="'" line="47" column="2" />
         <mark key="[" line="6" column="76" />
@@ -211,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" />
       <jump line="81" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" />
       <jump line="66" column="19" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" />
       <jump line="75" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" />
@@ -311,12 +311,13 @@
       <jump line="20" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
       <jump line="48" column="52" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
       <jump line="47" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
+      <jump line="6" column="28" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWRUeXBlID0gcmVhbG1JZCwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">b3V0cHV0VGFibGUg</text>
@@ -325,34 +326,34 @@
         <text encoding="base64">XDxrYWZrYVw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Ly8gTm93IGNyZWF0ZSBpZCBjb2x1bW4KICAgIHZhbCBjcmVhdGVJZENvbHVtbiA9IHVkZiB7CiAgICAgIChpbnB1dFZhbHVlOiBTdHJpbmcpID0+IHsKICAgICAgICBNYXBbU3RyaW5nLCBTdHJpbmddKAogICAgICAgICAgInR5cGUiIC0+IGlkVHlwZSwKICAgICAgICAgICJ2YWx1ZSIgLT4gaW5wdXRWYWx1ZQogICAgICAgICkKICAgICAgfQogICAgfQ==</text>
+        <text>pzn_event_topic_test_2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWRUeXBlID0gcmVhbG1JZCwK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIG91dHB1dFRhYmxlID0gJHt2YXJpYWJsZXMuZXZlbnRCdXNTdGVwSW5wdXRUYWJsZX0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLkRhdGFGcmFtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGlucHV0VGFibGUgPSAke3ZhcmlhYmxlcy50YXJnZXRpbmdTdGVwSW5wdXRUYWJsZX0K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuc3FsLlRpbWVzdGFtcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3BlcnRpZXMgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgaWRUeXBlID0gcmVhbG1JZCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsYXNzLW5hbWUgPSBjb20uaW50dWl0LnB6bi5zdGVwLlRhcmdldGluZ1RyYW5zZm9ybWF0aW9uU3RlcCwK</text>
+        <text encoding="base64">ICAgICAgIG91dHB1dFRhYmxlID0gJHt2YXJpYWJsZXMuZXZlbnRCdXNTdGVwSW5wdXRUYWJsZX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF0dHJpYnV0ZXNXaXRoSWREZi5wcmludFNjaGVtYSgpCg==</text>
+        <text encoding="base64">ICAgICAgIGlucHV0VGFibGUgPSAke3ZhcmlhYmxlcy50YXJnZXRpbmdTdGVwSW5wdXRUYWJsZX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByb3BlcnRpZXMgPSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzLW5hbWUgPSBjb20uaW50dWl0LnB6bi5zdGVwLlRhcmdldGluZ1RyYW5zZm9ybWF0aW9uU3RlcCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGF0dHJpYnV0ZXNXaXRoSWREZi5wcmludFNjaGVtYSgpCg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
