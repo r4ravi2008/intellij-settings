@@ -134,6 +134,13 @@
         <mark key="^" line="45" column="35" />
         <mark key="." line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_dev.conf" timestamp="1590772132278">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="32" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="32" />
+      </file>
       <file name="/pzn.pzn_dev.workflow" timestamp="1590751208572">
         <mark key="[" line="0" column="0" />
       </file>
@@ -146,11 +153,6 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
         <mark key="^" line="191" column="53" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/analytics/ClickstreamDataLoaderStep.scala" timestamp="1590701031700">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="/workflow [pzn@localhost]" timestamp="1590751208560">
         <mark key="[" line="0" column="0" />
@@ -199,6 +201,13 @@
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1590772051424">
+        <mark key="'" line="6" column="28" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="16" column="30" />
+        <mark key="^" line="16" column="31" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/RequestAttributeProvider.java" timestamp="1590750124689">
         <mark key="'" line="0" column="0" />
