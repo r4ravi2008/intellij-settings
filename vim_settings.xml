@@ -134,9 +134,9 @@
         <mark key="." line="49" column="51" />
         <mark key="^" line="49" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_dev.conf" timestamp="1590772132278">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_dev.conf" timestamp="1590777416192">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="16" column="32" />
+        <mark key="[" line="16" column="36" />
         <mark key="]" line="16" column="32" />
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="32" />
@@ -144,11 +144,17 @@
       <file name="/pzn.pzn_dev.workflow" timestamp="1590751208572">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/common/ZoltarUtil.java" timestamp="1590775164202">
-        <mark key="'" line="71" column="13" />
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/common/ZoltarUtil.java" timestamp="1590775249768">
+        <mark key="'" line="68" column="13" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/pipeline/PipelineTestSuite.scala" timestamp="1590777366712">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/zoltar-shared-dto/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/EventBusSource.java" timestamp="1590775235826">
         <mark key="[" line="21" column="14" />
@@ -182,7 +188,13 @@
         <mark key="." line="43" column="173" />
         <mark key="^" line="43" column="174" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590774018803">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1590777781178">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="16" />
+        <mark key="^" line="10" column="57" />
+        <mark key="." line="25" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590777846780">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -194,12 +206,12 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1590772051424">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1590777400214">
         <mark key="'" line="6" column="28" />
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="32" />
-        <mark key="." line="16" column="30" />
-        <mark key="^" line="16" column="31" />
+        <mark key="[" line="16" column="32" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="16" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/RequestAttributeProvider.java" timestamp="1590775042871">
         <mark key="'" line="0" column="0" />
@@ -209,12 +221,6 @@
       </file>
       <file name="/foo.bar" timestamp="1590751208581">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/PaymentsOffline.conf" timestamp="1590708141772">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="24" />
       </file>
       <file name="/fragment.java" timestamp="1590773526435">
         <mark key="[" line="0" column="0" />
@@ -326,10 +332,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>UI_SOURCE</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>UI_SOURCE</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>RequestAttribute</text>
@@ -338,31 +344,31 @@
         <text>pzn_event_topic_test_2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiNWI2ODgxOS4uLiBbUFpOLTE3ODJdIEV2ZW50YnVzIEF0dHJpYnV0ZSBjb2xsZWN0b3IgaW5pdGlhbCBjb21taXQK</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAiY291bnRyeSI6ICJVbml0ZWQgU3RhdGVzIiwKICAgICAgInFib19zaWdudXBfZGF0ZSI6ICIyMDAxLTAxLTIyIiwKICAgICAgImhhc19lbWFpbF9hc3NvY2lhdGVkX3dpdGhfYWNjb3VudGFudCI6IGZhbHNlLAogICAgICAiaGFzX2NyZWF0ZWRfaW52b2ljZXMiOiB0cnVlLAogICAgICAiaGFzX2VtYWlsZWRfaW52b2ljZXMiOiB0cnVlLAogICAgICAiaGFzX2VtYWlsZWRfcGVfaW52b2ljZXMiOiBmYWxzZSwKICAgICAgImhhc19tb3JlX3RoYW5fNzUwMF9pbmNvbWVfcGVyX21vbnRoIjogdHJ1ZSwKICAgICAgImhhc19iZWVuX3BhaWRfdmlhX2NvbXBldGl0aXZlX3Byb2Nlc3Nvcl9vbl9jYXJkIjogZmFsc2UsCiAgICAgICJoYXNfYmVlbl9wYWlkX3ZpYV9jb21wZXRpdGl2ZV9wcm9jZXNzb3Jfb25fYmFua190cmFuc2ZlciI6IGZhbHNlLAogICAgICAiaGFzX2JlZW5fcGFpZF92aWFfY29tcGV0aXRpdmVfcHJvY2Vzc29yX29uX3Vua25vd25fbWV0aG9kIjogZmFsc2UsCiAgICAgICJhbW91bnRfdmlhX2FueV9wcm9jZXNzb3Jfb25fY2FyZF9sYXN0XzE4MF9kYXlzIjogMCwKICAgICAgImVsaWdpYmxlX3Byb2Nlc3Nvcl9mb3JfcHltdCI6ICJDSEFTRSIsCiAgICAgICJoYXNfcHltdF9tZXJjaGFudF9hY2NvdW50IjogZmFsc2UsCiAgICAgICJtZXJjaGFudF9wcm9jZXNzb3JfdHlwZSI6ICJDSEFTRSIsCiAgICAgICJoYXNfYmVlbl9wYWlkX3ZpYV9pbnR1aXRfcmFpbHNfb25fcnBfZm9ybSI6IGZhbHNlLAogICAgICAiaGFzX3N1YnNjcmliZWRfdG9fcWJvIjogdHJ1ZQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogYW5kIHJlZ2lzdGVycyBpdCB0byBhIHRlbXBvcmFyeSB0YWJsZSIK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBldmVudEJvZHkgPSBleGNoYW5nZS5nZXRJbigpLmdldEhlYWRlcnMoKTsKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGV2ZW50Qm9keUF0dHJpYnV0ZXM9ICggTWFwPFN0cmluZywgT2JqZWN0PilldmVudEJvZHkuZ2V0KCJhdHRyaWJ1dGVzIik7CiAgICAgICAgaWYoZXZlbnRCb2R5QXR0cmlidXRlcyA9PSBudWxsIHx8IGV2ZW50Qm9keUF0dHJpYnV0ZXMuc2l6ZSgpPT0wKSB7CiAgICAgICAgICAgIGV2ZW50Qm9keUF0dHJpYnV0ZXMgPSBleGNoYW5nZS5nZXRQcm9wZXJ0eShab2x0YXJDb25zdGFudHMuUkVRVUVTVC5QQVlMT0FELmdldExhYmVsKCksIE1hcC5jbGFzcyk7CiAgICAgICAgfQogICAgICAgIHVpSW5wdXRQYXJhbXMgPSBab2x0YXJVdGlsLmdldERhdGFGcm9tTWFwKGF0dHJpYnV0ZUxpc3QsIGV2ZW50Qm9keUF0dHJpYnV0ZXMpOw==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiBiNWI2ODgxOS4uLiBbUFpOLTE3ODJdIEV2ZW50YnVzIEF0dHJpYnV0ZSBjb2xsZWN0b3IgaW5pdGlhbCBjb21taXQK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgaWYgKFpvbHRhclV0aWwuaXNFdmVudENvbnN1bWVkRnJvbUV2ZW50QnVzKGV4Y2hhbmdlKSkgewogICAgICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGV2ZW50Qm9keUF0dHJpYnV0ZXMgPSBleGNoYW5nZS5nZXRJbigpLmdldEhlYWRlcnMoKTsKICAgICAgICAgICAgaWYoZXZlbnRCb2R5QXR0cmlidXRlcyA9PSBudWxsIHx8IGV2ZW50Qm9keUF0dHJpYnV0ZXMuc2l6ZSgpPT0wKSB7CiAgICAgICAgICAgICAgICBldmVudEJvZHlBdHRyaWJ1dGVzID0gZXhjaGFuZ2UuZ2V0UHJvcGVydHkoWm9sdGFyQ29uc3RhbnRzLlJFUVVFU1QuUEFZTE9BRC5nZXRMYWJlbCgpLCBNYXAuY2xhc3MpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHVpSW5wdXRQYXJhbXMgPSBnZXREYXRhRnJvbU1hcChhdHRyaWJ1dGVMaXN0LCBldmVudEJvZHlBdHRyaWJ1dGVzKTsKICAgICAgICB9IGVsc2UgaWYoWm9sdGFyVXRpbC5pc1Bvc3RSZXF1ZXN0KGV4Y2hhbmdlKSkgewo9PT09PT09</text>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBiNWI2ODgxOS4uLiBbUFpOLTE3ODJdIEV2ZW50YnVzIEF0dHJpYnV0ZSBjb2xsZWN0b3IgaW5pdGlhbCBjb21taXQK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8qKgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
