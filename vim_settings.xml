@@ -174,10 +174,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/launch_emr.sh" timestamp="1590709304825">
-        <mark key="'" line="229" column="73" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+        <mark key="'" line="227" column="73" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1590628885273">
         <mark key="'" line="6" column="28" />
@@ -202,7 +202,6 @@
         <mark key="." line="8" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" timestamp="1590625467316" />
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1590707997704" />
     </filemarks>
     <jumps>
       <jump line="75" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" />
