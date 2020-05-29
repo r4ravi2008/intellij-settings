@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>testThat</entry>
         <entry>testThatPipeline</entry>
         <entry>test</entry>
         <entry>spy[</entry>
@@ -27,6 +26,7 @@
         <entry>kafka</entry>
         <entry encoding="base64">XDxrYWZrYVw+</entry>
         <entry>graph</entry>
+        <entry>RequestAttribute</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\((.*?)\)/\s/gc</entry>
@@ -144,9 +144,6 @@
       <file name="/pzn.pzn_dev.workflow" timestamp="1590751208572">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1590702397278">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/common/ZoltarUtil.java" timestamp="1590750177557">
         <mark key="'" line="71" column="13" />
         <mark key="[" line="132" column="0" />
@@ -154,17 +151,17 @@
         <mark key="." line="132" column="0" />
         <mark key="^" line="191" column="53" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/zoltar-shared-dto/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/EventBusSource.java" timestamp="1590773660230">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="39" />
+      </file>
       <file name="/workflow [pzn@localhost]" timestamp="1590751208560">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workflow_revisions [pzn@localhost]" timestamp="1590751204505">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/CampaignTargeting.conf" timestamp="1590703794713">
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="18" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/config/EventbusConfig.java" timestamp="1590751251656">
         <mark key="[" line="7" column="0" />
@@ -184,14 +181,15 @@
       <file name="/pzn.pzn_dev.workflow_revisions" timestamp="1590751204520">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1590703712632">
-        <mark key="[" line="101" column="18" />
-        <mark key="]" line="101" column="19" />
-        <mark key="^" line="101" column="19" />
-        <mark key="." line="101" column="18" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/RecipientList.java" timestamp="1590773749843">
+        <mark key="'" line="43" column="173" />
+        <mark key="[" line="43" column="149" />
+        <mark key="]" line="43" column="174" />
+        <mark key="." line="43" column="173" />
+        <mark key="^" line="43" column="174" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590709393916">
-        <mark key="[" line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1590773506908">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="44" />
@@ -225,9 +223,11 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="24" />
       </file>
+      <file name="/fragment.java" timestamp="1590773526435">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="4" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/Jenkinsfile" />
       <jump line="64" column="9" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/Jenkinsfile" />
       <jump line="86" column="8" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/Jenkinsfile" />
       <jump line="71" column="16" filename="$USER_HOME$/dev/repos/network-parent/spark-pipeline-framework/Jenkinsfile" />
@@ -327,48 +327,51 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/RequestAttributeProvider.java" />
       <jump line="97" column="1" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/EventBusAttributeProvider.java" />
       <jump line="70" column="13" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/common/ZoltarUtil.java" />
+      <jump line="43" column="173" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/RecipientList.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5jb250ZXh0LnByb3BlcnRpZXMuQ29uZmlndXJhdGlvblByb3BlcnRpZXM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>RequestAttributeProvider</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>RequestAttributeProvider</text>
       </register>
       <register name="/" type="4">
-        <text>graph</text>
+        <text>RequestAttribute</text>
       </register>
       <register name="0" type="4">
         <text>pzn_event_topic_test_2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5jb250ZXh0LnByb3BlcnRpZXMuQ29uZmlndXJhdGlvblByb3BlcnRpZXM7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>/**
+ * @author rkommineni
+ */</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uUmVhZGVyOwo=</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVJlYWRlcjsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5jb250ZXh0LnByb3BlcnRpZXMuQ29uZmlndXJhdGlvblByb3BlcnRpZXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5pby5SZXNvdXJjZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLlByb2ZpbGU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uUmVhZGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLlZhbHVlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZVJlYWRlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5pby5SZXNvdXJjZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLlByb2ZpbGU7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
@@ -380,9 +383,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>graph</last-search>
+      <last-search>RequestAttribute</last-search>
       <last-offset />
-      <last-pattern>graph</last-pattern>
+      <last-pattern>RequestAttribute</last-pattern>
       <last-replace>f64</last-replace>
       <last-substitute>f32</last-substitute>
       <last-dir>1</last-dir>
