@@ -127,15 +127,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/workflow [pzn@localhost]" timestamp="1590782812703">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591043303843">
+      <file name="/Dummy.txt" timestamp="1591052388723">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/RequestAttributeProviderTest.java" timestamp="1591051923261" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-local.properties" timestamp="1590790819720">
         <mark key="[" line="31" column="155" />
         <mark key="]" line="31" column="162" />
@@ -151,12 +149,12 @@
         <mark key="." line="29" column="72" />
         <mark key="^" line="29" column="73" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/EventBusAttributeProvider.java" timestamp="1591024958142">
-        <mark key="'" line="66" column="1" />
-        <mark key="[" line="57" column="11" />
-        <mark key="]" line="57" column="12" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/EventBusAttributeProvider.java" timestamp="1591052178849">
+        <mark key="'" line="30" column="53" />
+        <mark key="[" line="30" column="53" />
+        <mark key="]" line="30" column="53" />
         <mark key="^" line="57" column="12" />
-        <mark key="." line="57" column="11" />
+        <mark key="." line="30" column="53" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/common/ZoltarConstants.java" timestamp="1591024750499">
         <mark key="[" line="237" column="47" />
@@ -191,7 +189,7 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/EvenbusProviderTest.java" timestamp="1591051019946">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/EvenbusProviderTest.java" timestamp="1591051977709">
         <mark key="'" line="208" column="0" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -215,7 +213,7 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1591031772581">
+      <file name="/fragment.java" timestamp="1591052156503">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/EventBusStep.scala" timestamp="1591025603999">
@@ -233,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/target/test-classes/pipelines/config/PznPipelineBase_dev.conf" />
       <jump line="2" column="10" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
       <jump line="8" column="17" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
@@ -333,15 +330,16 @@
       <jump line="122" column="67" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/EvenbusProviderTest.java" />
       <jump line="123" column="72" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/EvenbusProviderTest.java" />
       <jump line="209" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/EvenbusProviderTest.java" />
+      <jump line="30" column="53" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/EventBusAttributeProvider.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVSV9TT1VSQ0VcPg==</text>
