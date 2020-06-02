@@ -181,15 +181,20 @@
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/sdk-site/docs/sdk-tms/tms_examples/src/main/java/tms_examples/configuration/driven/offline/ticket/pzn/CreatePZNInputSchemaAsync.java" timestamp="1591111770142" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/sdk-site/docs/sdk-tms/tms_examples/src/main/java/tms_examples/configuration/driven/offline/ticket/pzn/GetPZNInputTopicSchema.java" timestamp="1591115034358" />
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1591118033473">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="60" column="1" />
-        <mark key="." line="58" column="18" />
-        <mark key="^" line="58" column="19" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1591119643209">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="48" column="19" />
+        <mark key="]" line="48" column="19" />
+        <mark key="." line="48" column="19" />
+        <mark key="^" line="48" column="35" />
       </file>
       <file name="/eventbus_e2e.conf" timestamp="1591116670750" />
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1591115477438" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1591119579631">
+        <mark key="[" line="72" column="73" />
+        <mark key="]" line="72" column="73" />
+        <mark key="^" line="72" column="72" />
+        <mark key="." line="72" column="73" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/EvenbusProviderTest.java" timestamp="1591110276102">
         <mark key="'" line="55" column="43" />
         <mark key="[" line="18" column="0" />
@@ -215,11 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="7" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
-      <jump line="43" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
-      <jump line="14" column="6" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
-      <jump line="30" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
       <jump line="29" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
       <jump line="24" column="14" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
       <jump line="28" column="6" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
@@ -314,16 +314,21 @@
       <jump line="57" column="43" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/EvenbusProviderTest.java" />
       <jump line="18" column="30" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_dev.conf" />
       <jump line="61" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" />
+      <jump line="48" column="32" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" />
+      <jump line="41" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YnVzd3JpdGVyIHsKICAgIHRvcGljPSJwem5fbm90aWZpY2F0aW9uc19xYWwiCn0KCmthZmthIHsKIGJvb3RzdHJhcC5zZXJ2ZXJzPSAiZXZlbnRidXMta2Fma2EucGwtZGF0YS1sYWtlLWUyZS5hLmludHVpdC5jb206MTk3MDEsZXZlbnRidXMta2Fma2EucGwtZGF0YS1sYWtlLWUyZS5hLmludHVpdC5jb206MTk4MDEsZXZlbnRidXMta2Fma2EucGwtZGF0YS1sYWtlLWUyZS5hLmludHVpdC5jb206MTk5MDEsZXZlbnRidXMta2Fma2EucGwtZGF0YS1sYWtlLWUyZS5hLmludHVpdC5jb206MTk3MDIsZXZlbnRidXMta2Fma2EucGwtZGF0YS1sYWtlLWUyZS5hLmludHVpdC5jb206MTk4MDIsZXZlbnRidXMta2Fma2EucGwtZGF0YS1sYWtlLWUyZS5hLmludHVpdC5jb206MTk5MDIsZXZlbnRidXMta2Fma2EucGwtZGF0YS1sYWtlLWUyZS5hLmludHVpdC5jb206MTk3MDMsZXZlbnRidXMta2Fma2EucGwtZGF0YS1sYWtlLWUyZS5hLmludHVpdC5jb206MTk4MDMsZXZlbnRidXMta2Fma2EucGwtZGF0YS1sYWtlLWUyZS5hLmludHVpdC5jb206MTk5MDMsZXZlbnRidXMta2Fma2EucGwtZGF0YS1sYWtlLWUyZS5hLmludHVpdC5jb206MTk3MDQsZXZlbnRidXMta2Fma2EucGwtZGF0YS1sYWtlLWUyZS5hLmludHVpdC5jb206MTk4MDQsZXZlbnRidXMta2Fma2EucGwtZGF0YS1sYWtlLWUyZS5hLmludHVpdC5jb206MTk5MDQiCiAgICBzZWN1cml0eS5wcm90b2NvbCA9ICJTU0wiCiAgICBzc2wgewogICAgICBlbmFibGVkLnByb3RvY29scyA9ICJUTFN2MS4yIgogICAgICB0cnVzdHN0b3JlIHsKICAgICAgICAjIHB1YmxpYyBjZXJ0IC0gaHR0cHM6Ly9naXRodWIuaW50dWl0LmNvbS9wYWdlcy9kYXRhLWV2ZW50YnVzL3Nkay1zaXRlL2V2ZW50YnVzL2Vudmlyb25tZW50cy8jZXZlbnQtYnVzLWNlcnRzLWFuZC10cnVzdHN0b3JlCiAgICAgICAgbG9jYXRpb24gPSAia2V5c3RvcmUiCiAgICAgICAgIyB0aGUgcGFzc3dvcmQgeW91IHByb3ZpZGVkIHdoZW4geW91IGNyZWF0ZWQgdGhlIHRydXN0c3RvcmUKICAgICAgICBwYXNzd29yZCA9ICJ5b3VyLXBhc3N3b3JkIgogICAgICB9CiAgICB9CiAgICBncm91cC5pZCA9ICJlMmUtcHpuLW9mZmxpbmUtZW1yLXByb2R1Y2VyLWdyb3VwIgogICAgIyBUaGUgdG90YWwgYnl0ZXMgb2YgbWVtb3J5IHRoZSBwcm9kdWNlciBjYW4gdXNlIHRvIGJ1ZmZlciByZWNvcmRzIHdhaXRpbmcgdG8gYmUgc2VudCB0byB0aGUgc2VydmVyCiAgICBidWZmZXIubWVtb3J5ID0gIjUyNDI4ODAwMCIKICAgICMgVGhlIG51bWJlciBvZiBhY2tub3dsZWRnbWVudHMgdGhlIHByb2R1Y2VyIHJlcXVpcmVzIHRoZSBsZWFkZXIgdG8gaGF2ZSByZWNlaXZlZCBiZWZvcmUgY29uc2lkZXJpbmcgYSByZXF1ZXN0IGNvbXBsZXRlCiAgICBhY2tzID0gIjEiCiAgICAjIG51bWJlciBvZiByZXRyaWVzIGlmIHJlcXVlc3QgZmFpbHMgdG8gc2VuZAogICAgcmV0cmllcyA9ICI1IgogICAgIyBUaGUgcGVyaW9kIG9mIHRpbWUgaW4gbWlsbGlzZWNvbmRzIGFmdGVyIHdoaWNoIHdlIGZvcmNlIGEgcmVmcmVzaCBvZiBtZXRhZGF0YSBldmVuIGlmIHdlIGhhdmVuJ3Qgc2VlbiBhbnkgcGFydGl0aW9uIGxlYWRlcnNoaXAgY2hhbmdlcwogICAgIyB0byBwcm9hY3RpdmVseSBkaXNjb3ZlciBhbnkgbmV3IGJyb2tlcnMgb3IgcGFydGl0aW9ucwogICAgbWV0YWRhdGEubWF4LmFnZS5tcz0gIjEwMDAwIgogICAgIyBUaGUgY29uZmlndXJhdGlvbiBjb250cm9scyB0aGUgbWF4aW11bSBhbW91bnQgb2YgdGltZSB0aGUgY2xpZW50IHdpbGwgd2FpdCBmb3IgdGhlIHJlc3BvbnNlIG9mIGEgcmVxdWVzdC4KICAgICMgSWYgdGhlIHJlc3BvbnNlIGlzIG5vdCByZWNlaXZlZCBiZWZvcmUgdGhlIHRpbWVvdXQgZWxhcHNlcyB0aGUgY2xpZW50IHdpbGwgcmVzZW5kIHRoZSByZXF1ZXN0IGlmIG5lY2Vzc2FyeSBvciBmYWlsIHRoZSByZXF1ZXN0IGlmIHJldHJpZXMgYXJlIGV4aGF1c3RlZAogICAgcmVxdWVzdC50aW1lb3V0Lm1zID0gIjYwMDAwMDAwIgogICAgIyBUaGUgYmFzZSBhbW91bnQgb2YgdGltZSB0byB3YWl0IGJlZm9yZSBhdHRlbXB0aW5nIHRvIHJlY29ubmVjdCB0byBhIGdpdmVuIGhvc3QKICAgIHJlY29ubmVjdC5iYWNrb2ZmLm1zID0gIjUwMDAiCiAgICAjIFRoZSBhbW91bnQgb2YgdGltZSB0byB3YWl0IGJlZm9yZSBhdHRlbXB0aW5nIHRvIHJldHJ5IGEgZmFpbGVkIHJlcXVlc3QgdG8gYSBnaXZlbiB0b3BpYyBwYXJ0aXRpb24KICAgIHJldHJ5LmJhY2tvZmYubXMgPSAiNTAwMCIKICAgICMgYmF0Y2ggc2l6ZSBwZXIgcGFydGl0aW9uCiAgICBiYXRjaC5zaXplID0gIjEwMDAwMCIKICAgICMgb25jZSB3ZSBnZXQgYmF0Y2guc2l6ZSB3b3J0aCBvZiByZWNvcmRzIGZvciBhIHBhcnRpdGlvbiBpdCB3aWxsIGJlIHNlbnQgaW1tZWRpYXRlbHkgcmVnYXJkbGVzcyBvZiB0aGlzIHNldHRpbmcsCiAgICAjIGhvd2V2ZXIgaWYgd2UgaGF2ZSBmZXdlciB0aGFuIHRoaXMgbWFueSBieXRlcyBhY2N1bXVsYXRlZCBmb3IgdGhpcyBwYXJ0aXRpb24gd2Ugd2lsbCAnbGluZ2VyJyBmb3IgdGhlIHNwZWNpZmllZCB0aW1lCiAgICAjIHdhaXRpbmcgZm9yIG1vcmUgcmVjb3JkcyB0byBzaG93IHVwLgogICAgbGluZ2VyLm1zID0gIjEwMDAiCn0KCmZvcm1hdHRlciB7CiAgc2VyaWFsaXplci5uYW1lID0gImNvbS5pbnR1aXQuZXZlbnRidXMuc2VyaWFsaXphdGlvbi5TdHJpbmdTZXJpYWxpemVyIgogIGZvcm1hdHRlciB7CiAgICBwcm9wZXJ0aWVzIHsKICAgICAgIyB0aGUgaWRwcyBlbmRwb2ludC4KICAgICAgZW5kcG9pbnQgPSAia2Fma2FpbmZyYS1wcmUtcHJvZHVjdGlvbi1sMTBtYWYucGQuaWRwcy5hLmludHVpdC5jb20iCiAgICAgICMgdGhlIG5hbWUgb2YgeW91ciBwb2xpY3kuCiAgICAgIHBvbGljeV9pZCA9ICJwLXgyajBtNTdhMHZncSIKICAgICAgIyMjIyMjIyMjIyMjIyMjIyMjIyMjIEZPUiBDT05ORUNUSU5HIFRPIFNBTkRCT1ggIyMjIyMjIyMjIyMjIyMjIyMjIyMKICAgICAgIyBSRUFEIC0+IGh0dHBzOi8vZ2l0aHViLmludHVpdC5jb20vcGFnZXMvZGF0YS1ldmVudGJ1cy9zZGstc2l0ZS9zZGsvZGV2ZWxvcGVyLXRlc3Rpbmctc2FuZGJveC8KICAgICAgIyBuYW1lPUtleWVkSURQUwogICAgICAjIGVuZHBvaW50PWthZmthaW5mcmEtcHJlLXByb2R1Y3Rpb24tbDEwbWFmLnBkLmlkcHMuYS5pbnR1aXQuY29tCiAgICAgICNhcGlfc2VjcmV0X2tleT0ia2V5X3YyLWUzYjM3M2JkMjI4NGUucGVtIgogICAgICAjYXBpX2tleV9pZD12Mi1lM2IzNzNiZDIyODRlCiAgICAgICMjIyMjIyMjIyMjIyMjIyMjIyMjIyBGT1IgQ09OTkVDVElORyBUTyBTQU5EQk9YICMjIyMjIyMjIyMjIyMjIyMjIyMjCiAgICB9CiAgICAjIGVudmlyb25tZW50IFtwcmQsZTJlLGxvY2FsXSwgbG9jYWwgd2lsbCBydW4gd2l0aG91dCBlbmNyeXB0aW5nL2RlY3J5cHRpbmcgZGF0YQogICAgZW52aXJvbm1lbnQ9ZTJlCiAgfQp9Cg==</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>x2j0m57a0vgq</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>RequestAttributeProvider</text>
