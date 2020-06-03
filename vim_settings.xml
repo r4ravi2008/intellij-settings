@@ -147,7 +147,6 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/kafka/EventbusConsumerTest.java" timestamp="1591056978392" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ZoltarIXPConfig.java" timestamp="1591207172065">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -175,6 +174,12 @@
         <mark key="^" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/featureattributestore/FeatureStoreProviderTest.java" timestamp="1591059591838" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" timestamp="1591223465834">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="12" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591125068309">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -329,10 +334,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>e2e</text>
+        <text>prd</text>
       </register>
       <register name="-" type="4">
-        <text>e2e</text>
+        <text>prd</text>
       </register>
       <register name="/" type="4">
         <text>addBu</text>
