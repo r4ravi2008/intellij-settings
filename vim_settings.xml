@@ -127,12 +127,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/RequestAttributeProviderTest.java" timestamp="1591055055308">
-        <mark key="'" line="48" column="10" />
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="0" />
-        <mark key="." line="210" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/zoltar-shared-dto/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/EventbusSource.java" timestamp="1591131678237">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -159,6 +153,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_qal.conf" timestamp="1591209451213">
+        <mark key="'" line="16" column="31" />
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="1" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ZoltarIXPClient.java" timestamp="1591208919610">
         <mark key="'" line="56" column="13" />
         <mark key="[" line="47" column="0" />
@@ -183,12 +184,12 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/zoltar-shared-dto/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/FeatureAttributeStoreSource.java" timestamp="1591131656008" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/sdk-site/docs/sdk-tms/tms_examples/src/main/java/tms_examples/configuration/driven/offline/ticket/pzn/CreatePZNInputSchemaAsync.java" timestamp="1591111770142" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/sdk-site/docs/sdk-tms/tms_examples/src/main/java/tms_examples/configuration/driven/offline/ticket/pzn/GetPZNInputTopicSchema.java" timestamp="1591115034358" />
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1591119643209">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1591209851786">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="48" column="19" />
-        <mark key="]" line="48" column="19" />
-        <mark key="." line="48" column="19" />
-        <mark key="^" line="48" column="35" />
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="32" />
       </file>
       <file name="/eventbus_e2e.conf" timestamp="1591116670750" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/RequestAttributeProvider.java" timestamp="1591121635439">
@@ -203,6 +204,12 @@
         <mark key="^" line="84" column="50" />
         <mark key="." line="84" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_stg.conf" timestamp="1591209032397">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="16" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/EvenbusProviderTest.java" timestamp="1591110276102">
         <mark key="'" line="55" column="43" />
         <mark key="[" line="18" column="0" />
@@ -215,15 +222,8 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/localRoutes/qboIndia_default_routes.xml" timestamp="1591043301332">
-        <mark key="'" line="8" column="1" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="3" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_resize.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/emr_resize.sh" />
       <jump line="121" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/util/MDCPropagatingHystrixCommandExecutionHook.java" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/kafka/EventbusConsumer.java" />
@@ -323,15 +323,16 @@
       <jump line="228" column="22" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/resources/configs/paymentsOffline_default.yml" />
       <jump line="229" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/resources/configs/paymentsOffline_default.yml" />
       <jump line="56" column="13" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ZoltarIXPClient.java" />
+      <jump line="16" column="31" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_qal.conf" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGVTY29wZS5hZGRCdXNpbmVzc1VuaXQoSVhQQlUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>e2e</text>
       </register>
       <register name="-" type="4">
-        <text>REQUEST_ATTRIBUTE_PROVIDER</text>
+        <text>e2e</text>
       </register>
       <register name="/" type="4">
         <text>addBu</text>
