@@ -173,12 +173,18 @@
         <mark key="." line="165" column="0" />
         <mark key="^" line="15" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_qa.conf" timestamp="1591225322524">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="10" />
+        <mark key="^" line="3" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/featureattributestore/FeatureStoreProviderTest.java" timestamp="1591059591838" />
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" timestamp="1591223465834">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="12" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="2" column="12" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" timestamp="1591225368673">
+        <mark key="[" line="12" column="69" />
+        <mark key="]" line="12" column="84" />
+        <mark key="." line="12" column="83" />
+        <mark key="^" line="12" column="84" />
       </file>
       <file name="/Dummy.txt" timestamp="1591125068309">
         <mark key="[" line="0" column="0" />
@@ -221,11 +227,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="61" column="51" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1591059479801">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -334,10 +335,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>prd</text>
+        <text>e2e</text>
       </register>
       <register name="-" type="4">
-        <text>prd</text>
+        <text>e2e</text>
       </register>
       <register name="/" type="4">
         <text>addBu</text>
