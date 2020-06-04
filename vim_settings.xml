@@ -140,14 +140,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="41" column="149" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_dev.conf" timestamp="1591113095376">
-        <mark key="'" line="18" column="30" />
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="16" column="31" />
-        <mark key="^" line="16" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/QboIndia.conf" timestamp="1591232623507">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/QboIndia.conf" timestamp="1591234288397">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="17" />
@@ -165,11 +158,12 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" timestamp="1591232682111">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" timestamp="1591233799412">
         <mark key="'" line="11" column="25" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="52" />
+        <mark key="." line="14" column="51" />
+        <mark key="^" line="14" column="52" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ZoltarIXPClient.java" timestamp="1591208919610">
         <mark key="'" line="56" column="13" />
@@ -185,22 +179,30 @@
         <mark key="." line="165" column="0" />
         <mark key="^" line="15" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1591234950106">
+        <mark key="'" line="7" column="7" />
+        <mark key="[" line="76" column="12" />
+        <mark key="]" line="77" column="43" />
+        <mark key="." line="77" column="42" />
+        <mark key="^" line="77" column="43" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_qa.conf" timestamp="1591225322524">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="11" />
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" timestamp="1591231391763">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="14" />
-        <mark key="^" line="7" column="15" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" timestamp="1591235288974">
+        <mark key="'" line="11" column="14" />
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="6" />
+        <mark key="^" line="16" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591231882547">
+      <file name="/Dummy.txt" timestamp="1591234650559">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="44" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/zoltar-shared-dto/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/FeatureAttributeStoreSource.java" timestamp="1591131656008" />
@@ -225,30 +227,21 @@
         <mark key="^" line="84" column="50" />
         <mark key="." line="84" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1591231849767">
-        <mark key="[" line="37" column="70" />
-        <mark key="]" line="37" column="74" />
-        <mark key="." line="37" column="73" />
-        <mark key="^" line="37" column="74" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_stg.conf" timestamp="1591235834173">
+        <mark key="[" line="46" column="18" />
+        <mark key="]" line="46" column="67" />
+        <mark key="." line="46" column="66" />
+        <mark key="^" line="46" column="67" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1591235766488">
+        <mark key="'" line="48" column="2" />
+        <mark key="[" line="37" column="90" />
+        <mark key="]" line="37" column="90" />
+        <mark key="." line="37" column="90" />
+        <mark key="^" line="37" column="92" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/util/MdcFilter.java" />
-      <jump line="6" column="17" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/util/MdcFilter.java" />
-      <jump line="32" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/util/MdcFilter.java" />
-      <jump line="43" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/util/MdcFilter.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
-      <jump line="48" column="52" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
-      <jump line="47" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
-      <jump line="6" column="28" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" />
-      <jump line="291" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/launch_emr.sh" />
-      <jump line="227" column="73" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/infra/emr/launch_emr.sh" />
-      <jump line="97" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/RequestAttributeProvider.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/RequestAttributeProvider.java" />
-      <jump line="97" column="1" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/EventBusAttributeProvider.java" />
-      <jump line="70" column="13" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/common/ZoltarUtil.java" />
-      <jump line="43" column="173" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/RecipientList.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/common/ZoltarUtil.java" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/common/ZoltarUtil.java" />
       <jump line="83" column="11" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/RequestAttributeProvider.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/EventBusStep.scala" />
@@ -333,15 +326,31 @@
       <jump line="10" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" />
       <jump line="14" column="6" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" />
       <jump line="11" column="25" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" />
+      <jump line="7" column="7" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" />
+      <jump line="26" column="13" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
+      <jump line="40" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
+      <jump line="8" column="17" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" />
+      <jump line="18" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" />
+      <jump line="10" column="13" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" />
+      <jump line="17" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" />
+      <jump line="12" column="27" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" />
+      <jump line="15" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" />
+      <jump line="16" column="6" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" />
+      <jump line="11" column="14" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" />
+      <jump line="55" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
+      <jump line="41" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
+      <jump line="24" column="17" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
+      <jump line="42" column="26" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
+      <jump line="48" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>nTargeting</text>
+        <text>kafkainfra-pre-production-l10maf.pd.idps.a.intuit.com</text>
       </register>
       <register name="-" type="4">
-        <text>nTargeting</text>
+        <text>kafkainfra-pre-production-l10maf.pd.idps.a.intuit.com</text>
       </register>
       <register name="/" type="4">
         <text>addBu</text>
