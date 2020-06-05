@@ -146,7 +146,7 @@
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ZoltarIXPConfig.java" timestamp="1591207172065">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ZoltarIXPConfig.java" timestamp="1591306664988">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -165,7 +165,7 @@
         <mark key="." line="14" column="70" />
         <mark key="^" line="14" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ZoltarIXPClient.java" timestamp="1591306411128">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ZoltarIXPClient.java" timestamp="1591316207027">
         <mark key="'" line="7" column="35" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -214,25 +214,22 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/attributeCollector/providers/RequestAttributeProvider.java" timestamp="1591121635439">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="73" column="16" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1591125061116">
         <mark key="[" line="84" column="50" />
         <mark key="]" line="84" column="50" />
         <mark key="^" line="84" column="50" />
         <mark key="." line="84" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProvider.java" timestamp="1591306391549" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProvider.java" timestamp="1591315998234" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_stg.conf" timestamp="1591237474023">
         <mark key="'" line="5" column="425" />
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="632" />
         <mark key="." line="5" column="631" />
         <mark key="^" line="5" column="632" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-stg-usw2.properties" timestamp="1591315854875">
+        <mark key="[" line="27" column="12" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1591235766488">
         <mark key="'" line="48" column="2" />
