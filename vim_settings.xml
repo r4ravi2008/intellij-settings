@@ -171,6 +171,7 @@
         <mark key="." line="16" column="6" />
         <mark key="^" line="16" column="7" />
       </file>
+      <file name="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/repos/cloudjumper/scheduler/src/main/scala/com/cloudwick/cloudjumper/scheduler/CloudjumperScheduler.scala" timestamp="1591654021296" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/pzn-notifications-topic/src/main/java/com/intuit/v4/intlgntsys/recommender/CreatePZNNotificationTopic.java" timestamp="1591632990171">
         <mark key="[" line="59" column="52" />
         <mark key="]" line="169" column="34" />
@@ -225,13 +226,6 @@
         <mark key="]" line="189" column="69" />
         <mark key="." line="189" column="68" />
         <mark key="^" line="189" column="69" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1591235766488">
-        <mark key="'" line="48" column="2" />
-        <mark key="[" line="37" column="90" />
-        <mark key="]" line="37" column="90" />
-        <mark key="." line="37" column="90" />
-        <mark key="^" line="37" column="92" />
       </file>
     </filemarks>
     <jumps>
