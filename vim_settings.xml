@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>assignment</entry>
-        <entry>assignmentRequest</entry>
         <entry>request</entry>
         <entry>AssignmentRequest</entry>
         <entry encoding="base64">XDxyZXFcPg==</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxleHBlcmltZW50c1w+</entry>
         <entry>new Experiment</entry>
         <entry encoding="base64">XDxleHBlcmltZW50YXRpb25NZXRhZGF0YVw+</entry>
+        <entry>evn</entry>
+        <entry>env</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\((.*?)\)//</entry>
@@ -140,18 +140,6 @@
         <mark key="^" line="34" column="15" />
         <mark key="." line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/workflowconfig/WorkflowConfiguration.java" timestamp="1591713757350">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="14" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/zoltar-shared-dto/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ExperimentMetadata.java" timestamp="1591714378977">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="47" />
-        <mark key="^" line="26" column="47" />
-        <mark key="." line="26" column="46" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_dev.conf" timestamp="1591823036365">
         <mark key="[" line="20" column="13" />
         <mark key="]" line="20" column="15" />
@@ -175,6 +163,16 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1591830179043">
+        <mark key="]" line="73" column="71" />
+        <mark key="^" line="38" column="37" />
+        <mark key="." line="38" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/core/PznSparkLoaderStep.scala" timestamp="1591829921002">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="15" column="2" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/offline/src/main/resources/application-local.properties" timestamp="1591797755060">
         <mark key="[" line="32" column="12" />
@@ -206,6 +204,12 @@
         <mark key="^" line="37" column="15" />
         <mark key="." line="37" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1591830909815">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="21" />
+        <mark key="." line="39" column="20" />
+        <mark key="^" line="39" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1591826331497">
         <mark key="'" line="66" column="99" />
         <mark key="[" line="56" column="34" />
@@ -226,9 +230,6 @@
         <mark key="." line="97" column="15" />
         <mark key="^" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/core/pom.xml" timestamp="1591679836645">
-        <mark key="'" line="258" column="25" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/ExperimentationProcessor.java" timestamp="1591827264140">
         <mark key="'" line="88" column="32" />
         <mark key="[" line="103" column="0" />
@@ -242,10 +243,6 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/ExperimentationProcessorTest.java" timestamp="1591810568003" />
     </filemarks>
     <jumps>
-      <jump line="15" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" />
-      <jump line="16" column="6" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" />
-      <jump line="11" column="14" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_stg.conf" />
-      <jump line="55" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
       <jump line="41" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
       <jump line="24" column="17" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
       <jump line="42" column="26" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
@@ -342,48 +339,69 @@
       <jump line="67" column="96" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/ExperimentationProcessor.java" />
       <jump line="71" column="75" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/ExperimentationProcessor.java" />
       <jump line="91" column="32" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/ExperimentationProcessor.java" />
+      <jump line="77" column="45" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" />
+      <jump line="45" column="82" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" />
+      <jump line="40" column="82" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGV4cGVyaW1lbnRCdSA9IE9wdGlvbmFsLm9mTnVsbGFibGUoZXhwZXJpbWVudGF0aW9uTWV0YWRhdGEuZ2V0Q29udGV4dEV4cGVyaW1lbnQoKSkKICAgICAgICAgICAgICAgICAgICAubWFwKGV4cGVyaW1lbnRNZXRhZGF0YSAtPiBleHBlcmltZW50TWV0YWRhdGEuZ2V0QnVzaW5lc3NVbml0KCkpLm9yRWxzZShudWxsKTsK</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBvZmZlcklkcyA9IHNjYWxhLmlvLlNvdXJjZS5mcm9tSW5wdXRTdHJlYW0oaW5wdXRTdHJlYW0pLmdldExpbmVzKCkubWFwKGxpbmUgPT4gbGluZS5zcGxpdCgiLCIpKDApKS5ta1N0cmluZygiLCIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGV4cERhdGE=</text>
+        <text encoding="base64">Y29uZmlnU3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHBlcmltZW50YXRpb25NZXRhZGF0YVw+</text>
+        <text>env</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGV4cGVyaW1lbnRCdSA9IE9wdGlvbmFsLm9mTnVsbGFibGUoZXhwZXJpbWVudGF0aW9uTWV0YWRhdGEuZ2V0Q29udGV4dEV4cGVyaW1lbnQoKSkKICAgICAgICAgICAgICAgICAgICAubWFwKGV4cGVyaW1lbnRNZXRhZGF0YSAtPiBleHBlcmltZW50TWV0YWRhdGEuZ2V0QnVzaW5lc3NVbml0KCkpLm9yRWxzZShudWxsKTsK</text>
+        <text>val sql = s&quot;&quot;&quot;SELECT cs.event_properties_companyid,
+                |       cs.event_properties_action,
+                |       cs.event_properties_fp_offer_id,
+                |       from_unixtime(cs.event_timestamp / 1000, &quot;mm-dd-yyyy hh:mm:ss&quot;) AS timestamp
+                |FROM   qb_ai.predictions_qbo_india_downgrade_v1_interaction_day_270 in,
+                |       thrive_dwh.sbg_global_clickstream_web cs
+                |WHERE  in.qbo_company_id = cs.event_properties_companyid
+                |       AND cs.year = '2020'
+                |       AND cs.month = '05'
+                |       AND cs.event_properties_fp_offer_id IN (
+                |               '754449c0-82e6-11ea-9f68-539517ab8992',
+                |               'ccb611e0-82e4-11ea-b5d4-537483aefd6a'
+                |               ,
+                |               'f94e03f0-82e6-11ea-9f68-539517ab8992',
+                |               '772cea70-82e7-11ea-8ece-7df4d84eb4ce',
+                |               '2648a4e0-82e8-11ea-9f68-539517ab8992',
+                |               'bc89c330-82e8-11ea-b5d4-537483aefd6a' )
+                |ORDER  BY cs.event_properties_companyid &quot;&quot;&quot;.stripMargin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHZhbCBvZmZlcklkcyA9IHNjYWxhLmlvLlNvdXJjZS5mcm9tSW5wdXRTdHJlYW0oaW5wdXRTdHJlYW0pLmdldExpbmVzKCkubWFwKGxpbmUgPT4gbGluZS5zcGxpdCgiLCIpKDApKS5ta1N0cmluZygiLCIpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICBTdHJpbmcgZXhwZXJpbWVudEJ1ID0gbnVsbDsKICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNOb3RFbXB0eShleHBEYXRhLmdldEJ1c2luZXNzVW5pdCgpKSkgewogICAgICAgICAgICBleHBlcmltZW50QnUgPSBzaW1wbGUoZXhwRGF0YS5nZXRCdXNpbmVzc1VuaXQoKSkuZXZhbHVhdGUoZXhjaGFuZ2UsIFN0cmluZy5jbGFzcyk7CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IFN0cmluZyBleHBlcmltZW50QnUgPSBudWxsOwogICAgICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEVtcHR5KGV4cERhdGEuZ2V0QnVzaW5lc3NVbml0KCkpKSB7CiAgICAgICAgICAgIGV4cGVyaW1lbnRCdSA9IHNpbXBsZShleHBEYXRhLmdldEJ1c2luZXNzVW5pdCgpKS5ldmFsdWF0ZShleGNoYW5nZSwgU3RyaW5nLmNsYXNzKTsKICAgICAgICB9</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBrYWZrYU9wdGlvbnMyOiBNYXBbU3RyaW5nLCBTdHJpbmddID0gTWFwKAogICAgICAia2Fma2EuYm9vdHN0cmFwLnNlcnZlcnMiIC0+IGthZmthQ29uZmlnLmdldFN0cmluZygiYm9vdHN0cmFwLnNlcnZlcnMiKSwKICAgICAgImthZmthLnNlY3VyaXR5LnByb3RvY29sIi0+IGthZmthQ29uZmlnLmdldFN0cmluZygic2VjdXJpdHkucHJvdG9jb2wiKSwKICAgICAgImthZmthLmJhdGNoLnNpemUiLT4ga2Fma2FDb25maWcuZ2V0U3RyaW5nKCJiYXRjaC5zaXplIiksCiAgICAgICJrYWZrYS5saW5nZXIubXMiLT4ga2Fma2FDb25maWcuZ2V0U3RyaW5nKCJsaW5nZXIubXMiKSwKICAgICAgImthZmthLmJ1ZmZlci5tZW1vcnkiLT4ga2Fma2FDb25maWcuZ2V0U3RyaW5nKCJidWZmZXIubWVtb3J5IiksCiAgICAgICJrYWZrYS5yZXRyaWVzIi0+IGthZmthQ29uZmlnLmdldFN0cmluZygicmV0cmllcyIpLAogICAgICAia2Fma2EucmV0cnkuYmFja29mZi5tcyItPiBrYWZrYUNvbmZpZy5nZXRTdHJpbmcoInJldHJ5LmJhY2tvZmYubXMiKSwKICAgICAgImthZmthLnJlY29ubmVjdC5iYWNrb2ZmLm1zIi0+IGthZmthQ29uZmlnLmdldFN0cmluZygicmVjb25uZWN0LmJhY2tvZmYubXMiKSwKICAgICAgImthZmthLnNzbC5lbmFibGVkLnByb3RvY29scyItPiBrYWZrYUNvbmZpZy5nZXRTdHJpbmcoInNzbC5lbmFibGVkLnByb3RvY29scyIpLAogICAgICAia2Fma2Euc3NsLnRydXN0c3RvcmUubG9jYXRpb24iLT4ga2Fma2FDb25maWcuZ2V0U3RyaW5nKCJzc2wudHJ1c3RzdG9yZS5sb2NhdGlvbiIpLAogICAgICAia2Fma2Euc3NsLnRydXN0c3RvcmUucGFzc3dvcmQiLT4ga2Fma2FDb25maWcuZ2V0U3RyaW5nKCJzc2wudHJ1c3RzdG9yZS5wYXNzd29yZCIpCiAgKQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IC8vIHZhbCBsaXN0ID0gZXZlbnRCdXNDb25maWcuZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IC8vIHZhbCBsaXN0ID0gZXZlbnRCdXNDb25maWcuZwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">dmFsIGlucHV0VGFibGVOYW1lID0gaW5wdXQubWV0YWRhdGEucHJvcGVydGllcy5nZXQoImlucHV0VGFibGUiKSBtYXRjaCB7CiAgICAgIGNhc2UgU29tZSh4KSA9PiB4CiAgICAgIGNhc2UgTm9uZSA9PiB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKHMic3RlcE5hbWU9JHtzdGVwTmFtZX0gZW52PSRlbnYgU3BlY2lmeSB0aGUgaW5wdXQgdGFibGUuIikKICAgIH0KCiAgICB2YWwgb3V0cHV0VGFibGVOYW1lID0gaW5wdXQubWV0YWRhdGEucHJvcGVydGllcy5nZXQoIm91dHB1dFRhYmxlIikgbWF0Y2ggewogICAgICBjYXNlIFNvbWUoeCkgPT4geAogICAgICBjYXNlIE5vbmUgPT4gdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihzInN0ZXBOYW1lPSR7c3RlcE5hbWV9IGVudj0kZW52IFNwZWNpZnkgdGhlIG91dHB1dCB0YWJsZS4iKQogICAgfQoKICAgIHZhbCBpZFR5cGUgPSBpbnB1dC5tZXRhZGF0YS5wcm9wZXJ0aWVzCiAgICAgICAgLmdldE9yRWxzZSgiaWRUeXBlIiwKICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24ocyJzdGVwTmFtZT0ke3N0ZXBOYW1lfSBTcGVjaWZ5IGlkVHlwZSBwcm9wZXJ0eS4iKSkKCiAgICB2YWwgaWRDb2x1bW4gPSBpbnB1dC5tZXRhZGF0YS5wcm9wZXJ0aWVzCiAgICAgICAgLmdldE9yRWxzZSgiaWRDb2x1bW4iLAogICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihzInN0ZXBOYW1lPSR7c3RlcE5hbWV9IFNwZWNpZnkgaWRDb2x1bW4gcHJvcGVydHkuIikpCgogICAgdmFsIGV4cGVyaWVuY2VUeXBlID0gaW5wdXQubWV0YWRhdGEucHJvcGVydGllcwogICAgICAgIC5nZXRPckVsc2UoImV4cGVyaWVuY2VUeXBlIiwKICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24ocyJzdGVwTmFtZT0ke3N0ZXBOYW1lfSBTcGVjaWZ5IGV4cGVyaWVuY2VUeXBlIHByb3BlcnR5LiIpKQ==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
@@ -395,9 +413,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxleHBlcmltZW50YXRpb25NZXRhZGF0YVw+</last-search>
+      <last-search>env</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHBlcmltZW50YXRpb25NZXRhZGF0YVw+</last-pattern>
+      <last-pattern>env</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
