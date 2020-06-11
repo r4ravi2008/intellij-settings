@@ -127,12 +127,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/core/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/ExperimentationProcessor.java" timestamp="1591827279780">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/core/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/ExperimentationProcessor.java" timestamp="1591833370198">
         <mark key="'" line="183" column="40" />
-        <mark key="[" line="109" column="152" />
-        <mark key="]" line="109" column="101" />
-        <mark key="^" line="109" column="101" />
-        <mark key="." line="109" column="100" />
+        <mark key="[" line="180" column="76" />
+        <mark key="]" line="180" column="79" />
+        <mark key="^" line="180" column="79" />
+        <mark key="." line="180" column="78" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/offline/src/main/resources/application-prd.properties" timestamp="1591797816220">
         <mark key="[" line="34" column="12" />
@@ -146,13 +146,6 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ZoltarIXPClient.java" timestamp="1591714646728">
-        <mark key="'" line="7" column="35" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="48" column="45" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" timestamp="1591803822212">
         <mark key="[" line="166" column="79" />
         <mark key="]" line="166" column="85" />
@@ -164,51 +157,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1591830179043">
-        <mark key="]" line="73" column="71" />
-        <mark key="^" line="38" column="37" />
-        <mark key="." line="38" column="36" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/core/PznSparkLoaderStep.scala" timestamp="1591829921002">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="20" column="7" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/offline/src/main/resources/application-local.properties" timestamp="1591797755060">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="15" />
-        <mark key="^" line="32" column="15" />
-        <mark key="." line="32" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-prd-usw2.properties" timestamp="1591797785219">
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="15" />
-        <mark key="^" line="25" column="15" />
-        <mark key="." line="25" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/resources/application.properties" timestamp="1591797806483">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="15" />
-        <mark key="^" line="26" column="15" />
-        <mark key="." line="26" column="14" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591824135723">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="44" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application.properties" timestamp="1591797795962">
-        <mark key="[" line="37" column="12" />
-        <mark key="]" line="37" column="15" />
-        <mark key="^" line="37" column="15" />
-        <mark key="." line="37" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1591830909815">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="21" />
-        <mark key="." line="39" column="20" />
-        <mark key="^" line="39" column="21" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/step/ReadOfferIdsTest.scala" timestamp="1591833557061">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1591826331497">
         <mark key="'" line="66" column="99" />
@@ -217,12 +175,6 @@
         <mark key="^" line="56" column="33" />
         <mark key="." line="56" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/selfserve/MetadataProcessorTests.java" timestamp="1591803865186">
-        <mark key="[" line="41" column="46" />
-        <mark key="]" line="41" column="51" />
-        <mark key="^" line="41" column="51" />
-        <mark key="." line="41" column="50" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProvider.java" timestamp="1591806746939">
         <mark key="'" line="73" column="71" />
         <mark key="[" line="97" column="12" />
@@ -230,17 +182,64 @@
         <mark key="." line="97" column="15" />
         <mark key="^" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/ExperimentationProcessor.java" timestamp="1591827264140">
-        <mark key="'" line="88" column="32" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="104" column="98" />
-        <mark key="^" line="106" column="101" />
-        <mark key="." line="106" column="100" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/offerIds.txt" timestamp="1591833518923">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1591826761805">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/ExperimentationProcessor.java" timestamp="1591833308556">
+        <mark key="'" line="88" column="32" />
+        <mark key="[" line="181" column="132" />
+        <mark key="]" line="181" column="71" />
+        <mark key="^" line="181" column="71" />
+        <mark key="." line="181" column="70" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/ExperimentationProcessorTest.java" timestamp="1591810568003" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/workflowconfig/WorkflowConfiguration.java" timestamp="1591833006069">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="33" column="14" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1591830179043">
+        <mark key="]" line="73" column="71" />
+        <mark key="^" line="38" column="37" />
+        <mark key="." line="38" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/resources/application.properties" timestamp="1591797806483">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="15" />
+        <mark key="^" line="26" column="15" />
+        <mark key="." line="26" column="14" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591833376312">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application.properties" timestamp="1591797795962">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="15" />
+        <mark key="^" line="37" column="15" />
+        <mark key="." line="37" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1591833720771">
+        <mark key="[" line="46" column="95" />
+        <mark key="]" line="46" column="96" />
+        <mark key="." line="46" column="95" />
+        <mark key="^" line="46" column="96" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/selfserve/MetadataProcessorTests.java" timestamp="1591803865186">
+        <mark key="[" line="41" column="46" />
+        <mark key="]" line="41" column="51" />
+        <mark key="^" line="41" column="51" />
+        <mark key="." line="41" column="50" />
+      </file>
+      <file name="/fragment.java" timestamp="1591832854244">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="41" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
@@ -347,11 +346,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBvZmZlcklkcyA9IHNjYWxhLmlvLlNvdXJjZS5mcm9tSW5wdXRTdHJlYW0oaW5wdXRTdHJlYW0pLmdldExpbmVzKCkubWFwKGxpbmUgPT4gbGluZS5zcGxpdCgiLCIpKDApKS5ta1N0cmluZygiLCIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG51bGw=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uZmlnU3RyaW5nIA==</text>
+        <text encoding="base64">IG51bGw=</text>
       </register>
       <register name="/" type="4">
         <text>env</text>
@@ -377,13 +376,13 @@
                 |ORDER  BY cs.event_properties_companyid &quot;&quot;&quot;.stripMargin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBvZmZlcklkcyA9IHNjYWxhLmlvLlNvdXJjZS5mcm9tSW5wdXRTdHJlYW0oaW5wdXRTdHJlYW0pLmdldExpbmVzKCkubWFwKGxpbmUgPT4gbGluZS5zcGxpdCgiLCIpKDApKS5ta1N0cmluZygiLCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBCVSA9ICJTQlNFRyI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBvZmZlcklkcyA9IHNjYWxhLmlvLlNvdXJjZS5mcm9tSW5wdXRTdHJlYW0oaW5wdXRTdHJlYW0pLmdldExpbmVzKCkubWFwKGxpbmUgPT4gbGluZS5zcGxpdCgiLCIpKDApKS5ta1N0cmluZygiLCIpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -392,16 +391,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dmFsIGlucHV0VGFibGVOYW1lID0gaW5wdXQubWV0YWRhdGEucHJvcGVydGllcy5nZXQoImlucHV0VGFibGUiKSBtYXRjaCB7CiAgICAgIGNhc2UgU29tZSh4KSA9PiB4CiAgICAgIGNhc2UgTm9uZSA9PiB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKHMic3RlcE5hbWU9JHtzdGVwTmFtZX0gZW52PSRlbnYgU3BlY2lmeSB0aGUgaW5wdXQgdGFibGUuIikKICAgIH0KCiAgICB2YWwgb3V0cHV0VGFibGVOYW1lID0gaW5wdXQubWV0YWRhdGEucHJvcGVydGllcy5nZXQoIm91dHB1dFRhYmxlIikgbWF0Y2ggewogICAgICBjYXNlIFNvbWUoeCkgPT4geAogICAgICBjYXNlIE5vbmUgPT4gdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihzInN0ZXBOYW1lPSR7c3RlcE5hbWV9IGVudj0kZW52IFNwZWNpZnkgdGhlIG91dHB1dCB0YWJsZS4iKQogICAgfQoKICAgIHZhbCBpZFR5cGUgPSBpbnB1dC5tZXRhZGF0YS5wcm9wZXJ0aWVzCiAgICAgICAgLmdldE9yRWxzZSgiaWRUeXBlIiwKICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24ocyJzdGVwTmFtZT0ke3N0ZXBOYW1lfSBTcGVjaWZ5IGlkVHlwZSBwcm9wZXJ0eS4iKSkKCiAgICB2YWwgaWRDb2x1bW4gPSBpbnB1dC5tZXRhZGF0YS5wcm9wZXJ0aWVzCiAgICAgICAgLmdldE9yRWxzZSgiaWRDb2x1bW4iLAogICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihzInN0ZXBOYW1lPSR7c3RlcE5hbWV9IFNwZWNpZnkgaWRDb2x1bW4gcHJvcGVydHkuIikpCgogICAgdmFsIGV4cGVyaWVuY2VUeXBlID0gaW5wdXQubWV0YWRhdGEucHJvcGVydGllcwogICAgICAgIC5nZXRPckVsc2UoImV4cGVyaWVuY2VUeXBlIiwKICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24ocyJzdGVwTmFtZT0ke3N0ZXBOYW1lfSBTcGVjaWZ5IGV4cGVyaWVuY2VUeXBlIHByb3BlcnR5LiIpKQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhbAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
