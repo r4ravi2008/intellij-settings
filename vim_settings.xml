@@ -226,11 +226,11 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1591846158702">
-        <mark key="[" line="38" column="15" />
-        <mark key="]" line="38" column="35" />
-        <mark key="." line="38" column="34" />
-        <mark key="^" line="38" column="35" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1591849367433">
+        <mark key="[" line="26" column="93" />
+        <mark key="]" line="27" column="4" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="27" column="4" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/selfserve/MetadataProcessorTests.java" timestamp="1591803865186">
         <mark key="[" line="41" column="46" />
@@ -348,32 +348,36 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="-" type="4">
-        <text>core</text>
+        <text encoding="base64">IHByb3BlcnR5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhbG9hZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>input3 = {
-        order = 3, sql = {
-          sql-type = local, table = ${variables.impressionFilterSourceInputTable},
-          sql = &quot;&quot;&quot;select * from &quot;&quot;&quot;${variables.campaignTargetingTable_ppd}
-        }, metadata = {is-input = true}
-       }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24ocyJzdGVwTmFtZT0ke3N0ZXBOYW1lfSBTcGVjaWZ5IGlkQ29sdW1uIHByb3BlcnR5LiIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgaW5wdXRzID0gCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>{
         input-2 = {
           order = 2, sql = {
@@ -383,10 +387,10 @@
          }
       }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjbGlja3N0cmVhbUxvYWQgPSAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>{
           order = 1, sql = {
             sqlSource = local, table = ${variables.clickstream_ppd},
@@ -394,23 +398,6 @@
           },
           metadata = {is-input = true}
         }</text>
-      </register>
-      <register name="7" type="4">
-        <text>cs.event_properties_companyid,
-       cs.event_properties_action,
-       cs.event_properties_fp_offer_id,
-       from_unixtime(cs.event_timestamp / 1000, &quot;mm-dd-yyyy hh:mm:ss&quot;) AS timestamp</text>
-      </register>
-      <register name="8" type="4">
-        <text>'754449c0-82e6-11ea-9f68-539517ab8992',
-               'ccb611e0-82e4-11ea-b5d4-537483aefd6a',
-               'f94e03f0-82e6-11ea-9f68-539517ab8992',
-               '772cea70-82e7-11ea-8ece-7df4d84eb4ce',
-               '2648a4e0-82e8-11ea-9f68-539517ab8992',
-               'bc89c330-82e8-11ea-b5d4-537483aefd6a'</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCBkYXkgPSBjYWwuZ2V0KENhbGVuZGFyLkRBWV9PRl9NT05USCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
