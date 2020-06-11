@@ -201,11 +201,11 @@
         <mark key="^" line="181" column="71" />
         <mark key="." line="181" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1591847479835">
-        <mark key="[" line="41" column="17" />
-        <mark key="]" line="41" column="17" />
-        <mark key="^" line="41" column="17" />
-        <mark key="." line="41" column="16" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1591849005431">
+        <mark key="'" line="40" column="15" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/ExperimentationProcessorTest.java" timestamp="1591810568003" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/workflowconfig/WorkflowConfiguration.java" timestamp="1591833006069">
@@ -243,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
       <jump line="5" column="425" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_stg.conf" />
       <jump line="10" column="13" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" />
       <jump line="18" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" />
@@ -343,43 +342,38 @@
       <jump line="27" column="6" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
       <jump line="57" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
       <jump line="51" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
+      <jump line="40" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaW5wdXRzID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>targetingStepInputTable</text>
+        <text>core</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhbG9hZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>val sql = s&quot;&quot;&quot;SELECT cs.event_properties_companyid,
-                |       cs.event_properties_action,
-                |       cs.event_properties_fp_offer_id,
-                |       from_unixtime(cs.event_timestamp / 1000, &quot;mm-dd-yyyy hh:mm:ss&quot;) AS timestamp
-                |FROM   qb_ai.predictions_qbo_india_downgrade_v1_interaction_day_270 in,
-                |       thrive_dwh.sbg_global_clickstream_web cs
-                |WHERE  in.qbo_company_id = cs.event_properties_companyid
-                |       AND cs.year = '2020'
-                |       AND cs.month = '05'
-                |       AND cs.event_properties_fp_offer_id IN (
-                |               '754449c0-82e6-11ea-9f68-539517ab8992',
-                |               'ccb611e0-82e4-11ea-b5d4-537483aefd6a'
-                |               ,
-                |               'f94e03f0-82e6-11ea-9f68-539517ab8992',
-                |               '772cea70-82e7-11ea-8ece-7df4d84eb4ce',
-                |               '2648a4e0-82e8-11ea-9f68-539517ab8992',
-                |               'bc89c330-82e8-11ea-b5d4-537483aefd6a' )
-                |ORDER  BY cs.event_properties_companyid &quot;&quot;&quot;.stripMargin</text>
+        <text>input3 = {
+        order = 3, sql = {
+          sql-type = local, table = ${variables.impressionFilterSourceInputTable},
+          sql = &quot;&quot;&quot;select * from &quot;&quot;&quot;${variables.campaignTargetingTable_ppd}
+        }, metadata = {is-input = true}
+       }</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgaW5wdXRzID0gCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>{
         input-2 = {
           order = 2, sql = {
@@ -389,10 +383,10 @@
          }
       }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjbGlja3N0cmVhbUxvYWQgPSAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
           order = 1, sql = {
             sqlSource = local, table = ${variables.clickstream_ppd},
@@ -401,13 +395,13 @@
           metadata = {is-input = true}
         }</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>cs.event_properties_companyid,
        cs.event_properties_action,
        cs.event_properties_fp_offer_id,
        from_unixtime(cs.event_timestamp / 1000, &quot;mm-dd-yyyy hh:mm:ss&quot;) AS timestamp</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>'754449c0-82e6-11ea-9f68-539517ab8992',
                'ccb611e0-82e4-11ea-b5d4-537483aefd6a',
                'f94e03f0-82e6-11ea-9f68-539517ab8992',
@@ -415,14 +409,8 @@
                '2648a4e0-82e8-11ea-9f68-539517ab8992',
                'bc89c330-82e8-11ea-b5d4-537483aefd6a'</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCBkYXkgPSBjYWwuZ2V0KENhbGVuZGFyLkRBWV9PRl9NT05USCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBjdXJyZW50TW9udGggPSBJbnN0YW50Lm5vdygpLmdldEVwb2NoU2Vjb25kCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCBkYXkgPSBjYWwuZ2V0KENhbGVuZGFyLkRBWV9PRl9NT05USCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
