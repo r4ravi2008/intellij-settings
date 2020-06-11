@@ -157,10 +157,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/core/PznSparkLoaderStep.scala" timestamp="1591829921002">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="20" column="7" />
-        <mark key="." line="15" column="2" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/core/PznSparkLoaderStep.scala" timestamp="1591854380406">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/step/ReadOfferIdsTest.scala" timestamp="1591833812818">
         <mark key="[" line="20" column="23" />
@@ -195,12 +195,12 @@
         <mark key="^" line="181" column="71" />
         <mark key="." line="181" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1591852924454">
-        <mark key="'" line="56" column="6" />
-        <mark key="[" line="51" column="12" />
-        <mark key="]" line="51" column="12" />
-        <mark key="." line="51" column="11" />
-        <mark key="^" line="51" column="12" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1591854367014">
+        <mark key="'" line="43" column="15" />
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/ExperimentationProcessorTest.java" timestamp="1591810568003" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/workflowconfig/WorkflowConfiguration.java" timestamp="1591833006069">
@@ -215,7 +215,7 @@
         <mark key="^" line="76" column="25" />
         <mark key="." line="76" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591852462310">
+      <file name="/Dummy.txt" timestamp="1591853874000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -244,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="35" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ZoltarIXPClient.java" />
-      <jump line="6" column="35" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ZoltarIXPClient.java" />
       <jump line="7" column="35" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ZoltarIXPClient.java" />
       <jump line="72" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/ExperimentationProcessor.java" />
       <jump line="74" column="55" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/ExperimentationProcessor.java" />
@@ -344,15 +342,17 @@
       <jump line="54" column="48" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
       <jump line="51" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
       <jump line="56" column="6" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
+      <jump line="48" column="6" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
+      <jump line="43" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>impressionFilterClickstreamInputTable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGlja3N0cmVhbV9wcGRcPg==</text>
@@ -361,36 +361,31 @@
         <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24ocyJzdGVwTmFtZT0ke3N0ZXBOYW1lfSBTcGVjaWZ5IGlkQ29sdW1uIHByb3BlcnR5LiIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="2" type="4">
-        <text>input4 = {
-        order = 4, sql = {
-          sql-type = local, table = ${variables.impressionFilterClickstreamInputTable},
-          sql = &quot;&quot;&quot;select * from &quot;&quot;&quot;${variables.clickstream_ppd}
-        }, metadata = {is-input = true}
-      }</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAvKioKICAgKiBSZWdpc3RlciB0aGUgVURGcwogICAqIEByZXR1cm4KICAgKi8KICBwcml2YXRlIGRlZiByZWdpc3RlclVERnMoKSA9IHsKICB9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlZ2lzdGVyVURGcygpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAiY2xpY2tzdHJlYW1fcHBkIiA9ICJjbGlja3N0cmVhbV9pbnB1dCIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAiY2FtcGFpZ25UYXJnZXRpbmdUYWJsZV9wcGQiID0gImNhbXBhaWduX3RhcmdldCIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAiY2xpY2tzdHJlYW1fcHBkIiA9ICJjbGlja3N0cmVhbV9pbnB1dCIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW5wdXRzID0gCg==</text>
+        <text encoding="base64">ICAiY2xpY2tzdHJlYW1fcHBkIiA9ICJjbGlja3N0cmVhbV9pbnB1dCIK</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
