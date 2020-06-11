@@ -202,10 +202,11 @@
         <mark key="^" line="33" column="14" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1591830179043">
-        <mark key="]" line="73" column="71" />
-        <mark key="^" line="38" column="37" />
-        <mark key="." line="38" column="36" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1591838230281">
+        <mark key="[" line="74" column="56" />
+        <mark key="]" line="76" column="25" />
+        <mark key="^" line="76" column="25" />
+        <mark key="." line="76" column="24" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/resources/application.properties" timestamp="1591797806483">
         <mark key="[" line="26" column="12" />
@@ -225,11 +226,11 @@
         <mark key="^" line="37" column="15" />
         <mark key="." line="37" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1591833720771">
-        <mark key="[" line="46" column="95" />
-        <mark key="]" line="46" column="96" />
-        <mark key="." line="46" column="95" />
-        <mark key="^" line="46" column="96" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1591838845751">
+        <mark key="[" line="39" column="65" />
+        <mark key="]" line="40" column="43" />
+        <mark key="." line="40" column="42" />
+        <mark key="^" line="40" column="43" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/selfserve/MetadataProcessorTests.java" timestamp="1591803865186">
         <mark key="[" line="41" column="46" />
@@ -346,11 +347,16 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'754449c0-82e6-11ea-9f68-539517ab8992',
+               'ccb611e0-82e4-11ea-b5d4-537483aefd6a',
+               'f94e03f0-82e6-11ea-9f68-539517ab8992',
+               '772cea70-82e7-11ea-8ece-7df4d84eb4ce',
+               '2648a4e0-82e8-11ea-9f68-539517ab8992',
+               'bc89c330-82e8-11ea-b5d4-537483aefd6a'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG51bGw=</text>
+        <text encoding="base64">bW9udGgg</text>
       </register>
       <register name="/" type="4">
         <text>env</text>
@@ -375,32 +381,37 @@
                 |               'bc89c330-82e8-11ea-b5d4-537483aefd6a' )
                 |ORDER  BY cs.event_properties_companyid &quot;&quot;&quot;.stripMargin</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>'754449c0-82e6-11ea-9f68-539517ab8992',
+               'ccb611e0-82e4-11ea-b5d4-537483aefd6a',
+               'f94e03f0-82e6-11ea-9f68-539517ab8992',
+               '772cea70-82e7-11ea-8ece-7df4d84eb4ce',
+               '2648a4e0-82e8-11ea-9f68-539517ab8992',
+               'bc89c330-82e8-11ea-b5d4-537483aefd6a'</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCBkYXkgPSBjYWwuZ2V0KENhbGVuZGFyLkRBWV9PRl9NT05USCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ob2ZmZXJJZHMpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjdXJyZW50TW9udGggPSBJbnN0YW50Lm5vdygpLmdldEVwb2NoU2Vjb25kCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBCVSA9ICJTQlNFRyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBvZmZlcklkcyA9IHNjYWxhLmlvLlNvdXJjZS5mcm9tSW5wdXRTdHJlYW0oaW5wdXRTdHJlYW0pLmdldExpbmVzKCkubWFwKGxpbmUgPT4gbGluZS5zcGxpdCgiLCIpKDApKS5ta1N0cmluZygiLCIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ob2ZmZXJJZHMpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBCVSA9ICJTQlNFRyI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBvZmZlcklkcyA9IHNjYWxhLmlvLlNvdXJjZS5mcm9tSW5wdXRTdHJlYW0oaW5wdXRTdHJlYW0pLmdldExpbmVzKCkubWFwKGxpbmUgPT4gbGluZS5zcGxpdCgiLCIpKDApKS5ta1N0cmluZygiLCIpCg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
