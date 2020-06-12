@@ -172,6 +172,12 @@
         <mark key="^" line="130" column="29" />
         <mark key="." line="130" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_qa.conf" timestamp="1592005045373">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="9" column="21" />
+      </file>
       <file name="/Dummy.txt" timestamp="1592004104019">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -196,11 +202,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1592004437336">
-        <mark key="[" line="53" column="19" />
-        <mark key="]" line="53" column="24" />
-        <mark key="^" line="53" column="24" />
-        <mark key="." line="53" column="23" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1592005026492">
+        <mark key="[" line="53" column="24" />
+        <mark key="]" line="53" column="19" />
+        <mark key="^" line="53" column="19" />
+        <mark key="." line="53" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/EventBusStep.scala" timestamp="1592004021071">
         <mark key="[" line="27" column="68" />
@@ -314,8 +320,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>toLong</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaW5wdXRUYWJsZSA9ICR7dmFyaWFibGVzLmV2ZW50QnVzU3RlcElucHV0VGFibGV9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>toLong</text>
@@ -327,31 +333,48 @@
         <text encoding="base64">ICAgICAgICBhc3NpZ25tZW50UmVxdWVzdCA9IGdldEFzc2lnbm1lbnRSZXF1ZXN0KAogICAgICAgICAgICAgICAgQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChuZXcgRXhwZXJpbWVudE1ldGFkYXRhKFNCU0VHX0lELCAiU0JTRUciLCBudWxsKSkpOwoKICAgICAgICBleHBlcmltZW50QXNzaWdubWVudE1hcCA9IGl4cFByb3ZpZGVyLmdldEV4cGVyaW1lbnRBc3NpZ25tZW50KGFzc2lnbm1lbnRSZXF1ZXN0KTsKIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgaW5wdXRUYWJsZSA9ICR7dmFyaWFibGVzLmV2ZW50QnVzU3RlcElucHV0VGFibGV9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
+        <text encoding="base64">ICAgIGNsYXNzLW5hbWUgPSBjb20uaW50dWl0LnB6bi5zdGVwLkV2ZW50QnVzU3RlcCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IFRhcmdldGluZ0RhdGFQcmVwU3RlcCA9IHsKICAgIGNsYXNzLW5hbWUgPSBjb20uaW50dWl0LnB6bi5zdGVwLlRhcmdldGluZ1RyYW5zZm9ybWF0aW9uU3RlcCwKICAgIHByb3BlcnRpZXMgPSB7CiAgICAgIGlucHV0VGFibGUgPSAke3ZhcmlhYmxlcy50YXJnZXRpbmdTdGVwSW5wdXRUYWJsZX0KICAgICAgb3V0cHV0VGFibGUgPSAke3ZhcmlhYmxlcy5ldmVudEJ1c1N0ZXBJbnB1dFRhYmxlfQogICAgfQogIH0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>DataLoadStep = {
+    class-name = com.intuit.pzn.core.PznSparkLoaderStep
+    inputs = {
+      dataload = {
+        order = 1, sql = {
+          sqlSource = local, table = ${variables.campaignTargetingTable_ppd},
+          in-path = ${variables.dataInputPath},
+        },
+        metadata = {is-input = true}
+      }
+      input-2 = {
+        order = 2, sql = {
+          sql-type = local, table = ${variables.targetingStepInputTable},
+          sql = &quot;&quot;&quot;select * from &quot;&quot;&quot;${variables.campaignTargetingTable_ppd}
+        }, metadata = {is-input = true}
+      }
+    }
+  }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShleHBlcmltZW50QXNzaWdubWVudE1hcC5jb250YWluc0tleShDR19JRCkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmFkZChuZXcgRXhwZXJpbWVudE1ldGFkYXRhKFNCU0VHX0lELCBTQlNFR19CVSwgbnVsbCApKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
