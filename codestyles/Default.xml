@@ -25,6 +25,7 @@
     </formatting-settings>
   </DBN-SQL>
   <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   </JavaCodeStyleSettings>
   <ScalaCodeStyleSettings>
