@@ -195,12 +195,12 @@
         <mark key="." line="11" column="70" />
         <mark key="^" line="11" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1592086390695">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1592086496185">
         <mark key="'" line="32" column="49" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="73" />
-        <mark key="." line="45" column="72" />
-        <mark key="^" line="45" column="73" />
+        <mark key="[" line="43" column="56" />
+        <mark key="]" line="43" column="67" />
+        <mark key="." line="43" column="66" />
+        <mark key="^" line="43" column="67" />
       </file>
       <file name="$USER_HOME$/dev/repos/offlinescheduler/src/main/resources/db/migration/1.sql" timestamp="1591939047402">
         <mark key="[" line="0" column="0" />
