@@ -139,7 +139,7 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1592081847161">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1592090506794">
         <mark key="[" line="13" column="7" />
         <mark key="]" line="14" column="21" />
         <mark key="^" line="14" column="21" />
@@ -195,7 +195,7 @@
         <mark key="." line="11" column="70" />
         <mark key="^" line="11" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1592089227974">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1592090226162">
         <mark key="'" line="32" column="49" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -208,11 +208,11 @@
         <mark key="^" line="266" column="25" />
         <mark key="." line="266" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1592081870929">
-        <mark key="[" line="29" column="2" />
-        <mark key="]" line="29" column="2" />
-        <mark key="^" line="38" column="2" />
-        <mark key="." line="29" column="2" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1592090536354">
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="17" />
+        <mark key="^" line="38" column="17" />
+        <mark key="." line="38" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/EventBusStep.scala" timestamp="1592059726815">
         <mark key="[" line="50" column="59" />
@@ -326,8 +326,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -368,34 +368,36 @@
     }
   }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIA==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>//    val offerIdsMapFile = input.metadata.properties
 //        .getOrElse(&quot;sql&quot;,
 //          throw new IllegalArgumentException(s&quot;stepName=${stepName} Specify idColumn property.&quot;))</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0eXBlIFllYXIgPSBJbnQKICB0eXBlIE1vbnRoID0gSW50</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuZ2V0TGluZXMoKQo=</text>
+        <text>//    val offerIdsMapFile = input.metadata.properties
+//        .getOrElse(&quot;sql&quot;,
+//          throw new IllegalArgumentException(s&quot;stepName=${stepName} Specify idColumn property.&quot;))</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNjYWxhLmlvLlNvdXJjZS5mcm9tSW5wdXRTdHJlYW0oaW5wdXRTdHJlYW0pLmdldExpbmVzKCkubWFwKGxpbmUgPT4gcyInJHtsaW5lLnNwbGl0KCIsIikoMCl9JyIpLm1rU3RyaW5nKCIsXG4iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0eXBlIFllYXIgPSBJbnQKICB0eXBlIE1vbnRoID0gSW50</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuZ2V0TGluZXMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNjYWxhLmlvLlNvdXJjZS5mcm9tSW5wdXRTdHJlYW0oaW5wdXRTdHJlYW0pLmdldExpbmVzKCkubWFwKGxpbmUgPT4gcyInJHtsaW5lLnNwbGl0KCIsIikoMCl9JyIpLm1rU3RyaW5nKCIsXG4iKQo=</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
