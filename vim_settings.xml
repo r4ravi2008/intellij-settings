@@ -139,7 +139,7 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1592094837292">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1592096079615">
         <mark key="'" line="39" column="8" />
         <mark key="[" line="43" column="33" />
         <mark key="]" line="43" column="53" />
@@ -152,18 +152,11 @@
         <mark key="." line="6" column="84" />
         <mark key="^" line="6" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/QboIndia.conf" timestamp="1592094433384">
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="18" />
-        <mark key="^" line="17" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/offlinescheduler/pom.xml" timestamp="1591936710460">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="63" column="21" />
-        <mark key="]" line="72" column="21" />
-        <mark key="^" line="72" column="21" />
-        <mark key="." line="72" column="20" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/QboIndia.conf" timestamp="1592095768602">
+        <mark key="[" line="8" column="78" />
+        <mark key="]" line="8" column="77" />
+        <mark key="." line="8" column="76" />
+        <mark key="^" line="8" column="77" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_prd.conf" timestamp="1592081814795" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1592004058624">
@@ -209,6 +202,7 @@
         <mark key="^" line="266" column="25" />
         <mark key="." line="266" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.4/spark-sql_2.11-2.4.4-sources.jar!/org/apache/spark/sql/execution/command/views.scala" timestamp="1592095995601" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1592094033476">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="2" column="0" />
@@ -328,8 +322,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBlbnYgPSAke2Vudn0K</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -371,31 +365,31 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICBlbnYgPSAke2Vudn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiX2Jhc2VEYXRhSW5wdXREaXIiPSR7dmFyaWFibGVzLmJhc2VEaXJ9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiY2xpY2tzdHJlYW1JbnB1dFBhdGgiID0gJHt2YXJpYWJsZXMuX2Jhc2VEYXRhSW5wdXREaXJ9Ii9jbGlja3N0cmVhbSIK</text>
+        <text encoding="base64">ICAiX2Jhc2VEYXRhSW5wdXREaXIiPSR7dmFyaWFibGVzLmJhc2VEaXJ9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiZGF0YUlucHV0UGF0aCIgPSAke3ZhcmlhYmxlcy5fYmFzZURhdGFJbnB1dERpcn0iL3Fiby1pbmRpYSIK</text>
+        <text encoding="base64">ICAiY2xpY2tzdHJlYW1JbnB1dFBhdGgiID0gJHt2YXJpYWJsZXMuX2Jhc2VEYXRhSW5wdXREaXJ9Ii9jbGlja3N0cmVhbSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiYmFzZURpciI9InMzOi8vcGVyc29uYWxpemVkLW5vdGlmaWNhdGlvbiIK</text>
+        <text encoding="base64">ICAiZGF0YUlucHV0UGF0aCIgPSAke3ZhcmlhYmxlcy5fYmFzZURhdGFJbnB1dERpcn0iL3Fiby1pbmRpYSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgaW1wcmVzc2lvbkZpbHRlclNvdXJjZUlucHV0VGFibGUgPSBpbXByZXNzaW9uRmlsdGVyU291cmNlSW5wdXRUYWJsZQo=</text>
+        <text encoding="base64">ICAiYmFzZURpciI9InMzOi8vcGVyc29uYWxpemVkLW5vdGlmaWNhdGlvbiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgaW1wcmVzc2lvbkZpbHRlckNsaWNrc3RyZWFtSW5wdXRUYWJsZSA9IGltcHJlc3Npb25GaWx0ZXJDbGlja3N0cmVhbUlucHV0VGFibGUK</text>
+        <text encoding="base64">ICAgaW1wcmVzc2lvbkZpbHRlclNvdXJjZUlucHV0VGFibGUgPSBpbXByZXNzaW9uRmlsdGVyU291cmNlSW5wdXRUYWJsZQo=</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
