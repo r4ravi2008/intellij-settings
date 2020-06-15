@@ -180,12 +180,6 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" timestamp="1592204458535" />
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1592004058624">
-        <mark key="[" line="130" column="28" />
-        <mark key="]" line="130" column="29" />
-        <mark key="^" line="130" column="29" />
-        <mark key="." line="130" column="28" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_qa.conf" timestamp="1592102503079">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -197,6 +191,12 @@
         <mark key="]" line="13" column="62" />
         <mark key="^" line="13" column="62" />
         <mark key="." line="13" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-prd-usw2.properties" timestamp="1592231686421">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="25" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1592204244953">
         <mark key="[" line="0" column="0" />
