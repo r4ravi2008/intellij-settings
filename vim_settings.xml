@@ -29,7 +29,6 @@
         <entry>count</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvJiYvXC9uL2dj</entry>
         <entry encoding="base64">JXMvJiYvXFxuL2dj</entry>
         <entry>%s/\/n/\\n/gc</entry>
         <entry>%s/\\n/\r/gc</entry>
@@ -49,6 +48,7 @@
         <entry>wq</entry>
         <entry>qw</entry>
         <entry>w</entry>
+        <entry>we</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -140,7 +140,7 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="/Dummy.scala" timestamp="1592252087919">
+      <file name="/Dummy.scala" timestamp="1592261759224">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -164,7 +164,7 @@
         <mark key="^" line="25" column="12" />
         <mark key="." line="25" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592242330137">
+      <file name="/Dummy.txt" timestamp="1592261999055">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -176,12 +176,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="5" column="94" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1592257069306">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1592262041071">
         <mark key="'" line="39" column="34" />
-        <mark key="[" line="55" column="63" />
-        <mark key="]" line="55" column="75" />
-        <mark key="." line="55" column="74" />
-        <mark key="^" line="55" column="75" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="66" column="0" />
       </file>
       <file name="/" timestamp="1592241852064">
         <mark key="[" line="0" column="0" />
@@ -316,11 +316,18 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRvZmZlcklkc0Zvcm1hdHRlZAo=</text>
+      <register name="&quot;" type="8">
+        <text>-
+-
+-
+-
+-
+-
+-
+-</text>
       </register>
       <register name="-" type="4">
-        <text>encryptedData</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>count</text>
@@ -358,32 +365,39 @@
     }
   }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRvZmZlcklkc0Zvcm1hdHRlZAo=</text>
+      <register name="1" type="8">
+        <text>-
+-
+-
+-
+-
+-
+-
+-</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBjYWNoZWREYXRhU2V0ID0gZGF0YXNldC5jYWNoZSgpCg==</text>
+        <text encoding="base64">ICAgICAgIEFORCBjcy5ldmVudF9wcm9wZXJ0aWVzX2ZwX29mZmVyX2lkID0gb2ZtLm9mZmVyX2lkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBjYWNoZWREYXRhU2V0ID0gZGF0YXNldC5jYWNoZSgpCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBvZmZlcnNNYXBwaW5nVGFibGUgPSAib2ZmZXJzX21hcHBpbmciOwogICAgb2ZmZXJzRGYuY3JlYXRlT3JSZXBsYWNlVGVtcFZpZXcoIm9mZmVyc19tYXBwaW5nZyIpCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAke29mZmVyc01hcHBpbmdUYWJsZX0gb2ZtLAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oanNvbik7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">U0VMRUNUIGluLioKRlJPTSAkaW5wdXRUYWJsZSBpbiwKICAgICAke2NsaWNrc3RyZWFtSW5wdXRUYWJsZX0gY3MsCiAgICAgJHtvZmZlcnNNYXBwaW5nVGFibGV9IG9mbSwKV0hFUkUgaW4ucWJvX2NvbXBhbnlfaWQgPSBjcy5ldmVudF9wcm9wZXJ0aWVzX2NvbXBhbnlpZAogICAgICAgQU5EIGluLmFjdGlvbiA9IG9mbS5hY3Rpb24KICAgICAgIEFORCBjcy55ZWFyID0gJyR5ZWFyJwogICAgICAgQU5EIGNzLm1vbnRoID0gJyRtb250aCcKICAgICAgIEFORCBjcy5ldmVudF9wcm9wZXJ0aWVzX2ZwX29mZmVyX2lkID0gb2ZtLm9mZmVyX2lkCiAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5TZXJpYWxpemF0aW9uRmVhdHVyZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRvZmZlcklkc0Zvcm1hdHRlZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1hcHBlci5lbmFibGUoU2VyaWFsaXphdGlvbkZlYXR1cmUuSU5ERU5UX09VVFBVVCk7Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjYWNoZWREYXRhU2V0ID0gZGF0YXNldC5jYWNoZSgpCg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
