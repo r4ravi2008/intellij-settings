@@ -170,13 +170,14 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="5" column="94" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1592202620901">
-        <mark key="'" line="35" column="34" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1592241789894">
+        <mark key="'" line="39" column="34" />
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="33" column="53" />
+        <mark key="." line="33" column="53" />
+        <mark key="^" line="33" column="52" />
       </file>
-      <file name="/" timestamp="1592162402035">
+      <file name="/" timestamp="1592241852064">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1592203135160">
@@ -193,18 +194,18 @@
         <mark key="^" line="0" column="67" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/offerIds.txt" timestamp="1592240686611" />
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/resources/data/Offer_ids.csv" timestamp="1592240688023">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/resources/data/Offer_ids.csv" timestamp="1592241764579">
+        <mark key="'" line="6" column="42" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="49" />
-        <mark key="^" line="5" column="49" />
-        <mark key="." line="5" column="48" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="/fragment.java" timestamp="1592204244953">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
       <jump line="27" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
@@ -304,15 +305,16 @@
       <jump line="37" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
       <jump line="37" column="34" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" />
       <jump line="79" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" />
+      <jump line="5" column="42" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/resources/data/Offer_ids.csv" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXJnZXRpbmdTdGVwSW5wdXRUYWJsZVw+</text>
@@ -351,18 +353,21 @@
   }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oanNvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5TZXJpYWxpemF0aW9uRmVhdHVyZTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oanNvbik7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5kYXRhYmluZC5TZXJpYWxpemF0aW9uRmVhdHVyZTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgICAgIG1hcHBlci5lbmFibGUoU2VyaWFsaXphdGlvbkZlYXR1cmUuSU5ERU5UX09VVFBVVCk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>\n&quot; +
                 &quot;  \&quot;experimentId\&quot; : \&quot;123\&quot;,\n&quot; +
                 &quot;  \&quot;experimentParams\&quot; : {\n&quot; +
@@ -372,7 +377,7 @@
                 &quot;  \&quot;bu\&quot; : \&quot;CG\&quot;\n&quot; +
                 &quot;}</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{\n&quot; +
                 &quot;  \&quot;experimentId\&quot; : \&quot;experimentId\&quot;,\n&quot; +
                 &quot;  \&quot;experimentParams\&quot; : {\n&quot; +
@@ -382,7 +387,7 @@
                 &quot;  \&quot;bu\&quot; : \&quot;bu\&quot;\n&quot; +
                 &quot;}&quot;;</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
       &quot;experimentId&quot; : &quot;experimentId&quot;,
       &quot;experimentParams&quot; : {
@@ -392,11 +397,8 @@
       &quot;bu&quot; : &quot;bu&quot;
     }&quot;&quot;&quot;;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oanNvbik7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oanNvbik7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
