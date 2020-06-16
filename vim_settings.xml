@@ -127,10 +127,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1592267315870">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1592267394292">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/QboIndia.conf" timestamp="1592265660279">
         <mark key="[" line="5" column="0" />
@@ -164,7 +164,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592265521657">
+      <file name="/Dummy.txt" timestamp="1592267467066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -223,11 +223,11 @@
         <mark key="[" line="43" column="37" />
         <mark key="]" line="43" column="91" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1592267157948">
-        <mark key="[" line="5" column="56" />
-        <mark key="]" line="5" column="75" />
-        <mark key="." line="5" column="74" />
-        <mark key="^" line="5" column="75" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1592267372794">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="42" />
+        <mark key="^" line="5" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -336,10 +336,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAiX2Jhc2VEYXRhSW5wdXREaXIiPSR7dmFyaWFibGVzLmJhc2VEaXJ9Ii9zcmMvbWFpbi9yZXNvdXJjZXMvZGF0YSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>_baseDataInputDir</text>
       </register>
       <register name="/" type="4">
         <text>resources</text>
@@ -348,31 +348,31 @@
         <text>s3://idl-artifacts-processing-sbgpzn-e2e/batch-offline/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiX2Jhc2VEYXRhSW5wdXREaXIiPSR7dmFyaWFibGVzLmJhc2VEaXJ9Ii9zcmMvbWFpbi9yZXNvdXJjZXMvZGF0YSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiIgo=</text>
+        <text encoding="base64">ICAiX2Jhc2VEYXRhSW5wdXREaXIiPSR7dmFyaWFibGVzLmJhc2VEaXJ9Ii9zcmMvbWFpbi9yZXNvdXJjZXMvZGF0YSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbnB1dEZpbGUgPSB0aGlzLmdldENsYXNzLmdldFJlc291cmNlKG9mZmVyc01hcExvY2F0aW9uKS5nZXRQYXRoCg==</text>
+        <text encoding="base64">ICAiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhbCBpbnB1dEZpbGUgPSB0aGlzLmdldENsYXNzLmdldFJlc291cmNlKG9mZmVyc01hcExvY2F0aW9uKS5nZXRQYXRoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAib2ZmZXJzTWFwTG9jYXRpb24gPSAiczM6Ly9PZmZlcl9pZHMuY3N2Igo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAib2ZmZXJzTWFwTG9jYXRpb24gPSAke3ZhcmlhYmxlcy5fYmFzZURhdGFJbnB1dERpcn0iL29mZmVyX2lkcy5jc3YiCg==</text>
+        <text encoding="base64">ICAib2ZmZXJzTWFwTG9jYXRpb24gPSAiczM6Ly9PZmZlcl9pZHMuY3N2Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiX2Jhc2VEYXRhSW5wdXREaXIiPSR7dmFyaWFibGVzLmJhc2VEaXJ9Ii9zcmMvdGVzdC9yZXNvdXJjZXMvZGF0YSIK</text>
+        <text encoding="base64">ICAib2ZmZXJzTWFwTG9jYXRpb24gPSAke3ZhcmlhYmxlcy5fYmFzZURhdGFJbnB1dERpcn0iL29mZmVyX2lkcy5jc3YiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAiX2Jhc2VEYXRhSW5wdXREaXIiPSR7dmFyaWFibGVzLmJhc2VEaXJ9Ii9zcmMvdGVzdC9yZXNvdXJjZXMvZGF0YSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
