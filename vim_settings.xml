@@ -29,7 +29,6 @@
         <entry>resources</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvJiYvXFxuL2dj</entry>
         <entry>%s/\/n/\\n/gc</entry>
         <entry>%s/\\n/\r/gc</entry>
         <entry>%s/s3://sbgnetwork-incremental-pipeline-prf/${S3BUCKER}/</entry>
@@ -48,6 +47,7 @@
         <entry>wq</entry>
         <entry>qw</entry>
         <entry>we</entry>
+        <entry>ws</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -223,11 +223,11 @@
         <mark key="[" line="43" column="37" />
         <mark key="]" line="43" column="91" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1592267372794">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="43" />
-        <mark key="." line="5" column="42" />
-        <mark key="^" line="5" column="43" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1592285262088">
+        <mark key="[" line="3" column="53" />
+        <mark key="]" line="3" column="63" />
+        <mark key="." line="3" column="62" />
+        <mark key="^" line="3" column="63" />
       </file>
     </filemarks>
     <jumps>
