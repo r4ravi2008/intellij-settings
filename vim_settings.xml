@@ -127,7 +127,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592334510959">
+      <file name="/Dummy.txt" timestamp="1592342299773">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -161,22 +161,22 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1592341062072">
-        <mark key="'" line="54" column="51" />
-        <mark key="[" line="49" column="48" />
-        <mark key="]" line="49" column="59" />
-        <mark key="." line="49" column="58" />
-        <mark key="^" line="49" column="59" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1592342269015">
+        <mark key="'" line="53" column="51" />
+        <mark key="[" line="53" column="77" />
+        <mark key="]" line="54" column="39" />
+        <mark key="^" line="54" column="39" />
+        <mark key="." line="54" column="38" />
       </file>
       <file name="/" timestamp="1592241852064">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1592340505415">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1592342287814">
         <mark key="'" line="65" column="27" />
-        <mark key="[" line="75" column="6" />
-        <mark key="]" line="75" column="8" />
-        <mark key="." line="75" column="7" />
-        <mark key="^" line="75" column="8" />
+        <mark key="[" line="49" column="42" />
+        <mark key="]" line="49" column="41" />
+        <mark key="." line="49" column="40" />
+        <mark key="^" line="49" column="41" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/QboIndia_preprod.conf" timestamp="1592265908453">
         <mark key="[" line="5" column="0" />
@@ -335,11 +335,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCAoeWVhciwgbW9udGgpID0gZ2V0Q3VycmVudFllYXJBbmRNb250aAo=</text>
+      <register name="&quot;" type="4">
+        <text>df</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>df</text>
       </register>
       <register name="/" type="4">
         <text>resources</text>
@@ -348,41 +348,31 @@
         <text>s3://idl-artifacts-processing-sbgpzn-e2e/batch-offline/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCAoeWVhciwgbW9udGgpID0gZ2V0Q3VycmVudFllYXJBbmRNb250aAo=</text>
+        <text encoding="base64">ICAgIGRmLnNob3coMTAsIGZhbHNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHJhaXQgSW1wcmVzc2lvbkZpbHRlclV0aWxzIHsKICBkZWYgZ2V0Q3VycmVudFllYXJBbmRNb250aDogKEludCwgSW50KSA9IHsKICAgIHZhbCBjYWxlbmRhciA9IENhbGVuZGFyLmdldEluc3RhbmNlKCkKICAgIHZhbCBkYXRlID0gRGF0ZS5mcm9tKEluc3RhbnQubm93KCkpCiAgICBjYWxlbmRhci5zZXRUaW1lKGRhdGUpCiAgICB2YWwgY3VycmVudFllYXIgPSAgY2FsZW5kYXIuZ2V0KENhbGVuZGFyLllFQVIpCiAgICB2YWwgY3VycmVudE1vbnRoID0gY2FsZW5kYXIuZ2V0KENhbGVuZGFyLk1PTlRIKQogICAgKGN1cnJlbnRZZWFyLCBjdXJyZW50TW9udGgpCiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIGRmLnByaW50U2NoZW1hKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKHMiIikK</text>
       </register>
-      <register name="6" type="4">
-        <text>steps {
-  DataLoadStep = {
-    inputs = {
-      input1 = {
-        sql = {
-          sql = &quot;&quot;&quot;select * from &quot;&quot;&quot;${variables.campaignTargetingTable}&quot;&quot;&quot; where month(to_date(job_date, 'yyyy-MM-dd')) = month(current_date) limit 10&quot;&quot;&quot;
-        }
-      }
-    }
-  }
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsYXNzLW5hbWUgPSBjb20uaW50dWl0LnB6bi5jb3JlLlB6blNwYXJrTG9hZGVyU3RlcAo=</text>
+        <text encoding="base64">ICAgIGlucHV0VGFibGVEZi5wcmludFNjaGVtYSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNxbC10eXBlID0gbG9jYWwsIHRhYmxlID0gY2FtcGFpZ25UYXJnZXRpbmdJbnB1dCwK</text>
+        <text encoding="base64">ICAgIG9mZmVyc0RmLnNob3coMTApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNxbC10eXBlID0gbG9jYWwsIHRhYmxlID0gY2FtcGFpZ25UYXJnZXRpbmdJbnB1dCwK</text>
+        <text encoding="base64">ICAgIHZhbAo=</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
