@@ -127,7 +127,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/eventbus.conf" timestamp="1592425769895" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/eventbus.conf" timestamp="1592429984180">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1592267394292">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -159,8 +164,8 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/offline/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/offline/blocks/attributeCollector/providers/HiveProvider.java" timestamp="1592417722894">
         <mark key="'" line="25" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1592425756352" />
-      <file name="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/src/main/scala/pzn/SampleEventBusWriter.scala" timestamp="1592425847184">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1592430302288" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/src/main/scala/pzn/SampleEventBusWriter.scala" timestamp="1592430581084">
         <mark key="[" line="23" column="87" />
         <mark key="]" line="23" column="104" />
         <mark key="." line="23" column="103" />
@@ -322,11 +327,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>pzn_notifications_e2e</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>pzn_notifications_e2e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhc2V0MVw+</text>
