@@ -211,7 +211,8 @@
         <mark key="[" line="43" column="37" />
         <mark key="]" line="43" column="91" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1592350771524">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1592424557017">
+        <mark key="'" line="37" column="2" />
         <mark key="[" line="27" column="186" />
         <mark key="]" line="27" column="190" />
         <mark key="." line="27" column="189" />
@@ -225,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
       <jump line="108" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
       <jump line="110" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
       <jump line="112" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
@@ -297,7 +297,6 @@
       <jump line="46" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
       <jump line="53" column="20" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
       <jump line="39" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
-      <jump line="37" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
       <jump line="37" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" />
       <jump line="37" column="34" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" />
       <jump line="79" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" />
@@ -325,6 +324,8 @@
       <jump line="239" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="215" column="35" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="25" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/offline/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/offline/blocks/attributeCollector/providers/HiveProvider.java" />
+      <jump line="21" column="17" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
+      <jump line="37" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
