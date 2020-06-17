@@ -165,11 +165,11 @@
         <mark key="'" line="25" column="21" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1592430302288" />
-      <file name="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/src/main/scala/pzn/SampleEventBusWriter.scala" timestamp="1592430581084">
-        <mark key="[" line="23" column="87" />
-        <mark key="]" line="23" column="104" />
-        <mark key="." line="23" column="103" />
-        <mark key="^" line="23" column="104" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/src/main/scala/pzn/SampleEventBusWriter.scala" timestamp="1592433076475">
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="24" column="330" />
+        <mark key="." line="24" column="329" />
+        <mark key="^" line="24" column="330" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/ImpressionFilterStep.scala" timestamp="1592342269015">
         <mark key="'" line="53" column="51" />
@@ -328,7 +328,24 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>pzn_notifications_e2e</text>
+        <text>{
+  &quot;type&quot;: &quot;event&quot;,
+  &quot;payload&quot;: {
+    &quot;name&quot;: &quot;EloquaEvent&quot;,
+    &quot;sourceServiceName&quot;: &quot;PersonalizationService&quot;,
+    &quot;tableName&quot;: &quot;Eloqua_TABLE_NAME&quot;,
+    &quot;eventData&quot;: {
+      &quot;company_id&quot;: &quot;asfasf&quot;,
+      &quot;campaign_id&quot;: &quot;233434&quot;
+    },
+    &quot;eventMetaData&quot;: {
+      &quot;createdDate&quot;: &quot;2020-06-17&quot;,
+      &quot;intuitTid&quot;: &quot;ea67cc06-c69f-461d-b585-a97707eee1d2&quot;,
+      &quot;pzn_tid&quot; &quot;asdfasf&quot;
+      &quot;realmId&quot;: 497043620
+    }
+  }
+}</text>
       </register>
       <register name="-" type="4">
         <text>pzn_notifications_e2e</text>
@@ -339,32 +356,49 @@
       <register name="0" type="4">
         <text>(current_date</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+  &quot;type&quot;: &quot;event&quot;,
+  &quot;payload&quot;: {
+    &quot;name&quot;: &quot;EloquaEvent&quot;,
+    &quot;sourceServiceName&quot;: &quot;PersonalizationService&quot;,
+    &quot;tableName&quot;: &quot;Eloqua_TABLE_NAME&quot;,
+    &quot;eventData&quot;: {
+      &quot;company_id&quot;: &quot;asfasf&quot;,
+      &quot;campaign_id&quot;: &quot;233434&quot;
+    },
+    &quot;eventMetaData&quot;: {
+      &quot;createdDate&quot;: &quot;2020-06-17&quot;,
+      &quot;intuitTid&quot;: &quot;ea67cc06-c69f-461d-b585-a97707eee1d2&quot;,
+      &quot;pzn_tid&quot; &quot;asdfasf&quot;
+      &quot;realmId&quot;: 497043620
+    }
+  }
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgImluc2VydGVkX3RzIiA9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB8IiIiLnN0cmlwTWFyZ2luKQo=</text>
+        <text encoding="base64">ICAgICAgICAgImluc2VydGVkX3RzIiA9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB8IiIiLnN0cmlwTWFyZ2luKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLyoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLyoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLyoKICAgICAgICAgICAgICAgICAgICAgICAgc3RhZ2UoJ29mZmxpbmUgYXJ0aWZhY3RzIHRvIFMzJyl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGVwcyB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2NyaXB0IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmIGlzRGVwbG95ID0gdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGltZW91dCh0aW1lOjEsIHVuaXQ6J0RBWVMnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXQgIk9mZmxpbmUgUzNDb3B5IHRvIEUyRT8iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VibWl0dGVyOiAiY2JsYW5rZW5zaGlwLGludGxnbnRzeXMsZHRob21zb24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzRGVwbG95ID0gZmFsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gIklucHV0IHRpbWVkIG91dCBvciBhYm9ydGVkLCBza2lwcGluZyBhcnRpZmFjdCBkZXBsb3ltZW50IHRvIGUyZS4uLi4uLi4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50QnVpbGQucmVzdWx0ID0gJ0FCT1JURUQnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKGlzRGVwbG95KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXBsb3lCdWlsZFRvUzMoJ2UyZScsIGNvbmZpZy5TM19CVUNLRVRfQUNDRVNTX1JPTEVfUFBELCBjb25maWcuUzNfQlVDS0VUX0RFUExPWV9QQVRIX0UyRSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9Ki8=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLyoKICAgICAgICAgICAgICAgICAgICAgICAgc3RhZ2UoJ29mZmxpbmUgYXJ0aWZhY3RzIHRvIFMzJyl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGVwcyB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2NyaXB0IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmIGlzRGVwbG95ID0gdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGltZW91dCh0aW1lOjEsIHVuaXQ6J0RBWVMnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXQgIk9mZmxpbmUgUzNDb3B5IHRvIEUyRT8iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VibWl0dGVyOiAiY2JsYW5rZW5zaGlwLGludGxnbnRzeXMsZHRob21zb24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzRGVwbG95ID0gZmFsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gIklucHV0IHRpbWVkIG91dCBvciBhYm9ydGVkLCBza2lwcGluZyBhcnRpZmFjdCBkZXBsb3ltZW50IHRvIGUyZS4uLi4uLi4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50QnVpbGQucmVzdWx0ID0gJ0FCT1JURUQnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKGlzRGVwbG95KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXBsb3lCdWlsZFRvUzMoJ2UyZScsIGNvbmZpZy5TM19CVUNLRVRfQUNDRVNTX1JPTEVfUFBELCBjb25maWcuUzNfQlVDS0VUX0RFUExPWV9QQVRIX0UyRSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9Ki8=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qIFRPRE86IFVuY29tbWVudCBmb2xsb3dpbmcgTmV4dXMgSVEgY2hlY2sgYWZ0ZXIgcmVzb2x2aW5nIHNlY3VyaXR5IHZ1bG5lcmFiaWxpdHkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
