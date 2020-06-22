@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>treatment</entry>
-        <entry encoding="base64">XDx0cmVhdG1lbnRcPg==</entry>
         <entry encoding="base64">XDxleHBlcmltZW50c1w+</entry>
         <entry encoding="base64">XDxTQlNFR19JRFw+</entry>
         <entry>mock</entry>
@@ -27,6 +25,8 @@
         <entry>resources</entry>
         <entry>Score</entry>
         <entry encoding="base64">XDxkYXRhc2V0MVw+</entry>
+        <entry>score</entry>
+        <entry>scorecard</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/n/\\n/gc</entry>
@@ -207,11 +207,11 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" timestamp="1592408183965">
         <mark key="'" line="122" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1592410465471">
-        <mark key="'" line="215" column="35" />
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1592840392019">
+        <mark key="'" line="403" column="23" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" timestamp="1592267038328">
         <mark key="[" line="43" column="37" />
@@ -232,41 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="112" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="118" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="120" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="124" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="130" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="132" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="134" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="137" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="140" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="142" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="144" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="151" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="153" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="155" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="158" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="161" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="164" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="165" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="168" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="170" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="179" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="181" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="183" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="189" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="191" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="149" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="175" column="183" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="18" column="17" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="97" column="205" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="131" column="190" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="210" column="26" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="190" column="104" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="192" column="97" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
-      <jump line="32" column="32" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
       <jump line="105" column="90" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
       <jump line="113" column="26" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
@@ -324,7 +289,6 @@
       <jump line="122" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" />
       <jump line="50" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/ElasticacheMetadataDockerfile" />
       <jump line="247" column="67" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="244" column="34" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="268" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="239" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="215" column="35" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -332,65 +296,96 @@
       <jump line="21" column="17" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
       <jump line="37" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" />
       <jump line="92" column="1" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusReader.scala" />
+      <jump line="87" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="183" column="20" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="178" column="45" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="177" column="20" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="324" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="369" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="323" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="254" column="20" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="279" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="246" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="196" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="172" column="34" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="412" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="410" column="20" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="407" column="42" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="428" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="413" column="19" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="427" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="48" column="20" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="174" column="19" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="251" column="19" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="417" column="23" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="171" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="411" column="23" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="243" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="312" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="269" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="244" column="34" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="270" column="35" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="286" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="242" column="17" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="249" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="245" column="29" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="89" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="404" column="23" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">VW5pdCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IFVuY29tbWVudCBmb2xsb3dpbmcgTmV4dXMgSVEgY2hlY2sgYWZ0ZXIgcmVzb2x2aW5nIHNlY3VyaXR5IHZ1bG5lcmFiaWxpdHkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VW5pdCA=</text>
+        <text encoding="base64">c3RlcHMg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhc2V0MVw+</text>
+        <text>scorecard</text>
       </register>
       <register name="0" type="4">
         <text>(current_date</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-  &quot;type&quot;: &quot;event&quot;,
-  &quot;payload&quot;: {
-    &quot;name&quot;: &quot;EloquaEvent&quot;,
-    &quot;sourceServiceName&quot;: &quot;PersonalizationService&quot;,
-    &quot;tableName&quot;: &quot;Eloqua_TABLE_NAME&quot;,
-    &quot;eventData&quot;: {
-      &quot;company_id&quot;: &quot;asfasf&quot;,
-      &quot;campaign_id&quot;: &quot;233434&quot;
-    },
-    &quot;eventMetaData&quot;: {
-      &quot;createdDate&quot;: &quot;2020-06-17&quot;,
-      &quot;intuitTid&quot;: &quot;ea67cc06-c69f-461d-b585-a97707eee1d2&quot;,
-      &quot;pzn_tid&quot; &quot;asdfasf&quot;
-      &quot;realmId&quot;: 497043620
-    }
-  }
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IFVuY29tbWVudCBmb2xsb3dpbmcgTmV4dXMgSVEgY2hlY2sgYWZ0ZXIgcmVzb2x2aW5nIHNlY3VyaXR5IHZ1bG5lcmFiaWxpdHkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gZW5hYmxlIHRoaXMgd2hlbiB3ZSB3YW50IHRvIGFkZCBzb25hciBhbmFseXNpcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgImluc2VydGVkX3RzIiA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB8IiIiLnN0cmlwTWFyZ2luKQo=</text>
+      <register name="4" type="4">
+        <text>stages {
+              stage('Scorecard Check - e2e') {
+                  when { expression {return config.enableScorecardReadinessCheck} }
+                  steps {
+                    scorecardProdReadiness(config, getEnvName(config, 'primary'))
+                }
+              }
+            }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBzdGFnZSgnU2NvcmVjYXJkIENoZWNrIC0gZTJlJykgewogICAgICAgICAgICAgICB3aGVuIHsgZXhwcmVzc2lvbiB7cmV0dXJuIGNvbmZpZy5lbmFibGVTY29yZWNhcmRSZWFkaW5lc3NDaGVja30gfQogICAgICAgICAgICAgICBzdGVwcyB7CiAgICAgICAgICAgICAgICAgICBzY29yZWNhcmRQcm9kUmVhZGluZXNzKGNvbmZpZywgZ2V0RW52TmFtZShjb25maWcsICdwcmltYXJ5JykpCiAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>stage('Scorecard Check') {
+               when { expression {return config.enableScorecardReadinessCheck} }
+               steps {
+                   scorecardProdReadiness(config, getEnvName(config, 'primary'))
+               }
+            }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLyoKICAgICAgICAgICAgICAgICAgICAgICAgc3RhZ2UoJ29mZmxpbmUgYXJ0aWZhY3RzIHRvIFMzJyl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGVwcyB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2NyaXB0IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmIGlzRGVwbG95ID0gdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGltZW91dCh0aW1lOjEsIHVuaXQ6J0RBWVMnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXQgIk9mZmxpbmUgUzNDb3B5IHRvIEUyRT8iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VibWl0dGVyOiAiY2JsYW5rZW5zaGlwLGludGxnbnRzeXMsZHRob21zb24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzRGVwbG95ID0gZmFsc2UKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVjaG8gIklucHV0IHRpbWVkIG91dCBvciBhYm9ydGVkLCBza2lwcGluZyBhcnRpZmFjdCBkZXBsb3ltZW50IHRvIGUyZS4uLi4uLi4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50QnVpbGQucmVzdWx0ID0gJ0FCT1JURUQnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmKGlzRGVwbG95KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXBsb3lCdWlsZFRvUzMoJ2UyZScsIGNvbmZpZy5TM19CVUNLRVRfQUNDRVNTX1JPTEVfUFBELCBjb25maWcuUzNfQlVDS0VUX0RFUExPWV9QQVRIX0UyRSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9Ki8=</text>
+      <register name="8" type="8">
+        <text encoding="base64">IAogCiAKIAog</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICAKICAgICAgICAgICA=</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
@@ -402,9 +397,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkYXRhc2V0MVw+</last-search>
+      <last-search>scorecard</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhc2V0MVw+</last-pattern>
+      <last-pattern>scorecard</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
