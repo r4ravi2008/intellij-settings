@@ -162,9 +162,6 @@
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" timestamp="1592842493352">
         <mark key="'" line="27" column="51" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1592794178498">
         <mark key="[" line="5" column="21" />
