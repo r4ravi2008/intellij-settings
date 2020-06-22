@@ -206,8 +206,12 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" timestamp="1592408183965">
         <mark key="'" line="122" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1592856282989">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1592857092147">
         <mark key="'" line="72" column="56" />
+        <mark key="[" line="111" column="22" />
+        <mark key="]" line="111" column="20" />
+        <mark key="^" line="111" column="20" />
+        <mark key="." line="111" column="19" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/Jenkinsfile" timestamp="1592267038328">
         <mark key="[" line="43" column="37" />
@@ -333,7 +337,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gc29tZSBibG9jawo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3RlcHMg</text>
@@ -345,38 +349,31 @@
         <text>(current_date</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gc29tZSBibG9jawo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGRpc3RyaWJ1dGlvbk1hbmFnZW1lbnQ+CiAgICAgICAgPHJlcG9zaXRvcnk+CiAgICAgICAgICAgIDwhLS0gRG9uJ3QgY2hhbmdlIHRoZSBJRCBvZiB0aGlzIHJlcG9zaXRvcnkgKGl0J3MgY29uZmlndXJlZAogICAgICAgICAgICAgICAgaW4gdGhlIFNDTSBzZXR0aW5ncy54bWwgdGhhdCBnZXRzIHBhc3NlZCBpbnRvIElCUCBlbnZpcm9ubWVudCB2YXJpYWJsZXMpIC0tPgogICAgICAgICAgICA8aWQ+c2NtLmludC5yZWwucmVwbzwvaWQ+CiAgICAgICAgICAgIDxuYW1lPlNDTSBJTlQgcmVsZWFzZSByZXBvc2l0b3J5PC9uYW1lPgogICAgICAgICAgICA8IS0tIFRoaXMgdmFsdWUgd2lsbCBiZSBwYXNzZWQgaW4gYnkgdGhlIFNDTSBidWlsZCAtLT4KICAgICAgICAgICAgPHVybD5odHRwOi8vbmV4dXMuaW50dWl0Lm5ldC9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9FTkcuQ1RHLkludHVpdC1SZWxlYXNlczwvdXJsPgoKICAgICAgICA8L3JlcG9zaXRvcnk+CiAgICAgICAgPHNuYXBzaG90UmVwb3NpdG9yeT4KICAgICAgICAgICAgPCEtLSBEb24ndCBjaGFuZ2UgdGhlIElEIG9mIHRoaXMgcmVwb3NpdG9yeSAoaXQncyBjb25maWd1cmVkCiAgICAgICAgICAgICAgICBpbiB0aGUgc2V0dGluZ3MueG1sIHRoYXQgZ2V0cyBwYXNzZWQgaW50byBJQlAgZW52aXJvbm1lbnQgdmFyaWFibGVzKSAtLT4KICAgICAgICAgICAgPGlkPnNjbS5kZXYuc25hcC5yZXBvPC9pZD4KICAgICAgICAgICAgPG5hbWU+U0NNIERFViBzbmFwc2hvdCByZWxlYXNlIHJlcG9zaXRvcnk8L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL25leHVzLmludHVpdC5uZXQvbmV4dXMvY29udGVudC9yZXBvc2l0b3JpZXMvRU5HLkNURy5JbnR1aXQtU25hcHNob3RzPC91cmw+CiAgICAgICAgPC9zbmFwc2hvdFJlcG9zaXRvcnk+CiAgICA8L2Rpc3RyaWJ1dGlvbk1hbmFnZW1lbnQ+</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXh1c1BvbGljeUV2YWx1YXRpb24gaXFBcHBsaWNhdGlvbjogIiR7Y29uZmlnLmFzc2V0X2lkfSIsIGlxU3RhZ2U6ICJidWlsZCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">PGRpc3RyaWJ1dGlvbk1hbmFnZW1lbnQ+CiAgICAgICAgPHJlcG9zaXRvcnk+CiAgICAgICAgICAgIDwhLS0gRG9uJ3QgY2hhbmdlIHRoZSBJRCBvZiB0aGlzIHJlcG9zaXRvcnkgKGl0J3MgY29uZmlndXJlZAogICAgICAgICAgICAgICAgaW4gdGhlIFNDTSBzZXR0aW5ncy54bWwgdGhhdCBnZXRzIHBhc3NlZCBpbnRvIElCUCBlbnZpcm9ubWVudCB2YXJpYWJsZXMpIC0tPgogICAgICAgICAgICA8aWQ+c2NtLmludC5yZWwucmVwbzwvaWQ+CiAgICAgICAgICAgIDxuYW1lPlNDTSBJTlQgcmVsZWFzZSByZXBvc2l0b3J5PC9uYW1lPgogICAgICAgICAgICA8IS0tIFRoaXMgdmFsdWUgd2lsbCBiZSBwYXNzZWQgaW4gYnkgdGhlIFNDTSBidWlsZCAtLT4KICAgICAgICAgICAgPHVybD5odHRwOi8vbmV4dXMuaW50dWl0Lm5ldC9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9FTkcuQ1RHLkludHVpdC1SZWxlYXNlczwvdXJsPgoKICAgICAgICA8L3JlcG9zaXRvcnk+CiAgICAgICAgPHNuYXBzaG90UmVwb3NpdG9yeT4KICAgICAgICAgICAgPCEtLSBEb24ndCBjaGFuZ2UgdGhlIElEIG9mIHRoaXMgcmVwb3NpdG9yeSAoaXQncyBjb25maWd1cmVkCiAgICAgICAgICAgICAgICBpbiB0aGUgc2V0dGluZ3MueG1sIHRoYXQgZ2V0cyBwYXNzZWQgaW50byBJQlAgZW52aXJvbm1lbnQgdmFyaWFibGVzKSAtLT4KICAgICAgICAgICAgPGlkPnNjbS5kZXYuc25hcC5yZXBvPC9pZD4KICAgICAgICAgICAgPG5hbWU+U0NNIERFViBzbmFwc2hvdCByZWxlYXNlIHJlcG9zaXRvcnk8L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL25leHVzLmludHVpdC5uZXQvbmV4dXMvY29udGVudC9yZXBvc2l0b3JpZXMvRU5HLkNURy5JbnR1aXQtU25hcHNob3RzPC91cmw+CiAgICAgICAgPC9zbmFwc2hvdFJlcG9zaXRvcnk+CiAgICA8L2Rpc3RyaWJ1dGlvbk1hbmFnZW1lbnQ+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJndW1lbnRzPi1zIHNldHRpbmdzLnhtbDwvYXJndW1lbnRzPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IFVuY29tbWVudCBmb2xsb3dpbmcgTmV4dXMgSVEgY2hlY2sgYWZ0ZXIgcmVzb2x2aW5nIHNlY3VyaXR5IHZ1bG5lcmFiaWxpdHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gZW5hYmxlIHRoaXMgd2hlbiB3ZSB3YW50IHRvIGFkZCBzb25hciBhbmFseXNpcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJndW1lbnRzPi1zIHNldHRpbmdzLnhtbDwvYXJndW1lbnRzPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE86IFVuY29tbWVudCBmb2xsb3dpbmcgTmV4dXMgSVEgY2hlY2sgYWZ0ZXIgcmVzb2x2aW5nIHNlY3VyaXR5IHZ1bG5lcmFiaWxpdHkK</text>
       </register>
-      <register name="9" type="4">
-        <text>stages {
-              stage('Scorecard Check - e2e') {
-                  when { expression {return config.enableScorecardReadinessCheck} }
-                  steps {
-                    scorecardProdReadiness(config, getEnvName(config, 'primary'))
-                }
-              }
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gZW5hYmxlIHRoaXMgd2hlbiB3ZSB3YW50IHRvIGFkZCBzb25hciBhbmFseXNpcwo=</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
