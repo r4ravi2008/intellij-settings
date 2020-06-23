@@ -154,11 +154,6 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/offline/src/main/java/com/intuit/v4/intlgntsys/recommender/zoltar/offline/blocks/attributeCollector/providers/HiveProvider.java" timestamp="1592417722894">
         <mark key="'" line="25" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1592267394292">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusReader.scala" timestamp="1592794407357">
         <mark key="'" line="92" column="1" />
         <mark key="[" line="63" column="62" />
@@ -174,6 +169,12 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" timestamp="1592927630171">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="11" />
+        <mark key="." line="25" column="10" />
+        <mark key="^" line="25" column="11" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/src/main/scala/pzn/SampleEventBusWriter.scala" timestamp="1592433076475">
         <mark key="[" line="24" column="9" />
@@ -209,12 +210,12 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/IXPProviderTest.java" timestamp="1592408183965">
         <mark key="'" line="122" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1592924871397">
-        <mark key="'" line="176" column="22" />
-        <mark key="[" line="124" column="50" />
-        <mark key="]" line="124" column="77" />
-        <mark key="." line="124" column="76" />
-        <mark key="^" line="124" column="77" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1592928072272">
+        <mark key="'" line="184" column="41" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+        <mark key="^" line="110" column="60" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/README.md" timestamp="1592895344632" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/KubernetesPods.yaml" timestamp="1592876793609">
@@ -332,21 +333,21 @@
       <jump line="170" column="26" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="183" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="168" column="46" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="197" column="13" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="57" column="19" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="196" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="184" column="43" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="171" column="80" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="176" column="22" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="197" column="14" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="184" column="41" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHRyeSB1c2luZyBjYXRjaGVycm9y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50QnVpbGQucmVzdWx0ID0gJ1NVQ0NFU1MnCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRyeSB1c2luZyBjYXRjaGVycm9y</text>
+        <text>SonarQubeAnalysis</text>
       </register>
       <register name="/" type="4">
         <text>overwatch</text>
@@ -355,33 +356,44 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGVjaG8gImJ1aWxkUmVzdWx0IGluIGNoZWNrbWFyeCBzdGFnZTogJHtjdXJyZW50QnVpbGQucmVzdWx0fSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50QnVpbGQucmVzdWx0ID0gJ1NVQ0NFU1MnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAibmV4dXMgZXZhbHVhdGlvbiBkb25lISIK</text>
       </register>
-      <register name="3" type="4">
-        <text>catch (Exception e) {
-                          echo &quot;caught exception!!!&quot;
-                      }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAiU3RhcnQgbmV4dXMgZXZhbHVhdGlvbiEiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBlY2hvICJTZXQgY3VycmVudEJ1aWxkLnJlc3VsdCA9IFN1Y2Nlc3MhIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHNoICJleGl0IDEiCg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKIH0=</text>
-      </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="8" type="4">
+        <text>stage('Check if unstable') {
+                steps {
+                  script {
+                     echo &quot;RESULT in next stage: ${currentBuild.result}&quot;
+                    if (currentBuild.result == 'UNSTABLE') {
+                        currentBuild.result = 'SUCCESS'
+                         echo &quot;Setting currentBuild result: ${currentBuild.result}&quot;
+                    }
+                    currentBuild.result = 'SUCCESS'
+                    //currentBuild.rawBuild.@result = hudson.model.Result.SUCCESS
+                    echo &quot;RESULT in final stage: ${currentBuild.result}&quot;
+                  }
+                }
+              }</text>
+      </register>
       <register name="9" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgCiAgIAogICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICAKICAgICAgICAgICAgICA=</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
