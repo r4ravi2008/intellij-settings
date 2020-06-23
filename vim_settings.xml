@@ -130,7 +130,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592895710866">
+      <file name="/Dummy.txt" timestamp="1592896779914">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -210,11 +210,11 @@
         <mark key="'" line="122" column="4" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1592896731700">
-        <mark key="'" line="184" column="43" />
-        <mark key="[" line="196" column="14" />
-        <mark key="]" line="196" column="14" />
-        <mark key="." line="196" column="13" />
-        <mark key="^" line="196" column="14" />
+        <mark key="'" line="185" column="43" />
+        <mark key="[" line="197" column="14" />
+        <mark key="]" line="197" column="14" />
+        <mark key="." line="197" column="13" />
+        <mark key="^" line="197" column="14" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/README.md" timestamp="1592895344632" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/KubernetesPods.yaml" timestamp="1592876793609">
@@ -342,11 +342,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHNpbmdsZSBxdW90ZSBmaXg=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IHNpbmdsZSBxdW90ZSBmaXg=</text>
       </register>
       <register name="/" type="4">
         <text>overwatch</text>
