@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>resources</entry>
-        <entry>Score</entry>
         <entry encoding="base64">XDxkYXRhc2V0MVw+</entry>
         <entry>score</entry>
         <entry>scorecard</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxidWlsZFw+</entry>
         <entry encoding="base64">XDxjb2Nvb25Jbml0XD4=</entry>
         <entry>timeout</entry>
+        <entry>sonar</entry>
+        <entry>SONAR</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/n/\\n/gc</entry>
@@ -130,10 +130,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593017652741">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/settings.xml" timestamp="1593019803851">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593019922192">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
         <mark key="^" line="0" column="44" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ZoltarIXPClientTest.java" timestamp="1592887212169">
@@ -231,12 +237,6 @@
         <mark key="]" line="27" column="190" />
         <mark key="." line="27" column="189" />
         <mark key="^" line="27" column="190" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/EventBusStep.scala" timestamp="1592349062104">
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="39" column="26" />
-        <mark key="." line="39" column="25" />
-        <mark key="^" line="39" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -345,13 +345,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Remove ls from builds</text>
+        <text>in app/settings.x</text>
       </register>
       <register name="-" type="4">
-        <text>Remove ls from builds</text>
+        <text>in app/settings.x</text>
       </register>
       <register name="/" type="4">
-        <text>timeout</text>
+        <text>SONAR</text>
       </register>
       <register name="0" type="4">
         <text>docker.intuit.com/docker:19.03.9</text>
@@ -395,9 +395,9 @@ import java.util.{Calendar, Date}</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>timeout</last-search>
+      <last-search>SONAR</last-search>
       <last-offset />
-      <last-pattern>timeout</last-pattern>
+      <last-pattern>SONAR</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
