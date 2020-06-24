@@ -156,12 +156,12 @@
         <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1592953137186" />
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/settings.xml" timestamp="1593022889352">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/settings.xml" timestamp="1593028237649">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593022927878">
+      <file name="/Dummy.txt" timestamp="1593028243358">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -347,43 +347,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>add sonarqube related config</text>
+        <text>fix sonarqube config</text>
       </register>
       <register name="-" type="4">
-        <text>add sonarqube related config</text>
+        <text>fix sonarqube config</text>
       </register>
       <register name="/" type="4">
         <text>SONAR</text>
       </register>
-      <register name="0" type="4">
-        <text>docker.intuit.com/docker:19.03.9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8c29uYXIuamF2YS5jb3ZlcmFnZVBsdWdpbj5qYWNvY288L3NvbmFyLmphdmEuY292ZXJhZ2VQbHVnaW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8c29uYXIuYmluYXJpZXM+Li9hcHAvdGFyZ2V0L2NsYXNzZXMvPC9zb25hci5iaW5hcmllcz4K</text>
+        <text encoding="base64">ICAgICAgICA8c29uYXIuamF2YS5jb3ZlcmFnZVBsdWdpbj5qYWNvY288L3NvbmFyLmphdmEuY292ZXJhZ2VQbHVnaW4+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8c29uYXIuamFjb2NvLnJlcG9ydFBhdGg+Li9hcHAvdGFyZ2V0L3Rlc3QtcmVzdWx0cy9jb3ZlcmFnZS9qYWNvY28vamFjb2NvLmV4ZWM8L3NvbmFyLmphY29jby5yZXBvcnRQYXRoPgo=</text>
+        <text encoding="base64">ICAgICAgICA8c29uYXIuYmluYXJpZXM+Li9hcHAvdGFyZ2V0L2NsYXNzZXMvPC9zb25hci5iaW5hcmllcz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8c29uYXIuc3VyZWZpcmUucmVwb3J0c1BhdGg+Li9hcHAvdGFyZ2V0L3N1cmVmaXJlLXJlcG9ydHM8L3NvbmFyLnN1cmVmaXJlLnJlcG9ydHNQYXRoPgo=</text>
+        <text encoding="base64">ICAgICAgICA8c29uYXIuamFjb2NvLnJlcG9ydFBhdGg+Li9hcHAvdGFyZ2V0L3Rlc3QtcmVzdWx0cy9jb3ZlcmFnZS9qYWNvY28vamFjb2NvLmV4ZWM8L3NvbmFyLmphY29jby5yZXBvcnRQYXRoPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8c29uYXIuanVuaXQucmVwb3J0c1BhdGg+Li9hcHAvdGFyZ2V0L3N1cmVmaXJlLXJlcG9ydHM8L3NvbmFyLmp1bml0LnJlcG9ydHNQYXRoPgo=</text>
+        <text encoding="base64">ICAgICAgICA8c29uYXIuc3VyZWZpcmUucmVwb3J0c1BhdGg+Li9hcHAvdGFyZ2V0L3N1cmVmaXJlLXJlcG9ydHM8L3NvbmFyLnN1cmVmaXJlLnJlcG9ydHNQYXRoPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8c29uYXIudGVzdHM+Li9hcHAvc3JjL3Rlc3Q8L3NvbmFyLnRlc3RzPgo=</text>
+        <text encoding="base64">ICAgICAgICA8c29uYXIuanVuaXQucmVwb3J0c1BhdGg+Li9hcHAvdGFyZ2V0L3N1cmVmaXJlLXJlcG9ydHM8L3NvbmFyLmp1bml0LnJlcG9ydHNQYXRoPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8aW50ZXJhY3RpdmVNb2RlPmZhbHNlPC9pbnRlcmFjdGl2ZU1vZGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c29uYXIudGVzdHM+Li9hcHAvc3JjL3Rlc3Q8L3NvbmFyLnRlc3RzPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8aW50ZXJhY3RpdmVNb2RlPmZhbHNlPC9pbnRlcmFjdGl2ZU1vZGU+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzaCBzY3JpcHQ6ICJscyAtUiAvdmFyL3J1bi9vdXRwdXRzL2J1bmRsZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzaCBzY3JpcHQ6ICJscyAtUiAgXCR7V09SS1NQQUNFfSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzaCBzY3JpcHQ6ICJscyAtUiAvdmFyL3J1bi9vdXRwdXRzL2J1bmRsZSIK</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
