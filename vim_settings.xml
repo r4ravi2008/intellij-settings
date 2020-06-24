@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>jpa</entry>
         <entry encoding="base64">XDxldmVudEJ1c1N0ZXBJbnB1dFRhYmxlXD4=</entry>
         <entry encoding="base64">XDxjbGlja3N0cmVhbVRhYmxlXD4=</entry>
         <entry encoding="base64">XDx0YXJnZXRpbmdTdGVwSW5wdXRUYWJsZVw+</entry>
@@ -27,6 +26,7 @@
         <entry>release</entry>
         <entry>mvn</entry>
         <entry>overwatch</entry>
+        <entry>Sonar</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/n/\\n/gc</entry>
@@ -130,7 +130,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592929120675">
+      <file name="/Dummy.txt" timestamp="1592957928979">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -170,11 +170,12 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" timestamp="1592927630171">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="11" />
-        <mark key="." line="25" column="10" />
-        <mark key="^" line="25" column="11" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" timestamp="1592957921123">
+        <mark key="'" line="23" column="10" />
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="21" />
+        <mark key="^" line="28" column="22" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/eventbus-spark/src/main/scala/pzn/SampleEventBusWriter.scala" timestamp="1592433076475">
         <mark key="[" line="24" column="9" />
@@ -235,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="417" column="23" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="411" column="23" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="243" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="312" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -335,18 +335,19 @@
       <jump line="176" column="22" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="197" column="14" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="184" column="41" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="23" column="10" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>disable nexus iq scan by default</text>
       </register>
       <register name="-" type="4">
-        <text>add more logs to check if the unstable being reported from upstream</text>
+        <text>disable nexus iq scan by default</text>
       </register>
       <register name="/" type="4">
-        <text>overwatch</text>
+        <text>Sonar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGVjaG8gImJ1aWxkUmVzdWx0IGluIGNoZWNrbWFyeCBzdGFnZTogJHtjdXJyZW50QnVpbGQucmVzdWx0fSIK</text>
@@ -390,9 +391,9 @@ import java.util.{Calendar, Date}</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>overwatch</last-search>
+      <last-search>Sonar</last-search>
       <last-offset />
-      <last-pattern>overwatch</last-pattern>
+      <last-pattern>Sonar</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
