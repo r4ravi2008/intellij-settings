@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>nexus</entry>
-        <entry encoding="base64">XDxjYXRjaExvY2FsRXJyb3JcPg==</entry>
-        <entry encoding="base64">XDxydW5OZXh1c0lRU2Nhbk9yQ2F0Y2hFcnJvclw+</entry>
         <entry encoding="base64">XDxyZWxlYXNlXD4=</entry>
         <entry>release</entry>
         <entry>mvn</entry>
@@ -27,6 +24,9 @@
         <entry>test</entry>
         <entry>enable</entry>
         <entry>plugin</entry>
+        <entry>snapshot</entry>
+        <entry>SNAPSHOT</entry>
+        <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/n/\\n/gc</entry>
@@ -167,7 +167,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593112261766">
+      <file name="/Dummy.txt" timestamp="1593112372287">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -193,12 +193,11 @@
         <mark key="." line="63" column="63" />
         <mark key="^" line="63" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" timestamp="1593110334013">
-        <mark key="'" line="335" column="0" />
-        <mark key="[" line="558" column="17" />
-        <mark key="]" line="579" column="21" />
-        <mark key="^" line="579" column="21" />
-        <mark key="." line="579" column="20" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" timestamp="1593112868326">
+        <mark key="'" line="583" column="17" />
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="40" column="17" />
+        <mark key="." line="40" column="17" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/eventbus/eventbus_e2e.conf" timestamp="1592794178498">
         <mark key="[" line="5" column="21" />
@@ -249,16 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="494" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="516" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="513" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="58" column="64" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="71" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="113" column="20" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="518" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="118" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="108" column="26" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="114" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="111" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="109" column="27" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="74" column="44" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -349,48 +338,58 @@
       <jump line="423" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="418" column="41" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="335" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="565" column="39" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="45" column="42" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="421" column="26" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="464" column="27" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="13" column="19" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="37" column="64" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="38" column="49" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="579" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="583" column="17" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>enable scorecard</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>enable scorecard</text>
+        <text>Run codecov publish before code analysis</text>
       </register>
       <register name="/" type="4">
-        <text>plugin</text>
+        <text encoding="base64">XDx2ZXJzaW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8c29uYXIuamF2YS5jb3ZlcmFnZVBsdWdpbj5qYWNvY288L3NvbmFyLmphdmEuY292ZXJhZ2VQbHVnaW4+Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWVuZm9yY2VyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMC4wLU0xPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPGV4ZWN1dGlvbnM+CiAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlkPmVuZm9yY2Utbm8tc25hcHNob3RzPC9pZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+ZW5mb3JjZTwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cnVsZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHJlcXVpcmVSZWxlYXNlRGVwcz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1lc3NhZ2U+Tm8gU25hcHNob3QgRGVwZW5kZW5jaWVzIEFsbG93ZWQhPC9tZXNzYWdlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvcmVxdWlyZVJlbGVhc2VEZXBzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9ydWxlcz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmYWlsPnRydWU8L2ZhaWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgPC9wbHVnaW4+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8c29uYXIudGVzdHM+Li9zcmMvdGVzdDwvc29uYXIudGVzdHM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8c29uYXIudGVzdHM+Li9zcmMvdGVzdDwvc29uYXIudGVzdHM+Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tZW5mb3JjZXItcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+My4wLjAtTTE8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8aWQ+ZW5mb3JjZS1uby1zbmFwc2hvdHM8L2lkPgogICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5lbmZvcmNlPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxydWxlcz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cmVxdWlyZVJlbGVhc2VEZXBzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWVzc2FnZT5ObyBTbmFwc2hvdCBEZXBlbmRlbmNpZXMgQWxsb3dlZCE8L21lc3NhZ2U+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9yZXF1aXJlUmVsZWFzZURlcHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3J1bGVzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGZhaWw+dHJ1ZTwvZmFpbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">RlJPTSBkb2NrZXIuYXJ0aWZhY3RvcnkuYS5pbnR1aXQuY29tL2ludGxnbnRzeXMvcmVjb21tZW5kZXIvem9sdGFyLXNlcnZpY2Uvc2VydmljZS96b2x0YXItc2VydmljZTpjb2Nvb24gQVMgY29jb29uCg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
@@ -402,9 +401,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>plugin</last-search>
+      <last-search encoding="base64">XDx2ZXJzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>plugin</last-pattern>
+      <last-pattern encoding="base64">XDx2ZXJzaW9uXD4=</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
