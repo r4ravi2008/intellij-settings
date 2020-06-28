@@ -172,11 +172,11 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/repos/kotr/getting_started/Dockerfile" timestamp="1593319468222">
+      <file name="$USER_HOME$/dev/repos/kotr/getting_started/Dockerfile" timestamp="1593319507588">
         <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="11" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="16" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ZoltarIXPClientTest.java" timestamp="1592887212169">
         <mark key="'" line="24" column="13" />
