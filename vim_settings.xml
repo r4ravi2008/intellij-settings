@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>build</entry>
         <entry encoding="base64">XDxidWlsZFw+</entry>
         <entry>timeout</entry>
         <entry>sonar</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxydWxlXD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0b3JcPg==</entry>
         <entry>my-application</entry>
+        <entry>UseCGroupMemoryLimitForHeap</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/n/\\n/gc</entry>
@@ -134,11 +134,12 @@
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" timestamp="1593318079046">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" timestamp="1593321717957">
+        <mark key="'" line="53" column="29" />
+        <mark key="[" line="53" column="35" />
+        <mark key="]" line="53" column="40" />
+        <mark key="." line="53" column="39" />
+        <mark key="^" line="53" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1593115144859">
         <mark key="[" line="0" column="10" />
@@ -172,11 +173,12 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/repos/kotr/getting_started/Dockerfile" timestamp="1593319507588">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="3" column="16" />
+      <file name="$USER_HOME$/dev/repos/kotr/getting_started/Dockerfile" timestamp="1593320512856">
+        <mark key="'" line="3" column="16" />
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="10" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/test/java/com/intuit/v4/intlgntsys/recommender/zoltar/blocks/experimentation/provider/ZoltarIXPClientTest.java" timestamp="1592887212169">
         <mark key="'" line="24" column="13" />
@@ -236,13 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="51" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
-      <jump line="750" column="34" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
-      <jump line="32" column="1" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/ElasticacheMetadataDockerfile" />
-      <jump line="30" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/ElasticacheMetadataDockerfile" />
-      <jump line="164" column="22" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="163" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="162" column="22" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="161" column="46" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="177" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="181" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -336,18 +331,25 @@
       <jump line="42" column="4" filename="$USER_HOME$/dev/repos/kotr/getting_started/build.gradle" />
       <jump line="27" column="4" filename="$USER_HOME$/dev/repos/kotr/getting_started/build.gradle" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/repos/kotr/getting_started/build.gradle" />
+      <jump line="3" column="16" filename="$USER_HOME$/dev/repos/kotr/getting_started/Dockerfile" />
+      <jump line="20" column="12" filename="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" />
+      <jump line="51" column="4" filename="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" />
+      <jump line="50" column="8" filename="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" />
+      <jump line="38" column="27" filename="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" />
+      <jump line="57" column="12" filename="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" />
+      <jump line="53" column="29" filename="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IFdPUkxE</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IFdPUkxE</text>
       </register>
       <register name="/" type="4">
-        <text>my-application</text>
+        <text>UseCGroupMemoryLimitForHeap</text>
       </register>
       <register name="0" type="4">
         <text>com.intuit.sb.sbg-qbo</text>
@@ -356,28 +358,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsYXNzcGF0aCAiY29tLmdpdGh1Yi5qZW5nZWxtYW4uZ3JhZGxlLnBsdWdpbnM6c2hhZG93OjIuMC4xIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmt0b3IucmVxdWVzdC4qCg==</text>
+        <text encoding="base64">ICAgIGNsYXNzcGF0aCAiY29tLmdpdGh1Yi5qZW5nZWxtYW4uZ3JhZGxlLnBsdWdpbnM6c2hhZG93OjIuMC4xIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLmt0b3IucmVxdWVzdC4qCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3JlcXVpcmVSZWxlYXNlRGVwcz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3JlcXVpcmVSZWxlYXNlRGVwcz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1lc3NhZ2U+Tm8gU25hcHNob3RzIEFsbG93ZWQhPC9tZXNzYWdlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cmVxdWlyZVJlbGVhc2VEZXBzPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1lc3NhZ2U+Tm8gU25hcHNob3RzIEFsbG93ZWQhPC9tZXNzYWdlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cmVxdWlyZVJlbGVhc2VEZXBzPgo=</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
@@ -389,9 +391,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>my-application</last-search>
+      <last-search>UseCGroupMemoryLimitForHeap</last-search>
       <last-offset />
-      <last-pattern>my-application</last-pattern>
+      <last-pattern>UseCGroupMemoryLimitForHeap</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
