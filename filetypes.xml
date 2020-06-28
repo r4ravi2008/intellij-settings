@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="preparation.template" type="HOCON" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="mvel" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping pattern="preparation.template" type="HOCON" />
     </extensionMap>
   </component>
 </application>
