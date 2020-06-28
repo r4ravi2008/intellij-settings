@@ -134,8 +134,8 @@
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" timestamp="1593321717957">
-        <mark key="'" line="53" column="29" />
+      <file name="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" timestamp="1593321861222">
+        <mark key="'" line="43" column="18" />
         <mark key="[" line="53" column="35" />
         <mark key="]" line="53" column="40" />
         <mark key="." line="53" column="39" />
@@ -238,7 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="46" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="177" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="181" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="261" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -338,6 +337,7 @@
       <jump line="38" column="27" filename="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" />
       <jump line="57" column="12" filename="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" />
       <jump line="53" column="29" filename="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" />
+      <jump line="43" column="18" filename="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
