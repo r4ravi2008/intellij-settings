@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2Nvb25Jbml0XD4=</entry>
-        <entry encoding="base64">XDxjb2Nvb25cPg==</entry>
-        <entry>jacoco</entry>
-        <entry>test</entry>
         <entry>enable</entry>
         <entry>plugin</entry>
         <entry>snapshot</entry>
@@ -27,6 +23,10 @@
         <entry>compile</entry>
         <entry>compiler</entry>
         <entry encoding="base64">XDxzcWxDb250ZXh0XD4=</entry>
+        <entry>3600</entry>
+        <entry encoding="base64">XDxkYXRhc2V0XD4=</entry>
+        <entry>foreachpartition</entry>
+        <entry>partition</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/n/\\n/gc</entry>
@@ -143,12 +143,6 @@
         <mark key="^" line="168" column="21" />
         <mark key="." line="168" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593453306807">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-        <mark key="^" line="0" column="44" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/KafkaConnector.scala" timestamp="1593464196552">
         <mark key="'" line="50" column="41" />
         <mark key="[" line="134" column="90" />
@@ -162,6 +156,29 @@
         <mark key="]" line="3" column="11" />
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" timestamp="1593467180567">
+        <mark key="'" line="95" column="8" />
+        <mark key="[" line="80" column="59" />
+        <mark key="]" line="80" column="90" />
+        <mark key="^" line="80" column="90" />
+        <mark key="." line="80" column="89" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" timestamp="1593321861222">
+        <mark key="'" line="43" column="18" />
+        <mark key="[" line="53" column="35" />
+        <mark key="]" line="53" column="40" />
+        <mark key="." line="53" column="39" />
+        <mark key="^" line="53" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/config/e2e/application.conf" timestamp="1593465478592">
+        <mark key="'" line="33" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593453306807">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="44" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/zoltar-shared-dto/pom.xml" timestamp="1593114353327">
         <mark key="[" line="17" column="19" />
@@ -183,6 +200,7 @@
         <mark key="." line="22" column="45" />
         <mark key="^" line="22" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/utils/ConfigInitializer.scala" timestamp="1593466985319" />
       <file name="$USER_HOME$/dev/repos/kotr/meMuh/test/ApplicationTest.kt" timestamp="1593340325579">
         <mark key="[" line="21" column="41" />
         <mark key="]" line="21" column="46" />
@@ -190,22 +208,6 @@
         <mark key="." line="21" column="45" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/utils/MiloStreamingListener.scala" timestamp="1593460387562" />
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Dockerfile.sonar" timestamp="1593034042797">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" timestamp="1593457599506">
-        <mark key="'" line="49" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" timestamp="1593321861222">
-        <mark key="'" line="43" column="18" />
-        <mark key="[" line="53" column="35" />
-        <mark key="]" line="53" column="40" />
-        <mark key="." line="53" column="39" />
-        <mark key="^" line="53" column="40" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1593446564046">
         <mark key="'" line="111" column="31" />
         <mark key="[" line="173" column="14" />
@@ -221,35 +223,12 @@
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/settings.xml" timestamp="1593035847654">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0.jar!/org/apache/spark/rdd/RDD.class" timestamp="1593458507956" />
       <file name="/fragment.java" timestamp="1593442674823">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="22" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="197" column="14" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="184" column="41" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="23" column="10" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" />
-      <jump line="24" column="5" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/ElasticacheMetadataDockerfile" />
-      <jump line="43" column="14" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/ElasticacheMetadataDockerfile" />
-      <jump line="6" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/ElasticacheMetadataDockerfile" />
-      <jump line="7" column="14" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/ElasticacheMetadataDockerfile" />
-      <jump line="78" column="26" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="86" column="44" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="167" column="38" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="193" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="218" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="235" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="264" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="289" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="306" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="335" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="360" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="380" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="398" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -332,48 +311,66 @@
       <jump line="41" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/KafkaConnector.scala" />
       <jump line="30" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/KafkaConnector.scala" />
       <jump line="50" column="41" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/KafkaConnector.scala" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/config/e2e/application.conf" />
+      <jump line="138" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="123" column="22" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="94" column="28" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="186" column="14" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="72" column="10" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="82" column="11" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="90" column="11" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="225" column="11" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="217" column="11" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="207" column="10" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="191" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="135" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="132" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="120" column="22" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="189" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="91" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="92" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzcWxDb250ZXh0XD4=</text>
+        <text>partition</text>
       </register>
       <register name="0" type="4">
         <text>com.intuit.sb.sbg-qbo</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgKG1zZykgPT4gewogICAgICAgICAgICBKU09OUGFyc2VyLnBhcnNlTWFzdGVyKG1zZyk=</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAgICAgICAgICAgIAogICAgICAgICAgICAgCiAgICAgICAgICAgICAKICAgICAgICAgICAgIAogICAgICAgICAgICAgCiAgICAgICAgICAgICAKICAgICAgICAgICAgIAogICAgICAgICAgICAgCiAgICAgICAgICAgICAKICAgICAgICAgICAgIAogICAgICAgICAgICAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIH0KICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">eyBwYXJ0aXRpb24gPT4KICAgICAgICAgIHBhcnRpdGlvbi5ncm91cGVkKDEwMDApLmZvcmVhY2ggewogICAgICAgICAgICBncm91cCA9PiB7CiAgICAgICAgICAgICAgZ3JvdXAuZm9yZWFjaCB7</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">eyBwYXJ0aXRpb24gPT4KICAgICAgICAgIHBhcnRpdGlvbi5ncm91cGVkKDEwMDApLmZvcmVhY2ggewogICAgICAgICAgICBncm91cCA9PiB7CiAgICAgICAgICAgICAgZ3JvdXAuZm9yZWFjaCB7</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgKG1zZykgPT4gewogICAgICAgICAgICBKU09OUGFyc2VyLnBhcnNlTWFzdGVyKG1zZyk=</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
@@ -385,9 +382,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzcWxDb250ZXh0XD4=</last-search>
+      <last-search>partition</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzcWxDb250ZXh0XD4=</last-pattern>
+      <last-pattern>partition</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
