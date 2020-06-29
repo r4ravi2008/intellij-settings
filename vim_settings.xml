@@ -143,43 +143,18 @@
         <mark key="^" line="168" column="21" />
         <mark key="." line="168" column="20" />
       </file>
+      <file name="/Dummy.txt" timestamp="1593339913743">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="44" />
+      </file>
       <file name="$USER_HOME$/dev/repos/kotr/getting_started/Dockerfile" timestamp="1593320512856">
         <mark key="'" line="3" column="16" />
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="11" />
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" timestamp="1593017641821">
-        <mark key="'" line="23" column="10" />
-        <mark key="[" line="28" column="22" />
-        <mark key="]" line="28" column="23" />
-        <mark key="." line="28" column="22" />
-        <mark key="^" line="28" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Dockerfile.sonar" timestamp="1593034042797">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" timestamp="1593321861222">
-        <mark key="'" line="43" column="18" />
-        <mark key="[" line="53" column="35" />
-        <mark key="]" line="53" column="40" />
-        <mark key="." line="53" column="39" />
-        <mark key="^" line="53" column="40" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/settings.xml" timestamp="1593035847654">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593339913743">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-        <mark key="^" line="0" column="44" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/ElasticacheMetadataDockerfile" timestamp="1593034038015">
         <mark key="'" line="0" column="108" />
@@ -223,6 +198,26 @@
         <mark key="^" line="21" column="46" />
         <mark key="." line="21" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" timestamp="1593017641821">
+        <mark key="'" line="23" column="10" />
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="22" />
+        <mark key="^" line="28" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Dockerfile.sonar" timestamp="1593034042797">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" timestamp="1593321861222">
+        <mark key="'" line="43" column="18" />
+        <mark key="[" line="53" column="35" />
+        <mark key="]" line="53" column="40" />
+        <mark key="." line="53" column="39" />
+        <mark key="^" line="53" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1593112241125">
         <mark key="'" line="418" column="41" />
         <mark key="[" line="94" column="14" />
@@ -234,11 +229,19 @@
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/settings.xml" timestamp="1593035847654">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/KubernetesPods.yaml" timestamp="1593016598575">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="44" />
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="44" />
+      </file>
+      <file name="/fragment.java" timestamp="1593442674823">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
