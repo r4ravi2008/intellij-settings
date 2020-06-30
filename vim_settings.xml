@@ -151,11 +151,11 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" timestamp="1593498937283">
-        <mark key="[" line="85" column="43" />
-        <mark key="]" line="85" column="51" />
-        <mark key="." line="85" column="50" />
-        <mark key="^" line="85" column="51" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" timestamp="1593499592049">
+        <mark key="[" line="197" column="43" />
+        <mark key="]" line="197" column="46" />
+        <mark key="." line="197" column="45" />
+        <mark key="^" line="197" column="46" />
       </file>
       <file name="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" timestamp="1593321861222">
         <mark key="'" line="43" column="18" />
@@ -327,10 +327,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>start</text>
+        <text>notEmpty</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>notEmpty</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzU3RyZWFtXD4=</text>
@@ -342,7 +342,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbG9nLmluZm8oInVwZGF0ZUltcHJlc3Npb25zQ291bnRlcj1mb3JlYWNoIikK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -360,10 +360,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3BhcmtfbWFzdGVyX3VybD1zcGFyazovLzEwLjg2LjMwLjExMTo3MDc3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3NsX3RydXN0X3N0b3JlX3Bhc3N3b3JkPVlRXWExSUJ3VFBUYVE6ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
