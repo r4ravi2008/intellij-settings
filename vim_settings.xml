@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>snapshot</entry>
         <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
         <entry>SNAPSHOT</entry>
         <entry>sbg-qbo</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDx1cGRhdGVJbXByZXNzaW9uc0NvdW50ZXJcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzU3RyZWFtXD4=</entry>
         <entry encoding="base64">XDxkYXRhc2V0XD4=</entry>
+        <entry>master</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/n/\\n/gc</entry>
@@ -197,13 +197,12 @@
         <mark key="." line="21" column="45" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/utils/MiloStreamingListener.scala" timestamp="1593539495232" />
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1593446564046">
-        <mark key="'" line="111" column="31" />
-        <mark key="[" line="173" column="14" />
-        <mark key="m" line="171" column="14" />
-        <mark key="]" line="173" column="14" />
-        <mark key="^" line="183" column="29" />
-        <mark key="." line="173" column="14" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1593616559323">
+        <mark key="'" line="242" column="12" />
+        <mark key="[" line="243" column="32" />
+        <mark key="]" line="243" column="32" />
+        <mark key="^" line="243" column="32" />
+        <mark key="." line="243" column="31" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/utils/JSONParser.scala" timestamp="1593554839950">
         <mark key="'" line="13" column="8" />
@@ -222,15 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="579" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
-      <jump line="583" column="17" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
-      <jump line="30" column="76" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
-      <jump line="421" column="25" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
-      <jump line="464" column="25" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
-      <jump line="13" column="19" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
-      <jump line="37" column="36" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
-      <jump line="577" column="48" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
       <jump line="11" column="48" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
       <jump line="411" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
       <jump line="14" column="29" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
@@ -322,45 +312,121 @@
       <jump line="232" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
       <jump line="348" column="10" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
       <jump line="332" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" />
+      <jump line="191" column="72" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="67" column="64" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="121" column="22" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="307" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="240" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="375" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="308" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="238" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="242" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>develop</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhc2V0XD4=</text>
+        <text>master</text>
       </register>
       <register name="0" type="4">
         <text>updateImpressionsCounter</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZGF0YXNldGNvPW5vdEVtcHR5IikK</text>
+      <register name="3" type="4">
+        <text>parallel {
+                stage('e2e-usw2') {
+                    options {
+                        lock(resource: getEnv(config, 'e2e-usw2').namespace, inversePrecedence: true)
+                        timeout(time: 22, unit: 'MINUTES')
+                    }
+                    stages {
+                        stage('Deploy') {
+                            steps {
+                                container('cdtools') {
+                                    //This has to be the first action in the first sub-stage.
+                                    gitOpsDeploy(config, &quot;e2e-usw2&quot;, config.image_full_name)
+                                }
+                            }
+                        }
+                        stage('Test') {
+                            steps {
+                                sh &quot;echo run test command goes here&quot;
+                                container('test') {
+                                    overwatchTests(&quot;e2e-usw2&quot;, &quot;e2e&quot;, config)
+                                }
+                            }
+                        }
+                    }
+                }
+                stage('e2of-usw2') {
+                    when { allOf { branch 'master'; not {changeRequest()} } }
+                    options {
+                        lock(resource: getEnv(config, 'e2of-usw2').namespace, inversePrecedence: true)
+                        timeout(time: 22, unit: 'MINUTES')
+                    }
+                    stages {
+                        stage('Deploy') {
+                            steps {
+                                container('cdtools') {
+                                    //This has to be the first action in the first sub-stage.
+                                    gitOpsDeploy(config, &quot;e2of-usw2&quot;, config.image_full_name)
+                                }
+                            }
+                        }
+                    }
+                }
+                stage('e2e-apse2') {
+                    when { allOf { branch 'master'; not {changeRequest()} } }
+                    options {
+                        lock(resource: getEnv(config, 'e2e-apse2').namespace, inversePrecedence: true)
+                        timeout(time: 22, unit: 'MINUTES')
+                    }
+                    stages {
+                        stage('Deploy') {
+                            steps {
+                                container('cdtools') {
+                                    //This has to be the first action in the first sub-stage.
+                                    gitOpsDeploy(config, &quot;e2e-apse2&quot;, config.image_full_name)
+                                }
+                            }
+                        }
+                        stage('Test') {
+                            steps {
+                                sh &quot;echo run test command goes here&quot;
+                                container('test') {
+                                    //overwatchTests(&quot;e2e-apse2&quot;, &quot;e2e&quot;, config)
+                                }
+                            }
+                        }
+                    }
+                }
+            }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbG9nLmluZm8oInVwZGF0ZUltcHJlc3Npb25zQ291bnRlcj1mb3JlYWNoIikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aGVuIHsgYWxsT2YgeyBicmFuY2ggJ21hc3Rlcic7IG5vdCB7Y2hhbmdlUmVxdWVzdCgpfSB9IH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -375,9 +441,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkYXRhc2V0XD4=</last-search>
+      <last-search>master</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhc2V0XD4=</last-pattern>
+      <last-pattern>master</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>-1</last-dir>
