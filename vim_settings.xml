@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>SNAPSHOT</entry>
         <entry>sbg-qbo</entry>
         <entry>rule</entry>
         <entry encoding="base64">XDxydWxlXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxkYXRhc2V0XD4=</entry>
         <entry>master</entry>
         <entry>PROD</entry>
+        <entry>skip</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/n/\\n/gc</entry>
@@ -151,6 +151,13 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" timestamp="1593619930774">
+        <mark key="'" line="143" column="4" />
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="34" />
+        <mark key="." line="33" column="33" />
+        <mark key="^" line="33" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" timestamp="1593554755468">
         <mark key="'" line="334" column="8" />
         <mark key="[" line="52" column="18" />
@@ -213,18 +220,12 @@
         <mark key="." line="14" column="33" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/redis-dao/pom.xml" timestamp="1593114751656">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="41" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0.jar!/org/apache/spark/rdd/RDD.class" timestamp="1593458507956" />
       <file name="/fragment.java" timestamp="1593442674823">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/utils/JSONParser.scala" />
-      <jump line="41" column="38" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="127" column="27" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="185" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="106" column="14" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -323,6 +324,8 @@
       <jump line="167" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="168" column="17" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="241" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="41" column="7" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" />
+      <jump line="143" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,7 +337,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>PROD</text>
+        <text>skip</text>
       </register>
       <register name="0" type="4">
         <text>updateImpressionsCounter</text>
@@ -376,9 +379,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>PROD</last-search>
+      <last-search>skip</last-search>
       <last-offset />
-      <last-pattern>PROD</last-pattern>
+      <last-pattern>skip</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
