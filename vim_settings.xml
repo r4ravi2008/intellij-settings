@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>compiler</entry>
         <entry encoding="base64">XDxzcWxDb250ZXh0XD4=</entry>
         <entry>3600</entry>
         <entry>foreachpartition</entry>
@@ -27,6 +26,7 @@
         <entry>discard</entry>
         <entry>JIRA</entry>
         <entry>jira</entry>
+        <entry>E2E</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/n/\\n/gc</entry>
@@ -179,9 +179,9 @@
         <mark key="^" line="321" column="92" />
         <mark key="." line="321" column="91" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1593641127087">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1593709089988">
         <mark key="a" line="250" column="18" />
-        <mark key="'" line="81" column="44" />
+        <mark key="'" line="100" column="20" />
         <mark key="[" line="146" column="21" />
         <mark key="m" line="315" column="18" />
         <mark key="]" line="146" column="21" />
@@ -202,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="246" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="311" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="235" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -302,6 +301,7 @@
       <jump line="80" column="44" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="81" column="44" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="297" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/README.md" />
+      <jump line="100" column="20" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,7 +313,7 @@
         <text>remove approval for stg</text>
       </register>
       <register name="/" type="4">
-        <text>jira</text>
+        <text>E2E</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgd2hlbiB7IGFsbE9mIHsgYnJhbmNoICdtYXN0ZXInOyBub3Qge2NoYW5nZVJlcXVlc3QoKX07IG5vdCB7IGV4cHJlc3Npb24ge3JldHVybiBjb25maWcucHJlcHJvZE9ubHl9IH0gfSB9Cg==</text>
@@ -355,9 +355,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>jira</last-search>
+      <last-search>E2E</last-search>
       <last-offset />
-      <last-pattern>jira</last-pattern>
+      <last-pattern>E2E</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
