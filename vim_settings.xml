@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>maven</entry>
-        <entry>compile</entry>
         <entry>compiler</entry>
         <entry encoding="base64">XDxzcWxDb250ZXh0XD4=</entry>
         <entry>3600</entry>
@@ -27,6 +25,8 @@
         <entry>scorecard</entry>
         <entry>build</entry>
         <entry>discard</entry>
+        <entry>JIRA</entry>
+        <entry>jira</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/n/\\n/gc</entry>
@@ -144,13 +144,6 @@
         <mark key="^" line="134" column="90" />
         <mark key="." line="134" column="120" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" timestamp="1593619930774">
-        <mark key="'" line="143" column="4" />
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="23" column="34" />
-        <mark key="." line="23" column="33" />
-        <mark key="^" line="23" column="34" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/MessageProcessor.scala" timestamp="1593554755468">
         <mark key="'" line="334" column="8" />
         <mark key="[" line="52" column="18" />
@@ -161,47 +154,31 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/pom.xml" timestamp="1593637616044">
         <mark key="'" line="16" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/kotr/getting_started/src/Application.kt" timestamp="1593321861222">
-        <mark key="'" line="43" column="18" />
-        <mark key="[" line="53" column="35" />
-        <mark key="]" line="53" column="40" />
-        <mark key="." line="53" column="39" />
-        <mark key="^" line="53" column="40" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/config/e2e/application.conf" timestamp="1593499227879">
         <mark key="'" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/settings.xml" timestamp="1593638394637">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593635362850">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1593649163461">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/repos/kotr/meMuh/src/Application.kt" timestamp="1593340235511">
-        <mark key="'" line="50" column="1" />
-        <mark key="[" line="22" column="35" />
-        <mark key="]" line="22" column="46" />
-        <mark key="." line="22" column="45" />
-        <mark key="^" line="22" column="46" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/CONTRIBUTING.md" timestamp="1593648853963">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="6" column="2" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.3.0/spark-streaming-kafka-0-10_2.11-2.3.0-sources.jar!/org/apache/spark/streaming/kafka010/KafkaUtils.scala" timestamp="1593544380260" />
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" timestamp="1593637624186">
-        <mark key="'" line="577" column="54" />
-        <mark key="." line="577" column="54" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/utils/ConfigInitializer.scala" timestamp="1593466985319" />
-      <file name="$USER_HOME$/dev/repos/kotr/meMuh/test/ApplicationTest.kt" timestamp="1593340325579">
-        <mark key="[" line="21" column="41" />
-        <mark key="]" line="21" column="46" />
-        <mark key="^" line="21" column="46" />
-        <mark key="." line="21" column="45" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/utils/MiloStreamingListener.scala" timestamp="1593539495232" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/README.md" timestamp="1593649016245">
+        <mark key="'" line="285" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="321" column="104" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1593641127087">
         <mark key="a" line="250" column="18" />
         <mark key="'" line="81" column="44" />
@@ -218,13 +195,13 @@
         <mark key="." line="14" column="33" />
         <mark key="^" line="14" column="34" />
       </file>
+      <file name="/README.md" timestamp="1593649050986" />
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.3.0/spark-core_2.11-2.3.0.jar!/org/apache/spark/rdd/RDD.class" timestamp="1593458507956" />
       <file name="/fragment.java" timestamp="1593442674823">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="34" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="246" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="311" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -324,39 +301,40 @@
       <jump line="73" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="80" column="44" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="81" column="44" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="297" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/README.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICA=</text>
+      <register name="&quot;" type="4">
+        <text>remove approval for stg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>remove approval for stg</text>
       </register>
       <register name="/" type="4">
-        <text>discard</text>
+        <text>jira</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgd2hlbiB7IGFsbE9mIHsgYnJhbmNoICdtYXN0ZXInOyBub3Qge2NoYW5nZVJlcXVlc3QoKX07IG5vdCB7IGV4cHJlc3Npb24ge3JldHVybiBjb25maWcucHJlcHJvZE9ubHl9IH0gfSB9Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAtIEJ1aWxkLCBFeGVjdXRpb24sIERlcGxveW1lbnQgQ29tcGlsZXIgLT4KCiAgICAgIC0gQW5ub3RhdGlvbiBQcm9jZXNzb3JzIC0+CgogICAgICAgIC0gQ2hlY2sgJ0VuYWJsZSBhbm5vdGF0aW9uIHByb2Nlc3NpbmcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgc3RhZ2UoJ1JlcG9ydCBDb3ZlcmFnZSAmIFVuaXQgVGVzdCBSZXN1bHRzJykgewogICAgICAgICAgICAgICAgICBzdGVwcyB7CiAgICAgICAgICAgICAgICAgICAgICBzaCAiIiIgbHMgLVIgIiIiCiAgICAgICAgICAgICAgICAgICAgICBqdW5pdCAnKiovc3VyZWZpcmUtcmVwb3J0cy8qKi8qLnhtbCcKICAgICAgICAgICAgICAgICAgICAgIHN0ZXAoWyRjbGFzczogJ0phY29jb1B1Ymxpc2hlcicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4ZWNQYXR0ZXJuOiAnYXBwL3RhcmdldC90ZXN0LXJlc3VsdHMvY292ZXJhZ2UvamFjb2NvLyouZXhlYycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBleGNsdXNpb25QYXR0ZXJuOiAnKiovem9sdGFyL3BlcmZsb2cvKiwqKi96b2x0YXIvc2lnbmFsc2NpZW5jZS8qLCoqL3pvbHRhci9oZWFsdGgvKicgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnLCoqL01EQ1Byb3BhZ2F0aW5nSHlzdHJpeENvbW1hbmRFeGVjdXRpb25Ib29rKiwqKi9QZXJmb3JtYW5jZUxvZ2dlciosKiovQ2lyY3VpdEJyZWFrZXJDb25jdXJyZW5jeVN0cmF0ZWd5KiwnICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJyoqL01kY0ZpbHRlciosKiovem9sdGFyL3NlbGZoZWxwL0V4cGVyaW1lbnRDb25maWcuY2xhc3MsKiovem9sdGFyL2Jsb2Nrcy9leHBlcmltZW50YXRpb24vcHJvdmlkZXIvWm9sdGFySVhQQ29uZmlnLmNsYXNzLCcgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnKiovem9sdGFyL1pvbHRhckFwcC5jbGFzcywqKi96b2x0YXIvZHRvLyoqLCoqL1pvbHRhclVuaXRPZldvcmsqLCoqL0V4cGVyaW1lbnRhdGlvbklYUENsaWVudCosJyArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICcqKi9LaWVSZXNwb25zZVZhbGlkYXRvciosKiovem9sdGFyL2V4Y2VwdGlvbi8qLCoqL3pvbHRhci9tb2RlbC8qLCoqL3pvbHRhci9ab2x0YXIqLmNsYXNzLCcgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnKiovem9sdGFyL3dvcmtmbG93Y29uZmlnL0NhbWVsVGhyZWFkQ29uZmlnKiwqKi96b2x0YXIvd29ya2Zsb3djb25maWcvQ2xvdWRUZW1wbGF0ZXNSZWFkZXIqLCcgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnKiovem9sdGFyL3dvcmtmbG93Y29uZmlnL0Nsb3VkQ29uZmlnUmVhZGVyKiwgKiovY29yZS8qKiwgKiovb2ZmbGluZS8qKiwnKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnKiovYXR0cmlidXRlQ29sbGVjdG9yL3Byb3ZpZGVycy9ncmFwaC8qKiwqKi9VcHNWMkNvbmZpZyosKiovVXBzVjJVdGlsSGVscGVyKicKICAgICAgICAgICAgICAgICAgICAgIF0pCiAgICAgICAgICAgICAgICAgICAgICBqYWNvY28oKQogICAgICAgICAgICAgICAgICAgICAgY29kZUNvdihjb25maWcpCiAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -364,8 +342,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICA8cHJvZmlsZXM+CiAgICA8cHJvZmlsZT4KICAgICAgPGlkPnNvbmFyPC9pZD4KICAgICAgPGFjdGl2YXRpb24+CiAgICAgICAgPGFjdGl2ZUJ5RGVmYXVsdD50cnVlPC9hY3RpdmVCeURlZmF1bHQ+CiAgICAgIDwvYWN0aXZhdGlvbj4KICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgPHNvbmFyLmhvc3QudXJsPmh0dHBzOi8vc29uYXJxdWJlLnRvb2xzLWs4cy5hLmludHVpdC5jb208L3NvbmFyLmhvc3QudXJsPgogICAgICAgIDxzb25hci5wcm9qZWN0TmFtZT5tc2Fhcy0ke2FydGlmYWN0SWR9PC9zb25hci5wcm9qZWN0TmFtZT4KICAgICAgICA8c29uYXIuanVuaXQucmVwb3J0c1BhdGg+Li90YXJnZXQvc3VyZWZpcmUtcmVwb3J0czwvc29uYXIuanVuaXQucmVwb3J0c1BhdGg+CiAgICAgICAgPHNvbmFyLnN1cmVmaXJlLnJlcG9ydHNQYXRoPi4vdGFyZ2V0L3N1cmVmaXJlLXJlcG9ydHM8L3NvbmFyLnN1cmVmaXJlLnJlcG9ydHNQYXRoPgogICAgICAgIDxzb25hci5qYWNvY28ucmVwb3J0UGF0aD4uL3RhcmdldC90ZXN0LXJlc3VsdHMvY292ZXJhZ2UvamFjb2NvL2phY29jby5leGVjPC9zb25hci5qYWNvY28ucmVwb3J0UGF0aD4KICAgICAgICA8c29uYXIuYmluYXJpZXM+Li9hcHAvdGFyZ2V0L2NsYXNzZXMvPC9zb25hci5iaW5hcmllcz4KICAgICAgICA8c29uYXIuamF2YS5jb3ZlcmFnZVBsdWdpbj5qYWNvY288L3NvbmFyLmphdmEuY292ZXJhZ2VQbHVnaW4+CiAgICAgIDwvcHJvcGVydGllcz4KICAgIDwvcHJvZmlsZT4KICA8L3Byb2ZpbGVzPg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAgCiAgICAgICA=</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
@@ -377,9 +355,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>discard</last-search>
+      <last-search>jira</last-search>
       <last-offset />
-      <last-pattern>discard</last-pattern>
+      <last-pattern>jira</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
