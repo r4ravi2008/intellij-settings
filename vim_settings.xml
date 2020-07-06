@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>partition</entry>
         <entry encoding="base64">XDx1cGRhdGVJbXByZXNzaW9uc0NvdW50ZXJcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzU3RyZWFtXD4=</entry>
         <entry encoding="base64">XDxkYXRhc2V0XD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxpbWFnZV9mdWxsX25hbWVcPg==</entry>
         <entry>profile</entry>
         <entry>qal</entry>
+        <entry>aws</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/n/\\n/gc</entry>
@@ -137,6 +137,9 @@
         <mark key="." line="28" column="171" />
         <mark key="^" line="20" column="175" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/java/com/intuit/v4/intlgntsys/recommender/personalizationrulesengine/AwsFileReaderService.java" timestamp="1594078833303">
+        <mark key="'" line="374" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/KafkaConnector.scala" timestamp="1593558743823">
         <mark key="'" line="50" column="27" />
         <mark key="[" line="134" column="120" />
@@ -175,6 +178,10 @@
         <mark key="^" line="321" column="92" />
         <mark key="." line="321" column="91" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/resources/application-qal.properties" timestamp="1594079028079">
+        <mark key="[" line="0" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/pom.xml" timestamp="1593637616044">
         <mark key="'" line="16" column="28" />
       </file>
@@ -196,14 +203,17 @@
         <mark key="'" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-qal-usw2.properties" timestamp="1594075063701" />
-      <file name="/fragment.java" timestamp="1593442674823">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/resources/application-local.properties" timestamp="1594079011405">
+        <mark key="[" line="6" column="1" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/resources/application.properties" timestamp="1594079057849">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="67" column="1" />
+        <mark key="." line="67" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="19" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="335" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="321" column="29" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="316" column="92" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="313" column="29" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="306" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -301,6 +311,9 @@
       <jump line="20" column="174" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-qa1-usw2.properties" />
       <jump line="26" column="42" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-qa1-usw2.properties" />
       <jump line="27" column="46" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-qa1-usw2.properties" />
+      <jump line="127" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/java/com/intuit/v4/intlgntsys/recommender/personalizationrulesengine/AwsFileReaderService.java" />
+      <jump line="374" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/java/com/intuit/v4/intlgntsys/recommender/personalizationrulesengine/AwsFileReaderService.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/resources/application.properties" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,7 +325,7 @@
         <text>remove approval for stg</text>
       </register>
       <register name="/" type="4">
-        <text>qal</text>
+        <text>aws</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgd2hlbiB7IGFsbE9mIHsgYnJhbmNoICdtYXN0ZXInOyBub3Qge2NoYW5nZVJlcXVlc3QoKX07IG5vdCB7IGV4cHJlc3Npb24ge3JldHVybiBjb25maWcucHJlcHJvZE9ubHl9IH0gfSB9Cg==</text>
@@ -356,9 +369,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>qal</last-search>
+      <last-search>aws</last-search>
       <last-offset />
-      <last-pattern>qal</last-pattern>
+      <last-pattern>aws</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
