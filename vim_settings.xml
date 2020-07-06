@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>foreachpartition</entry>
         <entry>partition</entry>
         <entry encoding="base64">XDx1cGRhdGVJbXByZXNzaW9uc0NvdW50ZXJcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzU3RyZWFtXD4=</entry>
@@ -27,6 +26,7 @@
         <entry>E2E</entry>
         <entry encoding="base64">XDxpbWFnZV9mdWxsX25hbWVcPg==</entry>
         <entry>profile</entry>
+        <entry>qal</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/n/\\n/gc</entry>
@@ -130,6 +130,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-qa1-usw2.properties" timestamp="1594075150565">
+        <mark key="'" line="27" column="46" />
+        <mark key="[" line="28" column="170" />
+        <mark key="]" line="28" column="171" />
+        <mark key="." line="28" column="171" />
+        <mark key="^" line="20" column="175" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/KafkaConnector.scala" timestamp="1593558743823">
         <mark key="'" line="50" column="27" />
         <mark key="[" line="134" column="120" />
@@ -188,19 +195,12 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/config/e2e/application.conf" timestamp="1593499227879">
         <mark key="'" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-qal-usw2.properties" timestamp="1594074359190" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-qal-usw2.properties" timestamp="1594075063701" />
       <file name="/fragment.java" timestamp="1593442674823">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="17" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="373" column="90" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="370" column="27" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="363" column="19" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="353" column="27" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="348" column="90" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="345" column="27" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="338" column="19" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="335" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="321" column="29" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -294,6 +294,13 @@
       <jump line="325" column="79" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="300" column="78" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="248" column="27" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-qa1-usw2.properties" />
+      <jump line="28" column="168" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-qa1-usw2.properties" />
+      <jump line="18" column="50" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-qa1-usw2.properties" />
+      <jump line="19" column="50" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-qa1-usw2.properties" />
+      <jump line="20" column="174" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-qa1-usw2.properties" />
+      <jump line="26" column="42" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-qa1-usw2.properties" />
+      <jump line="27" column="46" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application-qa1-usw2.properties" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -305,7 +312,7 @@
         <text>remove approval for stg</text>
       </register>
       <register name="/" type="4">
-        <text>profile</text>
+        <text>qal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgd2hlbiB7IGFsbE9mIHsgYnJhbmNoICdtYXN0ZXInOyBub3Qge2NoYW5nZVJlcXVlc3QoKX07IG5vdCB7IGV4cHJlc3Npb24ge3JldHVybiBjb25maWcucHJlcHJvZE9ubHl9IH0gfSB9Cg==</text>
@@ -349,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>profile</last-search>
+      <last-search>qal</last-search>
       <last-offset />
-      <last-pattern>profile</last-pattern>
+      <last-pattern>qal</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
