@@ -201,12 +201,12 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/pom.xml" timestamp="1593637616044">
         <mark key="'" line="16" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1594158006666">
-        <mark key="'" line="168" column="27" />
-        <mark key="[" line="168" column="8" />
-        <mark key="]" line="168" column="8" />
-        <mark key="." line="168" column="8" />
-        <mark key="^" line="19" column="8" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1594158098791">
+        <mark key="'" line="57" column="24" />
+        <mark key="[" line="178" column="40" />
+        <mark key="]" line="178" column="38" />
+        <mark key="." line="178" column="37" />
+        <mark key="^" line="178" column="38" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/utils/JSONParser.scala" timestamp="1593554839950">
         <mark key="'" line="13" column="8" />
@@ -232,9 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="375" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="331" column="20" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="16" column="28" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/pom.xml" />
       <jump line="577" column="54" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
       <jump line="27" column="50" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="73" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -328,44 +325,19 @@
       <jump line="176" column="27" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="196" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="197" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="56" column="11" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="11" column="9" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="535" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="168" column="27" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="56" column="11" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="533" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="11" column="9" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="532" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="57" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>stage('QA1-Custom'){
-            when { anyOf { branch 'master'; changeRequest() } }
-            parallel {
-                stage('qa1-usw2') {
-                    options {
-                        lock(resource: getEnv(config, 'qa1-usw2').namespace, inversePrecedence: true)
-                        timeout(time: 22, unit: 'MINUTES')
-                    }
-                    stages {
-                        stage('Deploy') {
-                            steps {
-                                container('cdtools') {
-                                    //This has to be the first action in the first sub-stage.
-                                    gitOpsDeploy(config , &quot;qa1-usw2&quot;, config.image_full_name, 2,2400)
-                                }
-                            }
-                        }
-                        stage('Test') {
-                            steps {
-                                sh &quot;echo run test command goes here&quot;
-                                container('test') {
-                                    overwatchTests(&quot;qa1-usw2&quot;, &quot;qa1&quot;, config)
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        }</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Y2xhc3Mg</text>
@@ -376,7 +348,10 @@
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgd2hlbiB7IGFsbE9mIHsgYnJhbmNoICdtYXN0ZXInOyBub3Qge2NoYW5nZVJlcXVlc3QoKX07IG5vdCB7IGV4cHJlc3Npb24ge3JldHVybiBjb25maWcucHJlcHJvZE9ubHl9IH0gfSB9Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      </register>
+      <register name="2" type="4">
         <text>stage('QA1-Custom'){
             when { anyOf { branch 'master'; changeRequest() } }
             parallel {
@@ -407,22 +382,22 @@
             }
         }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzdHJpbmcobmFtZTogJ2RlcGxveV9jdXN0b21fZW52JywgZGVmYXVsdFZhbHVlOiAncWExJywgZGVzY3JpcHRpb246ICdEZXBsb3kgdG8gY3VzdG9tIGVudmlyb25tZW50PycpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoICIke3BhcmFtcy5zdWl0ZUZpbGV9IiA9PSAicWExIikgIHsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>stage('Test') {
                             steps {
                                 sh &quot;echo run test command goes here&quot;
@@ -431,9 +406,6 @@
                                 }
                             }
                         }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saW1pdHM+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saW1pdHM+Cg==</text>
