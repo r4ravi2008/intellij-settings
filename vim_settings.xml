@@ -201,12 +201,12 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/pom.xml" timestamp="1593637616044">
         <mark key="'" line="16" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1594154954782">
-        <mark key="'" line="537" column="0" />
-        <mark key="[" line="197" column="9" />
-        <mark key="]" line="198" column="9" />
-        <mark key="^" line="198" column="9" />
-        <mark key="." line="198" column="8" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1594157140362">
+        <mark key="'" line="176" column="27" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="^" line="197" column="9" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/utils/JSONParser.scala" timestamp="1593554839950">
         <mark key="'" line="13" column="8" />
@@ -232,8 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="14" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="142" column="31" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="501" column="7" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="443" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="249" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -332,12 +330,14 @@
       <jump line="5" column="5" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="11" column="9" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="537" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="193" column="20" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="176" column="27" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoICIke3BhcmFtcy5zdWl0ZUZpbGV9IiA9PSAicWExIikgIHsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Y2xhc3Mg</text>
@@ -349,9 +349,12 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAgd2hlbiB7IGFsbE9mIHsgYnJhbmNoICdtYXN0ZXInOyBub3Qge2NoYW5nZVJlcXVlc3QoKX07IG5vdCB7IGV4cHJlc3Npb24ge3JldHVybiBjb25maWcucHJlcHJvZE9ubHl9IH0gfSB9Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoICIke3BhcmFtcy5zdWl0ZUZpbGV9IiA9PSAicWExIikgIHsK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>stage('Test') {
                             steps {
                                 sh &quot;echo run test command goes here&quot;
@@ -361,28 +364,23 @@
                             }
                         }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saW1pdHM+Cg==</text>
-      </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saW1pdHM+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saW1pdHM+Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aGVuIHsgYWxsT2YgeyBicmFuY2ggJ21hc3Rlcic7IG5vdCB7Y2hhbmdlUmVxdWVzdCgpfSB9IH0K</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">ICAKICAKICA=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>parameters {
-                               string(name: 'PERSON', defaultValue: 'DigiralVarys', description: 'Member')
-                           }</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
