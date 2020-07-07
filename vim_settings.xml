@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhc2V0XD4=</entry>
-        <entry>master</entry>
         <entry>PROD</entry>
         <entry>skip</entry>
         <entry encoding="base64">XDxpbnB1dFw+</entry>
@@ -27,6 +25,8 @@
         <entry>aws</entry>
         <entry>p-bzi0t2wjawzt</entry>
         <entry>p-bzi0t2wjawz</entry>
+        <entry>elasticcache</entry>
+        <entry>elastic</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/n/\\n/gc</entry>
@@ -200,8 +200,8 @@
         <mark key="[" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1594099476440">
-        <mark key="'" line="232" column="27" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1594101025360">
+        <mark key="'" line="70" column="226" />
         <mark key="[" line="161" column="0" />
         <mark key="]" line="161" column="0" />
         <mark key="^" line="289" column="18" />
@@ -227,11 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="406" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="424" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="441" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="471" column="23" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="518" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="57" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="177" column="23" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -327,6 +322,11 @@
       <jump line="32" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/bootstrap.yml" />
       <jump line="70" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/bootstrap.yml" />
       <jump line="232" column="27" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="296" column="22" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="159" column="86" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="60" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="66" column="152" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="70" column="226" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,7 +338,7 @@
         <text>remove approval for stg</text>
       </register>
       <register name="/" type="4">
-        <text>p-bzi0t2wjawz</text>
+        <text>elastic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgd2hlbiB7IGFsbE9mIHsgYnJhbmNoICdtYXN0ZXInOyBub3Qge2NoYW5nZVJlcXVlc3QoKX07IG5vdCB7IGV4cHJlc3Npb24ge3JldHVybiBjb25maWcucHJlcHJvZE9ubHl9IH0gfSB9Cg==</text>
@@ -382,9 +382,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>p-bzi0t2wjawz</last-search>
+      <last-search>elastic</last-search>
       <last-offset />
-      <last-pattern>p-bzi0t2wjawz</last-pattern>
+      <last-pattern>elastic</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
