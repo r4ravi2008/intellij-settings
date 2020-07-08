@@ -166,6 +166,13 @@
         <mark key="^" line="14" column="70" />
         <mark key="." line="17" column="1" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" timestamp="1594230584603">
+        <mark key="'" line="456" column="33" />
+        <mark key="[" line="496" column="26" />
+        <mark key="]" line="496" column="35" />
+        <mark key="^" line="496" column="35" />
+        <mark key="." line="496" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application.properties" timestamp="1594089192159">
         <mark key="'" line="3" column="0" />
       </file>
@@ -211,9 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="22" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="243" column="25" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="259" column="20" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="255" column="20" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="244" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="250" column="39" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -311,6 +315,9 @@
       <jump line="652" column="30" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
       <jump line="847" column="34" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
       <jump line="20" column="26" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/KubernetesPods.yaml" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="50" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="456" column="33" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
