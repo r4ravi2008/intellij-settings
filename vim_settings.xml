@@ -159,13 +159,6 @@
         <mark key="^" line="14" column="70" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" timestamp="1594230584603">
-        <mark key="'" line="456" column="33" />
-        <mark key="[" line="496" column="26" />
-        <mark key="]" line="496" column="35" />
-        <mark key="^" line="496" column="35" />
-        <mark key="." line="496" column="34" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application.properties" timestamp="1594089192159">
         <mark key="'" line="3" column="0" />
       </file>
@@ -186,8 +179,12 @@
         <mark key="[" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/pom.xml" timestamp="1593637616044">
-        <mark key="'" line="16" column="28" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/package/entry.sh" timestamp="1594241942586">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="28" column="2" />
+        <mark key="]" line="38" column="2" />
+        <mark key="^" line="38" column="2" />
+        <mark key="." line="38" column="1" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1594238242759">
         <mark key="'" line="264" column="36" />
@@ -213,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="39" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="252" column="27" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="171" column="34" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="172" column="28" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -313,6 +309,7 @@
       <jump line="456" column="33" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
       <jump line="273" column="14" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="264" column="36" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/package/entry.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
