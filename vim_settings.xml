@@ -7,14 +7,12 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>PROD</entry>
         <entry>skip</entry>
         <entry encoding="base64">XDxpbnB1dFw+</entry>
         <entry encoding="base64">XDxzdGFnZVw+</entry>
         <entry>stages</entry>
         <entry encoding="base64">XDxzdGFnZXNcPg==</entry>
         <entry>scorecard</entry>
-        <entry>build</entry>
         <entry>discard</entry>
         <entry>JIRA</entry>
         <entry>jira</entry>
@@ -27,6 +25,8 @@
         <entry>p-bzi0t2wjawz</entry>
         <entry>elasticcache</entry>
         <entry>elastic</entry>
+        <entry>unit</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/n/\\n/gc</entry>
@@ -166,7 +166,8 @@
         <mark key="^" line="14" column="70" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" timestamp="1594074290680">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" timestamp="1594185963060">
+        <mark key="'" line="742" column="30" />
         <mark key="[" line="793" column="0" />
         <mark key="]" line="793" column="0" />
         <mark key="." line="793" column="0" />
@@ -233,11 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="80" column="44" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="81" column="44" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="297" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/README.md" />
-      <jump line="100" column="20" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="253" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="254" column="30" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="262" column="14" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -333,6 +329,11 @@
       <jump line="219" column="28" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/elasticache-metadata/src/main/resources/bootstrap.yml" />
       <jump line="194" column="7" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="168" column="34" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
+      <jump line="853" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="746" column="32" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="755" column="95" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="757" column="33" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="742" column="30" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -344,7 +345,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>elastic</text>
+        <text>build</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgd2hlbiB7IGFsbE9mIHsgYnJhbmNoICdtYXN0ZXInOyBub3Qge2NoYW5nZVJlcXVlc3QoKX07IG5vdCB7IGV4cHJlc3Npb24ge3JldHVybiBjb25maWcucHJlcHJvZE9ubHl9IH0gfSB9Cg==</text>
@@ -414,9 +415,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>elastic</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>elastic</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
