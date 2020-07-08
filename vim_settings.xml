@@ -140,13 +140,6 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/java/com/intuit/v4/intlgntsys/recommender/personalizationrulesengine/AwsFileReaderService.java" timestamp="1594079826169">
         <mark key="'" line="186" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/recommendation-feedback-streaming/src/main/scala/com/intuit/personalization/feedbackloop/KafkaConnector.scala" timestamp="1593558743823">
-        <mark key="'" line="50" column="27" />
-        <mark key="[" line="134" column="120" />
-        <mark key="]" line="134" column="120" />
-        <mark key="^" line="134" column="90" />
-        <mark key="." line="134" column="120" />
-      </file>
       <file name="/Dummy.txt" timestamp="1594099691985">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
