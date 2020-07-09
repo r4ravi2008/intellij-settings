@@ -130,18 +130,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/pom.xml" timestamp="1594244593647">
-        <mark key="[" line="282" column="29" />
-        <mark key="]" line="305" column="29" />
-        <mark key="^" line="305" column="29" />
-        <mark key="." line="305" column="28" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/pom.xml" timestamp="1594278131603">
+        <mark key="[" line="264" column="127" />
+        <mark key="]" line="264" column="127" />
+        <mark key="^" line="264" column="127" />
+        <mark key="." line="264" column="126" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" timestamp="1594273676817">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" timestamp="1594278110006">
         <mark key="'" line="39" column="18" />
-        <mark key="[" line="96" column="65" />
+        <mark key="[" line="38" column="2" />
         <mark key="]" line="96" column="65" />
         <mark key="^" line="96" column="65" />
-        <mark key="." line="96" column="64" />
+        <mark key="." line="38" column="1" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/package/entry.sh" timestamp="1594241942586">
         <mark key="'" line="17" column="0" />
@@ -193,9 +193,6 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/resources/application-qal.properties" timestamp="1594079028079">
         <mark key="[" line="0" column="1" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1594242701474">
-        <mark key="'" line="264" column="36" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/KubernetesPods.yaml" timestamp="1594189017106">
         <mark key="'" line="20" column="26" />
