@@ -130,12 +130,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/pom.xml" timestamp="1594307203402">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/pom.xml" timestamp="1594309144934">
         <mark key="'" line="285" column="36" />
-        <mark key="[" line="290" column="36" />
-        <mark key="]" line="290" column="36" />
-        <mark key="^" line="290" column="36" />
-        <mark key="." line="290" column="36" />
+        <mark key="[" line="302" column="52" />
+        <mark key="]" line="302" column="48" />
+        <mark key="^" line="302" column="48" />
+        <mark key="." line="302" column="47" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" timestamp="1594278110006">
         <mark key="'" line="39" column="18" />
@@ -184,17 +184,11 @@
         <mark key="." line="19" column="6" />
         <mark key="^" line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/README.md" timestamp="1593662286349">
-        <mark key="'" line="285" column="0" />
-        <mark key="[" line="321" column="91" />
-        <mark key="]" line="321" column="92" />
-        <mark key="^" line="321" column="92" />
-        <mark key="." line="321" column="91" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/resources/application-qal.properties" timestamp="1594079028079">
         <mark key="[" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1594309242382" />
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/KubernetesPods.yaml" timestamp="1594189017106">
         <mark key="'" line="20" column="26" />
       </file>
@@ -317,10 +311,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>egration</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>egration</text>
       </register>
       <register name="/" type="4">
         <text>jacoco</text>
