@@ -136,8 +136,8 @@
         <mark key="^" line="305" column="29" />
         <mark key="." line="305" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" timestamp="1594248172463">
-        <mark key="'" line="65" column="64" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" timestamp="1594273676817">
+        <mark key="'" line="39" column="18" />
         <mark key="[" line="96" column="65" />
         <mark key="]" line="96" column="65" />
         <mark key="^" line="96" column="65" />
@@ -214,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="136" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="500" column="77" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="499" column="78" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="490" column="96" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -314,6 +313,7 @@
       <jump line="94" column="56" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" />
       <jump line="30" column="32" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" />
       <jump line="65" column="64" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" />
+      <jump line="39" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
