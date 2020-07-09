@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>stages</entry>
         <entry encoding="base64">XDxzdGFnZXNcPg==</entry>
         <entry>scorecard</entry>
         <entry>discard</entry>
@@ -27,6 +26,7 @@
         <entry>entry</entry>
         <entry>test</entry>
         <entry>profiles</entry>
+        <entry>ee1</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/n/\\n/gc</entry>
@@ -136,12 +136,16 @@
         <mark key="^" line="305" column="29" />
         <mark key="." line="305" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" timestamp="1594248172463">
+        <mark key="'" line="65" column="64" />
+        <mark key="[" line="96" column="65" />
+        <mark key="]" line="96" column="65" />
+        <mark key="^" line="96" column="65" />
+        <mark key="." line="96" column="64" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/package/entry.sh" timestamp="1594241942586">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="28" column="2" />
-        <mark key="]" line="38" column="2" />
-        <mark key="^" line="38" column="2" />
-        <mark key="." line="38" column="1" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/resources/application-local.properties" timestamp="1594079011405">
         <mark key="[" line="6" column="1" />
@@ -169,11 +173,6 @@
         <mark key="]" line="156" column="15" />
         <mark key="^" line="156" column="15" />
         <mark key="." line="156" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" timestamp="1594242775165">
-        <mark key="[" line="836" column="0" />
-        <mark key="]" line="836" column="0" />
-        <mark key="." line="836" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application.properties" timestamp="1594089192159">
         <mark key="'" line="3" column="0" />
@@ -215,9 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="28" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="211" column="77" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="181" column="77" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="83" column="136" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="500" column="77" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="499" column="78" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -315,21 +311,24 @@
       <jump line="17" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/package/entry.sh" />
       <jump line="398" column="20" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
       <jump line="836" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
+      <jump line="94" column="56" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" />
+      <jump line="30" column="32" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" />
+      <jump line="65" column="64" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBlMmUtdXN3MjoKICAgIGluZ3Jlc3NfZW5kcG9pbnQ6IGh0dHBzOi8vaW50bGdudHN5cy1yZWNvbW1lbmRlci1lMmUtem9sdGFyLXNlcnZpY2UtMS5kYXRhLXNnbW50LXBwZC5pa3MuYS5pbnR1aXQuY29tCiAgICBjbHVzdGVyOiBodHRwczovL2FwaS1kYXRhLXNnbW50LXBwZC1jbHVzdGUtaWZudGF1LTY0NjY1NjczOS51cy13ZXN0LTIuZWxiLmFtYXpvbmF3cy5jb20KICAgIG5hbWVzcGFjZTogaW50bGdudHN5cy1yZWNvbW1lbmRlci16b2x0YXItc2VydmljZS11c3cyLXBwZC1lMmUKICAgIHJlZ2lvbjogdXN3MgogICAgaWtzX3R5cGU6IHBwZAogICAgbWFuaWZlc3RfZm9ybWF0OiBLdXN0b21pemUKICAgIG92ZXJ3YXRjaF9iYXNlX3VybDogImh0dHBzOi8vcGVyc29uYWxpemF0aW9uLWUyZS5hcGkuaW50dWl0LmNvbSI=</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>profiles</text>
+        <text>ee1</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIDxwcm9maWxlcz4KICAgICAgICA8IS0tIFN0YXJ0IEthcmF0ZSB0ZXN0aW5nIC0tPgogICAgICAgIDxwcm9maWxlPgogICAgICAgICAgICA8aWQ+a2FyYXRlLXJlbW90ZTwvaWQ+CiAgICAgICAgICAgIDxhY3RpdmF0aW9uPgogICAgICAgICAgICAgICAgPGFjdGl2ZUJ5RGVmYXVsdD5mYWxzZTwvYWN0aXZlQnlEZWZhdWx0PgogICAgICAgICAgICA8L2FjdGl2YXRpb24+CiAgICAgICAgICAgIDxidWlsZD4KICAgICAgICAgICAgICAgIDx0ZXN0UmVzb3VyY2VzPgogICAgICAgICAgICAgICAgICAgIDx0ZXN0UmVzb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+c3JjL3Rlc3QvamF2YS88L2RpcmVjdG9yeT4KICAgICAgICAgICAgICAgICAgICA8L3Rlc3RSZXNvdXJjZT4KICAgICAgICAgICAgICAgICAgICA8dGVzdFJlc291cmNlPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGlyZWN0b3J5PnNyYy90ZXN0L3Jlc291cmNlczwvZGlyZWN0b3J5PgogICAgICAgICAgICAgICAgICAgIDwvdGVzdFJlc291cmNlPgogICAgICAgICAgICAgICAgPC90ZXN0UmVzb3VyY2VzPgogICAgICAgICAgICAgICAgPHBsdWdpbnM+CiAgICAgICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmludHVpdC5jdGcucWU8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmphY29jby1zZXJ2aWNlLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+MS4wLjI8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSBUaGUgaG9zdG5hbWUgb2YgdGhlIEphQ29DbyBtaWNyby1zZXJ2aWNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIElmIHlvdXIgc2VydmljZSBpcyBpbiBJSFAsIHVzZSBqYWNvY28tc2VydmljZS5pbnR1aXQubmV0LiBZb3UgbWF5IG5lZWQgdG8gZ2V0IGFuIEFDTAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcGVuZWQgZm9yIHRoYXQgc2VydmljZSB0byB0YWxrIHRvIHlvdXIgaG9zdChzKS4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSWYgeW91ciBzZXJ2aWNlIGlzIGluIEFXUywgdXNlIGphY29jby1zZXJ2aWNlLnRvb2xzLmEuaW50dWl0LmNvbS4gWW91IHdpbGwgbmVlZCB0byBvcGVuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFDTHMgZm9yIEFXUyB0byBBV1MgY29ubmVjdGlvbi4gLS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aG9zdG5hbWU+aHR0cHM6Ly9kZXYtcGF0dGVybnMtcWFsLXNwcmluZy1tdmMtcmVmZXJlbmNlLWFwcC1qYWNvY28uY2ctcnRiLXBwZC11c3cyLmlrcy5hLmludHVpdC5jb208L2hvc3RuYW1lPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGhvc3RuYW1lcz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tIFRoZSBsaXN0IG9mIGhvc3RuYW1lKHMpIHlvdSB3b3VsZCBsaWtlIHRvIGR1bXAgdGhlIEphQ29DbyBleGVjIGRhdGEgZnJvbSAtLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aG9zdG5hbWU+c3ByaW5nLW12Yy1yZWZlcmVuY2UtYXBwLWFwcGQtc2VydmljZTwvaG9zdG5hbWU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2hvc3RuYW1lcz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxyZXNldD50cnVlPC9yZXNldD4gPCEtLSBGbGFnIHRvIHJlc2V0IG9yIG5vdCAtLT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlkPnJ1bjwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5wb3N0cmVxdWVzdDwvZ29hbD4gPCEtLSBBc3luYyBwb3N0IHRvIGdldCB0aGUgcmVxdWVzdCAtLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+Z2V0c3RhdHVzPC9nb2FsPiA8IS0tIEJsb2NraW5nIGNhbGwgdG8gd2FpdCB1bnRpbCB0aGUgcmVxdWVzdCBpcyBjb21wbGV0ZSAtLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+Z2V0cmVxdWVzdAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWw+IDwhLS0gRG93bmxvYWQgdGhlIEphQ29DbyBFeGVjIGZpbGUgc28gdGhhdCB3ZSBjYW4gZ2VuZXJhdGUgdGhlIHJlcG9ydCAtLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuamFjb2NvPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYWNvY28tbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke2phY29jby1tYXZlbi1wbHVnaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRpdGxlPiR7cHJvamVjdC5uYW1lfSBmb3IgJHtwcm9qZWN0Lmdyb3VwSWR9OiR7cHJvamVjdC5hcnRpZmFjdElkfToke3Byb2plY3QudmVyc2lvbn0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGl0bGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Zm9vdGVyPjIwMTcgSW50dWl0LCBJbmMuIEdlbmVyYXRlZCAke21hdmVuLmJ1aWxkLnRpbWVzdGFtcH08L2Zvb3Rlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlcz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5jbHVkZT5jb20vaW50dWl0LyoqLyo8L2luY2x1ZGU+IDwhLS0gT25seSBpbmNsdWRlIEludHVpdCBwYWNrYWdlcyBpbiB0aGUgcmVwb3J0LiAtLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvaW5jbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGF0YUZpbGU+JHtiYXNlZGlyfS90YXJnZXQvamFjb2NvLWl0LmV4ZWM8L2RhdGFGaWxlPgogICAgICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aWQ+amFjb2NvLXJlcG9ydC1pbnRlZ3JhdGlvbi10ZXN0PC9pZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGhhc2U+dmVyaWZ5PC9waGFzZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnJlcG9ydC1pbnRlZ3JhdGlvbjwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+JHttYXZlbi1zdXJlZmlyZS1wbHVnaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGluY2x1ZGVzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08aW5jbHVkZT5rYXJhdGUvS2FyYXRlVGVzdEJhc2UuamF2YTwvaW5jbHVkZT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5jbHVkZT5rYXJhdGUvS2FyYXRlVGVzdFBhcmFsbGVsLmphdmE8L2luY2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2luY2x1ZGVzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHByb3BlcnR5PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bmFtZT5saXN0ZW5lcjwvbmFtZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHZhbHVlPm9yZy5zb25hci5qYXZhLmphY29jby5KVW5pdExpc3RlbmVyPC92YWx1ZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3Byb3BlcnR5PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8L3BsdWdpbnM+CiAgICAgICAgICAgIDwvYnVpbGQ+CiAgICAgICAgPC9wcm9maWxlPgogICAgPC9wcm9maWxlcz4K</text>
+        <text encoding="base64">ICBlMmUtdXN3MjoKICAgIGluZ3Jlc3NfZW5kcG9pbnQ6IGh0dHBzOi8vaW50bGdudHN5cy1yZWNvbW1lbmRlci1lMmUtem9sdGFyLXNlcnZpY2UtMS5kYXRhLXNnbW50LXBwZC5pa3MuYS5pbnR1aXQuY29tCiAgICBjbHVzdGVyOiBodHRwczovL2FwaS1kYXRhLXNnbW50LXBwZC1jbHVzdGUtaWZudGF1LTY0NjY1NjczOS51cy13ZXN0LTIuZWxiLmFtYXpvbmF3cy5jb20KICAgIG5hbWVzcGFjZTogaW50bGdudHN5cy1yZWNvbW1lbmRlci16b2x0YXItc2VydmljZS11c3cyLXBwZC1lMmUKICAgIHJlZ2lvbjogdXN3MgogICAgaWtzX3R5cGU6IHBwZAogICAgbWFuaWZlc3RfZm9ybWF0OiBLdXN0b21pemUKICAgIG92ZXJ3YXRjaF9iYXNlX3VybDogImh0dHBzOi8vcGVyc29uYWxpemF0aW9uLWUyZS5hcGkuaW50dWl0LmNvbSI=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -396,9 +395,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>profiles</last-search>
+      <last-search>ee1</last-search>
       <last-offset />
-      <last-pattern>profiles</last-pattern>
+      <last-pattern>ee1</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
