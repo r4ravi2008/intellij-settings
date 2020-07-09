@@ -130,12 +130,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/pom.xml" timestamp="1594309144934">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/pom.xml" timestamp="1594310938272">
         <mark key="'" line="285" column="36" />
         <mark key="[" line="302" column="52" />
         <mark key="]" line="302" column="48" />
         <mark key="^" line="302" column="48" />
         <mark key="." line="302" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/src/test/resources/karate-config.js" timestamp="1594309668498">
+        <mark key="[" line="21" column="58" />
+        <mark key="]" line="21" column="58" />
+        <mark key="^" line="21" column="58" />
+        <mark key="." line="21" column="57" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" timestamp="1594278110006">
         <mark key="'" line="39" column="18" />
