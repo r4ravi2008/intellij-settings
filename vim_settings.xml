@@ -47,8 +47,8 @@
         <entry>qw</entry>
         <entry>we</entry>
         <entry>ws</entry>
-        <entry>w</entry>
         <entry>;w</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -140,7 +140,7 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/java/com/intuit/v4/intlgntsys/recommender/personalizationrulesengine/AwsFileReaderService.java" timestamp="1594079826169">
         <mark key="'" line="186" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594278323598">
+      <file name="/Dummy.txt" timestamp="1594362085097">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -184,9 +184,12 @@
         <mark key="'" line="17" column="0" />
         <mark key="[" line="28" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1594361979392">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1594363692229">
         <mark key="'" line="608" column="70" />
-        <mark key="[" line="197" column="89" />
+        <mark key="[" line="195" column="92" />
+        <mark key="]" line="196" column="43" />
+        <mark key="^" line="196" column="43" />
+        <mark key="." line="196" column="42" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/KubernetesPods.yaml" timestamp="1594189017106">
         <mark key="'" line="20" column="26" />
