@@ -184,12 +184,8 @@
         <mark key="'" line="17" column="0" />
         <mark key="[" line="28" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1594347064817">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1594347118948">
         <mark key="'" line="60" column="19" />
-        <mark key="[" line="175" column="12" />
-        <mark key="]" line="58" column="24" />
-        <mark key="^" line="58" column="24" />
-        <mark key="." line="58" column="23" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/KubernetesPods.yaml" timestamp="1594189017106">
         <mark key="'" line="20" column="26" />
@@ -316,8 +312,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>egration</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>egration</text>
@@ -329,59 +325,31 @@
         <text>spring-mvc-reference-app-appd-servic</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaCAiZWNobyBydW4gdGVzdCBjb21tYW5kIGdvZXMgaGVyZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICBzdGFnZSgnUFI6Jykgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2VudHJhbC5yZXBvPmh0dHA6Ly9uZXh1cy1wcm94eS9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWM8L2NlbnRyYWwucmVwbz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZmFsbGJhY2sucmVwbz5odHRwOi8vbmV4dXMuaW50dWl0Lm5ldC9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWM8L2ZhbGxiYWNrLnJlcG8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaCAiZWNobyBydW4gdGVzdCBjb21tYW5kIGdvZXMgaGVyZSIK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
-      </register>
-      <register name="9" type="4">
-        <text>stage('QA1-Custom'){
-            when { anyOf { branch 'master'; changeRequest() } }
-            parallel {
-                stage('qa1-usw2') {
-                    options {
-                        lock(resource: getEnv(config, 'qa1-usw2').namespace, inversePrecedence: true)
-                        timeout(time: 22, unit: 'MINUTES')
-                    }
-                    stages {
-                        stage('Deploy') {
-                            steps {
-                                container('cdtools') {
-                                    //This has to be the first action in the first sub-stage.
-                                    gitOpsDeploy(config , &quot;qa1-usw2&quot;, config.image_full_name, 2,2400)
-                                }
-                            }
-                        }
-                        stage('Test') {
-                            steps {
-                                sh &quot;echo run test command goes here&quot;
-                                container('test') {
-                                    overwatchTests(&quot;qa1-usw2&quot;, &quot;qa1&quot;, config)
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8Y2VudHJhbC5yZXBvPmh0dHA6Ly9uZXh1cy1wcm94eS9uZXh1cy9jb250ZW50L2dyb3Vwcy9wdWJsaWM8L2NlbnRyYWwucmVwbz4K</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
