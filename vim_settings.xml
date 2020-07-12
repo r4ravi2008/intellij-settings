@@ -177,12 +177,12 @@
         <mark key="[" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" timestamp="1594526536407">
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" timestamp="1594527689966">
         <mark key="'" line="44" column="29" />
         <mark key="[" line="53" column="76" />
-        <mark key="]" line="54" column="4" />
-        <mark key="^" line="54" column="4" />
-        <mark key="." line="54" column="3" />
+        <mark key="]" line="55" column="31" />
+        <mark key="^" line="55" column="31" />
+        <mark key="." line="55" column="30" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/package/entry.sh" timestamp="1594241942586">
         <mark key="'" line="17" column="0" />
@@ -328,7 +328,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsZGYuc2hvdyhmYWxzZSkK</text>
       </register>
       <register name="-" type="4">
         <text>Temp</text>
@@ -340,32 +340,32 @@
         <text>spring-mvc-reference-app-appd-servic</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsZGYuc2hvdyhmYWxzZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsZGYucHJpbnRTY2hlbWEoKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text>// Encoder needs a product type - hence we need this.
 case class Temp(value: String)</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEVuY29kZXJzLnByb2R1Y3RbU3RyaW5nXQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRzLm1hcCh4PT54LnZhbHVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHVwbGUuXzEgLT4gKHkoMCksIHkoMSksIHkoMikp</text>
+        <text encoding="base64">ICAgIEVuY29kZXJzLnByb2R1Y3RbU3RyaW5nXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRzLm1hcCh4PT54LnZhbHVlKQo=</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
