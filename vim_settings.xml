@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>build</entry>
-        <entry>entry</entry>
         <entry>profiles</entry>
         <entry>ee1</entry>
         <entry>test</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxjYW1wYWlnblRhcmdldGluZ0lucHV0XD4=</entry>
         <entry encoding="base64">XDxjYW1wYWlnblRhcmdldGluZ1RhYmxlX2Rldlw+</entry>
         <entry encoding="base64">XDxleHBpcmluZ0luRGF5c1w+</entry>
+        <entry encoding="base64">XDxleHBpcmluZ19yZWNvbW1lbmRhdGlvbnNfdHVwbGVcPg==</entry>
+        <entry>93</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\\n/\r/gc</entry>
@@ -141,40 +141,24 @@
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PznPipelineBase_dev.conf" timestamp="1594536665688">
         <mark key="'" line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/src/test/resources/karate-config.js" timestamp="1594309668498">
-        <mark key="[" line="21" column="58" />
-        <mark key="]" line="21" column="58" />
-        <mark key="^" line="21" column="58" />
-        <mark key="." line="21" column="57" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/recommendationsexpiry/RecommendationsExpiryUtils.scala" timestamp="1594541442169">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/msaas-config.yaml" timestamp="1594356184647">
-        <mark key="'" line="35" column="2" />
-        <mark key="[" line="38" column="2" />
-        <mark key="]" line="96" column="65" />
-        <mark key="^" line="96" column="65" />
-        <mark key="." line="38" column="1" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/RecommendationsExpiry.conf" timestamp="1594540868901">
+        <mark key="p" line="36" column="92" />
+        <mark key="'" line="23" column="30" />
+        <mark key="[" line="63" column="22" />
+        <mark key="]" line="63" column="13" />
+        <mark key="." line="63" column="12" />
+        <mark key="^" line="63" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/recommendationsexpiry/RecommendationsExpiryUtils.scala" timestamp="1594537221791">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="42" />
-        <mark key="." line="9" column="41" />
-        <mark key="^" line="9" column="42" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/RecommendationsExpiry.conf" timestamp="1594538092166">
-        <mark key="'" line="39" column="15" />
-        <mark key="[" line="49" column="80" />
-        <mark key="]" line="49" column="65" />
-        <mark key="." line="49" column="64" />
-        <mark key="^" line="49" column="65" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/package/entry.sh" timestamp="1594241942586">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="28" column="2" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1594525425567">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/QboIndia.conf" timestamp="1594540847950" />
+      <file name="/Dummy.scala" timestamp="1594541234283">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1594526628942">
         <mark key="'" line="18" column="18" />
@@ -188,7 +172,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.4/spark-sql_2.11-2.4.4-sources.jar!/org/apache/spark/sql/functions.scala" timestamp="1594532550853">
         <mark key="'" line="3941" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594412894835">
+      <file name="/Dummy.txt" timestamp="1594539950195">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -201,12 +185,19 @@
         <mark key="." line="464" column="25" />
         <mark key="^" line="464" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" timestamp="1594535760090">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="17" column="11" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" timestamp="1594541571349">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="49" column="55" />
+        <mark key="^" line="51" column="253" />
+        <mark key="." line="49" column="55" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" timestamp="1594542464633">
+        <mark key="'" line="85" column="36" />
+        <mark key="[" line="231" column="39" />
+        <mark key="]" line="231" column="38" />
+        <mark key="^" line="231" column="38" />
+        <mark key="." line="231" column="37" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/recommendationsexpiry/RecommendationsExpiryUdf.scala" timestamp="1594535787896">
         <mark key="[" line="8" column="31" />
@@ -221,22 +212,25 @@
         <mark key="^" line="196" column="43" />
         <mark key="." line="196" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/PrintStep.scala" timestamp="1594540588647">
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/core/pom.xml" timestamp="1594397447995">
         <mark key="'" line="34" column="44" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1594536638325">
         <mark key="'" line="26" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/EventBusStep.scala" timestamp="1594540374467">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="37" column="21" />
+        <mark key="." line="27" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="16" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/pom.xml" />
-      <jump line="332" column="36" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/pom.xml" />
-      <jump line="256" column="36" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/pom.xml" />
-      <jump line="260" column="64" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/pom.xml" />
-      <jump line="262" column="64" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/pom.xml" />
-      <jump line="264" column="88" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/pom.xml" />
-      <jump line="284" column="37" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/pom.xml" />
-      <jump line="285" column="36" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/pom.xml" />
       <jump line="58" column="24" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="60" column="19" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="553" column="26" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
@@ -312,7 +306,6 @@
       <jump line="3941" column="6" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.4/spark-sql_2.11-2.4.4-sources.jar!/org/apache/spark/sql/functions.scala" />
       <jump line="67" column="5" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" />
       <jump line="56" column="21" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" />
-      <jump line="50" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" />
       <jump line="48" column="25" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" />
       <jump line="59" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" />
       <jump line="58" column="71" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" />
@@ -329,53 +322,57 @@
       <jump line="40" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/RecommendationsExpiry.conf" />
       <jump line="44" column="6" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/RecommendationsExpiry.conf" />
       <jump line="39" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/RecommendationsExpiry.conf" />
+      <jump line="42" column="91" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/RecommendationsExpiry.conf" />
+      <jump line="35" column="36" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/RecommendationsExpiry.conf" />
+      <jump line="49" column="60" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/RecommendationsExpiry.conf" />
+      <jump line="58" column="6" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/RecommendationsExpiry.conf" />
+      <jump line="53" column="15" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/RecommendationsExpiry.conf" />
+      <jump line="23" column="30" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/notifications/RecommendationsExpiry.conf" />
+      <jump line="50" column="30" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" />
+      <jump line="85" column="36" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZXhwaXJpbmdfcmVjb21tZW5kYXRpb25zIA==</text>
+        <text>scala</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXhwaXJpbmdfcmVjb21tZW5kYXRpb25zIA==</text>
+        <text>scala</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHBpcmluZ0luRGF5c1w+</text>
+        <text>93</text>
       </register>
       <register name="0" type="4">
-        <text>spring-mvc-reference-app-appd-servic</text>
+        <text encoding="base64">ICAgIHZhbCBkcyA9IERhdGFmcmFtZVdyYXBwZXIuY29udmVydERmKGlucHV0RGYsIHNwYXJrKQogICAgZHMuc2hvdyg1LCBmYWxzZSkK</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgICAgIAogICAgICAgCiAgICAgICAKICAgICAgIAogICAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>input2 = {
-        order = 2, sql = {
-          sql-type = local, table = temp
-          sql = &quot;&quot;&quot;select email, expiringInDays, array(offerName, offerId, accessPointName) as offerDetails from expiring_recommendations&quot;&quot;&quot;
-        }, metadata = {is-input = true}
-      }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjYXNlIGNsYXNzIEV4cGlyaW5nUmVjb21tZW5kYXRpb25EZXRhaWxzKGV4cGlyaW5nSW5EYXlzOiBJbnQsIGVtYWlsOiBTdHJpbmcsIG9mZmVyTmFtZTogU3RyaW5nLCBvZmZlcklkOiBTdHJpbmcsIGFjY2Vzc1BvaW50TmFtZTogU3RyaW5nICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKgo=</text>
+        <text encoding="base64">ICAgIGRmLnNob3coZmFsc2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICAgIGpzb25EZi5zaG93KGZhbHNlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text>payloadArray.filter(_.contains(&quot;xyx@xyz.com&quot;)</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
@@ -387,9 +384,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxleHBpcmluZ0luRGF5c1w+</last-search>
+      <last-search>93</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHBpcmluZ0luRGF5c1w+</last-pattern>
+      <last-pattern>93</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
