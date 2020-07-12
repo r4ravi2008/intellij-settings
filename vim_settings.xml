@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>p-bzi0t2wjawzt</entry>
         <entry>p-bzi0t2wjawz</entry>
         <entry>elasticcache</entry>
         <entry>elastic</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxwbHVnaW5cPg==</entry>
         <entry>jacoco-maven</entry>
         <entry>shared</entry>
+        <entry>Array</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\\n/\r/gc</entry>
@@ -139,6 +139,11 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/DataframeWrapper.scala" timestamp="1594526945482">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" timestamp="1594412911597">
         <mark key="'" line="737" column="60" />
         <mark key="[" line="464" column="27" />
@@ -172,18 +177,21 @@
         <mark key="[" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" timestamp="1594524201578">
-        <mark key="[" line="48" column="30" />
-        <mark key="]" line="48" column="30" />
-        <mark key="^" line="48" column="30" />
-        <mark key="." line="48" column="29" />
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" timestamp="1594526536407">
+        <mark key="'" line="44" column="29" />
+        <mark key="[" line="53" column="76" />
+        <mark key="]" line="54" column="4" />
+        <mark key="^" line="54" column="4" />
+        <mark key="." line="54" column="3" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/package/entry.sh" timestamp="1594241942586">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="28" column="2" />
       </file>
-      <file name="/Dummy.scala" timestamp="1594421155648">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.scala" timestamp="1594525425567">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1594363692229">
         <mark key="'" line="608" column="70" />
@@ -191,6 +199,9 @@
         <mark key="]" line="196" column="43" />
         <mark key="^" line="196" column="43" />
         <mark key="." line="196" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1594526628942">
+        <mark key="'" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/core/pom.xml" timestamp="1594397447995">
         <mark key="'" line="34" column="44" />
@@ -205,10 +216,6 @@
         <mark key="^" line="113" column="42" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/resources/application-local.properties" timestamp="1594079011405">
-        <mark key="[" line="6" column="1" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/personalization-rules-engine/app/src/main/resources/application.properties" timestamp="1594079057849">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="67" column="1" />
@@ -216,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="7" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
-      <jump line="168" column="34" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="853" column="2" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
       <jump line="746" column="32" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
       <jump line="755" column="95" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
@@ -316,6 +321,8 @@
       <jump line="737" column="60" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
       <jump line="46" column="73" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" />
       <jump line="49" column="8" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" />
+      <jump line="44" column="29" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" />
+      <jump line="18" column="18" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,10 +331,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text>Temp</text>
       </register>
       <register name="/" type="4">
-        <text>shared</text>
+        <text>Array</text>
       </register>
       <register name="0" type="4">
         <text>spring-mvc-reference-app-appd-servic</text>
@@ -339,25 +346,26 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>// Encoder needs a product type - hence we need this.
+case class Temp(value: String)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dmFsIGpvaW5NYXAgPSB1ZGYgewogICAgICB2YWx1ZXM6IFNlcVtNYXBbSW50LCBBcnJheVtTdHJpbmddXV0gPT4KICAgICAgICB2YWwgZmxhdHRlbmQ6IFNlcVsoSW50LCBBcnJheVtTdHJpbmddKV0gPSB2YWx1ZXMuZmxhdHRlbgogICAgICAgIHZhbCBncm91cGVkOiBNYXBbSW50LCBTZXFbKFN0cmluZywgU3RyaW5nLCBTdHJpbmcpXV0gPSBmbGF0dGVuZC5tYXB7CiAgICAgICAgICBjYXNlICh4OkludCwgeTogQXJyYXlbU3RyaW5nXSkgPT4KICAgICAgICAgICAgeCAtPiAoeSgwKSwgeSgxKSwgeSgyKSkKICAgICAgICB9Lmdyb3VwQnkoXy5fMSkubWFwVmFsdWVzKHggPT4geC5tYXAoXy5fMikpCiAgICAgICAgZ3JvdXBlZAogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEVuY29kZXJzLnByb2R1Y3RbU3RyaW5nXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRzLm1hcCh4PT54LnZhbHVlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dHVwbGUuXzEgLT4gKHkoMCksIHkoMSksIHkoMikp</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
@@ -369,9 +377,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>shared</last-search>
+      <last-search>Array</last-search>
       <last-offset />
-      <last-pattern>shared</last-pattern>
+      <last-pattern>Array</last-pattern>
       <last-replace>EventbusAttributeProvider</last-replace>
       <last-substitute>RequestAttributeProvider</last-substitute>
       <last-dir>1</last-dir>
