@@ -133,23 +133,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594412894835">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="44" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/DataframeWrapper.scala" timestamp="1594526945482">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" timestamp="1594412911597">
-        <mark key="'" line="737" column="60" />
-        <mark key="[" line="464" column="27" />
-        <mark key="]" line="464" column="26" />
-        <mark key="." line="464" column="25" />
-        <mark key="^" line="464" column="26" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/test/overwatch-test/src/test/resources/karate-config.js" timestamp="1594309668498">
         <mark key="[" line="21" column="58" />
@@ -171,21 +158,6 @@
         <mark key="." line="38" column="1" />
         <mark key="^" line="38" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/src/main/resources/application.properties" timestamp="1594089192159">
-        <mark key="'" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1594146864926">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="7" />
-        <mark key="." line="19" column="6" />
-        <mark key="^" line="19" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" timestamp="1594534825505">
-        <mark key="[" line="66" column="25" />
-        <mark key="]" line="66" column="27" />
-        <mark key="^" line="66" column="27" />
-        <mark key="." line="66" column="26" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/package/entry.sh" timestamp="1594241942586">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="28" column="2" />
@@ -195,15 +167,50 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1594526628942">
+        <mark key="'" line="18" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.4/spark-sql_2.11-2.4.4-sources.jar!/org/apache/spark/sql/functions.scala" timestamp="1594532550853">
+        <mark key="'" line="3941" column="6" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594412894835">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" timestamp="1594412911597">
+        <mark key="'" line="737" column="60" />
+        <mark key="[" line="464" column="27" />
+        <mark key="]" line="464" column="26" />
+        <mark key="." line="464" column="25" />
+        <mark key="^" line="464" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/eventbus/SparkEventBusWriter.scala" timestamp="1594146864926">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="6" />
+        <mark key="^" line="19" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" timestamp="1594535714353">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/recommendationsexpiry/RecommendationsExpiryUdf.scala" timestamp="1594535667775">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="5" />
+        <mark key="^" line="8" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" timestamp="1594363692229">
         <mark key="'" line="608" column="70" />
         <mark key="[" line="195" column="92" />
         <mark key="]" line="196" column="43" />
         <mark key="^" line="196" column="43" />
         <mark key="." line="196" column="42" />
-      </file>
-      <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/scala/com/intuit/pzn/step/TargetingTransformationStep.scala" timestamp="1594526628942">
-        <mark key="'" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/core/pom.xml" timestamp="1594397447995">
         <mark key="'" line="34" column="44" />
@@ -218,13 +225,9 @@
         <mark key="^" line="113" column="42" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.4/spark-sql_2.11-2.4.4-sources.jar!/org/apache/spark/sql/functions.scala" timestamp="1594532550853">
-        <mark key="'" line="3941" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/main/resources/pipelines/config/PipelineBase.conf" timestamp="1594532335647" />
     </filemarks>
     <jumps>
-      <jump line="273" column="14" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="264" column="36" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/Jenkinsfile" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/package/entry.sh" />
       <jump line="398" column="20" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-service/app/pom.xml" />
@@ -324,15 +327,16 @@
       <jump line="59" column="4" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" />
       <jump line="58" column="71" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" />
       <jump line="7" column="12" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" />
+      <jump line="69" column="0" filename="$USER_HOME$/dev/repos/pzn-parent/zoltar-batch-offline/src/test/scala/com/intuit/pzn/RecommendationExpiryTest.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHNjaGVtZQ==</text>
+        <text encoding="base64">IGpvaW5NYXA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHNjaGVtZQ==</text>
+        <text encoding="base64">IGpvaW5NYXA=</text>
       </register>
       <register name="/" type="4">
         <text>schema</text>
@@ -341,42 +345,31 @@
         <text>spring-mvc-reference-app-appd-servic</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBzY2hlbWUgID0gbWFwVHlwZQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBjb20uaW50dWl0LnB6bi5yZWNvbW1lbmRhdGlvbnNleHBpcnkuUmVjb21tZW5kYXRpb25zRXhwaXJ5VWRmLl8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLnR5cGVzLntBcnJheVR5cGUsIEludGVnZXJUeXBlLCBNYXBUeXBlLCBTdHJpbmdUeXBlLCBTdHJ1Y3RGaWVsZCwgU3RydWN0VHlwZX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCAgZ3JvdXBlZD0gdGVtcERmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlbXBEZi5zaG93KGZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQGF1dGhvciAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuYXJyb3cudmVjdG9yLnR5cGVzLnBvam8uQXJyb3dUeXBlLlN0cnVjdAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">dmFsIGpvaW5NYXAgPSB1ZGYgKHsKICAgICAgdmFsdWVzOiBTZXFbTWFwW0ludCwgU2VxW1N0cmluZ11dXSA9PgogICAgICAgIHZhbCBmbGF0dGVuZDogU2VxWyhJbnQsIFNlcVtTdHJpbmddKV0gPSB2YWx1ZXMuZmxhdHRlbgogICAgICAgIHZhbCBncm91cGVkOiBNYXBbSW50LCBTZXFbKFN0cmluZywgU3RyaW5nLCBTdHJpbmcpXV0gPSBmbGF0dGVuZC5tYXB7CiAgICAgICAgICB0dXBsZSA9PgogICAgICAgICAgICAgIHZhbCB5ID0gdHVwbGUuXzIKICAgICAgICAgICAgICAodHVwbGUuXzEsICh5KDApLCB5KDEpLCB5KDIpKSkKICAgICAgICB9Lmdyb3VwQnkoXy5fMSkubWFwVmFsdWVzKHggPT4geC5tYXAoXy5fMikpCiAgICAgICAgZ3JvdXBlZAogICAgfSwgbWFwVHlwZSk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC5kZWJ1Z2dlci5jZGJnLkludFR5cGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>MapType(
-      IntType,
-      ArrayType(
-        StructType(
-          Seq(
-            StructField(&quot;offer_name&quot;, StringType),
-            StructField(&quot;offer_id&quot;, StringType),
-            StructField(&quot;access_point_name&quot;, StringType)
-          )
-        )
-      ), false
-    ))</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>c</text>
