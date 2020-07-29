@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="f45ab983-4c0c-4c2d-8b3b-31b7a54a87c6" name="rkommineni">
+      <server useHttp="false" host="github.intuit.com" />
+    </account>
+  </component>
+</application>
