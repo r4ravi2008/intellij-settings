@@ -22,6 +22,9 @@
     <option name="IS_ANIMATED_SCROLLING" value="false" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="ScalaCodeFoldingSettings">
     <option name="foldingForAllBlocks" value="true" />
   </component>
