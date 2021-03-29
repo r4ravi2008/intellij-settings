@@ -32,6 +32,10 @@
     <option name="sortAsScalastyle" value="true" />
     <option name="ALIGN_TYPES_IN_MULTILINE_DECLARATIONS" value="true" />
   </ScalaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="Scala">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <indentOptions>
