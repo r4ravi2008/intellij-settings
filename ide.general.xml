@@ -27,6 +27,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="LineSeparator" value="false" />
       </map>
     </option>
