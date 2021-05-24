@@ -7,6 +7,7 @@
         <option value="$USER_HOME$/dev/repos/network-parent" />
         <option value="$USER_HOME$/dev/repos/bude" />
         <option value="$USER_HOME$/dev/repos/scala" />
+        <option value="$USER_HOME$/dev/repos/tezos" />
       </list>
     </option>
   </component>
