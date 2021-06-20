@@ -385,9 +385,6 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-          <stepping-filters>
-            <stepping-filter url-pattern="*fastopt.js" />
-          </stepping-filters>
         </configuration>
       </debugger>
     </debuggers>
