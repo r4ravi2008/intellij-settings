@@ -1,0 +1,8 @@
+<templateSet group="scala">
+  <template name="cc" value="case class $NAME$()" description="case class" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="camelCase(String)" defaultValue="name" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+</templateSet>
