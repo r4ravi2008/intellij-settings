@@ -30,6 +30,8 @@
   </JavaCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="sortAsScalastyle" value="true" />
+    <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
+    <option name="FORMATTER" value="1" />
     <option name="ALIGN_TYPES_IN_MULTILINE_DECLARATIONS" value="true" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
