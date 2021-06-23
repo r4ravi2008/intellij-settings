@@ -8,11 +8,13 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="25" />
-    <option name="FONT_FAMILY" value="Fira Code Light" />
+    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Light" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Light" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />

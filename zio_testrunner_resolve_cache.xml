@@ -1,0 +1,15 @@
+<application>
+  <component name="TestRunnerResolveService">
+    <option name="resolvedVersions">
+      <map>
+        <entry key="1.0.9###2.13">
+          <value>
+            <array>
+              <option value="file:$USER_HOME$/.ivy2/cache/dev.zio/zio-test-intellij_2.13/jars/zio-test-intellij_2.13-1.0.9.jar" />
+            </array>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
