@@ -30,6 +30,7 @@
       <map>
         <entry key="AwsSettingsPanel" value="false" />
         <entry key="CwmWireStatsWidgetFactory" value="false" />
+        <entry key="Encoding" value="false" />
         <entry key="LineSeparator" value="false" />
       </map>
     </option>
